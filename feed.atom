@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-25T19:44:51.856Z</id>
+    <id>https://lngng.github.io/ross/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T19:44:51.856Z</updated>
+    <updated>2022-09-25T20:06:57.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://lngng.github.io/ross/index.html"/>
+    <link rel="self" href="https://lngng.github.io/ross/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Excessive Heat Warning issued September 25 at 4:19AM PDT until September 27 at 8:00PM PDT by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D0EEE5C.ExcessiveHeatWarning.12640D3B7530CA.LOXNPWLOX.5659dfc63510221bbe2bf326fe04873c</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D0EEE5C.ExcessiveHeatWarning.12640D3B7530CA.LOXNPWLOX.5659dfc63510221bbe2bf326fe04873c"/>
+        <updated>2022-09-25T11:19:00.000Z</updated>
+        <summary type="html"><![CDATA[...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM MONDAY TO 8 PM PDT TUESDAY... * WHAT...Dangerously hot conditions with temperatures between 92 and 98 expected. * WHERE...Los Angeles County Inland Coast including Downtown Los Angeles.]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heat Advisory issued September 25 at 4:19AM PDT until September 27 at 8:00PM PDT by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D0EEE5C.HeatAdvisory.12640D3B7530CA.LOXNPWLOX.43f5b3d4eb58ed7453bbdef23a7c3c71</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D0EEE5C.HeatAdvisory.12640D3B7530CA.LOXNPWLOX.43f5b3d4eb58ed7453bbdef23a7c3c71"/>
+        <updated>2022-09-25T11:19:00.000Z</updated>
+        <summary type="html"><![CDATA[...HEAT ADVISORY REMAINS IN EFFECT FROM 10 AM MONDAY TO 8 PM PDT TUESDAY... * WHAT...Temperatures between 86 and 102 expected. * WHERE...Catalina and Santa Barbara Islands, Ventura County Beaches, Ventura County Inland Coast, Lake Casitas, Ojai Valley, Central Ventura County Valleys, Southeastern Ventura]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excessive Heat Warning issued September 25 at 4:19AM PDT until September 28 at 8:00PM PDT by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D0EEE5C.ExcessiveHeatWarning.12640D4AB770CA.LOXNPWLOX.66a6afd5cfd189b7a4d87c7c9eaaa219</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D0EEE5C.ExcessiveHeatWarning.12640D4AB770CA.LOXNPWLOX.66a6afd5cfd189b7a4d87c7c9eaaa219"/>
+        <updated>2022-09-25T11:19:00.000Z</updated>
+        <summary type="html"><![CDATA[...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM MONDAY TO 8 PM PDT WEDNESDAY... * WHAT...Dangerously hot conditions with temperatures between 98 and 105. * WHERE...Santa Clarita Valley, Los Angeles County San Fernando Valley and Los Angeles County San Gabriel Valley.]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Background Image – How to Add Wallpaper Images to Your Website]]></title>
         <id>https://www.freecodecamp.org/news/html-background-image-how-to-add-wallpaper-images-to-your-website/</id>
@@ -26,18 +57,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images]]></title>
-        <id>https://css-tricks.com/?p=373057</id>
-        <link href="https://css-tricks.com/how-to-customize-wordpress-block-theme-cover-templates-with-dynamic-post-feature-images/"/>
-        <updated>2022-09-23T16:15:19.000Z</updated>
-        <summary type="html"><![CDATA[If we browse the WordPress theme directory, a majority of themes showcase cover images. It is a feature in popular demand. The cover page trend is true even in the block theme directory screenshots as well.
-Let’s consider the …
-How To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ganesh Dahal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Sort a List Recursively in Python]]></title>
         <id>https://www.freecodecamp.org/news/how-to-sort-recursively-in-python/</id>
         <link href="https://www.freecodecamp.org/news/how-to-sort-recursively-in-python/"/>
@@ -55,17 +74,6 @@ How To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature
         <summary type="html"><![CDATA[In this article, Dave Feldman shares his lessons learned and the experiments has done as a multidisciplinary designer-founder-CEO at an early-stage startup. Let’s take a look at what it is that makes a great design process for teams of any size.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Dave Feldman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Web is Good Now]]></title>
-        <id>https://css-tricks.com/?p=373652</id>
-        <link href="https://css-tricks.com/the-web-is-good-now/"/>
-        <updated>2022-09-22T22:07:22.000Z</updated>
-        <summary type="html"><![CDATA[The video of Chris Coyier’s talk at CascadiaJS 2022 is now available. It’s his first in-person talk in more than two years, so it’s great to see our good friend back on stage slinging gems on what makes the web …
-The Web is Good Now originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -99,17 +107,6 @@ The Web is Good Now originally published on CSS-Tricks, which is part of the Dig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Made an Icon System Out of CSS Custom Properties]]></title>
-        <id>https://css-tricks.com/?p=373111</id>
-        <link href="https://css-tricks.com/how-i-made-an-icon-system-out-of-css-custom-properties/"/>
-        <updated>2022-09-22T15:17:21.000Z</updated>
-        <summary type="html"><![CDATA[SVG is the best format for icons on a website, there is no doubt about that. It allows you to have sharp icons no matter the screen pixel density, you can change the styles of the SVG on hover …
-How I Made an Icon System Out of CSS Custom Properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Louis Hoebregts</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intro to Algorithms with Python]]></title>
         <id>https://www.freecodecamp.org/news/intro-to-algorithms-with-python/</id>
         <link href="https://www.freecodecamp.org/news/intro-to-algorithms-with-python/"/>
@@ -137,21 +134,6 @@ How I Made an Icon System Out of CSS Custom Properties originally published on C
         <summary type="html"><![CDATA[Combinators allow you to combine multiple selectors to target specific elements in the DOM. In this article, I'll explain how four of these combinators with examples. In my previous post on CSS Selector Types [/news/how-to-select-elements-to-style-in-css/], I shared seven types of selectors for targetting elements that you want to style. If]]></summary>
         <author>
             <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Rules vs. CSS Rulesets]]></title>
-        <id>https://css-tricks.com/?p=373639</id>
-        <link href="https://css-tricks.com/css-rules-vs-css-rulesets/"/>
-        <updated>2022-09-21T21:53:44.000Z</updated>
-        <summary type="html"><![CDATA[The latest spec:
-A style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.
-Louis Lazaris:
-As the above quote from W3C indicates, it seems 
-…
-CSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -185,18 +167,6 @@ CSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Checkerboard Background… But With Rounded Corners and Hover Styles]]></title>
-        <id>https://css-tricks.com/?p=373167</id>
-        <link href="https://css-tricks.com/css-checkerboard-background-but-with-rounded-corners-and-hover-styles/"/>
-        <updated>2022-09-20T13:19:24.000Z</updated>
-        <summary type="html"><![CDATA[On one hand, creating simple checkered backgrounds with CSS is easy. On the other hand, though, unless we are one of the CSS-gradient-ninjas, we are kind of stuck with basic patterns.
-At least that’s what I thought while staring at …
-CSS Checkerboard Background… But With Rounded Corners and Hover Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Podcast Episode 53 With Rémi Parmentier: Can HTML Email Use Modern CSS?]]></title>
         <id>https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/</id>
         <link href="https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/"/>
@@ -227,17 +197,6 @@ CSS Checkerboard Background… But With Rounded Corners and Hover Styles origina
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making a Real-Time Clock With a Conic Gradient Face]]></title>
-        <id>https://css-tricks.com/?p=373184</id>
-        <link href="https://css-tricks.com/making-a-real-time-clock-with-a-conic-gradient-face/"/>
-        <updated>2022-09-19T12:58:09.000Z</updated>
-        <summary type="html"><![CDATA[Gradients have been a part of the CSS spectrum for quite some time now. We see a lot of radial and linear gradients in a lot of projects, but there is one type of gradient that seems to be a …
-Making a Real-Time Clock With a Conic Gradient Face originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Brecht De Ruyte</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rethinking Star Ratings For Readers]]></title>
         <id>https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/</id>
         <link href="https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/"/>
@@ -245,17 +204,6 @@ Making a Real-Time Clock With a Conic Gradient Face originally published on CSS-
         <summary type="html"><![CDATA[How can companies change their rating and review systems to better benefit users? Matt Athanasiou shares some steps to improve the experience of reviewing literature and other products — while also building stronger connections.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matt Athanasiou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Details on `details`]]></title>
-        <id>https://css-tricks.com/?p=373372</id>
-        <link href="https://css-tricks.com/more-details-on-details/"/>
-        <updated>2022-09-15T13:12:40.000Z</updated>
-        <summary type="html"><![CDATA[A lot of chatter around the ol’ <details> and <summary> elements lately! I saw Lea Verou recently tweet an observation about the element’s display behavior and that sorta splintered into more observations and usage notes from folks, including a revived …
-More Details on `details` originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -269,17 +217,6 @@ More Details on `details` originally published on CSS-Tricks, which is part of t
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When is it OK to Disable Text Selection?]]></title>
-        <id>https://css-tricks.com/?p=373100</id>
-        <link href="https://css-tricks.com/when-is-it-ok-to-disable-text-selection/"/>
-        <updated>2022-09-14T13:03:04.000Z</updated>
-        <summary type="html"><![CDATA[Using CSS, it’s possible to prevent users from selecting text within an element using user-select: none. Now, it’s understandable why doing so might be considered “controversial”. I mean, should we be disabling standard user behaviors? Generally speaking, no, we …
-When is it OK to Disable Text Selection? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JavaScript APIs You Don’t Know About]]></title>
         <id>https://smashingmagazine.com/2022/09/javascript-api-guide/</id>
         <link href="https://smashingmagazine.com/2022/09/javascript-api-guide/"/>
@@ -287,28 +224,6 @@ When is it OK to Disable Text Selection? originally published on CSS-Tricks, whi
         <summary type="html"><![CDATA[In this article, Juan Diego covers the least known yet extremely useful APIs, such as the Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization API. Together we will see what they are, where we should use them, and how to use them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebKit Features in Safari 16.0]]></title>
-        <id>https://css-tricks.com/?p=373367</id>
-        <link href="https://css-tricks.com/webkit-features-in-safari-16-0/"/>
-        <updated>2022-09-13T16:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Whew boy, Safari 16 is officially out in the wild and it packs in a bunch of features, some new and exciting (Subgrid! Container Queries! Font Palettes!) and others we’ve been waiting on for better cross-browser support (Motion Path! Overscroll …
-WebKit Features in Safari 16.0 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Basics of Remix]]></title>
-        <id>https://css-tricks.com/?p=373081</id>
-        <link href="https://css-tricks.com/the-basics-of-remix/"/>
-        <updated>2022-09-13T12:59:46.000Z</updated>
-        <summary type="html"><![CDATA[You’ve probably heard a lot of hype around one of the newest kids on the framework block, Remix. It may be surprising that it got its start back in 2019, but it was originally only available as a subscription-based premium …
-The Basics of Remix originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Brittney Postma</name>
         </author>
     </entry>
     <entry>
@@ -322,18 +237,6 @@ The Basics of Remix originally published on CSS-Tricks, which is part of the Dig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Interactive Figma Widgets]]></title>
-        <id>https://css-tricks.com/?p=372991</id>
-        <link href="https://css-tricks.com/building-interactive-figma-widgets/"/>
-        <updated>2022-09-12T13:05:20.000Z</updated>
-        <summary type="html"><![CDATA[Figma has always encouraged collaboration between developers and designers. It strives on an endless treasury of community-made plugins. Need 3D elements? There’s a plugin for that. Need abstract SVGs? There’s a plugin for that, too.
-That said, the design part of Figma has …
-Building Interactive Figma Widgets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Eluda</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet “Smart Interface Design Patterns Checklists” (Deck With 166 Cards)]]></title>
         <id>https://smashingmagazine.com/2022/09/smart-interface-design-checklist-cards-release/</id>
         <link href="https://smashingmagazine.com/2022/09/smart-interface-design-checklist-cards-release/"/>
@@ -341,17 +244,6 @@ Building Interactive Figma Widgets originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[Meet “Smart Interface Design Patterns Checklists”, a deck of 166 checklist cards to help you design and build better interfaces, faster. With accordions, mega-drop-downs, data tables, carousels, and everything in-between.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Made a Pure CSS Puzzle Game]]></title>
-        <id>https://css-tricks.com/?p=372952</id>
-        <link href="https://css-tricks.com/how-i-made-a-pure-css-puzzle-game/"/>
-        <updated>2022-09-09T13:21:29.000Z</updated>
-        <summary type="html"><![CDATA[I recently discovered the joy of creating CSS-only games. It’s always fascinating how HTML and CSS are capable of handling the logic of an entire online game, so I had to try it! Such games usually rely on the ol’ …
-How I Made a Pure CSS Puzzle Game originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
@@ -365,20 +257,6 @@ How I Made a Pure CSS Puzzle Game originally published on CSS-Tricks, which is p
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s New With Forms in 2022?]]></title>
-        <id>https://css-tricks.com/?p=372979</id>
-        <link href="https://css-tricks.com/whats-new-with-forms-in-2022/"/>
-        <updated>2022-09-08T13:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Browsers are constantly adding new HTML, JavaScript and CSS features. Here are some useful additions to working with forms that you might have missed…
-requestSubmit()
-Safari 16 will be the final browser to add support for requestSubmit.
-Before we …
-What’s New With Forms in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ollie Williams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[UX Checklists For Interface Designers]]></title>
         <id>https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/</id>
         <link href="https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/"/>
@@ -389,17 +267,6 @@ What’s New With Forms in 2022? originally published on CSS-Tricks, which is pa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Overlapping Bar Charts]]></title>
-        <id>https://css-tricks.com/?p=372968</id>
-        <link href="https://css-tricks.com/overlapping-bar-charts/"/>
-        <updated>2022-09-07T13:46:58.000Z</updated>
-        <summary type="html"><![CDATA[As the name suggests, overlapping charts visualize two different sets of data in a single diagram. The idea is that the overlapping bars allow us to compare data, say, year-over-year. They are also useful for things like tracking progress for …
-Overlapping Bar Charts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Saleh Mubashar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Realities And Myths Of Contrast And Color]]></title>
         <id>https://smashingmagazine.com/2022/09/realities-myths-contrast-color/</id>
         <link href="https://smashingmagazine.com/2022/09/realities-myths-contrast-color/"/>
@@ -407,18 +274,6 @@ Overlapping Bar Charts originally published on CSS-Tricks, which is part of the 
         <summary type="html"><![CDATA[In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andrew Somers)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacking CSS Animation State and Playback Time]]></title>
-        <id>https://css-tricks.com/?p=372850</id>
-        <link href="https://css-tricks.com/hacking-css-animation-state-and-playback-time/"/>
-        <updated>2022-09-06T18:00:28.000Z</updated>
-        <summary type="html"><![CDATA[CSS-only Wolfenstein is a little project that I made a few weeks ago. It was an experiment with CSS 3D transformations and animations.
-Inspired by the FPS demo and another Wolfenstein CodePen, I decided to build my own version. …
-Hacking CSS Animation State and Playback Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lu Wang</name>
         </author>
     </entry>
     <entry>

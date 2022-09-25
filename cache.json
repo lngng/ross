@@ -7,159 +7,39 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
+      "title": "Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service",
+      "feedUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=1",
+      "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=373057",
-          "author": "Ganesh Dahal",
-          "description": "If we browse the WordPress theme directory, a majority of themes showcase cover images. It is a feature in popular demand. The cover page trend is true even in the block theme directory screenshots as well.\nLet’s consider the …\nHow To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-customize-wordpress-block-theme-cover-templates-with-dynamic-post-feature-images/",
-          "publishedOn": "2022-09-23T16:15:19.000Z",
-          "wordCount": 3482,
-          "title": "How To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373057"
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D0EEE5C.ExcessiveHeatWarning.12640D3B7530CA.LOXNPWLOX.5659dfc63510221bbe2bf326fe04873c",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM MONDAY TO 8 PM PDT TUESDAY... * WHAT...Dangerously hot conditions with temperatures between 92 and 98 expected. * WHERE...Los Angeles County Inland Coast including Downtown Los Angeles.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D0EEE5C.ExcessiveHeatWarning.12640D3B7530CA.LOXNPWLOX.5659dfc63510221bbe2bf326fe04873c",
+          "publishedOn": "2022-09-25T11:19:00.000Z",
+          "wordCount": 265,
+          "title": "Excessive Heat Warning issued September 25 at 4:19AM PDT until September 27 at 8:00PM PDT by NWS",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=373652",
-          "author": "Geoff Graham",
-          "description": "The video of Chris Coyier’s talk at CascadiaJS 2022 is now available. It’s his first in-person talk in more than two years, so it’s great to see our good friend back on stage slinging gems on what makes the web …\nThe Web is Good Now originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-web-is-good-now/",
-          "publishedOn": "2022-09-22T22:07:22.000Z",
-          "wordCount": 900,
-          "title": "The Web is Good Now",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373652"
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D0EEE5C.HeatAdvisory.12640D3B7530CA.LOXNPWLOX.43f5b3d4eb58ed7453bbdef23a7c3c71",
+          "author": null,
+          "description": "...HEAT ADVISORY REMAINS IN EFFECT FROM 10 AM MONDAY TO 8 PM PDT TUESDAY... * WHAT...Temperatures between 86 and 102 expected. * WHERE...Catalina and Santa Barbara Islands, Ventura County Beaches, Ventura County Inland Coast, Lake Casitas, Ojai Valley, Central Ventura County Valleys, Southeastern Ventura",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D0EEE5C.HeatAdvisory.12640D3B7530CA.LOXNPWLOX.43f5b3d4eb58ed7453bbdef23a7c3c71",
+          "publishedOn": "2022-09-25T11:19:00.000Z",
+          "wordCount": 339,
+          "title": "Heat Advisory issued September 25 at 4:19AM PDT until September 27 at 8:00PM PDT by NWS",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=373111",
-          "author": "Louis Hoebregts",
-          "description": "SVG is the best format for icons on a website, there is no doubt about that. It allows you to have sharp icons no matter the screen pixel density, you can change the styles of the SVG on hover …\nHow I Made an Icon System Out of CSS Custom Properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-i-made-an-icon-system-out-of-css-custom-properties/",
-          "publishedOn": "2022-09-22T15:17:21.000Z",
-          "wordCount": 2133,
-          "title": "How I Made an Icon System Out of CSS Custom Properties",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373111"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373639",
-          "author": "Geoff Graham",
-          "description": "The latest spec:\nA style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.\nLouis Lazaris:\nAs the above quote from W3C indicates, it seems \n…\nCSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-rules-vs-css-rulesets/",
-          "publishedOn": "2022-09-21T21:53:44.000Z",
-          "wordCount": 922,
-          "title": "CSS Rules vs. CSS Rulesets",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373639"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373167",
-          "author": "Preethi",
-          "description": "On one hand, creating simple checkered backgrounds with CSS is easy. On the other hand, though, unless we are one of the CSS-gradient-ninjas, we are kind of stuck with basic patterns.\nAt least that’s what I thought while staring at …\nCSS Checkerboard Background… But With Rounded Corners and Hover Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-checkerboard-background-but-with-rounded-corners-and-hover-styles/",
-          "publishedOn": "2022-09-20T13:19:24.000Z",
-          "wordCount": 1515,
-          "title": "CSS Checkerboard Background… But With Rounded Corners and Hover Styles",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373167"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373184",
-          "author": "Brecht De Ruyte",
-          "description": "Gradients have been a part of the CSS spectrum for quite some time now. We see a lot of radial and linear gradients in a lot of projects, but there is one type of gradient that seems to be a …\nMaking a Real-Time Clock With a Conic Gradient Face originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/making-a-real-time-clock-with-a-conic-gradient-face/",
-          "publishedOn": "2022-09-19T12:58:09.000Z",
-          "wordCount": 2144,
-          "title": "Making a Real-Time Clock With a Conic Gradient Face",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373184"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373372",
-          "author": "Geoff Graham",
-          "description": "A lot of chatter around the ol’ <details> and <summary> elements lately! I saw Lea Verou recently tweet an observation about the element’s display behavior and that sorta splintered into more observations and usage notes from folks, including a revived …\nMore Details on `details` originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/more-details-on-details/",
-          "publishedOn": "2022-09-15T13:12:40.000Z",
-          "wordCount": 2276,
-          "title": "More Details on `details`",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373372"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373100",
-          "author": "Daniel Schwarz",
-          "description": "Using CSS, it’s possible to prevent users from selecting text within an element using user-select: none. Now, it’s understandable why doing so might be considered “controversial”. I mean, should we be disabling standard user behaviors? Generally speaking, no, we …\nWhen is it OK to Disable Text Selection? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/when-is-it-ok-to-disable-text-selection/",
-          "publishedOn": "2022-09-14T13:03:04.000Z",
-          "wordCount": 3499,
-          "title": "When is it OK to Disable Text Selection?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373100"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373367",
-          "author": "Geoff Graham",
-          "description": "Whew boy, Safari 16 is officially out in the wild and it packs in a bunch of features, some new and exciting (Subgrid! Container Queries! Font Palettes!) and others we’ve been waiting on for better cross-browser support (Motion Path! Overscroll …\nWebKit Features in Safari 16.0 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/webkit-features-in-safari-16-0/",
-          "publishedOn": "2022-09-13T16:14:13.000Z",
-          "wordCount": 1100,
-          "title": "WebKit Features in Safari 16.0",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373367"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373081",
-          "author": "Brittney Postma",
-          "description": "You’ve probably heard a lot of hype around one of the newest kids on the framework block, Remix. It may be surprising that it got its start back in 2019, but it was originally only available as a subscription-based premium …\nThe Basics of Remix originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-basics-of-remix/",
-          "publishedOn": "2022-09-13T12:59:46.000Z",
-          "wordCount": 2762,
-          "title": "The Basics of Remix",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373081"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372991",
-          "author": "Eluda",
-          "description": "Figma has always encouraged collaboration between developers and designers. It strives on an endless treasury of community-made plugins. Need 3D elements? There’s a plugin for that. Need abstract SVGs? There’s a plugin for that, too.\nThat said, the design part of Figma has …\nBuilding Interactive Figma Widgets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/building-interactive-figma-widgets/",
-          "publishedOn": "2022-09-12T13:05:20.000Z",
-          "wordCount": 4480,
-          "title": "Building Interactive Figma Widgets",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372991"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372952",
-          "author": "Temani Afif",
-          "description": "I recently discovered the joy of creating CSS-only games. It’s always fascinating how HTML and CSS are capable of handling the logic of an entire online game, so I had to try it! Such games usually rely on the ol’ …\nHow I Made a Pure CSS Puzzle Game originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-i-made-a-pure-css-puzzle-game/",
-          "publishedOn": "2022-09-09T13:21:29.000Z",
-          "wordCount": 3678,
-          "title": "How I Made a Pure CSS Puzzle Game",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372952"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372979",
-          "author": "Ollie Williams",
-          "description": "Browsers are constantly adding new HTML, JavaScript and CSS features. Here are some useful additions to working with forms that you might have missed…\nrequestSubmit()\nSafari 16 will be the final browser to add support for requestSubmit.\nBefore we …\nWhat’s New With Forms in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/whats-new-with-forms-in-2022/",
-          "publishedOn": "2022-09-08T13:12:51.000Z",
-          "wordCount": 1819,
-          "title": "What’s New With Forms in 2022?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372979"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372968",
-          "author": "Saleh Mubashar",
-          "description": "As the name suggests, overlapping charts visualize two different sets of data in a single diagram. The idea is that the overlapping bars allow us to compare data, say, year-over-year. They are also useful for things like tracking progress for …\nOverlapping Bar Charts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/overlapping-bar-charts/",
-          "publishedOn": "2022-09-07T13:46:58.000Z",
-          "wordCount": 2275,
-          "title": "Overlapping Bar Charts",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372968"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372850",
-          "author": "Lu Wang",
-          "description": "CSS-only Wolfenstein is a little project that I made a few weeks ago. It was an experiment with CSS 3D transformations and animations.\nInspired by the FPS demo and another Wolfenstein CodePen, I decided to build my own version. …\nHacking CSS Animation State and Playback Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/hacking-css-animation-state-and-playback-time/",
-          "publishedOn": "2022-09-06T18:00:28.000Z",
-          "wordCount": 2426,
-          "title": "Hacking CSS Animation State and Playback Time",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372850"
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D0EEE5C.ExcessiveHeatWarning.12640D4AB770CA.LOXNPWLOX.66a6afd5cfd189b7a4d87c7c9eaaa219",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM MONDAY TO 8 PM PDT WEDNESDAY... * WHAT...Dangerously hot conditions with temperatures between 98 and 105. * WHERE...Santa Clarita Valley, Los Angeles County San Fernando Valley and Los Angeles County San Gabriel Valley.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D0EEE5C.ExcessiveHeatWarning.12640D4AB770CA.LOXNPWLOX.66a6afd5cfd189b7a4d87c7c9eaaa219",
+          "publishedOn": "2022-09-25T11:19:00.000Z",
+          "wordCount": 287,
+          "title": "Excessive Heat Warning issued September 25 at 4:19AM PDT until September 28 at 8:00PM PDT by NWS",
+          "imageUrl": null
         }
       ]
     },
