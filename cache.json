@@ -12,6 +12,36 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D1053C8.ExcessiveHeatWarning.12640D3B7530CA.LOXNPWLOX.66a6afd5cfd189b7a4d87c7c9eaaa219",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WARNING NOW IN EFFECT FROM 10 AM MONDAY TO 8 PM PDT TUESDAY... * WHAT...Dangerously hot conditions with temperatures between 98 and 105. * WHERE...Santa Clarita Valley, Los Angeles County San Fernando Valley and Los Angeles County San Gabriel Valley.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D1053C8.ExcessiveHeatWarning.12640D3B7530CA.LOXNPWLOX.66a6afd5cfd189b7a4d87c7c9eaaa219",
+          "publishedOn": "2022-09-25T20:34:00.000Z",
+          "wordCount": 287,
+          "title": "Excessive Heat Warning issued September 25 at 1:34PM PDT until September 27 at 8:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D1053C8.ExcessiveHeatWarning.12640D3B7530CA.LOXNPWLOX.5659dfc63510221bbe2bf326fe04873c",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM MONDAY TO 8 PM PDT TUESDAY... * WHAT...Dangerously hot conditions with temperatures between 92 and 98 expected. * WHERE...Los Angeles County Inland Coast including Downtown Los Angeles.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D1053C8.ExcessiveHeatWarning.12640D3B7530CA.LOXNPWLOX.5659dfc63510221bbe2bf326fe04873c",
+          "publishedOn": "2022-09-25T20:34:00.000Z",
+          "wordCount": 265,
+          "title": "Excessive Heat Warning issued September 25 at 1:34PM PDT until September 27 at 8:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D1053C8.HeatAdvisory.12640D3B7530CA.LOXNPWLOX.32e9c4b939abef88c9d96bdb722cb68e",
+          "author": null,
+          "description": "...HEAT ADVISORY REMAINS IN EFFECT FROM 10 AM MONDAY TO 8 PM PDT TUESDAY... * WHAT...Temperatures between 86 and 102 expected. * WHERE...Catalina and Santa Barbara Islands, Ventura County Beaches, Ventura County Inland Coast, Lake Casitas, Ojai Valley, Central Ventura County Valleys, Southeastern Ventura",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D1053C8.HeatAdvisory.12640D3B7530CA.LOXNPWLOX.32e9c4b939abef88c9d96bdb722cb68e",
+          "publishedOn": "2022-09-25T20:34:00.000Z",
+          "wordCount": 293,
+          "title": "Heat Advisory issued September 25 at 1:34PM PDT until September 27 at 8:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D0EEE5C.ExcessiveHeatWarning.12640D3B7530CA.LOXNPWLOX.5659dfc63510221bbe2bf326fe04873c",
           "author": null,
           "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM MONDAY TO 8 PM PDT TUESDAY... * WHAT...Dangerously hot conditions with temperatures between 92 and 98 expected. * WHERE...Los Angeles County Inland Coast including Downtown Los Angeles.",
