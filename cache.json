@@ -12,6 +12,16 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D4A4DF8.ExcessiveHeatWarning.12640D4AB770CA.LOXNPWLOX.59a0f323dbd949a3cb506a420fdd3e42",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT UNTIL 8 PM PDT THIS EVENING... * WHAT...Dangerously hot conditions with temperatures up to 105. Hottest in the San Fernando and Santa Clarita Valleys. * WHERE...Santa Clarita Valley, Santa Monica Mountains, Los Angeles County San Fernando Valley and Los Angeles County San",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D4A4DF8.ExcessiveHeatWarning.12640D4AB770CA.LOXNPWLOX.59a0f323dbd949a3cb506a420fdd3e42",
+          "publishedOn": "2022-09-29T00:30:00.000Z",
+          "wordCount": 302,
+          "title": "Excessive Heat Warning issued September 28 at 5:30PM PDT until September 28 at 8:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12640D2ED0DC.ExcessiveHeatWarning.12640D3B7530CA.LOXNPWLOX.5659dfc63510221bbe2bf326fe04873c",
           "author": null,
           "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT UNTIL 8 PM PDT THIS EVENING... * WHAT...Dangerously hot conditions with temperatures up to 95. Hottest in the Hollywood Hills. * WHERE...Los Angeles County Inland Coast including Downtown Los Angeles.",
@@ -138,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/phone-numbers-web-designers/",
+          "author": "hello@smashingmagazine.com (Onno Westra)",
+          "description": "The customer journey is not limited to a website alone. Simply by combining the world of website design and telephony, far better results can be obtained for your organization. And thanks to the similarities and mutual benefits, it is an easy step to take.",
+          "link": "https://smashingmagazine.com/2022/09/phone-numbers-web-designers/",
+          "publishedOn": "2022-09-28T11:00:00.000Z",
+          "wordCount": 4828,
+          "title": "Phone Numbers For Web Designers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20a14bbc-76a0-49f8-828b-0718c7c1f5a8/phone-numbers-web-designers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20a14bbc-76a0-49f8-828b-0718c7c1f5a8/phone-numbers-web-designers.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/",
           "author": "hello@smashingmagazine.com (Agustinus Theodorus)",
@@ -467,36 +492,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
-          "author": "hello@smashingmagazine.com (Shane Hudson)",
-          "description": "Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.",
-          "link": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
-          "publishedOn": "2022-08-30T09:00:00.000Z",
-          "wordCount": 4889,
-          "title": "How To Improve And Measure Your Progress Learning Web Design",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
-          "author": "hello@smashingmagazine.com (Eduard Kuric)",
-          "description": "The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.",
-          "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
-          "publishedOn": "2022-08-29T14:00:00.000Z",
-          "wordCount": 6415,
-          "title": "What Makes A Great Toggle Button? (Case Study, Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png"
         }
       ]
     },
@@ -505,6 +500,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/",
+          "author": "Segun Ajibola",
+          "description": "JavaScript is one of the most popular programming languages out there for web development. The dynamic values passed in a JavaScript function can change when the function gets called in another location in the code. The keywords we use to name these data are parameters and arguments, but some developers",
+          "link": "https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/",
+          "publishedOn": "2022-09-28T21:18:15.000Z",
+          "wordCount": 1315,
+          "title": "Parameters vs Arguments in JavaScript – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Parameters-vs-Arguments.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/",
+          "author": "Beau Carnes",
+          "description": "JavaScript can be a surprisingly good programming language to use for creating 2D games. Especially games you want to be playable on almost any device.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a 2D game using JavaScript, HTML, CSS,",
+          "link": "https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/",
+          "publishedOn": "2022-09-28T19:29:45.000Z",
+          "wordCount": 871,
+          "title": "How to Code a 2D Game Using JavaScript, HTML, and CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/2dgamejs.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/",
           "author": "Rakesh Potnuru",
