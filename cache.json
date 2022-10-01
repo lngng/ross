@@ -159,6 +159,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/09/desktop-wallpaper-calendars-october-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "How about a little inspiration boost? Well, we might have something for you: desktop wallpapers created with love by artists and designers from across the globe. They are available in versions with and without a calendar for October and can be downloaded for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2022/09/desktop-wallpaper-calendars-october-2022/",
+          "publishedOn": "2022-09-30T13:30:00.000Z",
+          "wordCount": 5020,
+          "title": "October Vibes For Your Desktop (2022 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e6453cd-7ad1-45e4-b88c-afe922049104/oct-22-dreamy-autumn-girl-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e6453cd-7ad1-45e4-b88c-afe922049104/oct-22-dreamy-autumn-girl-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/09/unconscious-biases-inclusive-design/",
           "author": "hello@smashingmagazine.com (Trina Moore Pervall)",
           "description": "Throughout the research and design processes, our unconscious biases are the greatest risk to delivering inclusive experiences. From who we include and exclude in our research to how we plan and conduct research to how we analyze findings, it’s crucial that we understand how our unacknowledged biases can perpetuate systems of exclusion.",
@@ -487,36 +502,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98290a21-bda2-4307-b531-3f6745c5b6b5/accessibility-usability-drupal-primary-navigation.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
-          "author": "hello@smashingmagazine.com (Atila Fassina)",
-          "description": "In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.",
-          "link": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
-          "publishedOn": "2022-09-01T11:00:00.000Z",
-          "wordCount": 4505,
-          "title": "Databases For Front-End Developers: The Concepts Under The Hood (Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f8fb60e-72db-4053-825a-2cbc819c546b/databases-frontend-developers-concepts-under-hood.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f8fb60e-72db-4053-825a-2cbc819c546b/databases-frontend-developers-concepts-under-hood.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/",
-          "author": "hello@smashingmagazine.com (Zara Cooper)",
-          "description": "In this article, Zara Cooper provides a rundown of some popular data grid libraries that would be a great addition to any data-heavy application and shares recommendations on what factors to consider when choosing a suitable data grid library.",
-          "link": "https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/",
-          "publishedOn": "2022-09-01T08:00:00.000Z",
-          "wordCount": 4663,
-          "title": "Useful JavaScript Data Grid Libraries",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2be5ada6-a971-4249-811f-6c8e32c8e402/useful-javascript-data-grid-libraries.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2be5ada6-a971-4249-811f-6c8e32c8e402/useful-javascript-data-grid-libraries.jpg"
         }
       ]
     },
@@ -525,6 +510,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-fix-typeerror-only-size-1-arrays-can-be-converted-to-python-scalars/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In Python, you can use the numpy library when working with arrays and certain math concepts like matrices and linear algebra.  But like every other aspect of learning and working with a programming language, errors are unavoidable.  In this article, you'll learn how to fix the \"TypeError: only",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-typeerror-only-size-1-arrays-can-be-converted-to-python-scalars/",
+          "publishedOn": "2022-09-30T21:39:43.000Z",
+          "wordCount": 1205,
+          "title": "TypeError: only size-1 arrays can be converted to Python scalars",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/brett-jordan-XWar9MbNGUY-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/absolute-and-relative-css-units/",
+          "author": "Dillion Megida",
+          "description": "In CSS, we categorize measurement units as either absolute or relative units. In this article, I'll explain what these categories are with examples of units that fall under each of them. CSS Measurement Units You can use different measurement units in CSS. You use these units with length or size",
+          "link": "https://www.freecodecamp.org/news/absolute-and-relative-css-units/",
+          "publishedOn": "2022-09-30T21:19:17.000Z",
+          "wordCount": 1746,
+          "title": "What are Absolute and Relative Units in CSS? Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/absolute-relative-units-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rename-file-linux-bash-command/",
+          "author": "Zaira Hira",
+          "description": "Renaming files is a very common operation whether you are using the command line or the GUI.  Compared to the GUI (or Graphical User Interface), the CLI is especially powerful. This is in part because you can rename files in bulk or even schedule the scripts to rename files",
+          "link": "https://www.freecodecamp.org/news/rename-file-linux-bash-command/",
+          "publishedOn": "2022-09-30T15:06:08.000Z",
+          "wordCount": 1122,
+          "title": "Rename a File in Linux – Bash Terminal Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Copy-of-read-write-files-python--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-fix-dns-server-not-responding-error-windows-10/",
+          "author": "Gavin Lon",
+          "description": "I think it's safe to say that the vast majority of professionals depend on the internet these days.  So being denied access to the internet when you are trying to mine nuggets of valuable information from your go-to web sites can be quite an ordeal. Especially when you are",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-dns-server-not-responding-error-windows-10/",
+          "publishedOn": "2022-09-30T15:00:47.000Z",
+          "wordCount": 3367,
+          "title": "DNS Server Not Responding – How to Fix the Error in Windows 10",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/DNS-Issue-Main-Pic---pexels-yan-krukov-4458420.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-dom-in-javascript/",
+          "author": "Kedar Makode",
+          "description": "Understanding how the DOM and events work in JavaScript is key if you want to be an effective front end developer. In this article, you'll learn what the DOM is and how it works. What is the DOM? DOM stands for Document Object Model. It's the interface between JavaScript and",
+          "link": "https://www.freecodecamp.org/news/what-is-dom-in-javascript/",
+          "publishedOn": "2022-09-30T14:50:00.000Z",
+          "wordCount": 2869,
+          "title": "What is the DOM? A Behind-the-Scenes Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/What-is-DOM-and-Events--in-JavaScipt--2-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/swap-two-array-elements-in-javascript/",
           "author": "Joel Olawanle",
