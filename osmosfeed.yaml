@@ -7,5 +7,5 @@ cacheUrl: https://lngng.github.io/ross/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=1
-  - href: https://www.smashingmagazine.com/feed/
+  - href: https://www.reddit.com/r/VietNam.rss
   - href: https://www.freecodecamp.org/news/rss/
