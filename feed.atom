@@ -2,10 +2,335 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lngng.github.io/ross/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T01:37:55.122Z</updated>
+    <updated>2022-10-05T01:26:42.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://lngng.github.io/ross/index.html"/>
     <link rel="self" href="https://lngng.github.io/ross/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Cross-Site Request Forgery (CSRF)? Laravel Web Security Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/laravel-web-security-csrf/</id>
+        <link href="https://www.freecodecamp.org/news/laravel-web-security-csrf/"/>
+        <updated>2022-10-04T21:40:49.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn about Laravel web security and how to secure your web applications and protect them from Cross-Site Request Forgery, or CSRF attacks. CSRF is a malicious activity that involves an attacker performing actions on behalf of an authenticated user. Fortunately, Laravel provides out-of-the-box measures to prevent]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju Ganiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Print Function in Java]]></title>
+        <id>https://www.freecodecamp.org/news/how-does-print-work-in-java/</id>
+        <link href="https://www.freecodecamp.org/news/how-does-print-work-in-java/"/>
+        <updated>2022-10-04T21:16:25.000Z</updated>
+        <summary type="html"><![CDATA[Often, you'll need to print something to the console output when you're coding in Java. And the first thing that likely comes to your mind is the print function or print statement. But very few people know about the three different print functions/statements in Java. In this article, I am]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is this song?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xvmto2/what_is_this_song/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xvmto2/what_is_this_song/"/>
+        <updated>2022-10-04T18:33:46.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/vegoku92  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bought a mobifone simcard…]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xvloyk/bought_a_mobifone_simcard/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xvloyk/bought_a_mobifone_simcard/"/>
+        <updated>2022-10-04T17:50:02.000Z</updated>
+        <summary type="html"><![CDATA[Bought a mobifone simcard at noibai airport and it has a 1 month of internet subscription. They said i can top up the card later in the app. Now… i dont know which app they thought so I downloaded a few, but they all asking for my phone number… the thing is, i dont have any phone number with this card. Does anybody have any idea what can i do?
+    submitted by    /u/dora_the_explorer776  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Architect a Full-Stack Application from Start to Finish]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-from-start-to-finish/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-from-start-to-finish/"/>
+        <updated>2022-10-04T17:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Software architecture is a massive topic. That said, I think I can give you a simple method you can use to approach the architecture of a full-stack application.  In particular, I want to talk about the order in which you should think about and build out the pieces of]]></summary>
+        <author>
+            <name>Lane Wagner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Có nên chuyển đổi công việc trợ lý điều hành sang tiếp viên Hàng Không?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xvlgo0/c%C3%B3_n%C3%AAn_chuy%E1%BB%83n_%C4%91%E1%BB%95i_c%C3%B4ng_vi%E1%BB%87c_tr%E1%BB%A3_l%C3%BD_%C4%91i%E1%BB%81u_h%C3%A0nh_sang/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xvlgo0/c%C3%B3_n%C3%AAn_chuy%E1%BB%83n_%C4%91%E1%BB%95i_c%C3%B4ng_vi%E1%BB%87c_tr%E1%BB%A3_l%C3%BD_%C4%91i%E1%BB%81u_h%C3%A0nh_sang/"/>
+        <updated>2022-10-04T17:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Mọi người ơi, hiện tại mình đã đậu vào TVHK của hãng bay quốc dân (mình sợ nói tên hãng ko tiện), nhưng mình đang rất bâng khuâng không biết có nên từ bỏ công việc hiện tại để trở thành TVHK? Mình đang làm vị trí operation administrator tại 1 công ty Mỹ, công việc đang rất tốt và có cơ hội thăng tiến. Mình có tham gia tuyển TVHK (vi mình rất thích làm tvhk từ nhỏ) thì đã đậu, nhưng khi mình tìm hiểu hơn thì thấy hơi hoang mang ko biết có nên vào không. Vì phải đóng 1 số tiền khá lớn để training và với mức lương TVHK năm đầu tiền mình nghĩ bản thân sẽ gặp khó khăn rất nhiều, ngoài ra mình có nghe về vấn đề sắp chuyến bay nữa. Có ai đã hoặc đang làm TVHK ở đây có thể cho mình xin 1 chút ý kiến không ạ?? Mình cảm ơn nhiều.
+    submitted by    /u/IlikedabeautifulRose  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your First Microsoft 365 Application in 10 minutes]]></title>
+        <id>https://www.freecodecamp.org/news/build-microsoft-365-application-in-10-minutes/</id>
+        <link href="https://www.freecodecamp.org/news/build-microsoft-365-application-in-10-minutes/"/>
+        <updated>2022-10-04T17:32:26.000Z</updated>
+        <summary type="html"><![CDATA[If you're a web developer and work with an organization that uses Microsoft 365, or you build applications that you sell to customers, I've got great news for you: you can use your existing skills to build applications that integrate with Microsoft 365. What's Microsoft 365? Microsoft 365 [https://www.microsoft.com/microsoft-365] is]]></summary>
+        <author>
+            <name>Waldek Mastykarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Subquery – How to Sub Query in SELECT Statement]]></title>
+        <id>https://www.freecodecamp.org/news/sql-subquery-how-to-sub-query-in-select-statement/</id>
+        <link href="https://www.freecodecamp.org/news/sql-subquery-how-to-sub-query-in-select-statement/"/>
+        <updated>2022-10-04T17:08:48.000Z</updated>
+        <summary type="html"><![CDATA[A SQL subquery is a query inside a query. So, in SQL, a subquery is also called a nested query or an inner query. The outer query in which the inner query is inserted is the main query. SQL admins usually use subqueries inside the WHERE clause to narrow down]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker vs Virtual Machine (VM) – Key Differences You Should Know]]></title>
+        <id>https://www.freecodecamp.org/news/docker-vs-vm-key-differences-you-should-know/</id>
+        <link href="https://www.freecodecamp.org/news/docker-vs-vm-key-differences-you-should-know/"/>
+        <updated>2022-10-04T16:48:57.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, you'll learn the differences between a virtual machine and a  Docker container. Both virtual machines and containers help replicate the development environment, and manage dependencies and configurations better. But there are certain differences you should be aware of that will help you choose a VM or]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Python by Thinking in Types]]></title>
+        <id>https://www.freecodecamp.org/news/learn-python-by-thinking-in-types/</id>
+        <link href="https://www.freecodecamp.org/news/learn-python-by-thinking-in-types/"/>
+        <updated>2022-10-04T15:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Did you check Instagram today or watch YouTube? Well, you used a Python-based application! Python is one of the most popular programming languages. We just published a new Python course on the freeCodeCamp.org YouTube channel. We have quite a few Python courses on the freeCodeCamp.org YouTube channel so you may]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pho discussion: What came first the noodle or the soup?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xvhkv2/pho_discussion_what_came_first_the_noodle_or_the/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xvhkv2/pho_discussion_what_came_first_the_noodle_or_the/"/>
+        <updated>2022-10-04T15:09:14.000Z</updated>
+        <summary type="html"><![CDATA[Chao Ace, xin moi nguoi chi cho em ve mon pho- cai ten “pho” dat cho bun hay la nuoc?
+ Neu la nuoc, thi minh dung mi thi con duoc goi la pho nua khong? Neu la banh pho, thi minh dung nuoc hu tieu thi con duoc goi la pho nua khong?
+ English Hi everyone, lets discuss about pho. Specifically how the name came about, is it named after the broth base or the noodle?
+ Case in point: 1. If it’s named after the broth - let’s use egg noodles instead, is it still “pho”?
+  
+If it’s named after the noodle - let’s use hu tieu broth instead, is it still “pho”?
+  
+   submitted by    /u/The-Monstar  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Song Đao (Dual Saber) - Bình Định traditional martial art]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xvezei/song_%C4%91ao_dual_saber_b%C3%ACnh_%C4%91%E1%BB%8Bnh_traditional_martial/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xvezei/song_%C4%91ao_dual_saber_b%C3%ACnh_%C4%91%E1%BB%8Bnh_traditional_martial/"/>
+        <updated>2022-10-04T13:21:46.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/shazamsakazaki  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any small gestures/gift ideas for a Vietnamese young person living in the UK with limited English?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xvdvnm/any_small_gesturesgift_ideas_for_a_vietnamese/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xvdvnm/any_small_gesturesgift_ideas_for_a_vietnamese/"/>
+        <updated>2022-10-04T12:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I’m a support worker for vulnerable young people in the UK, we have a 17 year old Vietnamese boy who’s just moved in with us and is feeling culturally isolated, any ideas of anything we can do to make him feel more settled?
+    submitted by    /u/kingkimbo12  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiddo’s bowl :)]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xvds4k/kiddos_bowl/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xvds4k/kiddos_bowl/"/>
+        <updated>2022-10-04T12:26:09.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Na_Neko  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's the best electronics shop in Hanoi/Hai Phong to buy a notebook?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xvd64z/whats_the_best_electronics_shop_in_hanoihai_phong/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xvd64z/whats_the_best_electronics_shop_in_hanoihai_phong/"/>
+        <updated>2022-10-04T11:57:08.000Z</updated>
+        <summary type="html"><![CDATA[Xin chao. I want to buy a notebook with 6GB of Vram (videocard) and looking for a shop with adequate prices. (the budged is 30-35mln VND)If you know any shops located in Hanoi (even Hai Phong or Hai Duong), I'd love to have their names. Cam on.
+ Example:
+ https://preview.redd.it/uk6x241w2sr91.png?width=1721&format=png&auto=webp&s=5808bd5d29f969fe7daca717b600755b656540c7
+    submitted by    /u/Exotic-Stock  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hanoi vibes in HCMC?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xvd2ti/hanoi_vibes_in_hcmc/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xvd2ti/hanoi_vibes_in_hcmc/"/>
+        <updated>2022-10-04T11:52:27.000Z</updated>
+        <summary type="html"><![CDATA[Hey guys,
+ I was in 2018 and 2019 in VN (Hanoi, HCMC and a few other places) with my fiance and we are thinking about going back this December. We really liked the Old Quarter, the area around Hoan Kiem lake and the busy streets with the narrow houses.
+ I was thinking about going to HCMC this time again and would like to know if there is a district or area where you can get this "Hanoi feeling".
+ Any help is highly appreciated.
+ Thanks!
+    submitted by    /u/Sufficient-Payment16  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feasibility 1 mon in Vietnam to work remotely?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xvd15d/feasibility_1_mon_in_vietnam_to_work_remotely/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xvd15d/feasibility_1_mon_in_vietnam_to_work_remotely/"/>
+        <updated>2022-10-04T11:50:14.000Z</updated>
+        <summary type="html"><![CDATA[I work in IT, 100% remote, so it's technically possible for me to work from abroad instead of from home. I've considered going to Vietnam for 1mon to do so, but I'm not sure if it's a good fit culturally and logistically. Please share any experiences or insights.
+ My main concerns are:
+  
+working time from 2 p.m. to 10 p.m. - should I look for co-working spaces etc. or is it generally realistic to use the hotel WiFi? I don't need a lot of bandwidth, but it should be stable.
+ 
+I'm autistic and while sensory-wise bustling cities and dense traffic are totally fine, I struggle with judgemental/high conformity culture, expectations of haggling and worst, being viewed as a "target". I have lived in China and Japan, which was okay since speaking the language mitigated most of the issues. Unfortunately, the reports about Vietnam I have read point towards exactly my issues being...well, an issue. What's the real deal here?
+ 
+ I have studied some Vietnamese and should be able to reach a low intermediate level by the time I go there, if that helps.
+    submitted by    /u/AlternativeWave915  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Get out of the dorm': Cold treatment of Vietnamese intern in Japan reveals support woes - The Mainichi]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xvcscu/get_out_of_the_dorm_cold_treatment_of_vietnamese/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xvcscu/get_out_of_the_dorm_cold_treatment_of_vietnamese/"/>
+        <updated>2022-10-04T11:37:53.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Setagaya-Observer  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dating culture for Vietnamese girls about money]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xvab2i/dating_culture_for_vietnamese_girls_about_money/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xvab2i/dating_culture_for_vietnamese_girls_about_money/"/>
+        <updated>2022-10-04T09:20:39.000Z</updated>
+        <summary type="html"><![CDATA[I got married to a Viet girl recently and we argue about money a lot. I was born in Canada so my idea was that we would contribute equal percentage from our income for our shared expenses, and we handle the rest ourselves (to each their own money) - however she's not happy with it. She thinks that since I make more, I should contribute more than her since I will have a lot more money left. Is this the norm for a Viet girl? House chores we share 50/50 (I'd often do more because I want to) and everything else is equal but she won't budge about this part.
+ Everyone is completely misunderstanding my point. We aren't doing the 50/50 split. I pay over 70% of everything. What I suggested was we both put half of our income into a shared account from which we would pay for our expenses. The idea of each of us having separate money to handle for ourselves was from her. The point here is that she thinks I should put more than half my money and she less so, so that what's left to each of us is more or less equal. She also wants to keep her job and not have children for at least another 7-8 years.
+    submitted by    /u/ZenDaFout  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you want to buy/rent a condo]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xva9sz/if_you_want_to_buyrent_a_condo/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xva9sz/if_you_want_to_buyrent_a_condo/"/>
+        <updated>2022-10-04T09:18:29.000Z</updated>
+        <summary type="html"><![CDATA[What is a good site in VN? I may have to relocate there next year
+    submitted by    /u/Moredream  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The gem of Southeast Asia]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xv9dyc/the_gem_of_southeast_asia/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xv9dyc/the_gem_of_southeast_asia/"/>
+        <updated>2022-10-04T08:21:57.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/thehumblemountain  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Translation help]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xv7qpp/translation_help/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xv7qpp/translation_help/"/>
+        <updated>2022-10-04T06:43:26.000Z</updated>
+        <summary type="html"><![CDATA[I am currently working on an art piece for my father who is from Ho Chi Minh. For part of the piece I wish to incorporate a phrase in Vietnamese. However, I lost the language when I was very young and can't ask my father for help as I want it to be a surprise! I was hoping someone could help me with an accurate translation, it would mean the world. The phrase is simple but I don't want to leave it to a translating program:
+ "Always remember who you are"
+ This phrase holds a deep personal meaning associated with my father and I. However, the exact wording or translation can be flexible depending on what translates the best. Any help or guidance would be greatly appreciated. Thank you!
+    submitted by    /u/Various_Lie8842  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duck egg embryos - Have any of you all ever tried this? any opinion]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xv5mzu/duck_egg_embryos_have_any_of_you_all_ever_tried/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xv5mzu/duck_egg_embryos_have_any_of_you_all_ever_tried/"/>
+        <updated>2022-10-04T04:44:05.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Inevitable_Attorney5  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[how to express that "there is no food i don't like"]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xv4x4w/how_to_express_that_there_is_no_food_i_dont_like/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xv4x4w/how_to_express_that_there_is_no_food_i_dont_like/"/>
+        <updated>2022-10-04T04:06:56.000Z</updated>
+        <summary type="html"><![CDATA[When i order food at non-english speakers 90% it works out just fine. But sometimes it is just not possible to communicate whatever options there are using gestures. The thing is, i am an adventurous eater and genuinely don't care what i get on my plate. The weirder the better. 
+ So i'm looking for a phrase in vietnamese to express "I like everything" or "it does not matter, there is no food i don't like". Any help would be much appreciated :)
+    submitted by    /u/Crooked-Cook  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any English translation of Vietnamese literature available online?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xv42e5/any_english_translation_of_vietnamese_literature/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xv42e5/any_english_translation_of_vietnamese_literature/"/>
+        <updated>2022-10-04T03:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Looking specifically for Chi Pheo (or just anything written by Nam Cao), Truyen Kieu, Tat Den, etc.
+    submitted by    /u/supermegaphuoc  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Da Nang before the typhoon]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xv24sk/da_nang_before_the_typhoon/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xv24sk/da_nang_before_the_typhoon/"/>
+        <updated>2022-10-04T01:55:25.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/livingisagift1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Das ist something you do nazi everyday]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/xv1ymp/das_ist_something_you_do_nazi_everyday/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/xv1ymp/das_ist_something_you_do_nazi_everyday/"/>
+        <updated>2022-10-04T01:47:30.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/tgtg2003  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ha Giang seeks to build airport to boost tourism]]></title>
         <id>https://www.reddit.com/r/VietNam/comments/xv1881/ha_giang_seeks_to_build_airport_to_boost_tourism/</id>
