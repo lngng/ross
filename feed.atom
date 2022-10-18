@@ -2,10 +2,349 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lngng.github.io/ross/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-17T01:49:09.978Z</updated>
+    <updated>2022-10-18T01:41:49.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://lngng.github.io/ross/index.html"/>
     <link rel="self" href="https://lngng.github.io/ross/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[trying not to be a stupid tourist]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y6qn3r/trying_not_to_be_a_stupid_tourist/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y6qn3r/trying_not_to_be_a_stupid_tourist/"/>
+        <updated>2022-10-17T23:45:30.000Z</updated>
+        <summary type="html"><![CDATA[We have a flight going to Da Nang today and was planning on staying for a few days before heading to HCMC. Should we go to Da Nang? Or head directly to HCMC? We're a bit worried about the storm. Our Airbnb is close to the Hilton.
+    submitted by    /u/rhubarb-81635  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best ao dai maker in San Jose?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y6nrto/best_ao_dai_maker_in_san_jose/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y6nrto/best_ao_dai_maker_in_san_jose/"/>
+        <updated>2022-10-17T21:47:29.000Z</updated>
+        <summary type="html"><![CDATA[I need to get a pair of ao dai made for a wedding. So I’m looking for recommendations, there are quite a few ao dai tailors in San Jose.
+    submitted by    /u/djc1000  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Search Tips – How to Search Issues, Repos, and More Effectively on GitHub]]></title>
+        <id>https://www.freecodecamp.org/news/github-search-tips/</id>
+        <link href="https://www.freecodecamp.org/news/github-search-tips/"/>
+        <updated>2022-10-17T19:27:10.000Z</updated>
+        <summary type="html"><![CDATA[When I was a beginner to open-source contributions, one of my greatest challenge was finding the correct projects/issues to work on. For the longest time I relied on resources curated by different writers on the internet (which were good, by the way). But I always wanted to find a way]]></summary>
+        <author>
+            <name>Hillary Nyakundi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Explode – How to Split a String into an Array]]></title>
+        <id>https://www.freecodecamp.org/news/php-explode-how-to-split-a-string-into-an-array/</id>
+        <link href="https://www.freecodecamp.org/news/php-explode-how-to-split-a-string-into-an-array/"/>
+        <updated>2022-10-17T17:19:46.000Z</updated>
+        <summary type="html"><![CDATA[The PHP explode() function converts a string to an array. Each of the characters in the string is given an index that starts from 0. Like the built-in imlode()  function, the explode function does not modify the data (string). Syntax of the explode() Function The explode() function takes in]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Show Upcoming Meetings for a Microsoft 365 User]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-show-upcoming-meetings-for-a-microsoft-365-user/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-show-upcoming-meetings-for-a-microsoft-365-user/"/>
+        <updated>2022-10-17T17:08:26.000Z</updated>
+        <summary type="html"><![CDATA[If you're a web developer and you work with an organization that uses Microsoft 365, you probably use it to manage your meetings. In this tutorial, you'll learn how you can build a simple personal assistant in under 10 minutes that'll show a Microsoft 365 user the meetings they have]]></summary>
+        <author>
+            <name>Waldek Mastykarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking a cat to europe]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y6fazj/taking_a_cat_to_europe/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y6fazj/taking_a_cat_to_europe/"/>
+        <updated>2022-10-17T16:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Does anyone have experience with taking a cat abroad via plane?? Like i need medicial certificate and import approval but i dont where to do that in vietnam?
+    submitted by    /u/LeviAckermann95  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Architect a Blockchain on Kubernetes – K8S Microservice Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-architect-a-blockchain-on-kubernetes-k8s-microservice-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-architect-a-blockchain-on-kubernetes-k8s-microservice-tutorial/"/>
+        <updated>2022-10-17T16:02:43.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will describe how to use microservices architecture and Kubernetes to build a blockchain.  The technologies usually used for blockchains are purpose-driven, and you can use them for other projects as well. The examples in this article can readily handle heavy loads and remain responsive and]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Lowercase a String in JavaScript – toLowerCase() in JS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-lowercase-a-string-in-javascript-tolowercase-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-lowercase-a-string-in-javascript-tolowercase-in-js/"/>
+        <updated>2022-10-17T15:51:50.000Z</updated>
+        <summary type="html"><![CDATA[Strings are a fundamental part of working with JavaScript. And the toLowerCase()  method is one of the many integrated methods that you can use to work with strings. In this article, we'll see how to make strings lowercase with the toLowerCase()  method in Python. What is a String?]]></summary>
+        <author>
+            <name>Ilenia Magoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Svelte in 23 Hours]]></title>
+        <id>https://www.freecodecamp.org/news/learn-svelte-complete-course/</id>
+        <link href="https://www.freecodecamp.org/news/learn-svelte-complete-course/"/>
+        <updated>2022-10-17T15:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Svelte is a front-end JavaScript framework for making interactive webpages. Svelte has grown in popularity quite a bit over the last few years. We just published a free 23-hour course on the freeCodeCamp.org YouTube channel that will teach you how to use Svelte. Li Hau Tan developed this course. Li]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Interpret Black Box Models using LIME (Local Interpretable Model-Agnostic Explanations)]]></title>
+        <id>https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/</id>
+        <link href="https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/"/>
+        <updated>2022-10-17T15:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning models are black box models. By giving input to these models, we can get output based on the particular model we're using.  The way humans interpret things is different from how machines interpret them. So it's helpful to use tools that can turn the output from certain]]></summary>
+        <author>
+            <name>Josua Antonius Naiborhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poking a dog - An adventurous but "legendary" hobby in Vietnam]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y6cg4u/poking_a_dog_an_adventurous_but_legendary_hobby/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y6cg4u/poking_a_dog_an_adventurous_but_legendary_hobby/"/>
+        <updated>2022-10-17T14:18:25.000Z</updated>
+        <summary type="html"><![CDATA[You probably know, poking dogs is inherently a risky sport, but this game still has an irresistible attraction to Vietnamese people.
+ And for those who don't know - please dont try it. This sport requires lots of luck and special skills.
+ Especially if you don't want to tear your shoes, tear your clothes =))) Dogs can bite your shoes even when you are at home, let alone when going out and poke the neighbor's dog, right? Haha.
+ And if your shoes are bitten and torn, you can bring them to a shoe care store near you to have them sewn.
+ https://preview.redd.it/48pf00bwjdu91.png?width=1324&format=png&auto=webp&s=a4d2456a7f47dae92e88824d1fd530bbdd0a6a76
+    submitted by    /u/heheitsme201  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vietnamese proverb]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y6bvzu/vietnamese_proverb/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y6bvzu/vietnamese_proverb/"/>
+        <updated>2022-10-17T13:53:32.000Z</updated>
+        <summary type="html"><![CDATA[Saw a research paper citing a Vietnamese proverb "the law of the king ends at the gates of the village". What does it mean?
+    submitted by    /u/pharsasa  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Python? How the Interpreter Works and How to Write "Hello World" in Python]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-python-beginners-guide/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-python-beginners-guide/"/>
+        <updated>2022-10-17T13:38:18.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I am going to explain what Python is and how the Python interpreter works. Then you'll write your first "Hello World" program. What is Python? Python is a high-level programming language designed to do many tasks. It's based on the CPython interpreter which translates the Python code]]></summary>
+        <author>
+            <name>Michael Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Five Layers Model? The Framework of the Internet Explained]]></title>
+        <id>https://www.freecodecamp.org/news/the-five-layers-model-explained/</id>
+        <link href="https://www.freecodecamp.org/news/the-five-layers-model-explained/"/>
+        <updated>2022-10-17T13:37:19.000Z</updated>
+        <summary type="html"><![CDATA[Computer Networks are a beautiful, amazing topic. Networks involve so much knowledge from different fields, from physics to algorithms.  When dealing with Computer Networks, there is one framework that puts everything into place – and that is the layers model.  In this post you'll learn why we need]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internship in Can Tho]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y6aivm/internship_in_can_tho/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y6aivm/internship_in_can_tho/"/>
+        <updated>2022-10-17T12:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Good morning from America!
+ I was recently accepted for a very well paid internship in Can Tho! I'm excited for it, however I wanted to ask what is there to do on free time around the area? Friends from HCMC told me it's kinda a sleepy town and there isn't much to do. Also general advice on best sim for international calling to USA? Sorry if this is an often repeated question but I would appreciate the help!
+    submitted by    /u/Vocaloiid  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm desperate to move to Vietnam. What are my prospects looking like?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y69vz3/im_desperate_to_move_to_vietnam_what_are_my/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y69vz3/im_desperate_to_move_to_vietnam_what_are_my/"/>
+        <updated>2022-10-17T12:26:21.000Z</updated>
+        <summary type="html"><![CDATA[I'm an English 27 y/o female living in London. I have a 1st class Fine Art degree and currently studying a PGCE in secondary art and design (post graduate that qualifies me to teach full British GCSE art and design curriculum and A-level). I have teaching experience in art and geography. I recently started a beginners Vietnamese course with SOAS. 
+ I was preparing to move to Vietnam to teach English and COVID hit, which pressed me to study my post grad and become an art teacher.
+ I want to live the rest of my 20s and onwards in a beautiful exciting country, to immerse myself in a new culture, learn a new language, to grow and truly live. I want to really take some time to move to a country to study to make my best attempt at learning the language, meeting new people and also to rent a studio to have the time to develop my art practice. 
+ Here in UK I'm seasonally depressed 6 months of the year, overworked to afford to get by and uninspired and to be honest I've always felt this way about life here. 
+ The reason I chose to study to become an art teacher is in some desperate hope that I might be able to utilise these skills and find work in an international school abroad as a British curriculum art teacher or gain a residency visa back to Australia (closer to Vietnam at least). Don't get me wrong I do love working with young people.
+ Working as an art teacher in London is something like £35k a year. But honestly I'd take a sickening pay cut to move and have more time to truly live. International schools in vn seem few and far between that need art teachers. I would obviously very much love to keep progressing with my art related career, as it's my specialism and love but I would consider teaching English if It means I have more time off and have enough money to work on my art and take Vietnamese lessons. 
+ Thoughts anyone? What kinds of jobs/hours/pay What do you think my prospects will look like if I move to Vietnam. 🇻🇳🍵
+    submitted by    /u/onomebunbun  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expatriate]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y678dn/expatriate/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y678dn/expatriate/"/>
+        <updated>2022-10-17T10:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Do Vietnamese also prefer to be addressed in their Surname when one meets for the first time?
+    submitted by    /u/Hanoe2021  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for ideas to customize this shoes?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y66vfa/looking_for_ideas_to_customize_this_shoes/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y66vfa/looking_for_ideas_to_customize_this_shoes/"/>
+        <updated>2022-10-17T09:56:23.000Z</updated>
+        <summary type="html"><![CDATA[I just bought a new pair of shoes, I'm currently looking for ideas to customize this shoes for my girlfriend, do you have any suggestions for me? 
+ https://preview.redd.it/gqhc96z29cu91.png?width=474&format=png&auto=webp&s=3704bc7501da8f7c0b066fe6f69670afb6f1785f
+    submitted by    /u/Emergency-Arugula528  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for male traditional wear]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y66kx9/looking_for_male_traditional_wear/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y66kx9/looking_for_male_traditional_wear/"/>
+        <updated>2022-10-17T09:38:05.000Z</updated>
+        <summary type="html"><![CDATA[I will be heading there for a company’s Dinner & Dance and im looking to get the male Ao Dai as costume for the dinner.
+ Is the male Ao Dai easily found in store within the old quarters? The hotel we are staying at is within the old quarters.
+    submitted by    /u/dlumz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best courses to study Vietnamese in Hanoi?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y66hb3/best_courses_to_study_vietnamese_in_hanoi/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y66hb3/best_courses_to_study_vietnamese_in_hanoi/"/>
+        <updated>2022-10-17T09:31:35.000Z</updated>
+        <summary type="html"><![CDATA[As the title says, what is the best officially recognized Vietnamese language course that is available in Hanoi?
+ a bit of backstory: In 2020 I decided to change careers and return to university. I am doing it all online through a university that is outside of Vietnam. 2021 I got an online job that allowed me to get through covid times. My employment contract there ends at the end of January 2023.
+ Having worked from home for the last two years, my Vietnamese skills have diminished a lot, and they weren't that good to begin with. 
+ I have a year until my university degree is finished and I then plan to reenter the workforce, but until then, I have two options: return to my extremely expensive home country where I will need to finish my studies and work at the same time, due to cost of living OR continue my online studies here while also studying Vietnamese.
+ My online studies are in a field that I am already quite knowledgeable in, so I am kind of bored to be honest. And on top of that, I have a lot of free time. So I would much prefer to stay here and study Vietnamese and live off of the savings for a year before returning to work.
+ The last point to add, my fiancée (also a foreign national) and I are getting married, so I could return once that paperwork is finished but her countries government makes that of Vietnam look like a well oiled machine, so I don't want to rely on that. 
+ TLDR: I have a year off and would prefer to stay in Vietnam to study than go home to my home country. What are the best options?
+    submitted by    /u/phedinhinleninpark  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where are the tech hubs in Vietnam and how much salary do I need to live a good expat's life?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y65ovh/where_are_the_tech_hubs_in_vietnam_and_how_much/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y65ovh/where_are_the_tech_hubs_in_vietnam_and_how_much/"/>
+        <updated>2022-10-17T08:43:05.000Z</updated>
+        <summary type="html"><![CDATA[I am a software engineer/PM negotiating with a company that wants to open a development center there. I'll be paid the same amount as I would in western countries for my role that would be right below that of the expat country manager's. What websites should I be looking at before I negotiate my compensation package? Ideally, I want to live well as an expat (I don't drink and don't party but do enjoy good athletic recreation) and still be saving for my eventual return to my home country to put a down payment on a home. 
+    submitted by    /u/webNoob13  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to drive legally in VN as a foreigner?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y65l00/how_to_drive_legally_in_vn_as_a_foreigner/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y65l00/how_to_drive_legally_in_vn_as_a_foreigner/"/>
+        <updated>2022-10-17T08:36:38.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone,
+ I'm wondering if anyone has experience getting a licence to legally drive / ride a scooter in Vietnam?I'm headed over to Da Nang later this year, planning to stay for some months by doing border runs with tourist e-visas. Thinking that it'll be fun to ride over there and explore around the city and surrounding areas. Also get the impression VN has pretty intense traffic accident rates, so I'm keen to get insurance that covers this in case I get caught out - need to be driving legally to be covered though. I'm a New Zealander who is licensed to drive legally in my own country, but I guess I need to upgrade this somehow to ride over there. Do any foreigners have experience getting licensing to ride legally in Vietnam?
+ Thanks!
+    submitted by    /u/Curioid  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Currently in HCMC, MacBook won't charge?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y654ze/currently_in_hcmc_macbook_wont_charge/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y654ze/currently_in_hcmc_macbook_wont_charge/"/>
+        <updated>2022-10-17T08:08:56.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone, 
+ I'm currently in HCMC (from the US) and my Mac refuses to charge. When plugged in, it stays at its current percentage but won't go any higher. It also feels very staticky so I'm keeping it unplugged for the time being. Is there anything a can buy so I can charge my laptop? I'll be in Vietnam for the rest of the month. Also if anyone knows a specific place to buy what I need would be appreciated too. I'm in D1 if it helps. I've attached a picture of the outlet at my Airbnb. 
+ Thanks!
+ Update: I left my MacBook on plugged in while I was away and it continued to charge even though it says not charging. I believe the issue is the charger so I'll try to buy a new one tomorrow. Thanks everyone!! 
+ https://i.imgur.com/UUUnCLj.jpg
+    submitted by    /u/slader166  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to cross the road in hcm]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y63vdc/how_to_cross_the_road_in_hcm/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y63vdc/how_to_cross_the_road_in_hcm/"/>
+        <updated>2022-10-17T06:49:59.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/azdongdong  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in Vietnam]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y62ege/today_in_vietnam/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y62ege/today_in_vietnam/"/>
+        <updated>2022-10-17T05:23:08.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Potofhunney  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[best place to buy laptops in Hanoi]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y61z83/best_place_to_buy_laptops_in_hanoi/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y61z83/best_place_to_buy_laptops_in_hanoi/"/>
+        <updated>2022-10-17T05:00:07.000Z</updated>
+        <summary type="html"><![CDATA[My budget is between 10-15tr and I'd like to buy a decent new laptop or a good secondhand one at this price range. Please plus your favourite places or mates' places. Someone told me that Hanoi Computer's laptops are overpriced, so I decided to look elsewhere. Thanks beforehand 😄
+    submitted by    /u/whatsthefuture  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vietnam is 'Far less racist' than the US.]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y60bh8/vietnam_is_far_less_racist_than_the_us/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y60bh8/vietnam_is_far_less_racist_than_the_us/"/>
+        <updated>2022-10-17T03:32:35.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/AmuroSpeagle  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you think Vietnamese people still chew cau trầu (areca nuts and betel leaves) in 50 years?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/y5zovz/do_you_think_vietnamese_people_still_chew_cau/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/y5zovz/do_you_think_vietnamese_people_still_chew_cau/"/>
+        <updated>2022-10-17T03:01:24.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/lanhuevietnam  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HCMC D4: What is the best condo building? Saigon Royal, Rivergate Apartments, Millenium, Tresor?]]></title>
         <id>https://www.reddit.com/r/VietNam/comments/y5y5ud/hcmc_d4_what_is_the_best_condo_building_saigon/</id>
