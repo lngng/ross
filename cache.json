@@ -12,6 +12,66 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417DA5600.HighWindWatch.12641805C1A0CA.LOXNPWLOX.53bd7628f8e8590368c1067d4ece9675",
+          "author": null,
+          "description": "...HIGH WIND WATCH IN EFFECT FROM TUESDAY MORNING THROUGH TUESDAY EVENING... * WHAT...Southwest winds 25 to 40 mph with gusts up to 60 mph possible. * WHERE...Antelope Valley. * WHEN...From Tuesday morning through Tuesday evening.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417DA5600.HighWindWatch.12641805C1A0CA.LOXNPWLOX.53bd7628f8e8590368c1067d4ece9675",
+          "publishedOn": "2022-11-06T21:44:00.000Z",
+          "wordCount": 155,
+          "title": "High Wind Watch issued November 06 at 1:44PM PST until November 08 at 10:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417DA31AC.FloodWatch.126417E82780CA.LOXFFALOX.35c00da8d2a5249613476978f72e4ce7",
+          "author": null,
+          "description": "...FLOOD WATCH IN EFFECT FROM MONDAY EVENING THROUGH TUESDAY EVENING... * WHAT...Flooding caused by excessive rainfall is possible in and near the recent burn areas. * WHERE...The recent burn areas in Los Angeles county, including the Fish Fire and the Route Fire.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417DA31AC.FloodWatch.126417E82780CA.LOXFFALOX.35c00da8d2a5249613476978f72e4ce7",
+          "publishedOn": "2022-11-06T20:51:00.000Z",
+          "wordCount": 165,
+          "title": "Flood Watch issued November 06 at 12:51PM PST until November 07 at 4:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417DA31AC.FloodWatch.126417F85420CA.LOXFFALOX.f22a00335cb97e40b92c913e6e574abc",
+          "author": null,
+          "description": "...FLOOD WATCH IN EFFECT FROM MONDAY EVENING THROUGH TUESDAY EVENING... * WHAT...Flooding caused by excessive rainfall is possible in and near the recent burn areas. * WHERE...The recent burn areas in Los Angeles county, including the Fish Fire and the Route Fire.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417DA31AC.FloodWatch.126417F85420CA.LOXFFALOX.f22a00335cb97e40b92c913e6e574abc",
+          "publishedOn": "2022-11-06T20:51:00.000Z",
+          "wordCount": 171,
+          "title": "Flood Watch issued November 06 at 12:51PM PST until November 08 at 10:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417DA31AC.FloodWatch.12641805C1A0CA.LOXFFALOX.f097ad54a678b41156b1b4e9a5bd7792",
+          "author": null,
+          "description": "...FLOOD WATCH IN EFFECT FROM MONDAY EVENING THROUGH TUESDAY EVENING... * WHAT...Flooding caused by excessive rainfall is possible in and near the recent burn areas. * WHERE...The recent burn areas in Los Angeles county, including the Fish Fire and the Route Fire.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417DA31AC.FloodWatch.12641805C1A0CA.LOXFFALOX.f097ad54a678b41156b1b4e9a5bd7792",
+          "publishedOn": "2022-11-06T20:51:00.000Z",
+          "wordCount": 163,
+          "title": "Flood Watch issued November 06 at 12:51PM PST until November 08 at 10:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417DA31AC.FloodWatch.126418079660CA.LOXFFALOX.050ddb220e0c1d84f4723b64f5fd1478",
+          "author": null,
+          "description": "...FLOOD WATCH IN EFFECT FROM MONDAY EVENING THROUGH TUESDAY EVENING... * WHAT...Flooding caused by excessive rainfall is possible in and near the recent burn areas. * WHERE...The recent burn areas in Los Angeles county, including the Fish Fire and the Route Fire.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417DA31AC.FloodWatch.126418079660CA.LOXFFALOX.050ddb220e0c1d84f4723b64f5fd1478",
+          "publishedOn": "2022-11-06T20:51:00.000Z",
+          "wordCount": 167,
+          "title": "Flood Watch issued November 06 at 12:51PM PST until November 09 at 10:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417DA0DBC.WinterStormWatch.126418079660CA.LOXWSWLOX.a8568eaaa4994044f081a6bab607aff7",
+          "author": null,
+          "description": "...WINTER STORM WATCH REMAINS IN EFFECT FROM MONDAY EVENING THROUGH WEDNESDAY MORNING... * WHAT...Heavy snow possible. Total snow accumulations of up to 20 inches possible, highest above 6000 feet. Winds could gust as high as 60 mph. * WHERE...Ventura County Mountains and Los Angeles County",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417DA0DBC.WinterStormWatch.126418079660CA.LOXWSWLOX.a8568eaaa4994044f081a6bab607aff7",
+          "publishedOn": "2022-11-06T19:59:00.000Z",
+          "wordCount": 174,
+          "title": "Winter Storm Watch issued November 06 at 11:59AM PST until November 09 at 10:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417CAE8C8.WinterStormWatch.126418079660CA.LOXWSWLOX.a8568eaaa4994044f081a6bab607aff7",
           "author": null,
           "description": "...WINTER STORM WATCH IN EFFECT FROM MONDAY EVENING THROUGH WEDNESDAY MORNING... * WHAT...Heavy snow possible. Total snow accumulations of up to 20 inches possible, highest above 6000 ft. Winds could gust as high as 60 mph. * WHERE...Ventura County Mountains and Los Angeles County",
@@ -238,6 +298,226 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yo7zt5/us_attempt_to_confront_china_russia_by_pivoting/",
+          "author": null,
+          "description": "submitted by    /u/Key_Yai  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yo7zt5/us_attempt_to_confront_china_russia_by_pivoting/",
+          "publishedOn": "2022-11-07T00:44:54.000Z",
+          "wordCount": 14735,
+          "title": "US attempt to confront China & Russia by pivoting to Lao & Vietnam",
+          "imageUrl": "https://external-preview.redd.it/yGfoo3WL-x6PrqKd5D0L6ke_cm-6TjzjLZxgYdG0IXc.png?format=pjpg&auto=webp&s=018688347912d00c961a939a4df1fbeb64b4708a"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yo7rj1/are_there_any_mail_forwarding_services_that_could/",
+          "author": null,
+          "description": "I'm looking to buy a few acrylic anime standees from Shopee (just small ones, nothing crazy), but they don't seem to ship to Canada. Is there any service that I could use to forward them to myself?\n The page is in Vietnamese, so I'm assuming that's where they ship.\n    submitted by    /u/JinJin44  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yo7rj1/are_there_any_mail_forwarding_services_that_could/",
+          "publishedOn": "2022-11-07T00:34:28.000Z",
+          "wordCount": 14325,
+          "title": "Are there any mail forwarding services that could ship from Vietnam to Canada?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yo6n29/name_of_the_little_yellowheaded_snakes_in_phu_quoc/",
+          "author": null,
+          "description": "Hey guys,\n Recently visited Phu Quoc and my mates and I came about a metre from stepping on a snake.\n It was a very thin little guy, with a bright yellow head and a grey-green body. I can't for the life of me find anything about them on the internet, but wanted to check and see if any locals knew what they were called?\n Has anyone seen these dudes around?\n    submitted by    /u/Vegetable-Week-2558  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yo6n29/name_of_the_little_yellowheaded_snakes_in_phu_quoc/",
+          "publishedOn": "2022-11-06T23:43:23.000Z",
+          "wordCount": 14399,
+          "title": "Name of the little yellow-headed snakes in Phu Quoc?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yo6dy5/vietnams_cursed_images_68/",
+          "author": null,
+          "description": "submitted by    /u/GodBlessHentai  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yo6dy5/vietnams_cursed_images_68/",
+          "publishedOn": "2022-11-06T23:32:17.000Z",
+          "wordCount": 14413,
+          "title": "Vietnam's cursed images #68",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yo5v40/how_to_pay_at_store_for_payoo_when_you_dont_have/",
+          "author": null,
+          "description": "submitted by    /u/Vindicatenow  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yo5v40/how_to_pay_at_store_for_payoo_when_you_dont_have/",
+          "publishedOn": "2022-11-06T23:09:49.000Z",
+          "wordCount": 15002,
+          "title": "how to \"pay at store\" for Payoo when you don't have viet bank account in NTGO app",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yo5op2/are_these_worth_anything_i_found_hundreds_of_them/",
+          "author": null,
+          "description": "submitted by    /u/pukanahai  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yo5op2/are_these_worth_anything_i_found_hundreds_of_them/",
+          "publishedOn": "2022-11-06T23:01:57.000Z",
+          "wordCount": 14907,
+          "title": "are these worth anything I found hundreds of them. good find or trash?",
+          "imageUrl": "https://preview.redd.it/7yjlup0hdgy91.jpg?auto=webp&s=68445a26eae874ff19468d05047288894d52ac6b"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yo3h1t/t%E1%BB%AB_%C4%91i%E1%BB%83n_ti%E1%BA%BFng_vi%E1%BB%87t/",
+          "author": null,
+          "description": "Hello everyone,\n After several years of living abroad and not dialoguing in Vietnamese, I've been looking to buy an authentic Vietnamese dictionary that is used and sold in Vietnam to refresh my language. What is the best way for me to find a store that ship to America in Vietnam? I'm open to paying someone with relatives living in Vietnam who could buy and ship the dictionary. I appreciate any suggestion and advice. Thank you in advance.\n Cordially,\n    submitted by    /u/Mathysjcs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yo3h1t/t%E1%BB%AB_%C4%91i%E1%BB%83n_ti%E1%BA%BFng_vi%E1%BB%87t/",
+          "publishedOn": "2022-11-06T21:30:47.000Z",
+          "wordCount": 14345,
+          "title": "Từ điển Tiếng Việt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yo2oge/floodprone_areas_in_december/",
+          "author": null,
+          "description": "Hey, everyone!\n I'm visiting Vietnam and I will be there in the last week of November and the first week of December this year. I have heard about floods during the month of November but would they happen in December too? What are the chances? And which areas might be affected if there are floods in December (first week)?\n I have two options. 1. Visit Da Nang, Hoi An and Hue from 28th November to 2nd December OR 2. Visit Da Nang, Hoi An and Hue from 2nd December to 6th December\n Which would you suggest? \n Appreciate your help a lot.\n Thanks a ton :)\n    submitted by    /u/yipra97  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yo2oge/floodprone_areas_in_december/",
+          "publishedOn": "2022-11-06T21:02:58.000Z",
+          "wordCount": 14385,
+          "title": "Flood-prone areas in December?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yo2gd4/best_food_in_hanoi_and_ho_chi_min/",
+          "author": null,
+          "description": "Hi guys, do you have any recommendations for places to eat Vietnamese food in Hanoi and Ho Chi Min ? And are there some apps that can usefully for travelling in the country ?\n    submitted by    /u/draxsen  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yo2gd4/best_food_in_hanoi_and_ho_chi_min/",
+          "publishedOn": "2022-11-06T20:55:17.000Z",
+          "wordCount": 14250,
+          "title": "Best food in Hanoi and Ho Chi Min",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ynxvmr/what_are_these_called_and_can_i_make_them_fianc%C3%A9s/",
+          "author": null,
+          "description": "submitted by    /u/fridgesmacker  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ynxvmr/what_are_these_called_and_can_i_make_them_fianc%C3%A9s/",
+          "publishedOn": "2022-11-06T18:15:43.000Z",
+          "wordCount": 14709,
+          "title": "What are these called and can I make them? Fiancé’s grandma brought them from one of the mountain cities by Saigon!",
+          "imageUrl": "https://preview.redd.it/s9w0vinvgdy91.jpg?auto=webp&s=9dc3ee8f7c6802cc63c6034db9383c33ba023994"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ynx4de/gi%C3%BAp_m%C3%ACnh_c%C3%A2u_h%E1%BB%8Fi_m%C3%B4n_v%C4%A9_m%C3%B4_%E1%BB%A9ng_d%E1%BB%A5ng_v%E1%BB%9Bi_%E1%BA%A1/",
+          "author": null,
+          "description": "Use the theory of liquidity preference to explain why an increase in the money supply lowers the interest rate. what does this explanation assume about the price level.\n    submitted by    /u/thaihuynh0812  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ynx4de/gi%C3%BAp_m%C3%ACnh_c%C3%A2u_h%E1%BB%8Fi_m%C3%B4n_v%C4%A9_m%C3%B4_%E1%BB%A9ng_d%E1%BB%A5ng_v%E1%BB%9Bi_%E1%BA%A1/",
+          "publishedOn": "2022-11-06T17:49:39.000Z",
+          "wordCount": 15335,
+          "title": "giúp mình câu hỏi môn vĩ mô ứng dụng với ạ ::((",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ynqygc/dogs_i_met_during_my_week_of_traveling/",
+          "author": null,
+          "description": "submitted by    /u/BurnBabyXX_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ynqygc/dogs_i_met_during_my_week_of_traveling/",
+          "publishedOn": "2022-11-06T14:12:53.000Z",
+          "wordCount": 14244,
+          "title": "Dogs i met during my week of traveling",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ynpf38/hello_can_you_identify_this_song_or_artist/",
+          "author": null,
+          "description": "Hello, I was in Vietnam back in June 2019 and recorded this clip in Da nang from the dragon bridge.\n I have tried to shazam the clip but I get no results. Can anyone identify the artist or song? \n Thanks\n https://imgur.com/kNXnVpl\n https://reddit.com/link/ynpf38/video/u7la88r4yby91/player\n ​\n    submitted by    /u/Kinkajoou  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ynpf38/hello_can_you_identify_this_song_or_artist/",
+          "publishedOn": "2022-11-06T13:04:43.000Z",
+          "wordCount": 14350,
+          "title": "Hello, can you identify this song or artist?",
+          "imageUrl": "https://external-preview.redd.it/SJ2WyTzfVcnkxTN4I0-48tvOsnTNYw2uUyUnoq5fiDI.jpg?auto=webp&s=5ce53ced0d61d5b8309d01745faa83f46ea70949"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ynok76/jack_ta_aka_ta_quang_huy_an_australian_registered/",
+          "author": null,
+          "description": "submitted by    /u/greywarden133  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ynok76/jack_ta_aka_ta_quang_huy_an_australian_registered/",
+          "publishedOn": "2022-11-06T12:22:54.000Z",
+          "wordCount": 14867,
+          "title": "Jack Ta (aka Ta Quang Huy), an Australian registered migration agent, is accused of involving in human trafficking ring.",
+          "imageUrl": "https://external-preview.redd.it/CQIW95H_8yee5JjHaScbMmGFmvi6JnvGlqZtPNo3XCY.jpg?auto=webp&s=7cc82d7176a35e7d0935d1188cce6ea074d907f1"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ynnhwv/c%C3%B4_t%E1%BA%A5m_nh%E1%BA%ADt_b%C3%ACnh/",
+          "author": null,
+          "description": "submitted by    /u/cuongkhung1993  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ynnhwv/c%C3%B4_t%E1%BA%A5m_nh%E1%BA%ADt_b%C3%ACnh/",
+          "publishedOn": "2022-11-06T11:25:19.000Z",
+          "wordCount": 15170,
+          "title": "Cô Tấm- Nhật Bình",
+          "imageUrl": "https://preview.redd.it/vbd6isdlfby91.jpg?auto=webp&s=7001ef9e08f8d38994066cb53eebda8df2038d1e"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ynllhq/visiting_hanoi_during_tet/",
+          "author": null,
+          "description": "Hi, I will be visiting Hanoi from Mung 2 to Mung 5 Tet. Do you know if most of the good street food places are open during this time? Any recommendations about food and things to do in Hanoi during Tet holiday?\n Thanks\n    submitted by    /u/Lopsided-Earth  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ynllhq/visiting_hanoi_during_tet/",
+          "publishedOn": "2022-11-06T09:29:41.000Z",
+          "wordCount": 14379,
+          "title": "Visiting Hanoi During Tet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ynkk16/any_vietnamese_gym_rats_have_recommendations_for/",
+          "author": null,
+          "description": "I'm currently in Hanoi & I'm looking for high protein foods that are readily available whether it is a common street food, restaurant food, grocery store snack, etc. They don't have to taste amazing or anything. I'm trying to meet my protein goal without protein powder as it is quite expensive here & gives me acne. Thanks!\n    submitted by    /u/Ok-Mushroom-4741  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ynkk16/any_vietnamese_gym_rats_have_recommendations_for/",
+          "publishedOn": "2022-11-06T08:22:33.000Z",
+          "wordCount": 15945,
+          "title": "Any Vietnamese gym rats have recommendations for high protein food & snacks?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ynixq6/phu_quoc_recommendations/",
+          "author": null,
+          "description": "Hey, \n I'm traveling today to Phu Quock. I'll be there for 4 or 5 days to chill but I want to spend some time to travel around island and see some stuff. Do you have any recommendations what I should see, where to go for food and best way to travel around island. Where is nice beach?\n Is motorbike best way to do it? And if so good place to rent a bike. Open to any ideas\n Cheers!\n    submitted by    /u/kzyzek  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ynixq6/phu_quoc_recommendations/",
+          "publishedOn": "2022-11-06T06:42:21.000Z",
+          "wordCount": 16946,
+          "title": "Phu Quoc - recommendations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yniubg/why_no_one_talks_about_vietnam_glass_bridge/",
+          "author": null,
+          "description": "It is the longest glass bridge in the world. But I dont see much people going there. I am planning to. Can someone tell me the exact location and how to reach from Hanoi?\n    submitted by    /u/Infamous_Ad_6536  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yniubg/why_no_one_talks_about_vietnam_glass_bridge/",
+          "publishedOn": "2022-11-06T06:36:27.000Z",
+          "wordCount": 14351,
+          "title": "Why no one talks about Vietnam Glass bridge?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ynfx7n/somewhere_in_the_mountains_of_lam_dong/",
+          "author": null,
+          "description": "submitted by    /u/KinkyPeople  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ynfx7n/somewhere_in_the_mountains_of_lam_dong/",
+          "publishedOn": "2022-11-06T03:53:38.000Z",
+          "wordCount": 14207,
+          "title": "Somewhere in the mountains of Lam Dong",
+          "imageUrl": "https://preview.redd.it/woaktu1loay91.jpg?auto=webp&s=8bf7567fd6b97fa95cd9fd49c02f3067cead51b7"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ynf540/the_petrol_shortage_is_affecting_hanoi_now_after/",
+          "author": null,
+          "description": "submitted by    /u/TheOneInTheHat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ynf540/the_petrol_shortage_is_affecting_hanoi_now_after/",
+          "publishedOn": "2022-11-06T03:13:17.000Z",
+          "wordCount": 15469,
+          "title": "The petrol shortage is affecting Hanoi now. After passing 3 closed petrol stations the only one open was jammed and limiting customers to 50k per bike",
+          "imageUrl": "https://preview.redd.it/d8cucvaoz8y91.jpg?auto=webp&s=03a021e0f88739a2c9e5cf558bc5afab12f38e5a"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ynd2re/ai_%C4%91%C3%B3_%C4%91%C3%A3_n%C3%B3i_%C4%91%C3%A0_l%E1%BA%A1t_l%C3%A0_m%E1%BB%99t_nh%C3%A0_bank_k%C3%BD_%E1%BB%A9c_l%C3%A0_n%C6%A1i/",
+          "author": null,
+          "description": "submitted by    /u/HuynhLoc_Dalat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ynd2re/ai_%C4%91%C3%B3_%C4%91%C3%A3_n%C3%B3i_%C4%91%C3%A0_l%E1%BA%A1t_l%C3%A0_m%E1%BB%99t_nh%C3%A0_bank_k%C3%BD_%E1%BB%A9c_l%C3%A0_n%C6%A1i/",
+          "publishedOn": "2022-11-06T01:33:23.000Z",
+          "wordCount": 15364,
+          "title": "📮 Ai đó đã nói, Đà Lạt là một “nhà bank ký ức”, là nơi lưu giữ tình yêu của rất nhiều người…",
+          "imageUrl": "https://external-preview.redd.it/q3jzPzqvheccFW-hXtjo5ZwybY56A71nIwyfSKzE9tg.png?format=pjpg&auto=webp&s=3e3d23b9e4d8294695b03fa853e707b65019a5a8"
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/ynbsfg/anyone_have_experience_flying_a_dog_into_vietnam/",
           "author": null,
@@ -6037,226 +6317,6 @@
           "wordCount": 32852,
           "title": "Does mimosa contain diazepam?",
           "imageUrl": "https://preview.redd.it/79uz69l49ls91.jpg?auto=webp&s=f602bcc5c6ebeaaa6108020c20897fe902cb1b40"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xyqv70/all_about_dong_currency/",
-          "author": null,
-          "description": "Hi r/Vietnam\n I'm going to central Vietnam (Da Nang, Hoi an, Hue) in a couple days. \n It's gonna be a short trip. We'll arrive on Monday evening and leave Saturday morning (so about 5.5 days in Vietnam?)\n So my question is, how much should I budget for this? I don't have fancy tastes or require luxurious hotels.\n And also, what's the best way to get my Dong?\n Its probably gonna be the most convenient to exchange my money at the airport but I've heard the rates aren't so good...\n    submitted by    /u/RosieYoureFired  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xyqv70/all_about_dong_currency/",
-          "publishedOn": "2022-10-08T11:52:33.000Z",
-          "wordCount": 37906,
-          "title": "All about dong (currency)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xyqt0h/moving_to_vietnam_experience_and_advice/",
-          "author": null,
-          "description": "Hi everyone, we would like to move to Đà Nẵng-Vietnam from Germany and stay in Vietnam for a long period of time. \n About our backgrounds: Me, vietnamese, i've been working in Germany as a nurse since 2018 My fiancé, german, currently working for an enery provider.\n It'd be helpful, if anyone could give us some insights. About what we should prepare, before we make the move. Maybe someone who has recently moved there. What should we pay attention to? How is life going on for you guys in Đà Nẵng or anywhere else in Việt Nam?\n About visa: should we first register our marriage in Germany, so my fiancé can get the 5 years visa?\n We want to prepare and inform ourself before the we make the big decision. We would be thankful for any tips or resources from you guys.\n Why i am a vietnamese and i still need to ask? Because i can't possibly know everything, what my fiancé should prepare, etc ...if we should first get married in Germany, if it gives him any advantage about visa.\n    submitted by    /u/Cuddly-Hatinh  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xyqt0h/moving_to_vietnam_experience_and_advice/",
-          "publishedOn": "2022-10-08T11:49:18.000Z",
-          "wordCount": 38678,
-          "title": "Moving to Vietnam. Experience and advice?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xyq3wh/403_error_when_accessing_us_websites/",
-          "author": null,
-          "description": "I’m trying to access U.S. websites like FAFSA and academic websites like National Student Clearing House, but I keep getting 403 ERROR access could not be statuaries or Access Denied. \n Any advice?\n    submitted by    /u/Better_Breadfruit_21  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xyq3wh/403_error_when_accessing_us_websites/",
-          "publishedOn": "2022-10-08T11:11:17.000Z",
-          "wordCount": 36962,
-          "title": "403 Error when accessing U.S. websites",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xyprbc/going_on_a_date_with_a_foreigner_for_the_first/",
-          "author": null,
-          "description": "I chat with an Indian. After a month we arranged to meet at a coffee shop.\n The first time we met, we talked normally, suddenly he asked me \"How much is my salary?\". This is a question that makes me quite uncomfortable, there are many topics to ask but he chose to talk about salary first. Not to mention he has body odor, bad feet and smelly shoes which is quite annoying to me. He disrespected me in our first dating. I don't need someone who is too handsome, I just need to dress neatly and cleanly\n After that meeting, he suggested we become lovers :))), of course I refused and just wanted to stay friends but he kept bothering me, so I blocked him and no more contact. \n As a Vietnamese myself, I get annoyed when other people ask about my salary. I don't know if it's normal to ask about salary in the first meeting for foreigners?\n    submitted by    /u/dinhmaithao  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xyprbc/going_on_a_date_with_a_foreigner_for_the_first/",
-          "publishedOn": "2022-10-08T10:52:01.000Z",
-          "wordCount": 37594,
-          "title": "Going on a date with a foreigner for the first time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xyordr/30_day_itinerary_for_north_to_south_solo_trip/",
-          "author": null,
-          "description": "I'm flying to Hanoi at the end of the month and will be travelling north to south over the course of 30 days. I've been researching itineraries online and on this subreddit but there's a lot of information out there. It makes me feel a little overwhelmed and unprepared.\n I have some places in mind that I'd like to visit and have drawn up a rough timeline. I'm pretty flexible so your input and any useful information/advice would be much appreciated. I've opted for 3 nights in Hanoi as I arrive late evening. My timeline is as follows:\n Hanoi: 3 nights Sapa: 2 nights Ha Giang loop: 3 nights Halong bay: 2 nights Ninh Binh: 2 nights Vinh: 2 nights Hue: 2 nights Hoi An: 3 nights Nha Trang: 2 nights Dalat: 2 nights Mui Ne: 2 nights Ho Chi Minh: 3 nights Phu Quoc: 2 nights (Optional)\n Thank you, cam on!\n    submitted by    /u/gman462  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xyordr/30_day_itinerary_for_north_to_south_solo_trip/",
-          "publishedOn": "2022-10-08T09:52:55.000Z",
-          "wordCount": 33117,
-          "title": "30 day itinerary for north to south solo trip?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xym2jk/how_to_my_child_make_rices/",
-          "author": null,
-          "description": "submitted by    /u/SpamT0np  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xym2jk/how_to_my_child_make_rices/",
-          "publishedOn": "2022-10-08T07:05:14.000Z",
-          "wordCount": 36684,
-          "title": "How to my child make rices:",
-          "imageUrl": "https://external-preview.redd.it/tIW_X1-A_7jbfZvkmb2bigb7cJEXJa96J4a_SQ7Sl1E.png?format=pjpg&auto=webp&s=c04efd02e0cf62b07ef751f405018d079a480b1d"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xyktj8/help_naming_a_vietnamese_character_in_a_novel/",
-          "author": null,
-          "description": "Hello! I'm not of Vietnamese descent, but a character in a story I'm working on is and I want to get this right!\n She is first-generation Vietnamese American, so she will go by an English (Christian) name throughout the story, but she still needs a Vietnamese given name and family name. \n The English name I'd want to give to her is Trinity -- so \"Trinh\" would be perfect, but I'm not sure if that'd sound weird if used as a first name. Any other ideas? I'm not super committed to \"Trinity,\" but I'd like there to be some connection between her given name and English name.\n I also need a family name. I know \"Nguyen\" is the stereotypical one, but if you were reading a book with a Vietnamese main character, what other names would sound normal and natural to you?\n    submitted by    /u/stressedoutcyborg  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xyktj8/help_naming_a_vietnamese_character_in_a_novel/",
-          "publishedOn": "2022-10-08T05:50:44.000Z",
-          "wordCount": 38383,
-          "title": "Help naming a Vietnamese character in a novel?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xyjpkc/vietnamese_movie_with_english_subs/",
-          "author": null,
-          "description": "Looking for Vietnamese language movie's or tv show that have English subtitles.. That I can watch on the internet.\n Ideally Viet language movie with Both english and viet subs.\n Suggestions of movie names?\n Also websites and ways to find these?\n    submitted by    /u/CreateYourDreamLife  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xyjpkc/vietnamese_movie_with_english_subs/",
-          "publishedOn": "2022-10-08T04:47:58.000Z",
-          "wordCount": 33369,
-          "title": "Vietnamese movie with English subs?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xyg82s/is_google_translate_accurate/",
-          "author": null,
-          "description": "People will often use Google Translate to communicate with me because I don't understand Vietnamese at all. \n When they show me the translation (Vietnamese to English), I can understand what they mean, but when it's my turn to type something, they often look confused when they see the translation provided by Google Translate. \n It makes me wonder, is the app accurate when it comes to translating English into Vietnamese? It seems to be ok the other way around.\n    submitted by    /u/Hippyfreak_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xyg82s/is_google_translate_accurate/",
-          "publishedOn": "2022-10-08T01:44:57.000Z",
-          "wordCount": 34017,
-          "title": "is Google Translate accurate?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xyfcjt/is_it_legal_to_enter_vietnam_with_prescribed_adhd/",
-          "author": null,
-          "description": "I'm flying to vietnam and staying 2 nights before transitting to South Korea. I'll be taking less than a month's worth of prescribed Vyvanse. \n Besides getting prescription and approved documents by my doctor, do I need to fill out any forms or let the airport know ahead?\n    submitted by    /u/zectiz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xyfcjt/is_it_legal_to_enter_vietnam_with_prescribed_adhd/",
-          "publishedOn": "2022-10-08T01:00:30.000Z",
-          "wordCount": 35606,
-          "title": "Is it legal to enter Vietnam with prescribed ADHD drugs (Vyvanse)?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xyevak/what_would_it_take/",
-          "author": null,
-          "description": "Having just visited and being shocked at the state of repression by the government, political prisoners, corruption and just generally outraged at the state of the country, I have a question. Especially with what's happening in Iran and other places around the world. \n What would it actually take to create an uprising against the tyranny of the government and elites? And if that happened, what would likely occur? Would they be able to quash the rebellion if it was big enough?\n    submitted by    /u/DJR9000  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xyevak/what_would_it_take/",
-          "publishedOn": "2022-10-08T00:36:14.000Z",
-          "wordCount": 32868,
-          "title": "What would it take?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xyede6/translation_help/",
-          "author": null,
-          "description": "\"Theo nghi thức, đoàn tàu chạy đến rất xa đất liền, đến vài hải lý và sẽ trở về khi gặp cá Ông phun nước (Ông dội) thì tất cả các tàu quay về. Tuy nhiên, nếu như không gặp Ông dội thì các đoàn tàu tiếp tục ra khơi và cầu nguyện khấn vái, chủ lễ làm lễ “xin keo” và rước Ông về.\"\n ​\n what does it mean? google translation does not seem to translate it accurately...\n    submitted by    /u/pharsasa  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xyede6/translation_help/",
-          "publishedOn": "2022-10-08T00:11:21.000Z",
-          "wordCount": 32798,
-          "title": "translation help",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xye7hf/the_real_voice_of_xuan_quynh/",
-          "author": null,
-          "description": "submitted by    /u/Nai_Sud  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xye7hf/the_real_voice_of_xuan_quynh/",
-          "publishedOn": "2022-10-08T00:03:31.000Z",
-          "wordCount": 33161,
-          "title": "The real voice of Xuan Quynh",
-          "imageUrl": "https://external-preview.redd.it/rAMYdqO1bnPxB2vIGU48GHPUnbqeQSI_VZ_O3yBctUI.png?format=pjpg&auto=webp&s=3aea0e0998837399c5194bee0365688e391e000d"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xyc97w/the_video_of_two_vietnamese_girls_tried_to_cover/",
-          "author": null,
-          "description": "submitted by    /u/Nai_Sud  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xyc97w/the_video_of_two_vietnamese_girls_tried_to_cover/",
-          "publishedOn": "2022-10-07T22:32:52.000Z",
-          "wordCount": 32966,
-          "title": "The video of two Vietnamese girls tried to cover the poor dog being left by strangers in the middle of the road while it's raining, made everyone heart warming",
-          "imageUrl": "https://external-preview.redd.it/GIoaG76JZUdaT3NyQfUtoxzcwWDcvzzbHAW-vzQS9kc.png?format=pjpg&auto=webp&s=5f6dbf3d580634828b7f78e482c1cb973a202c04"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xybzwu/saw_this_traditional_play_on_the_streets_of_hanoi/",
-          "author": null,
-          "description": "submitted by    /u/cebu_96  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xybzwu/saw_this_traditional_play_on_the_streets_of_hanoi/",
-          "publishedOn": "2022-10-07T22:21:28.000Z",
-          "wordCount": 32838,
-          "title": "Saw this traditional play on the streets of Hanoi, not sure what the specific name for it is but it was very interesting to watch.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xyah5n/travel_advice_vietnam_south/",
-          "author": null,
-          "description": "Hi everyone, I’m currently in Ho Chi Minh city, from where I’m planning to travel up to Hoi An eventually. I want to take a train up towards Mui Ne first. I booked one that arrives at the Binh Thuan station, which is a bit further away from Mui Ne. Does anyone know whether it is easy to get good reliable transportation between Mui Ne and that train station?\n    submitted by    /u/Icy_Meringue1375  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xyah5n/travel_advice_vietnam_south/",
-          "publishedOn": "2022-10-07T21:15:37.000Z",
-          "wordCount": 32790,
-          "title": "Travel advice Vietnam South",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xy7ksq/day_trips_from_hcm_to_mekongdelta/",
-          "author": null,
-          "description": "I will be in Ho Chi Minh for a few days at the end of October and would like to make a trip to the Mekong Delta. I have looked at offers for day trips on various sites and they all say the same and very touristy. It seems like you are driven from shop to shop to buy coconut sweets, honey and chocolate and then see a show of people playing \"traditional\" music for you. Maybe I'm being too sceptical and it's not a touristy mall after all, but maybe someone here has experience with this.\n Are there perhaps other providers who offer tours on less beaten paths? I am grateful for any tips.\n    submitted by    /u/SNAFU-DE  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xy7ksq/day_trips_from_hcm_to_mekongdelta/",
-          "publishedOn": "2022-10-07T19:14:30.000Z",
-          "wordCount": 33138,
-          "title": "Day trips from HCM to Mekong-Delta",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xy54aw/female_solo_backpacker_3_weeks_in_vietnam/",
-          "author": null,
-          "description": "Hello y'all, I'm a female solo traveler planning to go to Vietnam (and also Cambodia) for a backpacking trip. I'm planning to visit the country south to north (mostly focusing on the north) , and I'd like to stay in Vietnam for 25 days (I'll dedicate either 4-5 days to Cambodia, just checking out to the capital and Angkor Wat). Is that enough or too much time? My main interest are nature, and history. I don't really care about hitting the beach, and partying is okay but not like a must. My itinerary is Ho chi Minh - flight to Hoi an - Hue - Phong Nha - Tom Coc (ninh binh) - Hanoi - cruise to Ha long Bay - Ha Giang Loop . Is there anything that i'm missing?\n I'm planning to be there at the end of February, March (i'll definitely be in the north during march). Is that a good time to visit? Can I book everything once I'm already there such as accommodation/flights to have some extra flexibility, or is it high season and I'd probably book everything ahead to avoid shitty hostels and expensive flights?\n Should I bother going to Sapa or is it too cold/foggy in March, and not worth it?\n How is it safety wise? Are night buses safe, do they drop you in the middle of nowhere or you can ask them to drop you close to your accommodation? I'm not thrilled about potentially walking alone at night with a huge backpack. Can you as tourist (i'm a skinny white girl there is no way I'll pass for a Vietnamese) walk safely at night alone ? Is taking taxis/tuk tuk alone at night safe (i've lived in south america, heard way too many horror stories)?\n Thanks for all the help :)\n    submitted by    /u/bi_shyreadytocry  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xy54aw/female_solo_backpacker_3_weeks_in_vietnam/",
-          "publishedOn": "2022-10-07T17:32:43.000Z",
-          "wordCount": 35110,
-          "title": "Female solo backpacker 3 weeks in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xy42p3/speakeasy_hidden_pubs_in_saigon/",
-          "author": null,
-          "description": "The best secret pubs in Saigon?\n    submitted by    /u/violetngx  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xy42p3/speakeasy_hidden_pubs_in_saigon/",
-          "publishedOn": "2022-10-07T16:50:27.000Z",
-          "wordCount": 32668,
-          "title": "Speakeasy hidden pubs in Saigon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xy2y86/history_of_l%C4%83ng_%C3%B4ng_nam_h%E1%BA%A3i_temple_at_song_doc/",
-          "author": null,
-          "description": "wondering if there is any kind soul who could help me translate this page https://www.baocamau.com.vn/van-hoa/lang-ong-nam-hai-song-doc-duoc-xep-hang-di-tich-cap-tinh-56915.html \n for it seems to be the only source I can find about the history of the Lăng Ông Nam Hải temple at Song Doc town of Tran Van Thoi district in Ca Mau province... \n welcome any info regarding this temple too!\n    submitted by    /u/pharsasa  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xy2y86/history_of_l%C4%83ng_%C3%B4ng_nam_h%E1%BA%A3i_temple_at_song_doc/",
-          "publishedOn": "2022-10-07T16:03:58.000Z",
-          "wordCount": 33342,
-          "title": "history of Lăng Ông Nam Hải temple at Song Doc town of Tran Van Thoi district in Ca Mau province",
-          "imageUrl": "https://external-preview.redd.it/_bxzwM-gjxHUyUHZeux0wbDq4BlNnJcm0gBTzrzrbZ4.jpg?auto=webp&s=d397cc97e2553f161b7f3faa07f36e72035f9637"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xy2eck/planning_a_3_week_trip_in_late_decjan/",
-          "author": null,
-          "description": "Hi!\n First time solo traveler here planning a trip from Dec 22nd for 3 weeks. Already booked a flight to Hanoi and plan to travel N to S. \n I've heard sapa is still worth it, but halong bay might not be due to the weather. Have also heard to limit Hoi An to 1-2 days. Any other recommendations would be appreciated greatly!\n    submitted by    /u/This_Union560  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xy2eck/planning_a_3_week_trip_in_late_decjan/",
-          "publishedOn": "2022-10-07T15:41:48.000Z",
-          "wordCount": 32912,
-          "title": "Planning a 3 week trip in Late Dec/Jan!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xy0wq3/how_to_find_english_speaking_jobs_in_saigon_hcm/",
-          "author": null,
-          "description": "Hey I'm currently a junior IT student based in SG, wonder where I could find an English speaking internship or a remote internship somewhere, does anyone know where to look for these?\n    submitted by    /u/Theboyscampus  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xy0wq3/how_to_find_english_speaking_jobs_in_saigon_hcm/",
-          "publishedOn": "2022-10-07T14:41:27.000Z",
-          "wordCount": 32871,
-          "title": "How to find English speaking jobs in Saigon (HCM City)?",
-          "imageUrl": null
         }
       ]
     },
@@ -7234,36 +7294,6 @@
           "wordCount": 1539,
           "title": "Python Programming Tips to Help You Level Up Your Code",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-ankush-rathi-925067.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typescript-generics-use-case-example/",
-          "author": "Aman Kalra",
-          "description": "In this tutorial, you'll learn the basics of generics in TypeScript. We'll discuss how to use them and when they're useful in your code. Use Case for Generics Let's start with a simple example, where you want to print the value of an argument passed: function printData(data: number) {",
-          "link": "https://www.freecodecamp.org/news/typescript-generics-use-case-example/",
-          "publishedOn": "2022-10-07T20:49:10.000Z",
-          "wordCount": 1189,
-          "title": "TypeScript Generics – Use Case and Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-hitarth-jadhav-220357.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-check-if-a-string-contains-a-substring-javascript/",
-          "author": "Dionysia Lemonaki",
-          "description": "When you're working with a JavaScript program, you might need to check whether a string contains a substring. A substring is a string inside another string. Specifically, you might need to check whether a word contains a specific character or a specific set of characters. Thankfully, there are a few",
-          "link": "https://www.freecodecamp.org/news/how-to-check-if-a-string-contains-a-substring-javascript/",
-          "publishedOn": "2022-10-07T18:00:38.000Z",
-          "wordCount": 2230,
-          "title": "How to Check if a String Contains a Substring in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-tranmautritam-251225.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/recursion-in-javascript-simplified/",
-          "author": "Dillion Megida",
-          "description": "Recursion works similarly to how loops do in JavaScript. Loops allow you to execute a set of code multiple times as long as a condition is true. In this article, I will explain what Recursion is and how it works in JavaScript. In loops, when the condition becomes false, the",
-          "link": "https://www.freecodecamp.org/news/recursion-in-javascript-simplified/",
-          "publishedOn": "2022-10-07T17:51:43.000Z",
-          "wordCount": 2285,
-          "title": "How Does Recursion Work? Simplified in JavaScript with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/recursion-js.png"
         }
       ]
     }
