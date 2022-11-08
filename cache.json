@@ -12,6 +12,66 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417E987D8.FloodWatch.126417F85420CA.LOXFFALOX.f22a00335cb97e40b92c913e6e574abc",
+          "author": null,
+          "description": "...FLOOD WATCH REMAINS IN EFFECT FROM 10 PM PST THIS EVENING THROUGH TUESDAY EVENING... * WHAT...Flash flooding and debris flows caused by excessive rainfall are possible over the recent burn scars in Los Angeles county. * WHERE...A portion of southwest California, including the following",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417E987D8.FloodWatch.126417F85420CA.LOXFFALOX.f22a00335cb97e40b92c913e6e574abc",
+          "publishedOn": "2022-11-07T21:02:00.000Z",
+          "wordCount": 252,
+          "title": "Flood Watch issued November 07 at 1:02PM PST until November 08 at 10:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417E987D8.FloodWatch.12641806AC00CA.LOXFFALOX.660db006851b431488301184566fe51a",
+          "author": null,
+          "description": "...FLOOD WATCH REMAINS IN EFFECT FROM 10 PM PST THIS EVENING THROUGH TUESDAY EVENING... * WHAT...Flash flooding and debris flows caused by excessive rainfall are possible over the recent burn scars in Los Angeles county. * WHERE...A portion of southwest California, including the following",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417E987D8.FloodWatch.12641806AC00CA.LOXFFALOX.660db006851b431488301184566fe51a",
+          "publishedOn": "2022-11-07T21:02:00.000Z",
+          "wordCount": 252,
+          "title": "Flood Watch issued November 07 at 1:02PM PST until November 09 at 4:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417E987D8.FloodWatch.126418079660CA.LOXFFALOX.050ddb220e0c1d84f4723b64f5fd1478",
+          "author": null,
+          "description": "...FLOOD WATCH REMAINS IN EFFECT FROM 10 PM PST THIS EVENING THROUGH TUESDAY EVENING... * WHAT...Flash flooding and debris flows caused by excessive rainfall are possible over the recent burn scars in Los Angeles county. * WHERE...A portion of southwest California, including the following",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417E987D8.FloodWatch.126418079660CA.LOXFFALOX.050ddb220e0c1d84f4723b64f5fd1478",
+          "publishedOn": "2022-11-07T21:02:00.000Z",
+          "wordCount": 248,
+          "title": "Flood Watch issued November 07 at 1:02PM PST until November 09 at 10:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417E970CC.WindAdvisory.126417F769C0CA.LOXNPWLOX.46e614808facfb71755b98277da85b2f",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 4 AM PST TUESDAY... * WHAT...South winds 15 to 25 mph with gusts up to 45 mph. * WHERE...Los Angeles County Mountains. * WHEN...Until 4 AM PST Tuesday. * IMPACTS...Gusty winds will blow around unsecured objects and make driving difficult, especially for high profile vehicles.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417E970CC.WindAdvisory.126417F769C0CA.LOXNPWLOX.46e614808facfb71755b98277da85b2f",
+          "publishedOn": "2022-11-07T20:43:00.000Z",
+          "wordCount": 163,
+          "title": "Wind Advisory issued November 07 at 12:43PM PST until November 08 at 4:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417E970CC.HighWindWarning.12641805C1A0CA.LOXNPWLOX.0b09f7cf2655079b89b85dca3b02c7cf",
+          "author": null,
+          "description": "...HIGH WIND WARNING IN EFFECT FROM 8 AM TO 10 PM PST TUESDAY... * WHAT...Southwest winds 25 to 35 mph with gusts up to 60 mph expected. * WHERE...Antelope Valley. * WHEN...From 8 AM to 10 PM PST Tuesday. * IMPACTS...Damaging winds will blow down large objects such as",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417E970CC.HighWindWarning.12641805C1A0CA.LOXNPWLOX.0b09f7cf2655079b89b85dca3b02c7cf",
+          "publishedOn": "2022-11-07T20:43:00.000Z",
+          "wordCount": 168,
+          "title": "High Wind Warning issued November 07 at 12:43PM PST until November 08 at 10:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417E94F34.WinterStormWarning.126418079660CA.LOXWSWLOX.1530648a0951482315a4136a8e40bce0",
+          "author": null,
+          "description": "...WINTER STORM WARNING IN EFFECT FROM 4 AM TUESDAY TO 10 AM PST WEDNESDAY... * WHAT...Heavy snow expected. Total snow accumulations of 6 to 14 inches with local amounts up to 20 inches. Highest amounts above 7000 feet. Less than 3 inches expected below 6000 ft and little or no accumulation below 5000 feet. Winds gusting as high as 70",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417E94F34.WinterStormWarning.126418079660CA.LOXWSWLOX.1530648a0951482315a4136a8e40bce0",
+          "publishedOn": "2022-11-07T19:57:00.000Z",
+          "wordCount": 218,
+          "title": "Winter Storm Warning issued November 07 at 11:57AM PST until November 09 at 10:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417DA5600.HighWindWatch.12641805C1A0CA.LOXNPWLOX.53bd7628f8e8590368c1067d4ece9675",
           "author": null,
           "description": "...HIGH WIND WATCH IN EFFECT FROM TUESDAY MORNING THROUGH TUESDAY EVENING... * WHAT...Southwest winds 25 to 40 mph with gusts up to 60 mph possible. * WHERE...Antelope Valley. * WHEN...From Tuesday morning through Tuesday evening.",
@@ -298,6 +358,206 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yp5ynu/cholera_vaccine/",
+          "author": null,
+          "description": "Is the cholera vaccine really necessary for travel? I’m leaving in a few months and stressing over what vaccines i may need. Any advice is appreciated.\n    submitted by    /u/eastcoastdude2823  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yp5ynu/cholera_vaccine/",
+          "publishedOn": "2022-11-08T00:27:44.000Z",
+          "wordCount": 14250,
+          "title": "Cholera vaccine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yp2x83/this_is_wild/",
+          "author": null,
+          "description": "submitted by    /u/02cdubc20  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yp2x83/this_is_wild/",
+          "publishedOn": "2022-11-07T22:31:46.000Z",
+          "wordCount": 14725,
+          "title": "This is wild!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yp1o0z/how_to_get_phone_internet_at_saigon_airport_i/",
+          "author": null,
+          "description": "submitted by    /u/Lopsided_Park2359  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yp1o0z/how_to_get_phone_internet_at_saigon_airport_i/",
+          "publishedOn": "2022-11-07T21:50:22.000Z",
+          "wordCount": 14713,
+          "title": "How to get phone Internet at Saigon airport. I need phone internet to get out from airport. Thanks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yp1hh5/what_are_these_called/",
+          "author": null,
+          "description": "submitted by    /u/DetailedGlobal  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yp1hh5/what_are_these_called/",
+          "publishedOn": "2022-11-07T21:44:09.000Z",
+          "wordCount": 14411,
+          "title": "What are these called??",
+          "imageUrl": "https://preview.redd.it/cbyzcwxymly91.jpg?auto=webp&s=a4ee6fad7a856aa959931f4e99c1285c9026c307"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yoy8s9/travelling_to_phu_quoc_hanoi_and_da_nang_hoi_an/",
+          "author": null,
+          "description": "Hi, I am travelling to Phu Quoc, Hanoi and Da nang/ Hoi An next week. All sorted on the places to go and things to do, but I really wanted suggestions about the food to eat and the places to eat it from \n I know this is very wide and vague, but I want to try all the local dishes and really sample as much of the Vietnamese cuisine as I can because I don't know if I'll come back to this beautiful country. \n Any suggestions about the joints/ restaurants to check out would be appreciated, along with the regional dishes to try. I understand a lot of Vietnamese food is street food so if you guys even recommend the streets/ markets to go to in these cities to sample the local fare, would love that. \n Specially looking to try as much coffee, noodles, rolls as I can!\n    submitted by    /u/Gold-Mushroom3152  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yoy8s9/travelling_to_phu_quoc_hanoi_and_da_nang_hoi_an/",
+          "publishedOn": "2022-11-07T19:52:43.000Z",
+          "wordCount": 15268,
+          "title": "Travelling to Phu Quoc, Hanoi and Da Nang/ Hoi An",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yovb9j/holidaying_on_the_coast/",
+          "author": null,
+          "description": "We were planning a trip down (or up) the coastline and then I saw there had been extensive flooding? Are there I travel able places as a result?\n    submitted by    /u/Mrsbocco  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yovb9j/holidaying_on_the_coast/",
+          "publishedOn": "2022-11-07T18:15:41.000Z",
+          "wordCount": 14262,
+          "title": "Holidaying on the coast!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yoswml/moving_money_into_the_country/",
+          "author": null,
+          "description": "Xin chào!\n My bank's fees are ridiculously high with 3% plus the base service fee of almost a million.\n Does anybody have any idea how to move money into Vietnam without giving parts of it to the financial leeches in the process?\n I've heard that gold sellers are offering good rates but I were wondering about their actual capacity limits.\n Could anyone share their expertise and experiences with me on the subject?\n    submitted by    /u/KinkyPeople  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yoswml/moving_money_into_the_country/",
+          "publishedOn": "2022-11-07T16:54:15.000Z",
+          "wordCount": 15639,
+          "title": "Moving money into the country",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yosdt2/i_have_been_trying_to_find_all_these_songs_maybe/",
+          "author": null,
+          "description": "submitted by    /u/loveorleavekpop  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yosdt2/i_have_been_trying_to_find_all_these_songs_maybe/",
+          "publishedOn": "2022-11-07T16:36:51.000Z",
+          "wordCount": 15290,
+          "title": "I have been trying to find all these songs [maybe 5 to 6] from this mashup from this Aerobic workout video. I am pretty sure those are Vietnamese.[Timestamps in comment]",
+          "imageUrl": "https://external-preview.redd.it/qOsmbFFY2a1KADlia1auM8R7CkjD3lOEwhImdGWOVn8.jpg?auto=webp&s=f4e2f63b3549afeb35104353e2e4352bb7fe3f25"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yoqpqy/prescription_medicine_use_in_vietnam/",
+          "author": null,
+          "description": "Hello All\n I am new to reddit. I am a student studying illegal drug use globally. I am doing a side project focusing on Vietnam specifically, and noticed that there has been a lot of prescription medicines being seized by Vietnamese police. Why is this happening. I never remember this being an issue 3-4 years ago.\n    submitted by    /u/Plaatipus-e_Mokhader  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yoqpqy/prescription_medicine_use_in_vietnam/",
+          "publishedOn": "2022-11-07T15:41:51.000Z",
+          "wordCount": 15138,
+          "title": "Prescription medicine use in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yopjh3/opinions_on_so_called_nh%C3%A2n_quy%E1%BB%81n_ch%E1%BB%91ng_ph%E1%BA%A3n_%C4%91%E1%BB%99ng/",
+          "author": null,
+          "description": "I really wanted to ask some people about their opinions on these types of users. They keep appearing on my facebook recommendations and I just find them annoying af.\n    submitted by    /u/Real-Imagination671  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yopjh3/opinions_on_so_called_nh%C3%A2n_quy%E1%BB%81n_ch%E1%BB%91ng_ph%E1%BA%A3n_%C4%91%E1%BB%99ng/",
+          "publishedOn": "2022-11-07T15:02:10.000Z",
+          "wordCount": 27443,
+          "title": "Opinions on so called \"Nhân quyền\", \"Chống phản động\", \"Dòng máu Việt\", \"Ba sọc\" or \" Yêu tự do\" facebook users",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yopbz8/being_an_idiot_and_playing_with_a_dog_on_cat_ba/",
+          "author": null,
+          "description": "Hi guys, I am currently travelling through Vietnam. 2 days ago while on Cat Ba island as I was biking, a dog came up to me and seemed friendly. He played around for a bit and ‘teethed’ (place his teeth on but not bite) my hand. He also lightly scratched me (left a mark for 5 minutes before disappearing). Does anyone know if there is rabies on Cat Ba Island? And also does anyone know if the situation I described is enough to transmit rabies? I’m currently heading to Ha Giang so will be away from any vaccination clinic. But it is now a massive worry, as I thought Rabies is evident with aggressive or erratic behaviour.\n    submitted by    /u/Super-Slice-1550  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yopbz8/being_an_idiot_and_playing_with_a_dog_on_cat_ba/",
+          "publishedOn": "2022-11-07T14:55:13.000Z",
+          "wordCount": 17387,
+          "title": "Being an idiot and playing with a dog on Cat Ba Island",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yoot8i/help_regarding_assignment_on_vietnam/",
+          "author": null,
+          "description": "Hi, As posted earlier in this sub, I am planning to visit Vietnam for a work related trip from the 16th of November. \n But prior to that, I have been asked to prepare an assignment on Agriculture-based industries in Vietnam. I have gone through a few articles and videos on the internet, but it would have been really great if I could receive some insights and sources from locals there. \n Thanks in advance.\n    submitted by    /u/Couple_Infinite  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yoot8i/help_regarding_assignment_on_vietnam/",
+          "publishedOn": "2022-11-07T14:36:34.000Z",
+          "wordCount": 15437,
+          "title": "Help regarding assignment on Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yoo81r/any_tips_for_a_first_time_traveller_to_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/juicetinnnnnnn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yoo81r/any_tips_for_a_first_time_traveller_to_vietnam/",
+          "publishedOn": "2022-11-07T14:16:21.000Z",
+          "wordCount": 18870,
+          "title": "Any tips for a first time traveller to Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yoncld/bruh/",
+          "author": null,
+          "description": "submitted by    /u/Opposite_Interest844  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yoncld/bruh/",
+          "publishedOn": "2022-11-07T13:45:39.000Z",
+          "wordCount": 15033,
+          "title": "Bruh",
+          "imageUrl": "https://preview.redd.it/s732gafl9jy91.jpg?auto=webp&s=fcc88432a0a5b5fe0de404314877ff3987526fcc"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yomm4k/and_thus_every_kid_named_%C4%91%E1%BA%A1i_suffers_in_history/",
+          "author": null,
+          "description": "submitted by    /u/Le_Charlie  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yomm4k/and_thus_every_kid_named_%C4%91%E1%BA%A1i_suffers_in_history/",
+          "publishedOn": "2022-11-07T13:17:56.000Z",
+          "wordCount": 14653,
+          "title": "And thus every kid named Đại suffers in history class.",
+          "imageUrl": "https://preview.redd.it/ue0u0atc4jy91.jpg?auto=webp&s=4d0623b85704ce155daacf594b69ebc827e04e24"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yomj8z/photos_i_took_at_the_abandoned_van_mieu_in_hue_3/",
+          "author": null,
+          "description": "submitted by    /u/BornChef3439  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yomj8z/photos_i_took_at_the_abandoned_van_mieu_in_hue_3/",
+          "publishedOn": "2022-11-07T13:14:57.000Z",
+          "wordCount": 14039,
+          "title": "photo's I took at the abandoned Van Mieu in Hue 3 years ago",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yolb3o/as_a_vietnamese_i_have_no_words_to_say/",
+          "author": null,
+          "description": "submitted by    /u/MrMinhDang  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yolb3o/as_a_vietnamese_i_have_no_words_to_say/",
+          "publishedOn": "2022-11-07T12:25:22.000Z",
+          "wordCount": 16739,
+          "title": "As a Vietnamese, I have no words to say.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yogpcs/a_special_chance_meeting_at_hoan_kiem_lake/",
+          "author": null,
+          "description": "submitted by    /u/DavidHobby  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yogpcs/a_special_chance_meeting_at_hoan_kiem_lake/",
+          "publishedOn": "2022-11-07T08:20:55.000Z",
+          "wordCount": 18956,
+          "title": "A special chance meeting at Hoan Kiem Lake",
+          "imageUrl": "https://preview.redd.it/tjukkpk4nhy91.jpg?auto=webp&s=28c0645cc99ab48fa0e282fd2811589c836fb2ca"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yocckn/does_anyone_observe_r%E1%BA%B1m_and_why_is_it_important/",
+          "author": null,
+          "description": "submitted by    /u/Pandafrosting  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yocckn/does_anyone_observe_r%E1%BA%B1m_and_why_is_it_important/",
+          "publishedOn": "2022-11-07T04:13:41.000Z",
+          "wordCount": 14426,
+          "title": "Does anyone observe Rằm and why is it important to be vegetarian for the day?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yoc7yv/question_about_usage_of_em/",
+          "author": null,
+          "description": "Chao ban\n I had a long discussion about usage of \"em\" with a Vnmese girl and I felt that there seems to be some inconsistencies between what she said and what I had learnt so far.\n Perhaps there are some nuances of the Vnmese language / grammar that I am missing, so I just want to check with Vietnamese speakers here... cam on rat nhieu\n For context, I'm the older guy here.\n For so many months, I have addressed the girl as,\n - Hey/morning/goodnight em\n - em ngu ngon / em ngu ngon nha\n - Her name + em\n And there were no complaints from her. Sometimes it even seemed that she liked it.\n Then suddenly a couple days ago, she asked me not to call her \"em\", as she feels that it's impolite.\n She explained that addressing Vnmese people is a complex matter and that I have been using it the wrong way …",
+          "link": "https://www.reddit.com/r/VietNam/comments/yoc7yv/question_about_usage_of_em/",
+          "publishedOn": "2022-11-07T04:07:05.000Z",
+          "wordCount": 18451,
+          "title": "Question about usage of \"em\"",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/yo7zt5/us_attempt_to_confront_china_russia_by_pivoting/",
           "author": null,
@@ -6117,206 +6377,6 @@
           "wordCount": 33355,
           "title": "Local USD-VND exchange offering higher than exchange rate?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xzkyxy/health_insurance_direct_billing/",
-          "author": null,
-          "description": "I've been researching health insurance plans and the company tenzing pacific was one of the recommended places. \n On their website:\n https://ten-pac.com/direct-billing-is-great-but-not-perfect-for-everything/?utm_source=social+media&utm_medium=post&utm_campaign=blog-directbilling\n they have a graphic and it says direct billing 'eliminates paperwork'...but then below that it says direct billing is useful but can have drawbacks. It goes on to say:\n  \nOne reality most people aren’t aware of is that many medical providers charge more if you have insurance. They do this because they don’t have the additional costs of administering insurance billing and payments...\n  \nSurely, if the medical provider do NOT have the additional cost of administering billing and payments then the bill will be LESS not MORE?\n    submitted by    /u/Hot-Point-9174  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xzkyxy/health_insurance_direct_billing/",
-          "publishedOn": "2022-10-09T12:53:43.000Z",
-          "wordCount": 33880,
-          "title": "health insurance - direct billing",
-          "imageUrl": "https://external-preview.redd.it/NP_Os53LeCsvJi1ZKelaOvomV0TARjCEBkK3uBQi2RI.jpg?auto=webp&s=9b8607d78bb575a2bb34cc7b3f5c612bcbc11f1e"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xzkml7/recommendations_and_cautions_for_travelling/",
-          "author": null,
-          "description": "Hi\n I am visiting Northern Vietnam this week. I am looking for tips, recommendations and any warnings that I can make use. \n I am landing in Hanoi. And planned to take the cruise for Ha Lon Bay. But I don’t have any plans for almost a week. \n I plan to do local sightseeing and also shopping. I want to buy local stuff and hopefully within budget. \n I plan to travel a couple of places near Ha Noi where I can go for day tours but not sure yet\n I have already been to Saigon few months ago. \n Looking for help from you guys. \n TIA\n    submitted by    /u/ConfusedAndMe  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xzkml7/recommendations_and_cautions_for_travelling/",
-          "publishedOn": "2022-10-09T12:36:18.000Z",
-          "wordCount": 36680,
-          "title": "Recommendations and Cautions for travelling Northern Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xzkfca/liberation_day_hanoi_oct_10th/",
-          "author": null,
-          "description": "Hello, me and my buddy are in Hanoi for a week and we saw that there will be an event tomorrow (10/10) here, we were wondering if there would be any parade or event. If so, at what place and time would it take place?\n    submitted by    /u/Miniblinn  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xzkfca/liberation_day_hanoi_oct_10th/",
-          "publishedOn": "2022-10-09T12:26:01.000Z",
-          "wordCount": 33233,
-          "title": "Liberation day Hanoi oct 10th",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xzizv0/l%C3%A0m_sao_%C4%91%E1%BB%83_ph%E1%BB%A5c_h%E1%BB%93i_ph%E1%BA%A7n_b%E1%BB%8B_%E1%BB%91_v%C3%A0ng_n%C3%A0y_nh%E1%BB%9F_n%C3%B3_l%C3%A0/",
-          "author": null,
-          "description": "submitted by    /u/PowerfulPace1783  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xzizv0/l%C3%A0m_sao_%C4%91%E1%BB%83_ph%E1%BB%A5c_h%E1%BB%93i_ph%E1%BA%A7n_b%E1%BB%8B_%E1%BB%91_v%C3%A0ng_n%C3%A0y_nh%E1%BB%9F_n%C3%B3_l%C3%A0/",
-          "publishedOn": "2022-10-09T11:08:12.000Z",
-          "wordCount": 32792,
-          "title": "Làm sao để phục hồi phần bị ố vàng này nhở. Nó là phần keo kiểu như nhựa nhưng mỏng hơn",
-          "imageUrl": "https://preview.redd.it/50dy7valirs91.png?auto=webp&s=bef1a75d63dca300d5b5e68c96e57c866cacca29"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xzi4t6/travel_advice/",
-          "author": null,
-          "description": "Hi everyone,\n I have a week early December to spend in either Thailand or Vietnam.\n Has anyone been to both and can share experiences and what their favourite was and why?\n About me: I am 29(F). I don’t enjoy kicking back and relaxing on holidays (I know these places are good for that but not why I’d go) - I want to see interesting things, go on hikes, see beautiful landscapes and learn about culture and history.\n Appreciate your help! :)\n    submitted by    /u/Empty_Zombie_561  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xzi4t6/travel_advice/",
-          "publishedOn": "2022-10-09T10:17:38.000Z",
-          "wordCount": 33471,
-          "title": "Travel advice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xzgpj4/best_way_to_send_money_from_one_vietnam_city_to/",
-          "author": null,
-          "description": "My mom and I are in Vietnam. We are from the United States. I will be exploring different cities in Vietnam while my mom will be staying with family in Phước Tỉnh. What would be the best way to send money to her while I am travelling abroad in Vietnam if she happens to need more money? She is much older and not good with technology so PayPal and those kinds of apps are not ideal.\n    submitted by    /u/GrowInTheDark  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xzgpj4/best_way_to_send_money_from_one_vietnam_city_to/",
-          "publishedOn": "2022-10-09T08:48:32.000Z",
-          "wordCount": 33696,
-          "title": "Best way to send money from One Vietnam City to Another Vietnam City?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xzfp43/what_happened_to_mountain_dew_in_vietnam/",
-          "author": null,
-          "description": "I was an avid Mountain Dew guy,I would buy Doritos and Mount Dew in nearby convenience stores and drinking it during some ranked games of Splatoon 2 last year Nowadays,Every store I went Mountain Dew is nowhere to be seen,What happened to it here,Did it got discontinued\n    submitted by    /u/PokeAaron64  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xzfp43/what_happened_to_mountain_dew_in_vietnam/",
-          "publishedOn": "2022-10-09T07:44:14.000Z",
-          "wordCount": 34005,
-          "title": "What happened to Mountain Dew in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xze0sz/how_to_make_the_hangover_cure_not_quite_like/",
-          "author": null,
-          "description": "You will have to find your own ratio of soda water. 🗿\n    submitted by    /u/Aware-Moment-7689  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xze0sz/how_to_make_the_hangover_cure_not_quite_like/",
-          "publishedOn": "2022-10-09T05:59:34.000Z",
-          "wordCount": 35975,
-          "title": "How to make the hangover cure, not quite like western redbull but I think it’s better because it’s more watery.",
-          "imageUrl": "https://preview.redd.it/z5pro3i00qs91.jpg?auto=webp&s=a7421a297ad5aba65e7b0ed1b75d99b326649199"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xzdz8y/who_has_seen_this_amazing_artwork_atb%E1%BA%A3o_t%C3%A0ng/",
-          "author": null,
-          "description": "submitted by    /u/Inevitable_Dust_7234  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xzdz8y/who_has_seen_this_amazing_artwork_atb%E1%BA%A3o_t%C3%A0ng/",
-          "publishedOn": "2022-10-09T05:56:55.000Z",
-          "wordCount": 33249,
-          "title": "Who has seen this amazing artwork atBảo tàng Chiến thắng Điện Biên Phủ",
-          "imageUrl": "https://external-preview.redd.it/GV1ks7y1TJLPw1t3bzM1fo4kSIsr0-swr6G90q5uJB4.png?format=pjpg&auto=webp&s=695005a71610a9f3c48f68ed59a322e16bc66201"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xzamgq/foreigner_wishing_to_visit_during_tet/",
-          "author": null,
-          "description": "I am sure that this type of question is posted and reposted multiple times around this time of year, so I apologize if I am being redundant. I searched Tet in the sub history and did not see many things regarding the questions I have.\n Firstly, my girlfriend and I are interested in traveling to Vietnam during Tet as it seems like a joyous way to celebrate the new year. Here in the US there are group activities such as bars to go to and fire work shows. We looked at cities and dates, and have thought about spending the month of January from beginning to end in Hoi An.\n I understand we may be behaving as ignorant Americans, thinking that everything will be open or that there will be mass celebrations. But we really just want to experience the culture. Is it possible -post Covid- to do this somewhere in Vietnam? Neither of us wish to be disrespectful to your country. We are realistic travelers, we know to go with the flow and are ok with buying food to make our own meals. We do NOT expect to be catered to or waited on. We want to enjoy your beautiful culture.\n Is Hoi An truly a good city for this type of thing, or should we go to Ho Chi Minh city?\n If it is possible to join a city in celebration of Tet, how should we go about this while being respectful?\n Thank you for taking the time to read this, I wish you the best.\n ​\n EDIT: Thank you all for your responses. I see I did misunderstand the nature of Tet. It seems it would be better for my girlfriend and I to visit during a different time year. I appreciate you all. We will look for somewhere else to visit.\n    submitted by    /u/That_one_Gguy  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xzamgq/foreigner_wishing_to_visit_during_tet/",
-          "publishedOn": "2022-10-09T02:46:32.000Z",
-          "wordCount": 36032,
-          "title": "Foreigner wishing to visit during Tet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xz8wwr/vietnam_trip_mid_november_weather/",
-          "author": null,
-          "description": "Planning on a trip to vietnam in mid November- currently maiming looking at travelling around the north hanoi, sapa , ha long bay , nih binh and making our way down to hoi an. What will the climate, temperature and rain fall be like? Is it better to travel in the north or south around this time? Cheers thanks in advance for your help 😀\n    submitted by    /u/Unique-goose19  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xz8wwr/vietnam_trip_mid_november_weather/",
-          "publishedOn": "2022-10-09T01:17:31.000Z",
-          "wordCount": 32785,
-          "title": "Vietnam trip mid November weather?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xz8vmy/hows_the_driverless_car_in_binh_duong_works/",
-          "author": null,
-          "description": "submitted by    /u/Nai_Sud  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xz8vmy/hows_the_driverless_car_in_binh_duong_works/",
-          "publishedOn": "2022-10-09T01:15:44.000Z",
-          "wordCount": 32688,
-          "title": "How's the driverless car in Binh Duong works?",
-          "imageUrl": "https://external-preview.redd.it/LdHqZNOpqwsjnrHfFXN5mDVi37XesFfjrsyhK-TF1hk.png?format=pjpg&auto=webp&s=96235b3be8c07f49e3500c568eaddb524c03dce5"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xz6u0t/terrible_air_quality_morning_5am_why/",
-          "author": null,
-          "description": "submitted by    /u/val2ptr  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xz6u0t/terrible_air_quality_morning_5am_why/",
-          "publishedOn": "2022-10-08T23:32:40.000Z",
-          "wordCount": 32692,
-          "title": "terrible air quality morning 5am. why?",
-          "imageUrl": "https://preview.redd.it/04p32ikz2os91.png?auto=webp&s=0eb79db7143c5e369304897c183354a0fe4bcfb5"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xz6eih/massive_arrest_didnt_expect_this/",
-          "author": null,
-          "description": "This will definitely go down bigger then flc this year arrest. Lady practically owns 80% of the famous Nguyen hue st, Saigon. What are the odds she’ll get a slap on the wrist and let go\n https://e.vnexpress.net/news/companies/property-developer-van-thinh-phats-chairwoman-arrested-for-bond-fraud-4520740.html\n    submitted by    /u/xTroiOix  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xz6eih/massive_arrest_didnt_expect_this/",
-          "publishedOn": "2022-10-08T23:12:00.000Z",
-          "wordCount": 33341,
-          "title": "Massive arrest… didn’t expect this",
-          "imageUrl": "https://external-preview.redd.it/_5nIC9P2OdqEpGs-cxQ5askGO_IbDAlFr5tcB1ZtsmQ.jpg?auto=webp&s=cd0b38c006f7403d259b02c6c0627794c557eb61"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xz5w5x/the_vietnamese_comedy_video_from_your_2000s/",
-          "author": null,
-          "description": "submitted by    /u/Nai_Sud  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xz5w5x/the_vietnamese_comedy_video_from_your_2000s/",
-          "publishedOn": "2022-10-08T22:48:23.000Z",
-          "wordCount": 32688,
-          "title": "The Vietnamese comedy video from your 2000s childhood",
-          "imageUrl": "https://external-preview.redd.it/pSVVFXyWZi_xTvlM8uJiiHPHrE8XEqJpDS_ZR6anDJQ.png?format=pjpg&auto=webp&s=18e2a0a352d9ceee224f428f6e2c4c16b1e75431"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xz01uk/district_1_from_thu_thiem_bridge/",
-          "author": null,
-          "description": "submitted by    /u/zekat17  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xz01uk/district_1_from_thu_thiem_bridge/",
-          "publishedOn": "2022-10-08T18:34:56.000Z",
-          "wordCount": 32664,
-          "title": "District 1 from Thu Thiem bridge",
-          "imageUrl": "https://preview.redd.it/x4lw7x6vlms91.jpg?auto=webp&s=fde09dd0a686d9c41ae69817266ec7f9d80d4b22"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xyz6mh/%C3%A1o_d%C3%A0i/",
-          "author": null,
-          "description": "submitted by    /u/DifferentCarpet8669  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xyz6mh/%C3%A1o_d%C3%A0i/",
-          "publishedOn": "2022-10-08T17:59:26.000Z",
-          "wordCount": 35954,
-          "title": "Áo dài",
-          "imageUrl": "https://preview.redd.it/sgwoqo7hfms91.png?auto=webp&s=1aa650659c3bc5e11d1d4c44bab6cf2e9594a190"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xyvenr/translate_the_text_on_my_jacket_i_bought_this/",
-          "author": null,
-          "description": "submitted by    /u/Oscarradh  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xyvenr/translate_the_text_on_my_jacket_i_bought_this/",
-          "publishedOn": "2022-10-08T15:21:57.000Z",
-          "wordCount": 32929,
-          "title": "Translate the text on my jacket, I bought this moose knuckles jacket a year ago but found this hidden text on the inside label. Greetings from Sweden!",
-          "imageUrl": "https://preview.redd.it/0z6fs0fbnls91.jpg?auto=webp&s=93facb0d087de22f06a8946955714b162e5b935d"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xytmlw/cheapest_way_to_stay_for_34_months_tou_rist/",
-          "author": null,
-          "description": "So, my gf is currently in vietnam and I'm in Cambodia. I was recently in vietnam on 15 day visa exemption, but now I want to work out the cheapest way to stay in VN for approx 3-4 months as a tourist.\n it'll be Da Nang by the way.\n I assume flying in with e-visa is the first step, but what then? someone mentioned the cheapest way currently is to fly to BKK and back on e-visa again every 30 days - is this right??\n    submitted by    /u/Adam302  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xytmlw/cheapest_way_to_stay_for_34_months_tou_rist/",
-          "publishedOn": "2022-10-08T14:04:32.000Z",
-          "wordCount": 32937,
-          "title": "Cheapest way to stay for 3-4 months (tou rist)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xytkce/does_mimosa_contain_diazepam/",
-          "author": null,
-          "description": "Does this actually have diazepam in it or is the packaging comparing it to diazepam? The only active ingredients listed are some sort of herbal remedies for sleep.\n    submitted by    /u/adamsgoof  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xytkce/does_mimosa_contain_diazepam/",
-          "publishedOn": "2022-10-08T14:01:48.000Z",
-          "wordCount": 32852,
-          "title": "Does mimosa contain diazepam?",
-          "imageUrl": "https://preview.redd.it/79uz69l49ls91.jpg?auto=webp&s=f602bcc5c6ebeaaa6108020c20897fe902cb1b40"
         }
       ]
     },
@@ -6325,6 +6385,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-learn-linux-terminal-as-a-beginner/",
+          "author": "Arunachalam B",
+          "description": "In 2017, I bought a new laptop and switched to Linux. I started off with Ubuntu (but jumped to Elementary [https://elementary.io/] later), as most people suggested it was beginner friendly.  People also suggested that I should get used to using the keyboard and terminal over a mouse to enjoy",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-linux-terminal-as-a-beginner/",
+          "publishedOn": "2022-11-07T21:25:11.000Z",
+          "wordCount": 2715,
+          "title": "How to Learn the Linux Terminal as a Beginner – Tips and Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/10.-Linux-basic-commands---Brief.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/toggle-elements-in-react-using-hooks/",
+          "author": "Deji Adesoga",
+          "description": "When building a web application, toggling an element is one of the key features you are likely to come across and may need to implement in your project. There are various ways you can toggle an element. In this article, we will take a look at how we can implement",
+          "link": "https://www.freecodecamp.org/news/toggle-elements-in-react-using-hooks/",
+          "publishedOn": "2022-11-07T18:26:54.000Z",
+          "wordCount": 2588,
+          "title": "How to Toggle an Element in React using React Hooks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Copy-of-Coffee-Tutorial-YouTube-Thumbnail--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-css/",
+          "author": "Jessica Wilkins",
+          "description": "Cascading Style Sheets (CSS) represents the design for a web page. But when you are learning this information for the first time, it can be hard to keep track of all of the different CSS properties. In this article, I have created a study guide for the freeCodeCamp curriculum's entire",
+          "link": "https://www.freecodecamp.org/news/learn-css/",
+          "publishedOn": "2022-11-07T18:24:20.000Z",
+          "wordCount": 4762,
+          "title": "Learn CSS – Responsive Web Design Study Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/kobu-agency-ipARHaxETRk-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/high-availability-fault-tolerance-and-disaster-recovery-explained/",
+          "author": "Daniel Adetunji",
+          "description": "High availability, fault tolerance and disaster recovery are important things to consider when designing a system.  These terms are sometimes used interchangeably by architects and developers. They are not, however, the same thing – and understanding the differences can save you many headaches, as well as time and money.",
+          "link": "https://www.freecodecamp.org/news/high-availability-fault-tolerance-and-disaster-recovery-explained/",
+          "publishedOn": "2022-11-07T17:10:24.000Z",
+          "wordCount": 3341,
+          "title": "High Availability vs Fault Tolerance vs Disaster Recovery – Explained with an Analogy",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Slide6.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/",
+          "author": "Dillion Megida",
+          "description": "Coercion is an automatic type conversion that occurs in JavaScript when you want to perform certain operations. I'll explain what coercion is in this article. What is Type Conversion? As the name implies, type conversion is the process of converting a value from one type to another. Values in JavaScript",
+          "link": "https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript/",
+          "publishedOn": "2022-11-07T17:03:46.000Z",
+          "wordCount": 2109,
+          "title": "Coercion and Type Conversion in JavaScript – Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/4.-coercion.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/",
           "author": "Ihechikara Vincent Abba",
