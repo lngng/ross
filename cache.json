@@ -12,6 +12,106 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F8CD38.WindAdvisory.126418052560CA.LOXNPWLOX.44be33e1f758f69075d970fa7d81c837",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 6 PM PST THIS EVENING... * WHAT...South winds 20 to 30 mph with gusts up 45 mph expected. * WHERE...Santa Clarita Valley and Santa Monica Mountains. * WHEN...Until 6 PM PST this evening. * IMPACTS...Gusty winds will blow around unsecured objects and make driving difficult, especially for high profile vehicles.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F8CD38.WindAdvisory.126418052560CA.LOXNPWLOX.44be33e1f758f69075d970fa7d81c837",
+          "publishedOn": "2022-11-08T21:10:00.000Z",
+          "wordCount": 187,
+          "title": "Wind Advisory issued November 08 at 1:10PM PST until November 08 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F8CD38.WindAdvisory.126418052560CA.LOXNPWLOX.d7f276a0ce4b416f687a2071ba2d6de9",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 6 PM PST THIS EVENING... * WHAT...South winds 15 to 25 mph with local gusts up to 40 mph expected. * WHERE...Portions of southwest California. * WHEN...Until 6 PM PST this evening. * IMPACTS...Gusty winds will blow around unsecured objects and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F8CD38.WindAdvisory.126418052560CA.LOXNPWLOX.d7f276a0ce4b416f687a2071ba2d6de9",
+          "publishedOn": "2022-11-08T21:10:00.000Z",
+          "wordCount": 306,
+          "title": "Wind Advisory issued November 08 at 1:10PM PST until November 08 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F8CD38.WindAdvisory.126418059A90CA.LOXNPWLOX.bb26c97fcfb21f086b487dd6eded82c7",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 9 PM PST THIS EVENING... * WHAT...South winds 20 to 30 mph with gusts up to 40 mph expected. * WHERE...Catalina and Santa Barbara Islands. * WHEN...Until 9 PM PST this evening. * IMPACTS...Gusty winds will blow around unsecured objects. Tree",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F8CD38.WindAdvisory.126418059A90CA.LOXNPWLOX.bb26c97fcfb21f086b487dd6eded82c7",
+          "publishedOn": "2022-11-08T21:10:00.000Z",
+          "wordCount": 131,
+          "title": "Wind Advisory issued November 08 at 1:10PM PST until November 08 at 9:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F8CD38.HighWindWarning.12641805C1A0CA.LOXNPWLOX.0b09f7cf2655079b89b85dca3b02c7cf",
+          "author": null,
+          "description": "...HIGH WIND WARNING REMAINS IN EFFECT UNTIL 10 PM PST THIS EVENING... * WHAT...Southwest winds 30 to 45 mph with gusts up to 70 mph expected. * WHERE...Antelope Valley. * WHEN...Until 10 PM PST this evening.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F8CD38.HighWindWarning.12641805C1A0CA.LOXNPWLOX.0b09f7cf2655079b89b85dca3b02c7cf",
+          "publishedOn": "2022-11-08T21:10:00.000Z",
+          "wordCount": 174,
+          "title": "High Wind Warning issued November 08 at 1:10PM PST until November 08 at 10:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F843B8.WinterStormWarning.126418079660CA.LOXWSWLOX.b9dab343a0c4ec909afc22b91d8ef5c9",
+          "author": null,
+          "description": "...WINTER STORM WARNING REMAINS IN EFFECT UNTIL 10 AM PST WEDNESDAY... * WHAT...Heavy snow expected. Total snow accumulations of 8 to 14 inches with local amounts up to 20 inches. Highest amounts above 7000 feet. Winds gusting as high as 75 mph, especially on the mountain peaks. Snowfall accumulation between 3 to 6",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F843B8.WinterStormWarning.126418079660CA.LOXWSWLOX.b9dab343a0c4ec909afc22b91d8ef5c9",
+          "publishedOn": "2022-11-08T17:58:00.000Z",
+          "wordCount": 209,
+          "title": "Winter Storm Warning issued November 08 at 9:58AM PST until November 09 at 10:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F7E4CC.BeachHazardsStatement.126418076F50CA.LOXCFWLOX.84db2f971e51a3aebbc87f47f516b968",
+          "author": null,
+          "description": "...BEACH HAZARDS STATEMENT IN EFFECT THROUGH WEDNESDAY MORNING... * WHAT...Dangerous rip currents and breaking waves due to elevated surf of 3 to 6 feet with local sets to 7 feet. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County Beaches with west facing exposure. * WHEN...Through Wednesday morning.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F7E4CC.BeachHazardsStatement.126418076F50CA.LOXCFWLOX.84db2f971e51a3aebbc87f47f516b968",
+          "publishedOn": "2022-11-08T15:15:00.000Z",
+          "wordCount": 198,
+          "title": "Beach Hazards Statement issued November 08 at 7:15AM PST until November 09 at 9:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F723D4.FloodWatch.126418052560CA.LOXFFALOX.f22a00335cb97e40b92c913e6e574abc",
+          "author": null,
+          "description": "...FLOOD WATCH REMAINS IN EFFECT THROUGH THIS EVENING FOR THE RECENT BURN AREAS IN LOS ANGELES COUNTY... * WHAT...Flash flooding and debris flows caused by excessive rainfall are possible over the recent burn scars in Los Angeles County. * WHERE...Portions of the Los Angeles County Mountains, Antelope",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F723D4.FloodWatch.126418052560CA.LOXFFALOX.f22a00335cb97e40b92c913e6e574abc",
+          "publishedOn": "2022-11-08T10:21:00.000Z",
+          "wordCount": 273,
+          "title": "Flood Watch issued November 08 at 2:21AM PST until November 08 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F723D4.FloodWatch.126418059A90CA.LOXFFALOX.35c00da8d2a5249613476978f72e4ce7",
+          "author": null,
+          "description": "...FLOOD WATCH REMAINS IN EFFECT THROUGH THIS EVENING FOR THE RECENT BURN AREAS IN LOS ANGELES COUNTY... * WHAT...Flash flooding and debris flows caused by excessive rainfall are possible over the recent burn scars in Los Angeles County. * WHERE...Portions of the Los Angeles County Mountains, Antelope",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F723D4.FloodWatch.126418059A90CA.LOXFFALOX.35c00da8d2a5249613476978f72e4ce7",
+          "publishedOn": "2022-11-08T10:21:00.000Z",
+          "wordCount": 267,
+          "title": "Flood Watch issued November 08 at 2:21AM PST until November 08 at 9:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F723D4.FloodWatch.12641806AC00CA.LOXFFALOX.f097ad54a678b41156b1b4e9a5bd7792",
+          "author": null,
+          "description": "...FLOOD WATCH REMAINS IN EFFECT THROUGH THIS EVENING FOR THE RECENT BURN AREAS IN LOS ANGELES COUNTY... * WHAT...Flash flooding and debris flows caused by excessive rainfall are possible over the recent burn scars in Los Angeles County. * WHERE...Portions of the Los Angeles County Mountains, Antelope",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F723D4.FloodWatch.12641806AC00CA.LOXFFALOX.f097ad54a678b41156b1b4e9a5bd7792",
+          "publishedOn": "2022-11-08T10:21:00.000Z",
+          "wordCount": 265,
+          "title": "Flood Watch issued November 08 at 2:21AM PST until November 09 at 4:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F723D4.FloodWatch.126418079660CA.LOXFFALOX.050ddb220e0c1d84f4723b64f5fd1478",
+          "author": null,
+          "description": "...FLOOD WATCH REMAINS IN EFFECT THROUGH THIS EVENING FOR THE RECENT BURN AREAS IN LOS ANGELES COUNTY... * WHAT...Flash flooding and debris flows caused by excessive rainfall are possible over the recent burn scars in Los Angeles County. * WHERE...Portions of the Los Angeles County Mountains, Antelope",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417F723D4.FloodWatch.126418079660CA.LOXFFALOX.050ddb220e0c1d84f4723b64f5fd1478",
+          "publishedOn": "2022-11-08T10:21:00.000Z",
+          "wordCount": 269,
+          "title": "Flood Watch issued November 08 at 2:21AM PST until November 09 at 10:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126417E987D8.FloodWatch.126417F85420CA.LOXFFALOX.f22a00335cb97e40b92c913e6e574abc",
           "author": null,
           "description": "...FLOOD WATCH REMAINS IN EFFECT FROM 10 PM PST THIS EVENING THROUGH TUESDAY EVENING... * WHAT...Flash flooding and debris flows caused by excessive rainfall are possible over the recent burn scars in Los Angeles county. * WHERE...A portion of southwest California, including the following",
@@ -358,6 +458,226 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yq44rj/baolao_is_charging_20_of_ticket_plus_35000_vnd/",
+          "author": null,
+          "description": "submitted by    /u/_Anti_Natalist  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yq44rj/baolao_is_charging_20_of_ticket_plus_35000_vnd/",
+          "publishedOn": "2022-11-09T00:58:34.000Z",
+          "wordCount": 14403,
+          "title": "Baolao is charging 20% of ticket plus 35000 vnd per ticket plus entire booking fees to cancel my ticket, which is way too much and unfair. i have more than a month for my journey. Is there any way cancel it with low fees? why is it the system so unfair?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yq3tko/i_need_psychological_support_in_hanoi/",
+          "author": null,
+          "description": "i really need to find a therapist because of my mental problems. But I realize that finding them is very difficult, some of the places I go to look very unprofessional, can anyone recommend me some good therapist that live in Hanoi?\n    submitted by    /u/teacup_22  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yq3tko/i_need_psychological_support_in_hanoi/",
+          "publishedOn": "2022-11-09T00:44:18.000Z",
+          "wordCount": 14448,
+          "title": "I need psychological support in Hanoi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yq31o7/from_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/Simple_Possession_82  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yq31o7/from_vietnam/",
+          "publishedOn": "2022-11-09T00:09:20.000Z",
+          "wordCount": 13761,
+          "title": "From Vietnam",
+          "imageUrl": "https://preview.redd.it/qcr5kebshty91.jpg?blur=40&format=pjpg&auto=webp&s=9f38e194c47c870448969041ed7cee40dc0edc9a"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypt5dn/does_anyone_know_how_to_get_round_trip_tickets/",
+          "author": null,
+          "description": "submitted by    /u/missiag  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypt5dn/does_anyone_know_how_to_get_round_trip_tickets/",
+          "publishedOn": "2022-11-08T17:40:52.000Z",
+          "wordCount": 15167,
+          "title": "Does anyone know how to get round trip tickets that are inexpensive? Or any organizations that send veterans for a lower cost or free or tours for them?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypsui8/advice/",
+          "author": null,
+          "description": "Hello everyone, I am an international student looking for options to study medicine abroad. I'm checking out can tho university of medicine, since I've not been able to find a lot of info about it online it would be very kind of anybody to help me with it. Is the college nice and would you recommend it, i can also look at hongbang international university in ho chi minh but i feel can tho is a better option. These universities have got english programs as well i suppose?\n    submitted by    /u/native_announcement  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypsui8/advice/",
+          "publishedOn": "2022-11-08T17:29:51.000Z",
+          "wordCount": 14377,
+          "title": "advice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypqrk9/vinfast_cars_do_they_have_museumsexhibitions_or/",
+          "author": null,
+          "description": "I review cars on YT/Instagram in Korea and have driven every Korean EV, would love to compare to Vinfast, Im still developing the channel but get up to 30k views on my reviews. In Korea they have https://motorstudio.hyundai.com/itg/ln/main.do?lang=en You can go look at cars and even just book cars in advance to test drive without any sales intention at all. I have done this a lot in Korea\n Can I do this if I visit Vietnam?\n    submitted by    /u/carasiaone  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypqrk9/vinfast_cars_do_they_have_museumsexhibitions_or/",
+          "publishedOn": "2022-11-08T16:12:23.000Z",
+          "wordCount": 14454,
+          "title": "Vinfast cars do they have museums/exhibitions or offer test drives?",
+          "imageUrl": "https://external-preview.redd.it/YKx6T8NqBrYPVpfhH_6DytKXp1-n1eQoE0RnF2v2fwg.jpg?auto=webp&s=68467eda4f5c93d053247102bcaa5eed2a1cab53"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypqjud/evisa/",
+          "author": null,
+          "description": "I’m flying from Seoul to Hanoi on Friday at 6:25am. The trip was extremely spontaneous as I booked my ticket on Sunday evening, and I applied for my visa Monday morning. It says it takes 3 days to process and tomorrow morning will mark day 2. Im concerned I won’t have it before my flight in a couple days, does anyone know a way to get an expedited Visa? Any advice would be appreciated.\n    submitted by    /u/swagpotato69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypqjud/evisa/",
+          "publishedOn": "2022-11-08T16:05:00.000Z",
+          "wordCount": 15157,
+          "title": "E-Visa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypp1e9/according_to_taste_atlas_balut_is_the_worst_egg/",
+          "author": null,
+          "description": "submitted by    /u/hirokukun  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypp1e9/according_to_taste_atlas_balut_is_the_worst_egg/",
+          "publishedOn": "2022-11-08T15:11:42.000Z",
+          "wordCount": 15053,
+          "title": "According to Taste Atlas, balut is the worst egg dish in Asia",
+          "imageUrl": "https://external-preview.redd.it/Sg3RVNxBn0aj0Gks3FdojwdlBfdqKewWPKb6yV4tIAw.jpg?auto=webp&s=1332915065a91b0800559c4a4380aaf10daf7a98"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypogpr/sports_bar_recommendation_for_world_cup_in_hanoi/",
+          "author": null,
+          "description": "Hello all, would be visiting during Dec when World Cup is ongoing. Are there any popular or great bars to catch football there? Any places that's popular with the locals is even better, would love to experience Hanoi's ambience!\n    submitted by    /u/deathbystools  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypogpr/sports_bar_recommendation_for_world_cup_in_hanoi/",
+          "publishedOn": "2022-11-08T14:51:08.000Z",
+          "wordCount": 14681,
+          "title": "Sports bar recommendation for World Cup in Hanoi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypntgb/30_days_mekong_delta_advice_pls/",
+          "author": null,
+          "description": "Hi guys, my girlfriend and I are spending the next 4 months in Vietnam. We fly into HCM and plan on travelling the Deep South - Mekong Delta onto Phu Quoc.\n We have estimated on spending 20-30 days in this region and are wondering if this may be too long? We are also considering exploring the delta on motorbikes (is this worth while for the time spent there?).If so would anyone have experience or routes biking the delta/south. We mainly found 1/2 day trips online about the delta, and haven’t found much on longer self planned stays.\n As far the places entail (suggestions welcome!)\n  \nMy Tho\n \nBen Tre\n \nTra Vinh\n \nVinh Long\n \nCan Tho\n \nSa Dec\n \nCao Lanh\n \nLong Xuyen\n \nChau Doc\n \nHa Tien\n \nPhu Quoc\n \n Any advice would be hugely appreciated :)\n    submitted by    /u/yoguy88  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypntgb/30_days_mekong_delta_advice_pls/",
+          "publishedOn": "2022-11-08T14:27:29.000Z",
+          "wordCount": 16147,
+          "title": "30 days Mekong Delta, advice pls :)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypnnsn/tra_vinh_can_tho_transport/",
+          "author": null,
+          "description": "Anyone know of any public or private transportation from Tra Vinh to Can Tho? Checked vexere and baolau and the only way they show is going through HCMC, which is a huge detour.\n    submitted by    /u/salvaged_goods  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypnnsn/tra_vinh_can_tho_transport/",
+          "publishedOn": "2022-11-08T14:21:41.000Z",
+          "wordCount": 14455,
+          "title": "Tra Vinh -> Can Tho transport",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypm2su/hanoi_chu_van_an_street/",
+          "author": null,
+          "description": "Every morning on way to work I see people protesting on Chu Van An? \n Does anyone know what it's in relation to? I know there are lots of embassies around the area so maybe something to do with that?\n    submitted by    /u/Culturalbeaver  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypm2su/hanoi_chu_van_an_street/",
+          "publishedOn": "2022-11-08T13:22:45.000Z",
+          "wordCount": 14375,
+          "title": "Hanoi - Chu Van An Street",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yply8q/is_there_any_direct_bus_available_for_ninh_binh/",
+          "author": null,
+          "description": "Looking for direct bus options from Ninh Binh to Ha Giang\n    submitted by    /u/chennai_dood  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yply8q/is_there_any_direct_bus_available_for_ninh_binh/",
+          "publishedOn": "2022-11-08T13:17:48.000Z",
+          "wordCount": 14997,
+          "title": "Is there any direct bus available for Ninh Binh to Ha Giang ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypkdwb/have_vietnamese_people_always_been_so_selfish_and/",
+          "author": null,
+          "description": "Here are some situation in which I regularly come across.\n I am in the lift, it arrives at my floor, the doors open, and people rush in before I could get out.\n Go for health check. Come early to avoid the crowd. The doors open, again everyone just rushes in and put their paper first. Then others come lift the pile of papers and put their under I hope that the person working there will flip the pile.\n Someone on a motorbike arrive at an intersection, wants to turn left,but there is traffic so can't turn directly,so just start driving on the incoming traffic until they can final cross. Instead of waiting at the intersection.\n It is lunch time,some parents come to pick up their children, there aren't many people, just 2 or 3 bikes. And still, they find the way to park right in front of the gate.\n    submitted by    /u/Frangan_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypkdwb/have_vietnamese_people_always_been_so_selfish_and/",
+          "publishedOn": "2022-11-08T12:14:46.000Z",
+          "wordCount": 20948,
+          "title": "Have Vietnamese people always been so selfish and impatient?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypiu55/someone_in_hoi_an_or_da_nang_this_week/",
+          "author": null,
+          "description": "Hello, I’m currently in Ninh Binh and I was thinking on Wednesday to go to Hoi An or Da Nang but I saw is raining all week. Does someone know how is the situation and if is worth to go?🙈 \n I’m a bit confused on what to do next in my trip\n    submitted by    /u/ddandreea  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypiu55/someone_in_hoi_an_or_da_nang_this_week/",
+          "publishedOn": "2022-11-08T11:05:28.000Z",
+          "wordCount": 14681,
+          "title": "Someone in Hoi An or Da Nang this week?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypi2w3/the_official_proposal_submitted_for_the/",
+          "author": null,
+          "description": "Link to the article\n ​\n https://preview.redd.it/613auux1cpy91.png?width=1000&format=png&auto=webp&s=f2919515d29a05b140db79f474e9588027369a8c\n The plan for a HSR line running across the country was authorized in 2021. Originally planned to be a 350kph/220mph-ish line, the 2022 version calls for a designed speed of 250kph/155mph and an operating speed of 180-225kph, or 111-140mph. The construction will take place from 2025 to 2041 in three phases, a nine-year reduction compared to the original plan. It will utilize electric multiple units as the rolling stock, with both passenger and freight versions running on double-track standard gauge (1435mm) rail, as opposed to the existing narrow gauge (1067mm). \n The line will be 1508km/937mi long, consisting of ~70 stations. The annual estimated figures for passenger and freight is 163M and 65M metric tons, respectively, with 142 pairs of passenger and 128 pairs of freight train running daily. The first phase (2025-2031) will comprise of a 361km/224mi line connecting Thu Thiem (HCM City) to Nha Trang. Following this, a line from Hanoi to Da Nang will be constructed from 2031 to 2038. The final phase (2038-2041) will involve connecting Nha Trang and Da Nang. Roughly $61.7B will be spent, with the majority (63%) coming from land acquisitions and auctions. 22% will come from state-funded sources, with private funding expected to be about 15% of the total budget.\n    submitted by    /u/Professional_Spray14  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypi2w3/the_official_proposal_submitted_for_the/",
+          "publishedOn": "2022-11-08T10:29:40.000Z",
+          "wordCount": 18585,
+          "title": "The official proposal submitted for the North-South HSR line in Vietnam",
+          "imageUrl": "https://external-preview.redd.it/EcbLI1RMrHio9KyJhElrMbSXKNkbUHP5L5folFtgJC4.jpg?auto=webp&s=8029a2b1335ce255e9dceb0ddf6fca8608846811"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yphk3h/seeing_original_certificate_at_people_comittee_u%E1%BB%B7/",
+          "author": null,
+          "description": "Does anyone knows how much it cost to see the original document of a last will for a property in district 1 of Saigon? How much does it cost to get a copy of it? As a foreigner, is there someone who will service in English or is it Vietnamese only? I am pretty new to this and any advice is appreciated.\n    submitted by    /u/cybertanks  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yphk3h/seeing_original_certificate_at_people_comittee_u%E1%BB%B7/",
+          "publishedOn": "2022-11-08T10:04:07.000Z",
+          "wordCount": 16210,
+          "title": "Seeing original certificate at people comittee /Uỷ ban Nhân dân Saigon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yphbq7/fake_european_towns_in_vietnam/",
+          "author": null,
+          "description": "Can someone explain to me as a foreigner the fake European towns that seem to be popping up around Vietnam. \n It’s super impressive the sheer scale of these places however I’m struggling to see how they will be filled with shops, hotels and tourists?\n Who is the target market here?\n For example the Sun Group’s primavera village in Phu Quoc is id say 80% complete, what will the plans be? For tourists to live and stay in the town?\n Super intrigued by it all!\n    submitted by    /u/melbdude1234  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yphbq7/fake_european_towns_in_vietnam/",
+          "publishedOn": "2022-11-08T09:52:40.000Z",
+          "wordCount": 17340,
+          "title": "Fake European towns in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypf6m1/visit_to_phan_xi_p%C4%83ng_a_bit_crowded_but_well/",
+          "author": null,
+          "description": "submitted by    /u/StrongLikeBull503  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypf6m1/visit_to_phan_xi_p%C4%83ng_a_bit_crowded_but_well/",
+          "publishedOn": "2022-11-08T08:08:41.000Z",
+          "wordCount": 14757,
+          "title": "Visit to Phan Xi Păng, a bit crowded, but well worth the visit. If you're in Sa Pa and can brave a high gondola ride I highly recommend it!",
+          "imageUrl": "https://external-preview.redd.it/v0vz8vF5Jq06dLW-z_mbpP0Th2qzj5bcHipYYxUmrdE.jpg?auto=webp&s=375af0010cf1b69567e1feec0bda0f8b7d23d08d"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypemkx/patient_education_help_with_translation/",
+          "author": null,
+          "description": "So long story short I am a doctor at an internal ward in hospital (not an English speaking country). I have a Vietnamese patient that has a rather complicated, newly diagnosed disease. She understands basic things but I'd like her to have a better understanding of what are we treating here and what are the implications and perspective. I could use a google translator but given the circumstances I don't want anything to be misinterpreted or lost in translation. Could anyone please help me with the translation? There are some medicine related words in the text but I tried to keep it understandable for the patient. I will PM you the text if you're up for it. Thanks !\n EDIT: Thanks to u/huongv , I have the translation. Perfect !\n    submitted by    /u/Dra9i  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypemkx/patient_education_help_with_translation/",
+          "publishedOn": "2022-11-08T07:41:51.000Z",
+          "wordCount": 15969,
+          "title": "Patient education - help with translation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypdk5b/any_good_massages_around_hanoi_for_tourist_and/",
+          "author": null,
+          "description": "Hi, I've tried looking for past post about good massage parlors and they seem to be outdated (~3 years ago)\n Since Vietnam is slowly reopening due to COVID, I'm wondering if there are any good massages around Hanoi. Especially near the Old Quarter and Ho Tay. For both locals and tourist (specially those that can speak English)\n My wife was raised and born in Hanoi for 20+ years and haven't been back for 10 years. We don't mind going to a massage parlor that only speaks Vietnamese since she can translate and my Vietnamese is at an elementary level for an American.\n    submitted by    /u/WillChanTheMan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypdk5b/any_good_massages_around_hanoi_for_tourist_and/",
+          "publishedOn": "2022-11-08T06:40:09.000Z",
+          "wordCount": 14804,
+          "title": "Any good massages around Hanoi for tourist and locals?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ypaudc/can_anybody_tell_me_what_this_means_left_a_book/",
+          "author": null,
+          "description": "submitted by    /u/AnyHistorian4634  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ypaudc/can_anybody_tell_me_what_this_means_left_a_book/",
+          "publishedOn": "2022-11-08T04:15:22.000Z",
+          "wordCount": 15138,
+          "title": "Can anybody tell me what this means? Left a book with a grab driver and when I found it this note was Attached.",
+          "imageUrl": "https://preview.redd.it/6yj2d0rrkny91.jpg?auto=webp&s=81d62e82dcf22d5365e7deb30da2aad1395a0aef"
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/yp5ynu/cholera_vaccine/",
           "author": null,
@@ -6237,146 +6557,6 @@
           "wordCount": 33256,
           "title": "Vietjet tickets don't show up under my bookings",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y0b6gb/hcmc_shops_offer_coffeeinbed_experience/",
-          "author": null,
-          "description": "submitted by    /u/trangtrangxyz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y0b6gb/hcmc_shops_offer_coffeeinbed_experience/",
-          "publishedOn": "2022-10-10T10:24:28.000Z",
-          "wordCount": 32716,
-          "title": "HCMC shops offer coffee-in-bed experience",
-          "imageUrl": "https://external-preview.redd.it/yDok9j9axsu0ZogLzMzTbjZTztW8P0Qdrv7W7L-Gmvo.jpg?auto=webp&s=73630f3c3da9f5886733133f50753f37fded475d"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y0a4zk/hcmc_gas_stations_run_out_of_fuel_as_supply/",
-          "author": null,
-          "description": "submitted by    /u/anonfunction  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y0a4zk/hcmc_gas_stations_run_out_of_fuel_as_supply/",
-          "publishedOn": "2022-10-10T09:19:59.000Z",
-          "wordCount": 33431,
-          "title": "HCMC gas stations run out of fuel as supply dwindles",
-          "imageUrl": "https://external-preview.redd.it/LKcx86zn3fB4vwoxpotu46FKbt5CRmXP06CMiC0D-UQ.jpg?auto=webp&s=e27b1fcc8901363b602bf6bcd3ef1a9c46d4917d"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y08v2s/i_made_a_hangulbased_script_thats_more/",
-          "author": null,
-          "description": "submitted by    /u/hoangthuongnguyen  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y08v2s/i_made_a_hangulbased_script_thats_more/",
-          "publishedOn": "2022-10-10T07:56:58.000Z",
-          "wordCount": 33228,
-          "title": "I made a hangul-based script that's more appropriate for Vietnamese.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y07mt9/travelling_to_vietnam_from_india/",
-          "author": null,
-          "description": "Hi all,\n We are a couple from India who would be travelling to Hanoi in December, we are excited to be there!!\n We have a few questions -\n  \nWe are trying to get tickets from Hanoi to India back, but VietJet Air seems to be rejecting our tickets, also the flights are not showing up on its website! Is there a problem with it? \n \nWhat should we do about the accommodations while in Vietnam, we have budget for 4 star hotels but some fellow travellers told us getting AirBnbs would be a lot better. What do you suggest?\n \nWe have a 6 day trip, what all places do you suggest we visit?\n \n Thanks in advance!!\n    submitted by    /u/SaneAndSerious  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y07mt9/travelling_to_vietnam_from_india/",
-          "publishedOn": "2022-10-10T06:37:29.000Z",
-          "wordCount": 37823,
-          "title": "Travelling to Vietnam from India!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y06xbe/visa_questions/",
-          "author": null,
-          "description": "Hi! We've applied for an evisa but didn't realise the offices opening hours didn't include the weekend, and we are due to fly tomorrow afternoon. We've emailed to try and speed up the process but trying to come up with other solutions. \n We all hold british passports so would be able to enter for 14 days with just proof of a flight out of Vietnam and then extend this whilst there? \n Any help/advice would be appreciated! :)\n    submitted by    /u/hanhug  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y06xbe/visa_questions/",
-          "publishedOn": "2022-10-10T05:54:00.000Z",
-          "wordCount": 33132,
-          "title": "Visa Questions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y04o8f/what_makes_you_uncomfortable_when_going_on_a_date/",
-          "author": null,
-          "description": "submitted by    /u/dmeii  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y04o8f/what_makes_you_uncomfortable_when_going_on_a_date/",
-          "publishedOn": "2022-10-10T03:48:39.000Z",
-          "wordCount": 34104,
-          "title": "What makes you uncomfortable when going on a date",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y0456g/when_you_realise_only_a_hundred_days_left_until/",
-          "author": null,
-          "description": "submitted by    /u/Nai_Sud  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y0456g/when_you_realise_only_a_hundred_days_left_until/",
-          "publishedOn": "2022-10-10T03:20:43.000Z",
-          "wordCount": 33394,
-          "title": "When you realise only a hundred days left until Tết",
-          "imageUrl": "https://external-preview.redd.it/uuItSjl2YWXD7iAWy9KC0RyXEZYoiO9oC_l4JS-YwfU.png?format=pjpg&auto=webp&s=3e19e22a1a9d37c9b4038bb485192347c916eb70"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y043lp/a_lightning_hit_the_power_pole_in_son_tra_da_nang/",
-          "author": null,
-          "description": "submitted by    /u/Nai_Sud  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y043lp/a_lightning_hit_the_power_pole_in_son_tra_da_nang/",
-          "publishedOn": "2022-10-10T03:18:37.000Z",
-          "wordCount": 35903,
-          "title": "A lightning hit the power pole in Son Tra, Da Nang, made the whole city lost power at midnight",
-          "imageUrl": "https://external-preview.redd.it/dmn0VLD1YxJF3i57fBffyX-Mt7qbDb_-cVKd7S6Oxi4.png?format=pjpg&auto=webp&s=a04f3f36301eba78f2ab87a02e8ea61d7daa1b14"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xzzmhq/vietnams_cursed_images_64/",
-          "author": null,
-          "description": "submitted by    /u/GodBlessHentai  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xzzmhq/vietnams_cursed_images_64/",
-          "publishedOn": "2022-10-09T23:33:29.000Z",
-          "wordCount": 32700,
-          "title": "Vietnam's cursed images #64",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xzzbwk/weather_in_late_decearly_jan/",
-          "author": null,
-          "description": "submitted by    /u/2yam_eater  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xzzbwk/weather_in_late_decearly_jan/",
-          "publishedOn": "2022-10-09T23:19:35.000Z",
-          "wordCount": 36054,
-          "title": "Weather in late Dec/early Jan?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xzub1p/vietnam_shopping_agent/",
-          "author": null,
-          "description": "Hello! I need to buy merch from shopee.vn with shipping to the US. And need a help of shopping agent or someone who lives in Vietnam but I cant find anyone. Please help!\n    submitted by    /u/blackb3rryy  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xzub1p/vietnam_shopping_agent/",
-          "publishedOn": "2022-10-09T19:40:27.000Z",
-          "wordCount": 32774,
-          "title": "Vietnam shopping agent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xzsuju/question_when_i_go_to_nam/",
-          "author": null,
-          "description": "I'm trying to find a phone I can use when I go. Vietnam primarily uses GSM phones correct? So I need to get one that is used the network? What's the main way to travel up and down the country? What do I wear to protect my gear?\n    submitted by    /u/Numba2wo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xzsuju/question_when_i_go_to_nam/",
-          "publishedOn": "2022-10-09T18:39:01.000Z",
-          "wordCount": 34385,
-          "title": "Question when I go to Nam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xzokr6/can_i_have_one_happy_year_i_love_you/",
-          "author": null,
-          "description": "submitted by    /u/jadedevin13  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xzokr6/can_i_have_one_happy_year_i_love_you/",
-          "publishedOn": "2022-10-09T15:37:04.000Z",
-          "wordCount": 32976,
-          "title": "Can I have one happy year i love you?",
-          "imageUrl": "https://preview.redd.it/dt1a7ls1vss91.jpg?auto=webp&s=f2b692bfb922ea56cc4d50ac209539195152e718"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/xzm2e6/local_usdvnd_exchange_offering_higher_than/",
-          "author": null,
-          "description": "USD-VND is about 23850 right now and using my Schwab Visa shows that. But this local exchange near Cho Ben Thanh offered me 24200/USD for crisp $100 USD and 24k for slightly old bills. Why are they doing this?\n    submitted by    /u/vnlegend  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/xzm2e6/local_usdvnd_exchange_offering_higher_than/",
-          "publishedOn": "2022-10-09T13:46:09.000Z",
-          "wordCount": 33355,
-          "title": "Local USD-VND exchange offering higher than exchange rate?",
-          "imageUrl": null
         }
       ]
     },
@@ -6385,6 +6565,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/generate-images-using-react-and-dall-e-api-react-and-openai-api-tutorial/",
+          "author": "Nishant Kumar",
+          "description": "Hey everyone! OpenAI just released its DALL-E API where users can generate custom images by just typing in a query.  So in this tutorial, you'll learn how to integrate the OpenAI DALL-E 2 API with a React app. But First, How Does Dall-E Work? So as you already know,",
+          "link": "https://www.freecodecamp.org/news/generate-images-using-react-and-dall-e-api-react-and-openai-api-tutorial/",
+          "publishedOn": "2022-11-08T20:22:16.000Z",
+          "wordCount": 1834,
+          "title": "How to Generate Images using React and the Dall-E 2 API – React and OpenAI API Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Important-Concepts-and-questions--1-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-learn-linux-terminal-as-a-beginner/",
           "author": "Arunachalam B",
