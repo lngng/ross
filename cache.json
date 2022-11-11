@@ -12,6 +12,16 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641816E778.FreezeWarning.12641825F3D0CA.LOXNPWLOX.5e34aec6460ce86e68c7b16f28a51ee9",
+          "author": null,
+          "description": "...FREEZE WARNING IN EFFECT FROM MIDNIGHT TONIGHT TO 9 AM PST FRIDAY... * WHAT...Sub-freezing temperatures as low as 28 expected. * WHERE...Antelope Valley, Southern Salinas Valley and San Luis Obispo County Interior Valleys. * WHEN...From midnight tonight to 9 AM PST Friday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641816E778.FreezeWarning.12641825F3D0CA.LOXNPWLOX.5e34aec6460ce86e68c7b16f28a51ee9",
+          "publishedOn": "2022-11-10T18:38:00.000Z",
+          "wordCount": 176,
+          "title": "Freeze Warning issued November 10 at 10:38AM PST until November 11 at 9:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641807A344.FreezeWarning.12641816B190CA.LOXNPWLOX.344790b53c922b0747aa14c311b9c5a2",
           "author": null,
           "description": "...FREEZE WARNING IN EFFECT FROM MIDNIGHT TONIGHT TO 9 AM PST THURSDAY... * WHAT...Sub-freezing temperatures as low as 27 expected. * WHERE...Antelope Valley and San Luis Obispo County Interior Valleys. * WHEN...From midnight tonight to 9 AM PST Thursday.",
@@ -450,16 +460,6 @@
           "wordCount": 167,
           "title": "Wind Advisory issued October 21 at 1:37PM PDT until October 23 at 3:00AM PDT by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641230B938.FloodWatch.1264123DCE70CA.LOXFFALOX.7cd2c604bd8a89e1f66bb057a4f38686",
-          "author": null,
-          "description": "...FLOOD WATCH REMAINS IN EFFECT UNTIL 10 PM PDT THIS EVENING... * WHAT...Significant flooding caused by excessive rainfall continues to be possible, especially in and near recent burn areas. * WHERE...Antelope Valley and interior Los Angeles County Mountains (excluding the Santa Monica Range). This includes the Bobcat burn scar.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641230B938.FloodWatch.1264123DCE70CA.LOXFFALOX.7cd2c604bd8a89e1f66bb057a4f38686",
-          "publishedOn": "2022-10-11T21:26:00.000Z",
-          "wordCount": 202,
-          "title": "Flood Watch issued October 11 at 2:26PM PDT until October 12 at 12:00AM PDT by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -468,6 +468,186 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yrwpqj/vietnam_virtual_number/",
+          "author": null,
+          "description": "Does anyone have any recommendations for a service (iOS app) that allows you to subscribe to a Vietnamese number that can send and receive SMS? I am not a fan of the SIM swapping as it's disruptive to 99% of what I need to do when here (work).\n In prior countries, I've used Burner, Hushed, or Flyp as phone services that allow me to subscribe monthly (or annually) to have a dedicated local number. I can send and receive SMS messages with locals through the app.\n When I connect with people here and give out my number (American) if they're iOS it is fine since we can iMessage. But most are not iOS therefore they are hesitant to text (or some can't) because of the international number.\n I know there are alternative apps like WhatsApp and such. I use Signal only, as I don't like WhatsApp, however some of the people I connect with aren't going to do Signal (not tech savvy, not interested in it, etc..).\n I'm fine paying for the service. Our VOIP provider for work doesn't offer any Vietnamese VOIP numbers, just a company assigned SIM, so I was hoping to find an alternative. I welcome any input.\n    submitted by    /u/OldManKiK  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yrwpqj/vietnam_virtual_number/",
+          "publishedOn": "2022-11-11T00:42:10.000Z",
+          "wordCount": 15040,
+          "title": "Vietnam Virtual Number",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yro9xr/vietjetair_booking_management_responds_sorry_we/",
+          "author": null,
+          "description": "Hello!\n I want to check my booking with VietJetAir from BKK to Saigon via https://th.vietjetair.com/searchreservation.\n But if I enter the details of my booking I get the message \"Sorry, we are only able to support Thai currency booking at the moment.\"\n What does that even mean and how can I access my booking?\n Interesting observation: If I replace the last letter of my reservation number with something else the site responds with \"There is no flight information match, please re-check input value\"\n That means with the correct number they found my booking. \n Any ideas?\n Thanks\n    submitted by    /u/KeyStretch4081  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yro9xr/vietjetair_booking_management_responds_sorry_we/",
+          "publishedOn": "2022-11-10T18:55:18.000Z",
+          "wordCount": 15094,
+          "title": "VietJetAir booking management responds: \" Sorry, we are only able to support Thai currency booking at the moment.\" ???",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yrjjad/this_a_great_comic_book_i_used_to_read_as_a_child/",
+          "author": null,
+          "description": "submitted by    /u/Low_Platform_1922  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yrjjad/this_a_great_comic_book_i_used_to_read_as_a_child/",
+          "publishedOn": "2022-11-10T16:08:19.000Z",
+          "wordCount": 14452,
+          "title": "This a great comic book i used to read as a child. Still makes me crying.",
+          "imageUrl": "https://preview.redd.it/lnm368jsd5z91.jpg?auto=webp&s=b8d7ecd5aa38f4e15d90d382830241ac30950be0"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yrj05v/how_do_you_choose_a_good_dentist_or/",
+          "author": null,
+          "description": "There are so many of them, do you have any tips on how to find a good one?\n    submitted by    /u/Frangan_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yrj05v/how_do_you_choose_a_good_dentist_or/",
+          "publishedOn": "2022-11-10T15:50:43.000Z",
+          "wordCount": 15284,
+          "title": "How do you choose a good dentist or ophthalmologist?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yrhgam/m%E1%BB%99t_g%C3%B3c_bi%E1%BB%83n_v%E1%BB%8Bnh_h%E1%BA%A1_long_vi%E1%BB%87t_nam/",
+          "author": null,
+          "description": "submitted by    /u/0939821688  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yrhgam/m%E1%BB%99t_g%C3%B3c_bi%E1%BB%83n_v%E1%BB%8Bnh_h%E1%BA%A1_long_vi%E1%BB%87t_nam/",
+          "publishedOn": "2022-11-10T14:57:09.000Z",
+          "wordCount": 15101,
+          "title": "Một góc biển Vịnh Hạ Long VIỆT NAM",
+          "imageUrl": "https://external-preview.redd.it/tDlS0LEHU696MQj_R6diA98DlZqs4Wv3mcUvZjKC1cU.png?format=pjpg&auto=webp&s=47848fc45dc8f039748985dd9e53a1474be51586"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yrge82/uncomfortable_experience_at_dalat_flower_garden/",
+          "author": null,
+          "description": "I'm a M(27), American, I went solo to the Dalat flower gardens (Valley of Love) a couple of weeks ago and had a very uncomfortable experience. I walked up to the ticket booth at the entrance to the gardens, and upon seeing me, a man in line, maybe 50 or 60 years old, grabbed me by the side and pointed to his friend (around the same age) to take a photo. This isn't uncommon while traveling, many people ask for photos because I'm a foreigner with bright blonde hair. I posed smiling in the photo as his friend snapped the pic, and then his friend wanted one too, so I took a selfie with him. Besides these two men, maybe 3-4 women around the same age were with them. As his friend moved back into the group, the first man hugged me from behind, pulling me in close to his body, and tried to force h…",
+          "link": "https://www.reddit.com/r/VietNam/comments/yrge82/uncomfortable_experience_at_dalat_flower_garden/",
+          "publishedOn": "2022-11-10T14:19:59.000Z",
+          "wordCount": 16676,
+          "title": "Uncomfortable experience at Dalat flower garden (Valley of Love)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yrehv8/whatever_happened_to_daniel_hauer/",
+          "author": null,
+          "description": "His name came up in conversation the other day, and I remember that he gained a degree of infamy in VN in early 2018 regarding insulting remarks about a famous VN military hero. He was fined and lost his job IIRC, but I haven't heard anything since then. Is he still in the country?\n    submitted by    /u/PiscadorII  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yrehv8/whatever_happened_to_daniel_hauer/",
+          "publishedOn": "2022-11-10T13:10:16.000Z",
+          "wordCount": 16482,
+          "title": "Whatever happened to Daniel Hauer?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yref4z/solve_this_mystery_floating_market_near_hcmc/",
+          "author": null,
+          "description": "We are currently in Saigon and getting mixed messages re: whether there is a floating market here. Someone said there is one nearby, someone else said Cai Rang is the closest. We're not looking to go to Can Tho, so that's out. Anybody know which is true?\n    submitted by    /u/StinkyWicket01  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yref4z/solve_this_mystery_floating_market_near_hcmc/",
+          "publishedOn": "2022-11-10T13:07:24.000Z",
+          "wordCount": 18626,
+          "title": "Solve this mystery: Floating market near HCMC?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yrby4x/hanoi_or_hoi_an/",
+          "author": null,
+          "description": "I can only seem to find outdated posts on what people prefer. My partner and I are visiting Vietnam and staying in one place for a month (Slow traveling, need a mini-vacation from switching up places so often). We're not super crazy about the idea of being in a city and want to stay on the outskirts (near a beach would be ideal) of a city. We are deciding between Hanoi and Hoi An and would love some advice on things like cost, food (we're vegetarian), and overall advice. \n Since it's a month, we want to be near a city/civilization. If you have any other beautiful natural places that are relaxation friendly in Vietnam, I'd be more than happy to hear ideas! We also will be there for December and would love a swim hole if the waves are too choppy in the ocean.\n    submitted by    /u/Decent_Account_4292  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yrby4x/hanoi_or_hoi_an/",
+          "publishedOn": "2022-11-10T11:21:54.000Z",
+          "wordCount": 16597,
+          "title": "Hanoi or Hoi An ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yrbq03/13_day_trip_need_help_with_itinerary_plan/",
+          "author": null,
+          "description": "Hello - I'm planning a 13 day trip to Vietnam in December. I have the first and end part of the trip more or less as I'd like, but struggling to decide on the in between bit.\n Questions:\n  \nAre we allowing enough time in each of the locations?\n Is 4-5 days in Hoi / Hue too much? I'm conscious of the weather at this time of year, and the fact it's Christmas. We ideally don't want to be flying on 24th or 25th Dec and would like to stay in a nice place on those days.\n What are the obvious things we've missed off?\n  \nItinerary below. Would love to hear your comments and suggestions!\n  \n Date Description \n  \n Sunday 18th Dec Arrive in HCMC \n  Monday 19th Dec Explore HCMC \n  Tuesday 20th Dec HCMC guided tour \n  Wednesday 21st Dec Fly to Da Nang \n  Thursday 22nd Dec Hoi An \n  Friday 23nd Dec Hoi An \n  Saturday 24th Dec Hue \n  Sunday 25th Dec Hue \n  Monday 26th Dec Fly to Hanoi \n  Tuesday 27th Dec Explore Hanoi \n  Wednesday 28th Dec Day trip - Ninh Binh \n  Thursday 29th Dec Ha Long Bay overnight cruise \n  Friday 30th Dec Return to Hanoi & explore \n  Saturday 31st Dec Fly to HCMC. New Year \n  Sunday 1st Jan Fly home \n \n    submitted by    /u/KeyWeb2545  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yrbq03/13_day_trip_need_help_with_itinerary_plan/",
+          "publishedOn": "2022-11-10T11:08:52.000Z",
+          "wordCount": 16054,
+          "title": "13 day trip - need help with itinerary plan!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yr8oij/best_marketscheap_stores_to_buy_budget_gaming/",
+          "author": null,
+          "description": "submitted by    /u/Green_Assist1968  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yr8oij/best_marketscheap_stores_to_buy_budget_gaming/",
+          "publishedOn": "2022-11-10T07:51:59.000Z",
+          "wordCount": 14886,
+          "title": "Best markets/cheap stores to buy budget gaming equipment in Ho Chi Minh/Saigon?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yr8dci/practical_question_do_vietnamese_sim_cards_eg/",
+          "author": null,
+          "description": "I cannot find any information about it on Viettel's website\n    submitted by    /u/Elkaybay  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yr8dci/practical_question_do_vietnamese_sim_cards_eg/",
+          "publishedOn": "2022-11-10T07:31:11.000Z",
+          "wordCount": 15498,
+          "title": "Practical question: do Vietnamese SIM cards (e.g. Viettel) work in the EU? Is there any package that can be used while on holiday there?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yr5qd2/le_tung_van_a_scammer_have_been_listed_as_victim/",
+          "author": null,
+          "description": "submitted by    /u/vietcongguy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yr5qd2/le_tung_van_a_scammer_have_been_listed_as_victim/",
+          "publishedOn": "2022-11-10T04:54:57.000Z",
+          "wordCount": 16745,
+          "title": "Le Tung Van, a scammer have been listed as victim of religious oppression by USCIRF(United States Commission on International Religious Freedom). Lmao",
+          "imageUrl": "https://preview.redd.it/hnn54vb6j3z91.png?auto=webp&s=9bbef779e8105227e964d8f98151ffd0ee0eeb48"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yr4yev/trekking_fansipan/",
+          "author": null,
+          "description": "Hi all, does anyone have any recommendations for how I should go about trekking to the summit of Fancipan in Sapa with a guide? \n I would like to do the hike over 2 days, camping half way and reaching the summit early in the morning the second day. I can see there are a lot of companies offering the tour but I’m not sure how to pick one. I would strongly prefer to use a tour company which is local to the region / pays local guides fairly.\n    submitted by    /u/_yungsum  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yr4yev/trekking_fansipan/",
+          "publishedOn": "2022-11-10T04:12:39.000Z",
+          "wordCount": 14863,
+          "title": "Trekking Fansipan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yr3e15/what_are_the_best_bank_to_convert_usd_to_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/Potential_Grocery787  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yr3e15/what_are_the_best_bank_to_convert_usd_to_vietnam/",
+          "publishedOn": "2022-11-10T02:53:33.000Z",
+          "wordCount": 14765,
+          "title": "What are the best bank to convert USD to Vietnam dong in Ha Noi?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yr2ps1/place_to_print_photographs_in_hu%E1%BA%BF/",
+          "author": null,
+          "description": "Hello - I'm currently in Huế and would like to have some digital photos printed. I can't find a place to do it. Any suggestions? I took some photos of local women at the market and would like to print them out and give them to them. It would have to be a place where I can either email files or bring in my SD card. Thank you so much! EDIT - found a place! Hoang Mai Electronic Store TIỆM ẢNH HOÀNG MAI\n    submitted by    /u/daisymcs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yr2ps1/place_to_print_photographs_in_hu%E1%BA%BF/",
+          "publishedOn": "2022-11-10T02:20:31.000Z",
+          "wordCount": 14941,
+          "title": "Place to print photographs in Huế?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yr2ddo/balut_among_worlds_worst_rated_egg_dishes/",
+          "author": null,
+          "description": "submitted by    /u/trangtrangxyz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yr2ddo/balut_among_worlds_worst_rated_egg_dishes/",
+          "publishedOn": "2022-11-10T02:04:01.000Z",
+          "wordCount": 14849,
+          "title": "Balut among world's worst rated egg dishes",
+          "imageUrl": "https://external-preview.redd.it/r1MlpB5JUXMe0WicUGUd3YWYVFPmOP4cuYGW-k7AcpI.jpg?auto=webp&s=0132add53493e760321c012565df1b86cba21b37"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/yr2bxe/what_is_the_significance_of_an_animal_on_a_ao_dai/",
+          "author": null,
+          "description": "My grandma 90th birthday is this coming March and the whole family is wearing Ao Dai. Each respective family (Aunts and uncles) has a color - my family has purple. \n I was looking at some Ao Dai for men and saw some have designs of Koi fish, Dragons, Cranes or lotuses\n    submitted by    /u/mqnguyen004  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/yr2bxe/what_is_the_significance_of_an_animal_on_a_ao_dai/",
+          "publishedOn": "2022-11-10T02:02:05.000Z",
+          "wordCount": 14737,
+          "title": "What is the significance of an animal on a Ao Dai?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/yr0peh/ha_giang_loop_in_january_advice/",
           "author": null,
@@ -6347,206 +6527,6 @@
           "wordCount": 35406,
           "title": "Viet Nam - Illustrated Map",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y23kpn/late_night_vietnamese_food_in_hcmc/",
-          "author": null,
-          "description": "Flight is delayed and we are likely arriving to our hotel in district 1 at 10:30pm to then pop out for some Vietnamese food — any recommendations? Seafood is a plus but not a must!\n    submitted by    /u/geargd  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y23kpn/late_night_vietnamese_food_in_hcmc/",
-          "publishedOn": "2022-10-12T13:10:46.000Z",
-          "wordCount": 35680,
-          "title": "Late night Vietnamese food in HCMC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y21drw/vietnam_as_tech_hub_thoughts_way_forward_by_locals/",
-          "author": null,
-          "description": "Would love to know what are thoughts from different age groups of Vietnam locals about developing advanced economy, despite all the problems mentioned in different industry articles.\n My core part at work is a radical shift in commerce / production & supply chains with innovating incentives for companies, employees and end customers / consumers that adopts to clean tech driven supply chains; be it food, healthcare, renewables, electronics, FMCG, sales through new B2B, B2C channels, services, EVs etc.\n I personally love the creative designs from Vietnam that uses natural biofibers (bamboo, hyacinth etc.) & overall designs. They are at par with details from Japanese, Chinese, Thailand's creative arts - a mix of tradition, nature & modern.\n I also got surprised by recent developments & announcements by Vingroup EV making in US for US customers. & at the same time, I wonder why MSMEs (Micro, Small & Medium Enterprises) of Vietnam are not gearing up faster at global stage. \n For example, I never see them at industrial trade shows of the West (US, EU) or even at the East (digital or physical attendance), even though products are pretty good & innovative. Lets say Amazon SEA summit in Singapore, there are zero Vietnamese companies / MSMEs.\n Few of them are on Alibaba, but finding other MSMEs is hard as Alibaba is not that connected with new development outside of China, and the restrictions etc. makes it more complicated. \n Also, few good points from my research are repeated in this article: on Vietnam + ASEAN region since most of our suppliers at work are looking at ASEAN countries for shifting their production from China.\n https://asia.nikkei.com/Spotlight/The-Big-Story/Vietnam-s-battle-to-climb-the-global-value-chain\n    submitted by    /u/starlord_west  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y21drw/vietnam_as_tech_hub_thoughts_way_forward_by_locals/",
-          "publishedOn": "2022-10-12T11:27:59.000Z",
-          "wordCount": 36597,
-          "title": "Vietnam as tech hub, thoughts & way forward by locals?",
-          "imageUrl": "https://external-preview.redd.it/ixD4qD10LGRlmNVxvcO7wVNE2ogbXI1xONzI9sP3B58.jpg?auto=webp&s=809832c9197de1881972e173dd301d33c710188d"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y20uty/are_there_two_berth_cabins_in_the_reunification/",
-          "author": null,
-          "description": "Mostly i see 4 or 6 berth cabins. I've seen two-berth cabins from Hanoi to Sapa, but not on other lines. Can someone confirm please? Thanks\n    submitted by    /u/pulha0  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y20uty/are_there_two_berth_cabins_in_the_reunification/",
-          "publishedOn": "2022-10-12T11:00:39.000Z",
-          "wordCount": 34150,
-          "title": "Are there two berth cabins in the Reunification line trains?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1yvnl/what_is_the_poorest_province_in_vietnam/",
-          "author": null,
-          "description": "submitted by    /u/Matthew__19  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1yvnl/what_is_the_poorest_province_in_vietnam/",
-          "publishedOn": "2022-10-12T09:06:27.000Z",
-          "wordCount": 33869,
-          "title": "What is the poorest province in Vietnam ?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1wwlq/the_store_sells_shoes_but_does_not_support/",
-          "author": null,
-          "description": "I bought a pair of football shoes but the shop does not support sewing soles, do you know if there is a place to handle it?\n P/s: I live in HCM city\n https://preview.redd.it/1iy2ru80qbt91.jpg?width=2048&format=pjpg&auto=webp&s=1e8eb6495ee6e8716a00c7b21eaa124fa9271547\n    submitted by    /u/nguyenminhthu123  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1wwlq/the_store_sells_shoes_but_does_not_support/",
-          "publishedOn": "2022-10-12T07:06:39.000Z",
-          "wordCount": 37088,
-          "title": "The store sells shoes but does not support customers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1sd78/what_to_do_at_the_gas_station/",
-          "author": null,
-          "description": "submitted by    /u/K4myk4ze  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1sd78/what_to_do_at_the_gas_station/",
-          "publishedOn": "2022-10-12T03:02:31.000Z",
-          "wordCount": 36217,
-          "title": "What to do at the gas station",
-          "imageUrl": "https://preview.redd.it/anqhyuz5jat91.jpg?auto=webp&s=142a2031b6986be81c3e7c12a5470dadb0443838"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1s800/vietnam_retailers_face_83500_penalty_for_early/",
-          "author": null,
-          "description": "submitted by    /u/trangtrangxyz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1s800/vietnam_retailers_face_83500_penalty_for_early/",
-          "publishedOn": "2022-10-12T02:55:36.000Z",
-          "wordCount": 34358,
-          "title": "Vietnam retailers face $83,500 penalty for early iPhone 14 activation",
-          "imageUrl": "https://external-preview.redd.it/q2hAioz1yp_w_Uw8eR0XNgVU_wP2yTKaWlWXBlU7oF8.jpg?auto=webp&s=914d4ec4a9f23eb05dd69f0d998851e616a643ec"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1qip2/how_does_mail_work_in_vietnam_i_wanna_order/",
-          "author": null,
-          "description": "I just wanna order a cute tiny plush for my friend. It's shipping from Sweden, and the plush is about 9cm. (She lives in Ho Chi Minh btw). She's telling me that the delivery guy can't just drop it off at her house if they can't get in contact with her. She said they usually call the recipient to pick it up and if they don't respond, they cant deliver the package?? The site didn't let me put a phone number in so idk how tf thats gonna work lol \n If they can't contact the recipient do they just take it back to the post office and she would have to pick it up herself?\n    submitted by    /u/Pillodium  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1qip2/how_does_mail_work_in_vietnam_i_wanna_order/",
-          "publishedOn": "2022-10-12T01:34:04.000Z",
-          "wordCount": 35931,
-          "title": "How does mail work in Vietnam? I wanna order something for my friend but from what I'm seeing the postal system in Vietnam is super weird",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1mup5/tran_quoc_pagoda_on_west_lake_in_hanoi/",
-          "author": null,
-          "description": "submitted by    /u/cebu_96  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1mup5/tran_quoc_pagoda_on_west_lake_in_hanoi/",
-          "publishedOn": "2022-10-11T22:46:46.000Z",
-          "wordCount": 35633,
-          "title": "Tran Quoc Pagoda on West Lake in Hanoi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1mi38/vietnam_weather/",
-          "author": null,
-          "description": "I really want to visit Vietnam next year between 25 august - 15 september but I’m scared that there might be a lot of rain and clouds ruining my trip. I plan on going from the south to north. What weather can I expect? I’m looking into its nightlife. Does it rain at night? And in the north, how cloudy is it? Is it possible to the the view from the mountains without clouds? Thank you in advance!\n    submitted by    /u/vampbian  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1mi38/vietnam_weather/",
-          "publishedOn": "2022-10-11T22:31:38.000Z",
-          "wordCount": 35711,
-          "title": "Vietnam weather",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1mg0v/wap_by_cardi_b_performing_by_6th_grade_vietnamese/",
-          "author": null,
-          "description": "submitted by    /u/Nai_Sud  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1mg0v/wap_by_cardi_b_performing_by_6th_grade_vietnamese/",
-          "publishedOn": "2022-10-11T22:29:15.000Z",
-          "wordCount": 35264,
-          "title": "WAP by Cardi B (performing by 6th grade Vietnamese kids)",
-          "imageUrl": "https://external-preview.redd.it/w3idyvwUE7xKeuXzDod1smGxqi9dZrAYOapdbJMwUYA.png?format=pjpg&auto=webp&s=4495e63702546bb42b07399300ec8387fb254679"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1j3gf/domestic_flight_liquid_rule/",
-          "author": null,
-          "description": "Hi Reddit, I’m taking a domestic flight from HCM to Phu Quoc via Vietnam Airline. I do not plan to have a checked bag for this particular domestic flight and just travel with a carry-on. But, I have quite a bit of toiletries items that exceed the US TSA liquid rule. Do the Vietnam domestic flight have a rule on liquid in carry-on? Many thanks!\n    submitted by    /u/Other_Document_995  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1j3gf/domestic_flight_liquid_rule/",
-          "publishedOn": "2022-10-11T20:13:17.000Z",
-          "wordCount": 36221,
-          "title": "Domestic Flight Liquid Rule",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1iyzw/phim_kinh_di_cu%E1%BB%99c_s%E1%BB%91ng_c%E1%BB%A7a_ch%C3%BAng_ta_m%C3%A3i_l%C3%A0_v%C3%B2ng/",
-          "author": null,
-          "description": "https://youtu.be/wszwGli8vcQ\n    submitted by    /u/hieudanhtt1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1iyzw/phim_kinh_di_cu%E1%BB%99c_s%E1%BB%91ng_c%E1%BB%A7a_ch%C3%BAng_ta_m%C3%A3i_l%C3%A0_v%C3%B2ng/",
-          "publishedOn": "2022-10-11T20:08:27.000Z",
-          "wordCount": 35553,
-          "title": "PHIM KINH DI CUỘC SỐNG CỦA CHÚNG TA MÃI LÀ VÒNG TRÒN VÔ HÌNH| | NÊN XEM 1 LẦN TRONG ĐỜI",
-          "imageUrl": "https://external-preview.redd.it/oUJZBnKsvk3QUMNAb2DJkriMVWYODIRo6oQZ2eE1wDE.jpg?auto=webp&s=211c777878908180eded1bd84af9fd8af928ae79"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1hz9v/can_someone_explain_the_boat_people/",
-          "author": null,
-          "description": "Okay, so I’m learning about Vietnam for my French class right now and we’re discussing the “Boat People” or the refugees who fled the country after the end of the war in ‘75. So this to me seems a bit sketchy (I identify as between socialist and ML). Who were the people that fled, just former bureaucrats for the south and sympathizers, or just your average Joe. What were the education centres? Disguised prisons or actual places where people learned about socialism? Overall, is it justified in calling Vietnam authoritarian post war and were the people justly fleeing the nation, or was it just propaganda and actual crimes of those who fled that caused the exodus\n    submitted by    /u/Srikent  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1hz9v/can_someone_explain_the_boat_people/",
-          "publishedOn": "2022-10-11T19:29:26.000Z",
-          "wordCount": 40549,
-          "title": "Can someone explain the boat people?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1hjr9/where_to_stay_in_ha_long_area/",
-          "author": null,
-          "description": "If I want to chill out in bungalows near the beach in the ha long area, where should I go?\n Is it best to stay in the Ha Long center, or is the islands better?\n    submitted by    /u/chriso0405  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1hjr9/where_to_stay_in_ha_long_area/",
-          "publishedOn": "2022-10-11T19:12:08.000Z",
-          "wordCount": 35936,
-          "title": "Where to stay in ha long area?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1c7xy/help_filling_out_delivery_details_in_vietnam/",
-          "author": null,
-          "description": "Hi just a quick one, I need to fill out an address to delivery a replacement debit card but I’m struggling to know what to put where.\n The name of the place is DHL Quận 5. I need the following:\n Address line 1: Address line 2 Postcode: Town/city: Region:\n    submitted by    /u/SuccessfulWater2663  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1c7xy/help_filling_out_delivery_details_in_vietnam/",
-          "publishedOn": "2022-10-11T15:38:37.000Z",
-          "wordCount": 36249,
-          "title": "Help filling out delivery details in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1byem/sesbania_sano_flowers_and_linh_fishes_hotpot_and/",
-          "author": null,
-          "description": "submitted by    /u/livingisagift1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1byem/sesbania_sano_flowers_and_linh_fishes_hotpot_and/",
-          "publishedOn": "2022-10-11T15:27:52.000Z",
-          "wordCount": 35766,
-          "title": "Sesbania /sano flowers and Linh fishes hotpot and grilled chicken at Moc Hoa, Long An",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1baxg/reliable_post_office_in_ho_chi_minh_to_send_a/",
-          "author": null,
-          "description": "So I’ve lost my debit card, so I need a new one sent through revolut. Has anyone got a reliable post office I can send it to, which won’t get lost. I know revolt has tracking on it, but I’d still like a reliable place. Is it as simple as finding a post office on Google maps and using that as an address?\n    submitted by    /u/SuccessfulWater2663  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1baxg/reliable_post_office_in_ho_chi_minh_to_send_a/",
-          "publishedOn": "2022-10-11T15:01:11.000Z",
-          "wordCount": 36192,
-          "title": "Reliable post office in Ho Chi Minh to send a parcel to",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y1abud/scooter_crash/",
-          "author": null,
-          "description": "submitted by    /u/realPacManVN  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y1abud/scooter_crash/",
-          "publishedOn": "2022-10-11T14:21:56.000Z",
-          "wordCount": 35538,
-          "title": "Scooter crash!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/y19pn0/steam_in_vn/",
-          "author": null,
-          "description": "Does anyone uses Steam here in VN ? I have numerous games that can't start with error \"Cannot connect to Steam\" \n Do you know what can I do ?\n    submitted by    /u/Frangan_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/y19pn0/steam_in_vn/",
-          "publishedOn": "2022-10-11T13:55:48.000Z",
-          "wordCount": 36092,
-          "title": "Steam in VN ?",
-          "imageUrl": null
         }
       ]
     },
@@ -6555,6 +6535,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-convert-an-int-to-a-string-in-cpp/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Type casting or type conversion is the process of converting a variable from one data type to another.  Type casting can be done implicitly or explicitly.  Implicit type casting gets done automatically via the compiler, while explicit type casting is done by the developer. In this article, you'll",
+          "link": "https://www.freecodecamp.org/news/how-to-convert-an-int-to-a-string-in-cpp/",
+          "publishedOn": "2022-11-10T18:54:57.000Z",
+          "wordCount": 1344,
+          "title": "How to Convert an Int to a String in C++ – Integer Cast Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/uday-awal-UjJWhMerJx0-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/error-error-0308010c-digital-envelope-routines-unsupported-node-error-solved/",
+          "author": "Kolade Chris",
+          "description": "If you work with Node.js and command line interface solutions like Webpack, create-react-app, or vue-cli-service, you might have encountered the error,  Error: error:0308010c:digital envelope routines::unsupported. You’re not alone, because I’m currently getting it too: The React app indeed failed to start: In this article, you’ll learn how to fix",
+          "link": "https://www.freecodecamp.org/news/error-error-0308010c-digital-envelope-routines-unsupported-node-error-solved/",
+          "publishedOn": "2022-11-10T18:39:19.000Z",
+          "wordCount": 1159,
+          "title": "Error: error:0308010c:digital envelope routines::unsupported [Node Error Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/envelope-1829509_1280.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/jamstack-for-beginners/",
+          "author": "Damilola Oladele",
+          "description": "You may have heard the term Jamstack and have been wondering what it means. Well, the Jamstack is nothing more than a modern way of building web applications.  Jamstack takes advantage of existing technologies – which we'll discuss in a minute. The result is better performance, improved security, and",
+          "link": "https://www.freecodecamp.org/news/jamstack-for-beginners/",
+          "publishedOn": "2022-11-10T18:30:49.000Z",
+          "wordCount": 1486,
+          "title": "What is the Jamstack? Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Damilola-Oladele-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-security-fuzz-web-applications-using-ffuf/",
+          "author": "Manish Shivanandhan",
+          "description": "Building strong authentication systems is crucial for web applications. Now that many businesses have a growing online presence, a malicious actor taking control of your website can be devastating. In this article, we will learn how to use Ffuf, a fast web fuzzer written in Go. You will learn how",
+          "link": "https://www.freecodecamp.org/news/web-security-fuzz-web-applications-using-ffuf/",
+          "publishedOn": "2022-11-10T17:21:43.000Z",
+          "wordCount": 2445,
+          "title": "How to Fuzz Web Applications using FFuf – Web Security Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/ffuf.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/programming-in-typescript/",
+          "author": "Beau Carnes",
+          "description": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. TypeScript provides better error checking than JavaScript. This is because TypeScript uses a static type system, which means that the type of a variable is checked before the code is executed. We just published a 5-hour TypeScript course",
+          "link": "https://www.freecodecamp.org/news/programming-in-typescript/",
+          "publishedOn": "2022-11-10T16:10:57.000Z",
+          "wordCount": 932,
+          "title": "Programming in TypeScript – Full Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/typescript.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-bootstrap-5-in-spanish-by-building-a-portfolio-website-bootstrap-course-for-beginners/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Welcome! If you speak Spanish and you want to practice your HTML and CSS skills, create responsive websites with Bootstrap 5, and build your portfolio website, then this course is for you. In this article, you will find a brief introduction to responsive web development and Bootstrap 5. You will",
+          "link": "https://www.freecodecamp.org/news/learn-bootstrap-5-in-spanish-by-building-a-portfolio-website-bootstrap-course-for-beginners/",
+          "publishedOn": "2022-11-10T05:30:10.000Z",
+          "wordCount": 1821,
+          "title": "Learn Bootstrap 5 in Spanish by Building a Portfolio Website – Bootstrap Course for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/thumbnail-2.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/aws-lambda-rds/",
           "author": "Mugilan Ragupathi",
@@ -7614,46 +7654,6 @@
           "wordCount": 809,
           "title": "Build a Webshop with Angular, Node.js, TypeScript, & Stripe",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/webshop.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-recognize-phishing-email/",
-          "author": "Jose Vicente Nunez",
-          "description": "You know the drill: you open your email client and there is it an email saying that you will be in trouble if you do not follow certain instructions in short time, no questions asked. All it takes is a single click, and you're in trouble. This kind of email",
-          "link": "https://www.freecodecamp.org/news/how-to-recognize-phishing-email/",
-          "publishedOn": "2022-10-12T00:52:32.000Z",
-          "wordCount": 1630,
-          "title": "How to Recognize a Phishing Email – And What to Do When You Get One",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/five_hours_until_the_bombing_run-1.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "When working with JavaScript arrays, you have to be careful that you are not calling the push(), pop(), shift(), unShift(), or splice() methods on a variable that is meant to be an array but has a value of undefined. If you mistakenly do this, you'll get this error: If you",
-          "link": "https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/",
-          "publishedOn": "2022-10-11T23:18:26.000Z",
-          "wordCount": 1487,
-          "title": "How to Fix TypeError: Cannot read Property 'push' of Undefined in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/cover-template--13-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/",
-          "author": "Avdhoot Fulsundar",
-          "description": "Golang has been around for a while now, and it's become quite popular among developers. It is a simple yet compelling programming language that's well-loved because of its powerful features like concurrency and the fact that it is developed by Google. Golang is a server-side language that's used in many",
-          "link": "https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/",
-          "publishedOn": "2022-10-11T23:11:17.000Z",
-          "wordCount": 1317,
-          "title": "Best Free Resources to Learn Golang – Go Coding Courses",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Gradient-Modern-Digital-Marketing-Facebook-Cover--36-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-programming-tips/",
-          "author": "David Fagbuyiro",
-          "description": "Python is one of the most popular programming languages out there today. Its simplicity and readability make it a favorite among many programmers. So in this tutorial, I'm sharing a few pointers and strategies to help you improve your Python programming skills. How to Reverse a String in Python In",
-          "link": "https://www.freecodecamp.org/news/python-programming-tips/",
-          "publishedOn": "2022-10-11T19:47:25.000Z",
-          "wordCount": 1539,
-          "title": "Python Programming Tips to Help You Level Up Your Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-ankush-rathi-925067.jpg"
         }
       ]
     }
