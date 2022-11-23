@@ -12,6 +12,66 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418CE9878.FireWeatherWatch.126418F99780CA.LOXRFWLOX.0fdaffefdc27fdcbf809bc4978ee2037",
+          "author": null,
+          "description": "...FIRE WEATHER WATCH IN EFFECT FOR WESTERN LOS ANGELES COUNTY AND EASTERN VENTURA COUNTY MOUNTAINS AND VALLEYS FROM 1 AM THURSDAY THROUGH 11 AM FRIDAY... ...FIRE WEATHER WATCH IN EFFECT FOR THE MALIBU COASTAL STRIP WESTWARD TO THE VENTURA COUNTY COASTAL PLAIN FROM 8 AM THROUGH 8 PM THURSDAY...",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418CE9878.FireWeatherWatch.126418F99780CA.LOXRFWLOX.0fdaffefdc27fdcbf809bc4978ee2037",
+          "publishedOn": "2022-11-22T22:22:00.000Z",
+          "wordCount": 427,
+          "title": "Fire Weather Watch issued November 22 at 2:22PM PST until November 24 at 8:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418CE9878.FireWeatherWatch.126418FBE170CA.LOXRFWLOX.0809e894f62fd1778b1eb77744cb1af7",
+          "author": null,
+          "description": "...FIRE WEATHER WATCH IN EFFECT FOR WESTERN LOS ANGELES COUNTY AND EASTERN VENTURA COUNTY MOUNTAINS AND VALLEYS FROM 1 AM THURSDAY THROUGH 11 AM FRIDAY... ...FIRE WEATHER WATCH IN EFFECT FOR THE MALIBU COASTAL STRIP WESTWARD TO THE VENTURA COUNTY COASTAL PLAIN FROM 8 AM THROUGH 8 PM THURSDAY...",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418CE9878.FireWeatherWatch.126418FBE170CA.LOXRFWLOX.0809e894f62fd1778b1eb77744cb1af7",
+          "publishedOn": "2022-11-22T22:22:00.000Z",
+          "wordCount": 493,
+          "title": "Fire Weather Watch issued November 22 at 2:22PM PST until November 25 at 11:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418CE71CC.HighWindWatch.126418ED3B70CA.LOXNPWLOX.8f88f093bb2252bc36d10f7a7c5047e9",
+          "author": null,
+          "description": "...HIGH WIND WATCH NOW IN EFFECT FROM WEDNESDAY EVENING THROUGH THURSDAY AFTERNOON... * WHAT...North to northeast winds 25 to 35 mph with possible gusts to 65 mph. * WHERE...Los Angeles County Mountains. * WHEN...From Wednesday evening through Thursday afternoon.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418CE71CC.HighWindWatch.126418ED3B70CA.LOXNPWLOX.8f88f093bb2252bc36d10f7a7c5047e9",
+          "publishedOn": "2022-11-22T21:23:00.000Z",
+          "wordCount": 163,
+          "title": "High Wind Watch issued November 22 at 1:23PM PST until November 24 at 3:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418CE71CC.HighWindWatch.126418ED3B70CA.LOXNPWLOX.ce4b851a6c54d9282cc79b933b1b80e9",
+          "author": null,
+          "description": "...HIGH WIND WATCH NOW IN EFFECT FROM WEDNESDAY EVENING THROUGH THURSDAY AFTERNOON... * WHAT...Northeast winds 25 to 35 mph with possible gusts to 60 mph. * WHERE...Santa Clarita Valley, Central Ventura County Valleys and Southeastern Ventura County Valleys.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418CE71CC.HighWindWatch.126418ED3B70CA.LOXNPWLOX.ce4b851a6c54d9282cc79b933b1b80e9",
+          "publishedOn": "2022-11-22T21:23:00.000Z",
+          "wordCount": 189,
+          "title": "High Wind Watch issued November 22 at 1:23PM PST until November 24 at 3:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418CE71CC.HighWindWatch.126418ED3B70CA.LOXNPWLOX.d13d38ea86d6fd7596ab7bb7f68c1e7a",
+          "author": null,
+          "description": "...HIGH WIND WATCH IN EFFECT FROM WEDNESDAY EVENING THROUGH THURSDAY AFTERNOON... * WHAT...North to northeast winds 25 to 40 mph with possible gusts up to 65 mph possible. * WHERE...Santa Monica Mountains. * WHEN...From Wednesday evening through Thursday afternoon.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418CE71CC.HighWindWatch.126418ED3B70CA.LOXNPWLOX.d13d38ea86d6fd7596ab7bb7f68c1e7a",
+          "publishedOn": "2022-11-22T21:23:00.000Z",
+          "wordCount": 163,
+          "title": "High Wind Watch issued November 22 at 1:23PM PST until November 24 at 3:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418CE71CC.HighWindWatch.126418ED3B70CA.LOXNPWLOX.f1d40167a34b341faf8407de4efbda97",
+          "author": null,
+          "description": "...HIGH WIND WATCH IN EFFECT FROM WEDNESDAY EVENING THROUGH THURSDAY AFTERNOON... * WHAT...North to northeast winds 20 to 35 mph with possible gusts up to 60 mph possible. * WHERE...Los Angeles County San Fernando Valley. * WHEN...From Wednesday evening through Thursday afternoon.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418CE71CC.HighWindWatch.126418ED3B70CA.LOXNPWLOX.f1d40167a34b341faf8407de4efbda97",
+          "publishedOn": "2022-11-22T21:23:00.000Z",
+          "wordCount": 170,
+          "title": "High Wind Watch issued November 22 at 1:23PM PST until November 24 at 3:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418AFF6AC.HardFreezeWarning.126418BE8A50CA.LOXNPWLOX.fe35133de308adfa758eae52c72041ce",
           "author": null,
           "description": "...HARD FREEZE WARNING IN EFFECT FROM 1 AM TO 9 AM PST MONDAY... * WHAT...Sub-freezing temperatures as low as 20 expected. * WHERE...Antelope Valley. * WHEN...From 1 AM to 9 AM PST Monday. * IMPACTS...Damage to outdoor plumbing possible. Expect severe damage to crops or sensitive vegetation, and harm to unprotected",
@@ -890,36 +950,6 @@
           "wordCount": 35,
           "title": "There are no active watches, warnings or advisories",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126412E7D118.FrostAdvisory.126412F64900CA.LOXNPWLOX.22b81d38e382e2a83cdc75382b8f1833",
-          "author": null,
-          "description": "...FROST ADVISORY REMAINS IN EFFECT FROM 3 AM TO 9 AM PDT MONDAY... * WHAT...Temperatures as low as 33 to 35 in normally colder wind- sheltered locations will result in frost formation. * WHERE...Antelope Valley. * WHEN...From 3 AM to 9 AM PDT Monday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126412E7D118.FrostAdvisory.126412F64900CA.LOXNPWLOX.22b81d38e382e2a83cdc75382b8f1833",
-          "publishedOn": "2022-10-23T21:18:00.000Z",
-          "wordCount": 129,
-          "title": "Frost Advisory issued October 23 at 2:18PM PDT until October 24 at 9:00AM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126412E7D118.WindAdvisory.126412F73360CA.LOXNPWLOX.3ce98cd3efa61e0ac1978e286173436f",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 3 PM PDT MONDAY... * WHAT...Northwest to northeast winds 20 to 30 mph with gusts up to 45 mph. * WHERE...Los Angeles County Mountains. * WHEN...Until 3 PM PDT Monday. Strongest late this afternoon or evening through Monday morning.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126412E7D118.WindAdvisory.126412F73360CA.LOXNPWLOX.3ce98cd3efa61e0ac1978e286173436f",
-          "publishedOn": "2022-10-23T21:18:00.000Z",
-          "wordCount": 159,
-          "title": "Wind Advisory issued October 23 at 2:18PM PDT until October 24 at 3:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126412E7D118.WindAdvisory.126412F73360CA.LOXNPWLOX.2c36f36006e17f9e387d2a65e88d45f5",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 3 AM TO 3 PM PDT MONDAY... * WHAT...Areas of north to northeast winds 15 to 25 mph with gusts to 40 mph are expected. * WHERE...Santa Clarita Valley, Central Ventura County Valleys, Southeastern Ventura County Valleys, Malibu Coast, Santa Monica Mountains and Los Angeles County San Fernando Valley.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126412E7D118.WindAdvisory.126412F73360CA.LOXNPWLOX.2c36f36006e17f9e387d2a65e88d45f5",
-          "publishedOn": "2022-10-23T21:18:00.000Z",
-          "wordCount": 240,
-          "title": "Wind Advisory issued October 23 at 2:18PM PDT until October 24 at 3:00PM PDT by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -928,6 +958,216 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z2aok7/learning_vietnamese_still_not_sure_if_i_insulted/",
+          "author": null,
+          "description": "Hello all, I am American, learning Vietnamese for a couple months now. This weekend I was at a temple and as we were leaving I went to grab my shoes from the shelf but an older lady was in front so I said “xin lỗi bà...” She turned around and said some things I did not understand, but from her tone I’m pretty sure they weren’t very happy. \n Did I insult her?? Is there something different I should have said?? Not sure if this is the right place for this question but everyone here is very nice so figured I’d give it a shot. \n Cảm ơn các bạn!\n    submitted by    /u/gnioros  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z2aok7/learning_vietnamese_still_not_sure_if_i_insulted/",
+          "publishedOn": "2022-11-23T00:51:18.000Z",
+          "wordCount": 14848,
+          "title": "Learning Vietnamese still, not sure if I insulted a lady...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z2ahhc/are_mobile_wallets_now_widely_used_in_vietnam/",
+          "author": null,
+          "description": "I’m going to Saigon for a short work trip soon and I was just wondering if mobile wallets such as Alipay, WeChat Pay, and GrabPay are now widely accepted in the city? What’s the most popular e-wallet in VN right now and can foreigners sign-up to avail the service? Planning to use a mobile wallet (either GrabPay or Alipay) mainly for paying goods in malls and restaurants just to get by for less than 3 days in the city and I feel like I don’t necessarily need to withdraw cold, hard cash in DONG since I’ll be staying in my hotel anyway working most of the time.\n    submitted by    /u/ilovespacecakes  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z2ahhc/are_mobile_wallets_now_widely_used_in_vietnam/",
+          "publishedOn": "2022-11-23T00:42:25.000Z",
+          "wordCount": 14957,
+          "title": "Are mobile wallets now widely used in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z29t5n/where_to_watch_world_cup_in_saigon/",
+          "author": null,
+          "description": "Do you have any recommendations for bars where you can watch worldcup matches? Thank you very much in advance!\n    submitted by    /u/ArugulaOk1835  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z29t5n/where_to_watch_world_cup_in_saigon/",
+          "publishedOn": "2022-11-23T00:12:27.000Z",
+          "wordCount": 14659,
+          "title": "Where to watch world cup in saigon?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z26vlc/unprocessed_food/",
+          "author": null,
+          "description": "Chào mọi người!! Recently on TikTok, you see a lot of people talk about their travels overseas and eating the same, if not more, but still losing weight. Or vice versa, with exchange/international students, moving to the States and gaining so much weight. I’m wondering if the same could be said about Vietnam about the food quality, I know there’s a lot of processed food in every country but Vietnam is high on the list of countries with the healthiest diets! Does anyone have similar experiences with weight fluctuations while traveling between Vietnam and the States? I’m moving there soon and I’m really curious!\n    submitted by    /u/Liveloose  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z26vlc/unprocessed_food/",
+          "publishedOn": "2022-11-22T22:15:59.000Z",
+          "wordCount": 14998,
+          "title": "Unprocessed food?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z2510j/%C4%91%C3%A0n_tranh/",
+          "author": null,
+          "description": "I'm not sure if this is the right place to ask but I'm interested in learning the instrument and I have 2 questions. 1st is there any good places that sell it online? 2nd if it uses the treble or bass clef? I'm thankful for any answers!\n    submitted by    /u/ohohohrileyautopart  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z2510j/%C4%91%C3%A0n_tranh/",
+          "publishedOn": "2022-11-22T21:06:16.000Z",
+          "wordCount": 14695,
+          "title": "Đàn tranh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z22otx/3_days_in_ho_chi_minh_city_can_anyone_suggest/",
+          "author": null,
+          "description": "submitted by    /u/ProfessionalJello164  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z22otx/3_days_in_ho_chi_minh_city_can_anyone_suggest/",
+          "publishedOn": "2022-11-22T19:36:19.000Z",
+          "wordCount": 15259,
+          "title": "3 days in Ho Chi Minh city, can anyone suggest some good islands nearby?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z2185a/what_are_the_roles_that_are_expected_of_a/",
+          "author": null,
+          "description": "I feel like I’m at a loss because there’s so much shit it feels like people just grab it out of the air. Like I have no idea what I’m supposed to do if a parent passes. My family is Buddhist if that helps.\n    submitted by    /u/Sunflowerweak  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z2185a/what_are_the_roles_that_are_expected_of_a/",
+          "publishedOn": "2022-11-22T18:39:46.000Z",
+          "wordCount": 15260,
+          "title": "What are the roles that are expected of a firstborn son?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z1zusy/best_place_to_exchange_baht_to_vnd/",
+          "author": null,
+          "description": "Was supposed to go to Thailand but enjoyed Vietnam a little to much to leave. Have some Baht I'd like to exchange. Reading up it seems like Gold stores away from tourist areas give the best conversion rate, however I'm not sure if they only exchange USD? Any help is much appreciated!\n    submitted by    /u/keneskae  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z1zusy/best_place_to_exchange_baht_to_vnd/",
+          "publishedOn": "2022-11-22T17:45:33.000Z",
+          "wordCount": 22466,
+          "title": "Best place to exchange Baht to VND",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z1xrt2/good_people_of_vietnam_i_need_your_help/",
+          "author": null,
+          "description": "I will be traveling to Vietnam to celebrate New Year. I am really looking forward to experiencing the beauty of Vietnam and relish all the things that I have heard about it.\n I have a query regarding a travel route from Ho Chi Minh City to Krong Siem Reap. My preference is towards traveling by road as I have been told it's very economical compared to the flight. Along with that, I wish to know how comfortable that journey is and would you recommend it to someone who is traveling there for the first time.\n Looking forward for your helpful and insightful responses. I surely believe that I will have many more queries and I have utmost faith in the fact that most of them will be solved through this subreddit.\n    submitted by    /u/Ok-Apricot-676  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z1xrt2/good_people_of_vietnam_i_need_your_help/",
+          "publishedOn": "2022-11-22T16:22:12.000Z",
+          "wordCount": 16387,
+          "title": "Good People of Vietnam, I need your help.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z1vb3a/in_search_of_an_old_vietnamese_magazine_from_1972/",
+          "author": null,
+          "description": "Hey everyone, I'm looking for a cover of an old Vietnamese Magazine \"Chinh Luan\" from 1972. It would have been published sometime between May and August 1972 and features a Soldier standing on top of a tank on the cover. The magazine cover format is similar to this :https://nhacxua.vn/wp-content/uploads/2019/05/chinh-luan.jpg \n It features a family member of mine so I would happily pay a high price for a good quality scan of this cover or even more for the magazine itself or both. I'm not sure where to start, but wanted to reach out on Reddit in case anyone might know or even have this copy of the magazine. Thanks!\n    submitted by    /u/CDRSkywalker1991  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z1vb3a/in_search_of_an_old_vietnamese_magazine_from_1972/",
+          "publishedOn": "2022-11-22T14:42:40.000Z",
+          "wordCount": 15564,
+          "title": "In Search of an Old Vietnamese Magazine from 1972",
+          "imageUrl": "https://external-preview.redd.it/6vDHOJ4ZJaBUO-lwlV9nSB9EQ2IU-rAr6-dlqwg7AVo.jpg?auto=webp&s=cf0a0395ed95a4238776d7aad9e8c31174724982"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z1v94t/m%C3%ACnh_v%E1%BA%BD_%C4%91%C3%A1m_m%C3%A2y_m%C3%A8o/",
+          "author": null,
+          "description": "submitted by    /u/cuongkhung1993  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z1v94t/m%C3%ACnh_v%E1%BA%BD_%C4%91%C3%A1m_m%C3%A2y_m%C3%A8o/",
+          "publishedOn": "2022-11-22T14:40:26.000Z",
+          "wordCount": 17094,
+          "title": "Mình vẽ đám mây mèo",
+          "imageUrl": "https://preview.redd.it/r84yiw50li1a1.jpg?auto=webp&s=1cc92f028166227bdb10cf5c91eed24e2598c905"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z1tqs1/homemade_nems/",
+          "author": null,
+          "description": "submitted by    /u/RePiece  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z1tqs1/homemade_nems/",
+          "publishedOn": "2022-11-22T13:35:01.000Z",
+          "wordCount": 14681,
+          "title": "Homemade Nems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z1s9xg/amazing_sunrise_timelapse_i_captured_at_the_hon/",
+          "author": null,
+          "description": "submitted by    /u/Odd-Organization2989  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z1s9xg/amazing_sunrise_timelapse_i_captured_at_the_hon/",
+          "publishedOn": "2022-11-22T12:25:19.000Z",
+          "wordCount": 15623,
+          "title": "AMAZING sunrise timelapse I captured at the Hon Khoi Salt Fields! (hello from Singapore too! 🇸🇬)",
+          "imageUrl": "https://external-preview.redd.it/yJRkk7TPefq4TZ0q5miUZtSeC42WewCec2mFL0M84oQ.jpg?auto=webp&s=497815e0882d2969cab517a554264e3527c48a44"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z1rzm5/how_to_contact_vietjet_airlines_internationally/",
+          "author": null,
+          "description": "I want to contact vietjet airlines but they are not replying to emails and no body answering phone calls. Help.\n    submitted by    /u/yoyomamalol1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z1rzm5/how_to_contact_vietjet_airlines_internationally/",
+          "publishedOn": "2022-11-22T12:10:48.000Z",
+          "wordCount": 15425,
+          "title": "How to contact VietJet airlines internationally ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z1pdfp/can_you_guess_what_they_ate_taken_around_11am_in/",
+          "author": null,
+          "description": "submitted by    /u/zekat17  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z1pdfp/can_you_guess_what_they_ate_taken_around_11am_in/",
+          "publishedOn": "2022-11-22T09:34:24.000Z",
+          "wordCount": 15077,
+          "title": "Can you guess what they ate? Taken around 11am in HCMC",
+          "imageUrl": "https://preview.redd.it/eex7pzdyji1a1.jpg?auto=webp&s=1c64de71d7f82289b0cabdd8e42d86d969b88934"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z1npl3/which_dog_breed_are_these_pups_never_seen_them/",
+          "author": null,
+          "description": "submitted by    /u/42duckmasks  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z1npl3/which_dog_breed_are_these_pups_never_seen_them/",
+          "publishedOn": "2022-11-22T07:45:17.000Z",
+          "wordCount": 15089,
+          "title": "Which dog breed are these pups? Never seen them before 🥹🇻🇳",
+          "imageUrl": "https://preview.redd.it/1vfni9bqig1a1.jpg?auto=webp&s=53b156c80bb538667a589b2a89107eeff67a4bfb"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z1ku12/how_are_vietnamese_factorymanufacturing_workers/",
+          "author": null,
+          "description": "I am active on a sub that avoid Chinese products. Often the alternatives are made in Vietnam which I am happy to support the local. However a few people say Vietnamese made products are no better, usually citing (without sources) that Vietnam uses low-wage workers as well.\n Now unfortunately I am quite unaware of the living condition of Vietnamese workers. Would you say Vietnamese workers are generally better? I know it's not the best job but would you say it's good enough? Sometimes there's even absurd claim like slavery worker but I do not believe it happens in Vietnam (at least legally/endorsed). Would you say Vietnamese made products are more ethical? How would you respond to the above criticism?\n    submitted by    /u/datvm  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z1ku12/how_are_vietnamese_factorymanufacturing_workers/",
+          "publishedOn": "2022-11-22T04:57:34.000Z",
+          "wordCount": 18966,
+          "title": "How are Vietnamese factory/manufacturing workers living conditions?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z1k3bl/my_chanh_muoi_has_this_white_build_up_on_the_top/",
+          "author": null,
+          "description": "submitted by    /u/Brush_my_teeth_4_me  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z1k3bl/my_chanh_muoi_has_this_white_build_up_on_the_top/",
+          "publishedOn": "2022-11-22T04:17:28.000Z",
+          "wordCount": 15931,
+          "title": "my chanh muoi has this white build up on the top of the brine. What is it?",
+          "imageUrl": "https://preview.redd.it/ztcadc4fzg1a1.jpg?auto=webp&s=e7b055b9a33442a8f25be28aeac6fcf77b2a3a91"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z1k0fv/v%E1%BA%BD_k%C3%BD_h%E1%BB%8Da_bitexco_s%C3%A0i_g%C3%B2n_vi%E1%BB%87t_nam/",
+          "author": null,
+          "description": "submitted by    /u/QuanArtDrawing  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z1k0fv/v%E1%BA%BD_k%C3%BD_h%E1%BB%8Da_bitexco_s%C3%A0i_g%C3%B2n_vi%E1%BB%87t_nam/",
+          "publishedOn": "2022-11-22T04:13:22.000Z",
+          "wordCount": 17585,
+          "title": "Vẽ ký họa Bitexco Sài Gòn Việt Nam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z1i24q/most_popular_chinese_celebs_in_vn/",
+          "author": null,
+          "description": "Hello! I need help for a school assignment - who are the most popular Chinese actors/actresses/celebrities in Vietnam? Thank you!\n    submitted by    /u/lemoncreme  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z1i24q/most_popular_chinese_celebs_in_vn/",
+          "publishedOn": "2022-11-22T02:37:02.000Z",
+          "wordCount": 16317,
+          "title": "Most popular Chinese celebs in VN?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/z1gkux/anywhere_to_order_these_candies_to_deliver_to_us/",
+          "author": null,
+          "description": "submitted by    /u/hulachild  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/z1gkux/anywhere_to_order_these_candies_to_deliver_to_us/",
+          "publishedOn": "2022-11-22T01:29:07.000Z",
+          "wordCount": 15271,
+          "title": "Anywhere to order these candies to deliver to US???",
+          "imageUrl": "https://preview.redd.it/vj2w1sae5g1a1.jpg?auto=webp&s=849e7777b990b20a4c14d463093c2e0895b74496"
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/z1fnlo/how_much_would_you_pay_for_this_bike_hanoi_its_a/",
           "author": null,
@@ -6887,186 +7127,6 @@
           "wordCount": 35517,
           "title": "How to find high paying jobs in Vietnam?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yc8u8x/where_to_buy_this/",
-          "author": null,
-          "description": "submitted by    /u/Dr_Vass  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yc8u8x/where_to_buy_this/",
-          "publishedOn": "2022-10-24T11:32:12.000Z",
-          "wordCount": 34034,
-          "title": "where to buy this",
-          "imageUrl": "https://preview.redd.it/vmor6xxj6sv91.jpg?auto=webp&s=211ea7251355fae2616945e8518957d743d88dab"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yc7s2x/treatment_of_animals/",
-          "author": null,
-          "description": "I was born in Vietnam but have lived overseas for most of my life. Been trying to get back to my roots and understand the culture better by consuming more Vietnamese modern media.\n There's a game show I watch called 2 Ngày 1 Đêm. Originally I enjoyed the show enough, but over the last few episodes, the show's use of live animals just doesn't sit quite right with me.\n First it was a game to capture duck. Then another game where they toss a whole bunch of mini crabs around to find special ones with numbers stuck to them. But the worst one was in the final episode where they were pulling this poor baby pig around, not with a proper pet harness, but just a piece of rope, then the poor thing got picked up and run around whilst screaming in distress. The sounds of his scream honestly stresses me out.\n Having grown up in Vietnam, I know we still have a long way to go in terms of animal rights, but I did not expect to see animal abuse on national television. Honestly I wonder what other people would think when seeing this on Vietnamese TV. This particular show originates from Korea. The Korean show has hundreds of episodes and animal abuse was never in any of them. How is it that the Vietnamese show cannot produce even 20 episodes without involving distressed live animals, do the producers lack creativity that badly? 😔\n    submitted by    /u/GinkandTonic  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yc7s2x/treatment_of_animals/",
-          "publishedOn": "2022-10-24T10:32:38.000Z",
-          "wordCount": 38026,
-          "title": "Treatment of animals",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yc7md4/a_tree_in_lam_dong/",
-          "author": null,
-          "description": "submitted by    /u/KinkyPeople  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yc7md4/a_tree_in_lam_dong/",
-          "publishedOn": "2022-10-24T10:23:13.000Z",
-          "wordCount": 34069,
-          "title": "A tree in Lam Dong",
-          "imageUrl": "https://preview.redd.it/o36a0wj8urv91.jpg?auto=webp&s=247b81bb883fc6de1bb78579bfc551acecec0eab"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yc75ia/cao_b%E1%BA%B1ng_is_a_hidden_gem/",
-          "author": null,
-          "description": "I’m an Aussie travelling through Vietnam for the second time. I just wanted to shout from the mountains how stunning this place is. I love it here! The people are beautiful, it’s a slower pace, the food is great and the views are breathtaking. What a place!\n    submitted by    /u/ashree24  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yc75ia/cao_b%E1%BA%B1ng_is_a_hidden_gem/",
-          "publishedOn": "2022-10-24T09:55:39.000Z",
-          "wordCount": 35289,
-          "title": "Cao Bằng is a hidden gem!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yc6hsu/hello_hcmc/",
-          "author": null,
-          "description": "submitted by    /u/nomaddopamine  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yc6hsu/hello_hcmc/",
-          "publishedOn": "2022-10-24T09:10:53.000Z",
-          "wordCount": 35844,
-          "title": "Hello HCMC!",
-          "imageUrl": "https://preview.redd.it/zm865j8tzpv91.jpg?auto=webp&s=211cd952d48bef8f75fed24cc7f68e511e953cfb"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yc6cu3/mysterious_foulsmelling_water_stains_hcmc_streets/",
-          "author": null,
-          "description": "submitted by    /u/trangtrangxyz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yc6cu3/mysterious_foulsmelling_water_stains_hcmc_streets/",
-          "publishedOn": "2022-10-24T09:02:33.000Z",
-          "wordCount": 35192,
-          "title": "Mysterious, foul-smelling water stains HCMC streets in crimson",
-          "imageUrl": "https://external-preview.redd.it/3wYt-KyjuIIU0O6MyIgZZ_gW6aVrnD1wotoM6DIkKUY.jpg?auto=webp&s=9b60f420c99bd223a04c38d9112e0fbf745869cd"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yc1au7/subtle_questions_for_expats_who_intermingle_with/",
-          "author": null,
-          "description": "Coming from different cultures, do you observe your behaviors, ways of thinking changing in any kind?\n Do you become more reserved when talk about politics or anything sensitive, less respect for people in authority (police, etc.), or some nuances in the way you convey your idea, … or anything?\n    submitted by    /u/highoctane404  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yc1au7/subtle_questions_for_expats_who_intermingle_with/",
-          "publishedOn": "2022-10-24T03:48:12.000Z",
-          "wordCount": 44686,
-          "title": "Subtle questions for expats who intermingle with Vietnamese in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yc0rq4/vietnams_cursed_images_66/",
-          "author": null,
-          "description": "submitted by    /u/GodBlessHentai  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yc0rq4/vietnams_cursed_images_66/",
-          "publishedOn": "2022-10-24T03:19:41.000Z",
-          "wordCount": 34411,
-          "title": "Vietnam's cursed images #66",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ybwrvl/dalena_morton_popular_singer_of_the_90s/",
-          "author": null,
-          "description": "​\n https://preview.redd.it/fjjkmh43hnv91.jpg?width=1000&format=pjpg&auto=webp&s=1bc3d4d22e931b0cb95ece7e3d4369f33d9bfb2c\n Anyone remembers her? Really miss her songs and emotional voice when she hits the high note.\n According to this website: Dalena, she has not been appearing any big show since 2007 in Asia 55.\n Does anyone know what she is doing? She is still singing?\n    submitted by    /u/Gopherpark  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ybwrvl/dalena_morton_popular_singer_of_the_90s/",
-          "publishedOn": "2022-10-23T23:58:43.000Z",
-          "wordCount": 34767,
-          "title": "Dalena Morton popular singer of the 90's",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ybu3zd/the_magical_town_of_hoi_an_through_my_lens/",
-          "author": null,
-          "description": "submitted by    /u/Thesassyfashionchef  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ybu3zd/the_magical_town_of_hoi_an_through_my_lens/",
-          "publishedOn": "2022-10-23T21:55:35.000Z",
-          "wordCount": 34809,
-          "title": "The magical town of Hoi An through my lens. ✨",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ybsx59/cash_limit_into_vietnam/",
-          "author": null,
-          "description": "submitted by    /u/iamrichbitch010  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ybsx59/cash_limit_into_vietnam/",
-          "publishedOn": "2022-10-23T21:04:22.000Z",
-          "wordCount": 35019,
-          "title": "Cash limit into Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ybr7y0/current_covid_protocols/",
-          "author": null,
-          "description": "Hi All! This is my first post here.\n I am going to be in Vietnam for a month, starting November 2. I am going to be based in HCMC, but I will be free to move around the country. I have received my fourth dose of COIVD vaccine, and am happy to mask up and to practise social distancing in my home country of Canada, but I am curious to know what people in Vietnam are currently doing regarding COVID protocols. In my part of Canada, it seems many people are now throwing caution to the winds re: COVID. Is the same happening in Vietnam?\n    submitted by    /u/AggravatingDatabase5  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ybr7y0/current_covid_protocols/",
-          "publishedOn": "2022-10-23T19:52:54.000Z",
-          "wordCount": 35288,
-          "title": "Current COVID protocols",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ybptyh/i_dont_have_usd_and_banks_are_closed_can_i_pay_in/",
-          "author": null,
-          "description": "Potentially making a last second trip to Vietnam. But banks are closed today, and if I go Ill need to pay stamping fee. If I dont have USD will Canadian dollars work?\n    submitted by    /u/Unique-Beyond-3256  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ybptyh/i_dont_have_usd_and_banks_are_closed_can_i_pay_in/",
-          "publishedOn": "2022-10-23T18:56:30.000Z",
-          "wordCount": 34941,
-          "title": "I dont have USD and banks are closed. Can I pay in Canadian Dollars for stamping fee?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ybn8vc/vn_version_of_cards_against_humanity/",
-          "author": null,
-          "description": "Hello Redditors,\n I wanted to ask if there is any public edition (including text version) of Cards Against Humanity card board game: https://www.cardsagainsthumanity.com/ in Vietnamese?\n Anyone can download template and add their own text, so I was just wondering if anyone tried to create VN version of this game, thanks.\n    submitted by    /u/Banished_Privateer  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ybn8vc/vn_version_of_cards_against_humanity/",
-          "publishedOn": "2022-10-23T17:14:39.000Z",
-          "wordCount": 35120,
-          "title": "VN version of Cards Against Humanity",
-          "imageUrl": "https://external-preview.redd.it/LseailJF4kwaW8FokyYCtJY1yzq1KF47NlMaKOw2ndk.jpg?auto=webp&s=07b4a23367b27ca4cd1e756a21a28342d8b9d6af"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ybl7ow/visiting_during_christmas_and_international_new/",
-          "author": null,
-          "description": "Last time I visited VN was during Tet in 2020, and even though it shut down Hanoi for a day (really weird to walk around the old quarter and it was dead) it was a very cool experience to see the festivities and everything going on in Saigon to celebrate.\n This time we'll be landing on Christmas day in Hanoi (late at night of course), and we will in Saigon for International New Years eve and day. What should we expect?, are there celebrations?, are day trips still happening? (cu chi tunnels tour type things).\n TIA and looking forward to coming back!!\n    submitted by    /u/Roselia77  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ybl7ow/visiting_during_christmas_and_international_new/",
-          "publishedOn": "2022-10-23T15:54:21.000Z",
-          "wordCount": 36273,
-          "title": "visiting during Christmas and International New Year",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ybjzzg/hows_the_weather_like/",
-          "author": null,
-          "description": "Hi all! My friend and I are visiting Hanoi and HCM some time early to mid December. We understand HCM’s a more comfortable coolish warm weather. For Hanoi, we’ve been reading up and watching videos but we are still quite confused about the weather and is unsure of what to prepare in terms of wear because we’ve read and seen people wearing anything from shorts to padded jackets… 😂\n We understand that the weather can be quite volatile and thus layering is key, but we’d just like to get some sense of what the weather is like in both cities, and whether Hanoi especially requires anything even remotely close to a padded jacket? \n For context, we come from a tropical climate within SEA! \n Many thanks! :)\n    submitted by    /u/euniseeeee  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ybjzzg/hows_the_weather_like/",
-          "publishedOn": "2022-10-23T15:04:51.000Z",
-          "wordCount": 34950,
-          "title": "How’s the weather like?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ybi9rn/truy%E1%BB%87n_tranh_vi%E1%BB%87t_nam/",
-          "author": null,
-          "description": "Chào cả nhà. Tôi đang ấp ủ dự định thực hiện một bộ truyện tranh thuần VN, nội dung VN, nhân vật VN, phong cảnh VN...vv và hiện đã hoàn thành chương 1. Các bạn có thấy thích chủ đề này ko?\n link truyện: https://www.facebook.com/profile.php?id=100087148750039\n https://blogtruyen.vn/30981/truyen-tranh-nu-sinh-viet-nam-ban-thao\n https://preview.redd.it/kuqownl89kv91.jpg?width=1824&format=pjpg&auto=webp&s=2bc21a8d00f0bcc428526f8d400077eda3d3b722\n    submitted by    /u/CompetitiveScratch38  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ybi9rn/truy%E1%BB%87n_tranh_vi%E1%BB%87t_nam/",
-          "publishedOn": "2022-10-23T13:52:24.000Z",
-          "wordCount": 34760,
-          "title": "Truyện tranh Việt Nam",
-          "imageUrl": "https://external-preview.redd.it/KzeCwT_1J4LMn6tR7gtxM2XDW11cEYcaCN-w1rmMFxQ.jpg?auto=webp&s=921a67c2fd969bea7a6b374d2b3c03fd114b9aa3"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ybhme7/this_is_c%C6%A1m_lam_basically_rice_inside_a_tube/",
-          "author": null,
-          "description": "submitted by    /u/bigmouthprick334  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ybhme7/this_is_c%C6%A1m_lam_basically_rice_inside_a_tube/",
-          "publishedOn": "2022-10-23T13:23:26.000Z",
-          "wordCount": 34976,
-          "title": "this is Cơm Lam , basically rice inside a tube",
-          "imageUrl": null
         }
       ]
     },
@@ -7075,6 +7135,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-arcade-style-shooting/",
+          "author": "Beau Carnes",
+          "description": "Creating an arcade-style shooting game is a fun project to help you improve your Python and PyGame programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a fun game using Python and PyGame. Pete LeMaster created this course. Pete is",
+          "link": "https://www.freecodecamp.org/news/create-a-arcade-style-shooting/",
+          "publishedOn": "2022-11-22T14:41:04.000Z",
+          "wordCount": 899,
+          "title": "Create a Arcade-Style Shooting Game with Python and PyGame",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pythongame.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/",
+          "author": "Benjamin Semah",
+          "description": "A Uniform Resource Locator (URL) is what leads you to a page or file on the internet. URLs serve as the addresses of things on the internet. All valid URLs follow certain patterns. So if you know those patterns, you can determine whether a URL is valid or not in",
+          "link": "https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/",
+          "publishedOn": "2022-11-22T04:12:10.000Z",
+          "wordCount": 1800,
+          "title": "How to Validate URLs in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/web-design-g84d0f5bf9_1920.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
           "author": "Sem Bauke",
