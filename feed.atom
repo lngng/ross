@@ -2,10 +2,264 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lngng.github.io/ross/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-24T01:12:10.153Z</updated>
+    <updated>2022-11-25T01:04:44.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://lngng.github.io/ross/index.html"/>
     <link rel="self" href="https://lngng.github.io/ross/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Red Flag Warning issued November 24 at 3:19PM PST until November 25 at 11:00AM PST by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126418ED42DC.RedFlagWarning.126418FBE170CA.LOXRFWLOX.131be6ed6d38050352fbcf6ededf7bfe</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126418ED42DC.RedFlagWarning.126418FBE170CA.LOXRFWLOX.131be6ed6d38050352fbcf6ededf7bfe"/>
+        <updated>2022-11-24T23:19:00.000Z</updated>
+        <summary type="html"><![CDATA[...RED FLAG WARNING IN EFFECT FOR WESTERN LOS ANGELES COUNTY AND MUCH OF VENTURA COUNTY THROUGH 11 AM FRIDAY DUE TO GUSTY SANTA ANA WINDS AND VERY LOW HUMIDITY... .The current Santa Ana event has been in full swing with widespread gusts of 30 to 50 mph across much of Los Angeles and Ventura Counties. Typically windy spots in the mountains have gusted in the 50 to 65 mph]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Flag Warning issued November 24 at 3:19PM PST until November 25 at 11:00AM PST by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126418ED42DC.RedFlagWarning.126418FBE170CA.LOXRFWLOX.b37924d2868be46302c3833b17ccce01</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126418ED42DC.RedFlagWarning.126418FBE170CA.LOXRFWLOX.b37924d2868be46302c3833b17ccce01"/>
+        <updated>2022-11-24T23:19:00.000Z</updated>
+        <summary type="html"><![CDATA[...RED FLAG WARNING IN EFFECT FOR WESTERN LOS ANGELES COUNTY AND MUCH OF VENTURA COUNTY THROUGH 11 AM FRIDAY DUE TO GUSTY SANTA ANA WINDS AND VERY LOW HUMIDITY... .The current Santa Ana event has been in full swing with widespread gusts of 30 to 50 mph across much of Los Angeles and Ventura Counties. Typically windy spots in the mountains have gusted in the 50 to 65 mph]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wind Advisory issued November 24 at 3:03PM PST until November 25 at 11:00AM PST by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126418ED3C9C.WindAdvisory.126418FBE170CA.LOXNPWLOX.9a72bc5a4217285aac57c9d77aa7efce</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126418ED3C9C.WindAdvisory.126418FBE170CA.LOXNPWLOX.9a72bc5a4217285aac57c9d77aa7efce"/>
+        <updated>2022-11-24T23:03:00.000Z</updated>
+        <summary type="html"><![CDATA[...WIND ADVISORY REMAINS IN EFFECT UNTIL 11 AM PST FRIDAY... ...HIGH WIND WARNING HAS EXPIRED... * WHAT...Northeast winds 20 to 30 mph with gusts up to 55 mph. Isolated gusts to 65 mph on remote exposed ridgetops. * WHERE...Los Angeles County Mountains and Santa Monica Mountains.]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wind Advisory issued November 24 at 3:03PM PST until November 25 at 11:00AM PST by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126418ED3C9C.WindAdvisory.126418FBE170CA.LOXNPWLOX.3926b81bd99e30112edd175cae2c5987</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126418ED3C9C.WindAdvisory.126418FBE170CA.LOXNPWLOX.3926b81bd99e30112edd175cae2c5987"/>
+        <updated>2022-11-24T23:03:00.000Z</updated>
+        <summary type="html"><![CDATA[...WIND ADVISORY REMAINS IN EFFECT UNTIL 11 AM PST FRIDAY... ...HIGH WIND WARNING HAS EXPIRED... * WHAT...Northeast winds 25 to 35 mph with gusts up to 50 mph. Isolated gusts to 60 mph on exposed ridgetops. * WHERE...Santa Clarita Valley, Central Ventura County Valleys, Southeastern Ventura County Valleys and Los Angeles County San]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wind Advisory issued November 24 at 3:03PM PST until November 25 at 11:00AM PST by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126418ED3C9C.WindAdvisory.126418FBE170CA.LOXNPWLOX.a5d985d30c4c0395a3e62439271c69dc</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126418ED3C9C.WindAdvisory.126418FBE170CA.LOXNPWLOX.a5d985d30c4c0395a3e62439271c69dc"/>
+        <updated>2022-11-24T23:03:00.000Z</updated>
+        <summary type="html"><![CDATA[...WIND ADVISORY REMAINS IN EFFECT UNTIL 11 AM PST FRIDAY... * WHAT...Areas of north to northeast winds 20 to 35 mph with gusts up to 50 mph through early evening, then 15 to 25 mph with gusts to 40 mph through Friday morning. * WHERE...Ventura County Beaches, Ventura County Inland Coast and Malibu Coast.]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where to exchange USD for Dong currency in district 3?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/z3thlq/where_to_exchange_usd_for_dong_currency_in/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/z3thlq/where_to_exchange_usd_for_dong_currency_in/"/>
+        <updated>2022-11-24T20:13:33.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I'm going to Vietnam for the first time next week and I'm wondering if anybody knows any specific places I can exchange USD for Dong in district 3? I've read that jewellery stores give you the best rate but does anybody have any specific spots in D3 so I don't have to travel too far with my cash? 
+ Also I plan on getting a VN sim, if I call around to some stores to ask what their exchange rate is would they understand English? I don't know any Vietnamese outside of random food menu items lol
+    submitted by    /u/twomilliondicks  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where to spend New Years this year in Vietnam?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/z3sj0p/where_to_spend_new_years_this_year_in_vietnam/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/z3sj0p/where_to_spend_new_years_this_year_in_vietnam/"/>
+        <updated>2022-11-24T19:29:37.000Z</updated>
+        <summary type="html"><![CDATA[I am solo travelling to Vietnam this December, and was wondering where is usually the best place to spend New Years? I am landing in Ho Chi Minh, quite enjoy great food and drink, meeting people.
+    submitted by    /u/ThBaron  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50cc/electric motorbike for commuting to work in Ho Chi Minh (Saigon)]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/z3sgws/50ccelectric_motorbike_for_commuting_to_work_in/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/z3sgws/50ccelectric_motorbike_for_commuting_to_work_in/"/>
+        <updated>2022-11-24T19:26:52.000Z</updated>
+        <summary type="html"><![CDATA[So i'm moving to Vietnam in a couple weeks to teach English for the first time. I want to live in District 3 or Binh Tanh but the language centres I've been offered are all around a 20 minute drive from these places. So it looks like ima have to rent/buy a motorbike/scooter. I currently don't have a license but I've read you can ride a 50cc scooter without one. How easy/doable would it be to rent a 50cc motorbike for a 40 minute round-trip each day?
+ After I've settled in a little, I'll probably work on getting a license.
+ In the meantime, does anyone know of any other ways to get about the city that wouldn't be as expensive as getting a taxi every day?
+ Cheers
+    submitted by    /u/Brilliant-Carpenter5  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simcard/esim enquire 😃]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/z3o0vh/simcardesim_enquire/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/z3o0vh/simcardesim_enquire/"/>
+        <updated>2022-11-24T16:18:08.000Z</updated>
+        <summary type="html"><![CDATA[I heard someone recommended Vietnam discovery esim. Is this a viable option compare to obtaining a sim at the airport?
+ I’m spending 30 days in Vietnam and don’t really mind the cost as such but I want something that will work the entire duration, not something that will work 1 day and shit bricks the following. If you got a sim at the airport, which kiosk did you go to? 
+ I went back in April and had no issues with grabbing a random kiosk seller sim but seem like a lot of people are reporting issues of reliable sim at the airport lately.
+    submitted by    /u/xTroiOix  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skateboarding in Ho Chi Minh?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/z3lyfo/skateboarding_in_ho_chi_minh/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/z3lyfo/skateboarding_in_ho_chi_minh/"/>
+        <updated>2022-11-24T14:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Hey guys, so I’m visiting Ho Chi Minh for a couple of days this weekend as part of a longer Vietnam trip, thinking of checking out Saigon skate shop to get a board and was wondering if there are any skaters here who know a good place to skate near the centre? 
+ I googled Ho Chi Minh skate park and there seems to be one but it’s pretty far away apparently! So just wondering if there’s any closer street spot that won’t bother people too much. Cheers!
+    submitted by    /u/jasonlampa  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I don’t want to leave]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/z3loxa/i_dont_want_to_leave/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/z3loxa/i_dont_want_to_leave/"/>
+        <updated>2022-11-24T14:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Hello, I’m an American on a business trip to Vietnam. Even though I have only been here for a week. I don’t want to leave. I feel a deep sense of peace here that I don’t feel in my country.
+ I love American, don’t get me wrong. I feel as if people in Vietnam are more genuine and kind. I don’t think I’ve smiled as often at home. 
+ I’m sure this is coming from a place of privilege. But I have a deep feeling of belonging here. I’m sure I will be back for business. But I wish I could stay.
+    submitted by    /u/juliusart  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Being a truck driver on the Ho Chi Minh trail is gotta be one of the most dangerous jobs you could get in the Vietnam War]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/z3jcsf/being_a_truck_driver_on_the_ho_chi_minh_trail_is/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/z3jcsf/being_a_truck_driver_on_the_ho_chi_minh_trail_is/"/>
+        <updated>2022-11-24T13:00:32.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Snoo-23852  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How much would a jeep tour cost from Hoi an to Hue]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/z3i0mp/how_much_would_a_jeep_tour_cost_from_hoi_an_to_hue/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/z3i0mp/how_much_would_a_jeep_tour_cost_from_hoi_an_to_hue/"/>
+        <updated>2022-11-24T11:52:44.000Z</updated>
+        <summary type="html"><![CDATA[Hi. Thanks
+    submitted by    /u/maxmax86  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ha Giang loop on an automatic motorbike?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/z3hbm3/ha_giang_loop_on_an_automatic_motorbike/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/z3hbm3/ha_giang_loop_on_an_automatic_motorbike/"/>
+        <updated>2022-11-24T11:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Just wanted another opinion on this as I want to be safe.
+ Me and my partner are interested in doing the Ha Giang loop in a few days. My partner has been driving all over southeast Asia with me on the back for the past several months with no issues. However, we've only ever driven an automatic and we're a bit nervous as I saw a couple posts on here that said a semi automatic or manual was needed to do the loop. We messaged the scooter rental we rented from before when we did the Hai Van pass to ask them about the loop and they told us it was safe to do the loop on a 125cc automatic scooter with two people on it. We wanted something a bit bigger if we could do it on an automatic but they don't have anything over 125cc.
+ Just wondering from people who have done it recently, especially with all the construction I've read about, if they felt that would be adequate. If not, maybe we might get a lesson on the semi automatic when we get to Ha Giang and see how comfortable we feel on it before deciding what to do? 
+ Thanks!
+    submitted by    /u/allycatsimba  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Công viên Tao Đàn]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/z3eaud/c%C3%B4ng_vi%C3%AAn_tao_%C4%91%C3%A0n/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/z3eaud/c%C3%B4ng_vi%C3%AAn_tao_%C4%91%C3%A0n/"/>
+        <updated>2022-11-24T08:11:29.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/kvnguyen13  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The integrity of Việt Nam has been defended 🫡]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/z3dirw/the_integrity_of_vi%E1%BB%87t_nam_has_been_defended/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/z3dirw/the_integrity_of_vi%E1%BB%87t_nam_has_been_defended/"/>
+        <updated>2022-11-24T07:27:13.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/creamycroissaunts  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is it possible to open a market stall in Hoi An?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/z3ayz3/is_it_possible_to_open_a_market_stall_in_hoi_an/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/z3ayz3/is_it_possible_to_open_a_market_stall_in_hoi_an/"/>
+        <updated>2022-11-24T05:08:04.000Z</updated>
+        <summary type="html"><![CDATA[My wife is Vietnamese and lives in Da Nang. She wants a platform to sell her products and has been considering opening a market stall in Hoi An (night market). Does anyone know how difficult this is or if it’s even possible? I don’t think it’s as simple as turning up with a stall? I imagine if it’s “first come first served” the locals would not be very happy about you beating them to it. I would think there’s some regulation and rent to be paid though? 
+ She is looking into it but was hoping someone here might know something about it!
+    submitted by    /u/Goosebo  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Favorite fiction books/authors?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/z3afqq/favorite_fiction_booksauthors/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/z3afqq/favorite_fiction_booksauthors/"/>
+        <updated>2022-11-24T04:39:34.000Z</updated>
+        <summary type="html"><![CDATA[Can you think of a Vietnamese book so good, that it makes you glad you speak Vietnamese and are able to read it? 
+ Can be popular or not, translated to other languages or not. 
+ many thanks!
+    submitted by    /u/ds9ubhrm  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Softer beds in hotels/hostels?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/z39jeq/softer_beds_in_hotelshostels/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/z39jeq/softer_beds_in_hotelshostels/"/>
+        <updated>2022-11-24T03:52:12.000Z</updated>
+        <summary type="html"><![CDATA[Hi. First time going to Vietnam in a few days. I have heard people saying that a lot of beds in Vietnam are really hard, is this true? I have a pretty sensitive back so just wondering if the hotels' beds will be the same as beds in people's houses? If so, is it likely that I can find hotels with softer beds for foreigners or be able to check what kind of beds each hotel has before I book?
+    submitted by    /u/anna_b_1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Days on the Ha Giang Loop]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/z38tv1/4_days_on_the_ha_giang_loop/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/z38tv1/4_days_on_the_ha_giang_loop/"/>
+        <updated>2022-11-24T03:15:15.000Z</updated>
+        <summary type="html"><![CDATA[Yet another Ha Giang Loop post. 
+ https://preview.redd.it/791bz04mft1a1.jpg?width=4032&format=pjpg&auto=webp&s=53ebb2bf05989ff4d868c1775546255918d1c887
+ The Ha Giang Loop is an iconic ride through Northern Vietnam. Stunning mountain passes, delicious food, and chilly weather are certainly the highlights of the trip. 
+ It's absolutely on the tourist circuit, however. Be prepared to pass swarms of tourists, both domestic and foreign, on small scooters. Nearly every guest house in the towns you stop at will be full and, most likely, will have a party going on. 
+ Overall, an excellent ride that I'd highly recommend. 
+ Day 1: Ha Giang to Gu Gia
+ https://www.youtube.com/watch?v=kuRg4A6LRds 
+ Day 2: Du Gia to Dong Van
+ https://www.youtube.com/watch?v=0AxpcT6z0to 
+ Day 3: Dong Van to Yen Minh
+ https://www.youtube.com/watch?v=LPWf0f145g 
+ Day 4: Yen Minh to Ha Giang
+ https://www.youtube.com/watch?v=NtrvXrx_0z0
+    submitted by    /u/deezpupz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anyone in Hanoi that wants two motorcycle helmets tomorrow?]]></title>
         <id>https://www.reddit.com/r/VietNam/comments/z363i4/anyone_in_hanoi_that_wants_two_motorcycle_helmets/</id>
@@ -9479,276 +9733,6 @@ Questions that can be answered with just Yes/No
         <summary type="html"><![CDATA[Graph algorithms and data structures are used to solve many real-word problems and are commonly needed to solve coding challenges. A graph data structures is a non-linear data structure consisting of vertices and edges. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn how]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anyone in Hue/around Hue want to join to do the Five Lakes hike at Bach Ma?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydxbug/anyone_in_huearound_hue_want_to_join_to_do_the/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydxbug/anyone_in_huearound_hue_want_to_join_to_do_the/"/>
-        <updated>2022-10-26T12:49:48.000Z</updated>
-        <summary type="html"><![CDATA[Basically they only do the tours if there are more people and it comes to be way cheaper. The hike looks amazing and we‘d look to stay overnight for either camping or hotel (birdwatching at sunrise)! We‘re a brother and sister from Austria/UK and are very easygoing! Dm if you‘re interested xx
-    submitted by    /u/Big_Exercise6388  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Probably I'm not the only one irritated by the fact that YouTube put a load of ads on their videos yet refuse to let Vietnamese users sub to Premium via conventional ways. I know there are people selling Prem subs and alternative clients/ad blockers exist but...]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydx77k/probably_im_not_the_only_one_irritated_by_the/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydx77k/probably_im_not_the_only_one_irritated_by_the/"/>
-        <updated>2022-10-26T12:43:26.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/pee_wrecker  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The women who protest near the government buildings in Hanoi on occasion.]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydvpjr/the_women_who_protest_near_the_government/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydvpjr/the_women_who_protest_near_the_government/"/>
-        <updated>2022-10-26T11:29:16.000Z</updated>
-        <summary type="html"><![CDATA[Who are they and what are they protesting? They normally stand on the corner by the small park near the Palace. I can't read vietnamese so I can't tell what the signs and banners say. They also always seem to have plain clothes police standing in front of them.
-    submitted by    /u/PropMop31  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[trending/favorite skincare-beauty-health products (help)]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/yduy3k/trendingfavorite_skincarebeautyhealth_products/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/yduy3k/trendingfavorite_skincarebeautyhealth_products/"/>
-        <updated>2022-10-26T10:49:22.000Z</updated>
-        <summary type="html"><![CDATA[Hi friends, 
- I will be in Hanoi and Ho Chi Minh, both a few days only. 
- I am really looking forward to shopping some national hype/trend/favorite products related to:
- -skincare
- -beauty
- -health 
- What products do you reccomend, and what retail (store) names should i be looking out for? 
- Thank you so much in advance 💕
-    submitted by    /u/huts_huts  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anyone sent drives/USBs from Vietnam to another country? How was your experience with Customs?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydtb4c/anyone_sent_drivesusbs_from_vietnam_to_another/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydtb4c/anyone_sent_drivesusbs_from_vietnam_to_another/"/>
-        <updated>2022-10-26T09:06:04.000Z</updated>
-        <summary type="html"><![CDATA[The drives we plan to send contains film footage (totally SFW). We just need to send in case we can’t upload the file to their system.
- I usually heard about not being able to receive electronic items due to Customs. But I don’t know about sending.
-    submitted by    /u/livingisagift1  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100 Vietnamese go missing in South Korea]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydt17b/100_vietnamese_go_missing_in_south_korea/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydt17b/100_vietnamese_go_missing_in_south_korea/"/>
-        <updated>2022-10-26T08:47:53.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/trangtrangxyz  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Vietnamese Bank Account?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydslh4/best_vietnamese_bank_account/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydslh4/best_vietnamese_bank_account/"/>
-        <updated>2022-10-26T08:18:54.000Z</updated>
-        <summary type="html"><![CDATA[Hi I'm looking to open a Vietnamese Bank Account in Hanoi. Could anyone recommend me the best bank + debit card? I was thinking VPBank or Techcombank, not sure which one is better..
- Cheers!
-    submitted by    /u/DragonXDT  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buzz 🐝]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydr12l/buzz/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydr12l/buzz/"/>
-        <updated>2022-10-26T06:35:40.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Saigon-bees  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[making Chanh Muoi]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydoxhq/making_chanh_muoi/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydoxhq/making_chanh_muoi/"/>
-        <updated>2022-10-26T04:31:24.000Z</updated>
-        <summary type="html"><![CDATA[I am making chanh muoi and had a question about the process. How necessary is it that the water be warm or hot when you first pour into the jar? I put the water in cold and it's been sitting for about a day now. I'm hoping this will mean that I will just have to ferment for a longer period of time and nothing more? I'm just hoping I won't have to restart the whole process, the container I'm using is plastic so I don't want to subject it to a bunch of heat
-    submitted by    /u/Brush_my_teeth_4_me  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With a passion for recycling, Argentinian Mr. Nano Morante came to Vietnam and decided to stay here to carry out social projects. (Vnexpress)]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydn3vz/with_a_passion_for_recycling_argentinian_mr_nano/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydn3vz/with_a_passion_for_recycling_argentinian_mr_nano/"/>
-        <updated>2022-10-26T02:54:29.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Sad_Year5694  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tôi chỉ có thể ở Hà Nội 1 tuần. Hãy cho tôi biết tôi nên ăn những món gì?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydlp0i/t%C3%B4i_ch%E1%BB%89_c%C3%B3_th%E1%BB%83_%E1%BB%9F_h%C3%A0_n%E1%BB%99i_1_tu%E1%BA%A7n_h%C3%A3y_cho_t%C3%B4i_bi%E1%BA%BFt/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydlp0i/t%C3%B4i_ch%E1%BB%89_c%C3%B3_th%E1%BB%83_%E1%BB%9F_h%C3%A0_n%E1%BB%99i_1_tu%E1%BA%A7n_h%C3%A3y_cho_t%C3%B4i_bi%E1%BA%BFt/"/>
-        <updated>2022-10-26T01:42:44.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/duylvdig  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hanoi airport scam]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydlb0p/hanoi_airport_scam/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydlb0p/hanoi_airport_scam/"/>
-        <updated>2022-10-26T01:23:20.000Z</updated>
-        <summary type="html"><![CDATA[When you order a grab to the airport they may purposely take you to the wrong place. Then a taxi driver will explain that you are at wrong place and ask for a high price to go to correct place.
- My story: I told my initial grab driver i was at wrong place and after a few times of telling him it was wrong. He drove me to correct place reluctantly. I even tipped him.. I asked a security at correct place if it was in fact correct as i was second guessing myself. He was apparently working with them and told me to go ask someone at back. There were just more more grab drivers there. I was confused but i also didn’t want to be late. At this point I wasn’t aware of the scam and thought it was just a misunderstanding.
- New grab driver asked to pay to go to the initial wrong place saying it was the correct after i told him where i was going. Asks for stupid price once we arrived too. Thats when i detected a scam. But it was too late. Arrive there and thats when the taxi driver attempted to ‘help me’ (scam me) and drop off at correct place. And he will ask for money in us dollars. 
- Overall the scam wasn’t much in my currency. But i was so angry at the situation that i left the taxi without paying and told him to F off. This proved to work as he barely even chased. Probably because the security working inside the airport werent involved in the scam like the outside security was.
- My advice: act angry and dont back down. It worked for me as i was legitimately pretty angry at how they were fucking with me and risking missing my flight and losing a lot of actual $
-    submitted by    /u/Garnservo97  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slavery exists!]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydjprj/slavery_exists/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydjprj/slavery_exists/"/>
-        <updated>2022-10-26T00:05:25.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/JosephBrown2000  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Help wanted: I'm looking to talk with anyone who had sex in Vietnam during the 1980s!]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydi8uq/help_wanted_im_looking_to_talk_with_anyone_who/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydi8uq/help_wanted_im_looking_to_talk_with_anyone_who/"/>
-        <updated>2022-10-25T22:55:31.000Z</updated>
-        <summary type="html"><![CDATA[An unusual request, I know.. but I'm a podcast host researching an episode on sex in Vietnam during the 1980s. I'm looking to understand more about the Vietnamese attitude towards sex (of any orientation) during this period. If you were living in the country at the time and would be happy to talk with me about your experiences, please let me know! Many thanks!
-    submitted by    /u/rysterman  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Python Lambda Function Works – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/python-lambda-function-explained/</id>
-        <link href="https://www.freecodecamp.org/news/python-lambda-function-explained/"/>
-        <updated>2022-10-25T20:37:45.000Z</updated>
-        <summary type="html"><![CDATA[One of the beautiful things about Python is that it is generally one of the most intuitive programming languages out there. Still, certain concepts can be difficult to grasp and comprehend. The lambda function is one of them.  I've been there. When I first started learning Python, I skipped]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traveling to Vietnam, when would be the best time to arrive considering Tet?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydehne/traveling_to_vietnam_when_would_be_the_best_time/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydehne/traveling_to_vietnam_when_would_be_the_best_time/"/>
-        <updated>2022-10-25T20:13:10.000Z</updated>
-        <summary type="html"><![CDATA[So I heard you probably want to avoid traveling Vietnam during Tet, from what I read online Tet will take place from the 22nd-29th of Jan 2023, is this correct?
- If this is correct, will everything be back to normal already at February 1st? Or should I wait a little longer?
- Thanks in advance :)
-    submitted by    /u/TheBackpacker2  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are the current Covid restrictions inside Vietnam?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydd9ls/what_are_the_current_covid_restrictions_inside/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydd9ls/what_are_the_current_covid_restrictions_inside/"/>
-        <updated>2022-10-25T19:22:13.000Z</updated>
-        <summary type="html"><![CDATA[I am hoping to finally visit Vietnam, Cambodia and Thailand to complete a trip I had originally planned in March 2020. I am vaccinated and boosted so entry requirements are fine, but what restrictions exist inside? Where do you have to wear masks? 
- What happens if I end up with Covid but without any symptoms beyond a common cold? Of course, I would stay in my hotel but would I be forced to go to some government location?
- Have many places closed permanently because of the harsh economic conditions? Any chance that borders will close again if there's a new wave of infections or is the vaccine trusted enough?
-    submitted by    /u/ThatGermanDude7  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Any examples of pre-war music recorded?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydc16q/any_examples_of_prewar_music_recorded/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydc16q/any_examples_of_prewar_music_recorded/"/>
-        <updated>2022-10-25T18:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Nhạc trước 1954
- I’ve been wondering what songs would’ve sounded like in the ‘40s-‘50s before the French left, I was thinking of Pham Duy for example. Most 1950s songs I find are actually ‘70-‘90s covers.
-    submitted by    /u/that1guysittingthere  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Post card sent help]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/ydateb/post_card_sent_help/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/ydateb/post_card_sent_help/"/>
-        <updated>2022-10-25T17:39:17.000Z</updated>
-        <summary type="html"><![CDATA[Hi, I have stamped post cards with the address. I want to send them tomorrow however I am not aware of the post box which are near me. Is there a way I can only the list of post boxes where I can just drop the post cards? Or is it necessary to go to Saigon post office? Please let me know. Thanks
-    submitted by    /u/Boredom-defeats-all  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production Ready eCommerce Website with ReactJS, TailwindCSS, PlanetScale and Stripe]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/"/>
-        <updated>2022-10-25T16:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Hello, welcome to this tutorial. Today we're going to build a production-ready eCommerce website using ReactJS, TailwindCSS, PlanetScale, and Stripe. Before we begin, you should be familiar with the basics of React.js and Next.js to get the most out of this guide. If you're not and need to brush up,]]></summary>
-        <author>
-            <name>Sharvin Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where to buy Arcteryx stuff?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/yd5r6r/where_to_buy_arcteryx_stuff/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/yd5r6r/where_to_buy_arcteryx_stuff/"/>
-        <updated>2022-10-25T14:08:28.000Z</updated>
-        <summary type="html"><![CDATA[Hello, I may be going again to Vietnam in December, and was wondering if anyone knows a place I can get cheap Arcteryx stuff at. Please let me know! Thanks.
-    submitted by    /u/phamu  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp Turns 8 Years Old: Data Science Courses + University Degrees Update]]></title>
-        <id>https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/"/>
-        <updated>2022-10-25T13:52:49.000Z</updated>
-        <summary type="html"><![CDATA[Happy birthday to the global freeCodeCamp community. 8 years ago, we started this grass-roots community of learners. Back then, freeCodeCamp sounded like an improbable dream. But we all rolled up our sleeves and got to work making it a reality. Today, more than a million people use freeCodeCamp each day.]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
 </feed>
