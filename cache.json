@@ -12,6 +12,26 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E1C9CD0.WinterStormWarning.12641E380F60CA.LOXWSWLOX.162324e5fc1daac134f778c8763f5b62",
+          "author": null,
+          "description": "...WINTER STORM WARNING REMAINS IN EFFECT UNTIL 6 PM PST MONDAY... * WHAT...Moderate to heavy snow expected tonight into Monday along with gusty winds. Snow accumulations of 5 to 10 inches expected above 7000 feet, with 4 to 8 inches between 5000 and 7000 feet, and 1 to 4 inches between 3500 and 5000 feet. Winds gusting as high as 35 mph.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E1C9CD0.WinterStormWarning.12641E380F60CA.LOXWSWLOX.162324e5fc1daac134f778c8763f5b62",
+          "publishedOn": "2022-12-11T22:12:00.000Z",
+          "wordCount": 238,
+          "title": "Winter Storm Warning issued December 11 at 2:12PM PST until December 12 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E1BD78C.HighSurfAdvisory.12641E385D80CA.LOXCFWLOX.5efb44cff12cce5bffa9b2902c60ae9e",
+          "author": null,
+          "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM PST MONDAY... * WHAT...Large breaking waves of 5 to 9 feet with dangerous rip currents. * WHERE...Catalina and Santa Barbara Islands, Ventura County Beaches and Los Angeles County Beaches. * WHEN...Until 8 PM PST Monday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E1BD78C.HighSurfAdvisory.12641E385D80CA.LOXCFWLOX.5efb44cff12cce5bffa9b2902c60ae9e",
+          "publishedOn": "2022-12-11T17:07:00.000Z",
+          "wordCount": 218,
+          "title": "High Surf Advisory issued December 11 at 9:07AM PST until December 12 at 8:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E0D5E14.WinterStormWarning.12641E380F60CA.LOXWSWLOX.162324e5fc1daac134f778c8763f5b62",
           "author": null,
           "description": "...WINTER STORM WARNING IN EFFECT FROM 4 PM SUNDAY TO 6 PM PST MONDAY... * WHAT...Moderate to heavy snow expected along with gusty winds. Snow accumulations of 8 to 16 inches expected above 7000 feet, with 4 to 8 inches between 5000 and 7000 feet, and 1 to 4 inches between 3500 and 5000 feet. Winds gusting as high as 35",
@@ -808,6 +828,226 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zjfp08/motorbike_rental/",
+          "author": null,
+          "description": "Where can I rent motorbikes in Ho Chi Minh\n    submitted by    /u/Maleficent_Bicycle_8  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zjfp08/motorbike_rental/",
+          "publishedOn": "2022-12-12T00:07:12.000Z",
+          "wordCount": 15304,
+          "title": "Motorbike rental",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zjdicz/green_bearded_rooster_g%C3%A0_xanh_r%C3%A2u_b%C3%A1_ng%C3%B4n/",
+          "author": null,
+          "description": "submitted by    /u/Ba_Ngon_Luan_Ben_Tre  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zjdicz/green_bearded_rooster_g%C3%A0_xanh_r%C3%A2u_b%C3%A1_ng%C3%B4n/",
+          "publishedOn": "2022-12-11T22:58:50.000Z",
+          "wordCount": 15331,
+          "title": "Green Bearded Rooster/ Gà Xanh Râu/ Bá Ngôn",
+          "imageUrl": "https://external-preview.redd.it/CeWPDiOjkOQiwGd4urpVP3rHSZcq-7tlCWrwUyxA6wI.jpg?auto=webp&s=9b6fa6980ce6e07ac85a37510bed46438b3c4c3c"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zjbjx3/writings_by_ho_chi_minh/",
+          "author": null,
+          "description": "What Book or writings by ho chi Minh would you recommend?\n    submitted by    /u/Safe-Raspberry-343  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zjbjx3/writings_by_ho_chi_minh/",
+          "publishedOn": "2022-12-11T22:10:41.000Z",
+          "wordCount": 15807,
+          "title": "Writing's by Ho Chi Minh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zjb35l/youtube_channel_recommendation/",
+          "author": null,
+          "description": "Is there any channel talking about Vietnamese history and politics you can recommend? Preferably from a Vietnamese person and not western.\n    submitted by    /u/Embarrassed-Win-4739  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zjb35l/youtube_channel_recommendation/",
+          "publishedOn": "2022-12-11T21:59:34.000Z",
+          "wordCount": 15320,
+          "title": "YouTube channel recommendation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zj8dxg/indoor_camera_in_vietnam/",
+          "author": null,
+          "description": "Hello,\n does anyone use an indoor camera in Vietnam. Which brand do you prefer? My In laws are getting older and I would like to be able to see them while I am away. I was hoping I could use the Nest Cam (indoor, wired) from the United States and install in my In-laws house in Ben Tre, but Google does not list Vietnam as being supported. \n ​\n Thank you\n    submitted by    /u/CONHEO13  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zj8dxg/indoor_camera_in_vietnam/",
+          "publishedOn": "2022-12-11T20:53:09.000Z",
+          "wordCount": 15622,
+          "title": "Indoor Camera in Vietnam.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zj4l4v/ch%C3%A2u_%C4%91%E1%BB%91c_rental/",
+          "author": null,
+          "description": "Hi - I'm looking for a home or apartment to rent for a month in or near Châu Đốc in March 2023. 1 or 2 bedrooms, with a kitchen. Please let me know if you have any leads. Thanks!\n    submitted by    /u/daisymcs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zj4l4v/ch%C3%A2u_%C4%91%E1%BB%91c_rental/",
+          "publishedOn": "2022-12-11T19:14:01.000Z",
+          "wordCount": 15368,
+          "title": "Châu Đốc rental?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zj3ux5/got_bored_so_i_created_a_vietnamese_cyrillic/",
+          "author": null,
+          "description": "submitted by    /u/Wholesome100statue  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zj3ux5/got_bored_so_i_created_a_vietnamese_cyrillic/",
+          "publishedOn": "2022-12-11T18:54:39.000Z",
+          "wordCount": 15342,
+          "title": "Got bored so I created a Vietnamese Cyrillic alphabet based on the Bulgarian alphabet with 36-f*cking-letters",
+          "imageUrl": "https://preview.redd.it/vvi12wu8xc5a1.jpg?auto=webp&s=b552983b8dd210d6743f8478aa533c84bef3475d"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zj2h9u/question_about_shipping_from_vietnam/",
+          "author": null,
+          "description": "hi, it's my first post here :) i am interested in buying manga from vietnam. can I get information to buy from Vietnam and ship to Italy, are there sites like amazon.co.jp that ship to Italy? lazada etc? shipping service which include customs? thank you all!!\n    submitted by    /u/Some-Peach-4706  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zj2h9u/question_about_shipping_from_vietnam/",
+          "publishedOn": "2022-12-11T18:18:03.000Z",
+          "wordCount": 15390,
+          "title": "Question about shipping from Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zj0wg7/you_might_be_surprised_vietnam_generates_more/",
+          "author": null,
+          "description": "Vietnam electricity grid is the largest in SE Asia, larger than Indonesia'.\n From the list we can see that China is an absolute behemoth. Russia generates more than Japan, let alone Germany.\n https://en.wikipedia.org/wiki/List_of_countries_by_electricity_production\n https://preview.redd.it/8j4px2hd0b5a1.png?width=500&format=png&auto=webp&s=5555f06a79a8a1f802d796dc014cdeb345e1b4a9\n    submitted by    /u/tenchiday  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zj0wg7/you_might_be_surprised_vietnam_generates_more/",
+          "publishedOn": "2022-12-11T17:34:31.000Z",
+          "wordCount": 15883,
+          "title": "You might be surprised - Vietnam generates more electricity than UK, Spain, Italy, Australia",
+          "imageUrl": "https://external-preview.redd.it/99teKU-LOT-_xk2VIH2BbtgZ6pOK89efNyyIBBXPCyo.jpg?auto=webp&s=9557e04e1dfdcd9ab0c7ebd8f9cd1bd0a04b5dda"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ziygtm/l%E1%BB%87ch_%C4%91%E1%BB%99_k%C3%ADnh_n%E1%BA%BFu_m%E1%BB%99t_b%C3%AAn_m%E1%BA%AFt_%C4%91eo_l%E1%BB%87ch_%C4%91%E1%BB%99_cao_h%C6%A1n/",
+          "author": null,
+          "description": "submitted by    /u/Hakkai666  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ziygtm/l%E1%BB%87ch_%C4%91%E1%BB%99_k%C3%ADnh_n%E1%BA%BFu_m%E1%BB%99t_b%C3%AAn_m%E1%BA%AFt_%C4%91eo_l%E1%BB%87ch_%C4%91%E1%BB%99_cao_h%C6%A1n/",
+          "publishedOn": "2022-12-11T16:27:28.000Z",
+          "wordCount": 16030,
+          "title": "lệch độ kính Nếu một bên mắt đeo lệch độ (cao hơn cỡ 0,25 -0,5) thì vẫn ổn chứ ạ? Em 2,5 không đeo thường xuyên chỉ đeo khi cần thôi ấy. Với lỡ cắt rồi ạ huhu.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zit5mh/best_places_to_visit_in_winter/",
+          "author": null,
+          "description": "Heading to the north in a few weeks and I am getting mixed reviews about travelling there in winter. I was looking into Sapa, Lan ha Bay etc. This is my first time in Vietnam.\n    submitted by    /u/A-Ok88  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zit5mh/best_places_to_visit_in_winter/",
+          "publishedOn": "2022-12-11T14:01:58.000Z",
+          "wordCount": 15436,
+          "title": "Best places to visit in winter?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ziqyok/new_years_eve_recommendations_for_dalat/",
+          "author": null,
+          "description": "We are going to be in Dalat and would love to hear your recommendations! Can be anything, really, whatever you would suggest checking out. We are American/German travelers. \n If you would want to connect and hang out with us please send me a DM we would love to meet locals/new people.\n Thank you in advance! \n ​\n    submitted by    /u/__tea  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ziqyok/new_years_eve_recommendations_for_dalat/",
+          "publishedOn": "2022-12-11T12:59:39.000Z",
+          "wordCount": 16074,
+          "title": "New years eve recommendations for Dalat?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zipfbj/everything_that_happens_once_can_never_happen/",
+          "author": null,
+          "description": "submitted by    /u/QUANGTRUNGCHEM  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zipfbj/everything_that_happens_once_can_never_happen/",
+          "publishedOn": "2022-12-11T12:05:16.000Z",
+          "wordCount": 15666,
+          "title": "Everything that happens once can never happen again. But everything that happens twice will surely happen a third time.",
+          "imageUrl": "https://external-preview.redd.it/2hrcKwIGWlI9LyT4gzmMaw0Npkdc8SRANzymv4KnPQU.png?format=pjpg&auto=webp&s=7fe2f2a0723e7f54c0d5356494cc02e476b2422d"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zindtr/need_help_apply_vietnam_passport/",
+          "author": null,
+          "description": "Any Viet Kiev live in Los Angeles area? I need help to apply Vietnam Passport.. My issue is I can't read or write Viet..I do have my birth certificate. Can anyone recomand a place beside Vietnam Consul.. thank you...Mod please delite it if not the right forum..\n    submitted by    /u/Vietnam1984  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zindtr/need_help_apply_vietnam_passport/",
+          "publishedOn": "2022-12-11T10:30:37.000Z",
+          "wordCount": 16568,
+          "title": "Need Help Apply Vietnam Passport",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zimi3z/night_view_of_ho_chi_minh/",
+          "author": null,
+          "description": "Thought I share this pretty night view during my first and recent trip to Vietnam\n    submitted by    /u/eruruchan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zimi3z/night_view_of_ho_chi_minh/",
+          "publishedOn": "2022-12-11T09:49:28.000Z",
+          "wordCount": 15426,
+          "title": "Night view of Ho Chi Minh",
+          "imageUrl": "https://preview.redd.it/isxsx4jz7a5a1.jpg?auto=webp&s=c68266d22ae547e59d20eba16f80cbaa9d40bae9"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zilbwt/travel_with_mom_recommendations/",
+          "author": null,
+          "description": "Hello! I'll be travelling to VN with my mom around Feb and I would like to get your recos. I've been to VN twice (it's one of my fave countries) but I would like to get your recos on travelling with a senior (She's 62 but still active) and it's her first time travelling outside the country. I'm thinking of heading to Hanoi, Sapa and Da Nang. Any recos would be appreciated. Thank you.\n    submitted by    /u/charmedoctopus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zilbwt/travel_with_mom_recommendations/",
+          "publishedOn": "2022-12-11T08:54:53.000Z",
+          "wordCount": 16265,
+          "title": "Travel with Mom recommendations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/ziggsh/what_is_she_wearing/",
+          "author": null,
+          "description": "submitted by    /u/Few-Replacement-8099  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/ziggsh/what_is_she_wearing/",
+          "publishedOn": "2022-12-11T05:26:15.000Z",
+          "wordCount": 15404,
+          "title": "What is she wearing?",
+          "imageUrl": "https://preview.redd.it/bil06rv0x85a1.jpg?auto=webp&s=fc0c29692caead983d4cda3d06f5af2808632aaf"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zigfkq/standard_cantonese_vs_vietnamese_cantonese_part_2/",
+          "author": null,
+          "description": "submitted by    /u/CheLeung  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zigfkq/standard_cantonese_vs_vietnamese_cantonese_part_2/",
+          "publishedOn": "2022-12-11T05:25:02.000Z",
+          "wordCount": 17607,
+          "title": "Standard Cantonese vs Vietnamese Cantonese Part 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zifd2j/vietnamese_food_is_so_much_healthier_than/",
+          "author": null,
+          "description": "I noticed I don't really gain weight if I eat Vietnamese food. I swear I can down an entire family size Bánh Ướt and feel perfectly fine. Meanwhile if I eat even a single slice of pepperoni pizza, I'll gain 5 lbs and bloat like crazy. I don't know what sort of dark magic crack there is in Vietnamese food but it's always so much healthier than American food 😄 Not complaining, I love it! \n    submitted by    /u/Only-Company-5505  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zifd2j/vietnamese_food_is_so_much_healthier_than/",
+          "publishedOn": "2022-12-11T04:47:46.000Z",
+          "wordCount": 16039,
+          "title": "Vietnamese food is so much healthier than American food",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zidze8/invest_savings/",
+          "author": null,
+          "description": "Hello expats in Vietnam. I will be here around 3yrs and just started getting my pay in VND. How do you invest your savings? I used to buy bonds in my home country and some ETF shares we with my local bank. Can I invest in bonds of Vietnam? Can I conviniently buy ETF shares being in Vietnam? Any advice highly appreciated:)\n    submitted by    /u/val2ptr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zidze8/invest_savings/",
+          "publishedOn": "2022-12-11T03:56:20.000Z",
+          "wordCount": 16506,
+          "title": "invest savings",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zicq5i/what_do_you_think_about_life_in_hanoi/",
+          "author": null,
+          "description": "submitted by    /u/Matthew__19  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zicq5i/what_do_you_think_about_life_in_hanoi/",
+          "publishedOn": "2022-12-11T03:11:06.000Z",
+          "wordCount": 18655,
+          "title": "What do you think about life in Hanoi ?",
+          "imageUrl": "https://preview.redd.it/koc58crw885a1.jpg?auto=webp&s=df79b5732a2393c593c112d8ae9a14dbe5cadb68"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zic13b/best_way_to_get_drinking_water_in_%C4%91%C3%A0_n%E1%BA%B5ng/",
+          "author": null,
+          "description": "Just moved to the city last week. I've searched some water delivery companies but was wondering what the best option for getting drinking water for my apartment is. \n We've been buying the 1.5 liter bottles, but would rather not have to go buy water bottles daily. \n Thanks!\n    submitted by    /u/yesimforeign  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zic13b/best_way_to_get_drinking_water_in_%C4%91%C3%A0_n%E1%BA%B5ng/",
+          "publishedOn": "2022-12-11T02:44:04.000Z",
+          "wordCount": 16630,
+          "title": "Best way to get drinking water in Đà Nẵng?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/zi80za/best_vietnamese_snacks_need_help/",
           "author": null,
@@ -6837,126 +7077,6 @@
           "wordCount": 15769,
           "title": "Food and other tips",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yt3oaa/some_older_cars_in_hanoi/",
-          "author": null,
-          "description": "submitted by    /u/Robbiebellphotos  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yt3oaa/some_older_cars_in_hanoi/",
-          "publishedOn": "2022-11-12T10:49:13.000Z",
-          "wordCount": 14803,
-          "title": "Some older cars in Hanoi",
-          "imageUrl": "https://preview.redd.it/e56b3ero2iz91.jpg?auto=webp&s=d25ba826b494c71da6c7f3c9227617cbc95397b7"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yt37kt/hair_salon_recommendations_in_hcm/",
-          "author": null,
-          "description": "I’m looking to get a 2-block Korean perm and my Vietnamese is weak, but I can have a conversation. I don’t think I need an English-speaking salon if I can just show a picture of what I want, but if there is a good English-speaking salon, it would help a lot.\n    submitted by    /u/dahnzii  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yt37kt/hair_salon_recommendations_in_hcm/",
-          "publishedOn": "2022-11-12T10:25:57.000Z",
-          "wordCount": 15232,
-          "title": "Hair salon recommendations in HCM?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ysyl9l/what_is_this_tree_called_i_think_its_so_pretty_i/",
-          "author": null,
-          "description": "submitted by    /u/Whoneedsyou  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ysyl9l/what_is_this_tree_called_i_think_its_so_pretty_i/",
-          "publishedOn": "2022-11-12T06:32:34.000Z",
-          "wordCount": 14432,
-          "title": "What is this tree called? I think it’s so pretty. I love when the little flowers are swept into shapes and designs.",
-          "imageUrl": "https://preview.redd.it/lr7ywo3wsgz91.jpg?auto=webp&s=362f23db3177b362b80b33ce4b1b52753344c935"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ysx1uw/ch%C3%A1o_ngh%C3%AAu_can_anyone_tell_me_about_this_dish/",
-          "author": null,
-          "description": "submitted by    /u/TwinTipZ  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ysx1uw/ch%C3%A1o_ngh%C3%AAu_can_anyone_tell_me_about_this_dish/",
-          "publishedOn": "2022-11-12T05:01:47.000Z",
-          "wordCount": 15851,
-          "title": "Cháo Nghêu - can anyone tell me about this dish?",
-          "imageUrl": "https://preview.redd.it/cc4fc2o7uhz91.jpg?auto=webp&s=d099373dd659d67fe2b513ebf6812efe438ad3e5"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ysuakk/it_was_around_this_time_when_i_visted_sapa/",
-          "author": null,
-          "description": "submitted by    /u/killa12  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ysuakk/it_was_around_this_time_when_i_visted_sapa/",
-          "publishedOn": "2022-11-12T02:32:21.000Z",
-          "wordCount": 14410,
-          "title": "It was around this time when I visted Sapa.",
-          "imageUrl": "https://preview.redd.it/t2cb2hjk3hz91.jpg?auto=webp&s=e2d8589baa644a095d6e5308e49d4eacd6c66ee8"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ysqhux/same/",
-          "author": null,
-          "description": "submitted by    /u/lindeine  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ysqhux/same/",
-          "publishedOn": "2022-11-11T23:25:17.000Z",
-          "wordCount": 15165,
-          "title": "Same",
-          "imageUrl": "https://preview.redd.it/topqlxtnoez91.jpg?auto=webp&s=75ffad770f1a4ead50553cd5d56e15189d57b8bd"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ysppik/i_start_a_new_series_here_where_i_draw_every_viet/",
-          "author": null,
-          "description": "submitted by    /u/Baosia  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ysppik/i_start_a_new_series_here_where_i_draw_every_viet/",
-          "publishedOn": "2022-11-11T22:51:17.000Z",
-          "wordCount": 14717,
-          "title": "I start a new series here where i draw every Viet Nam province's map. Starting with: Esp1: Cà Mau",
-          "imageUrl": "https://preview.redd.it/ufa0fue40gz91.png?auto=webp&s=c67d4622d14f986b7c3281313ce295cc7edbca12"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ysponk/smoking_thuoc_lao/",
-          "author": null,
-          "description": "Xin chao friends! I have a question regarding the use of thuoc lao. After some heavy research, this stuff can be cause oral cancer primarily in the throat if smoking daily. Do you actually smoke this everyday? If so, how is your health? Thanks\n    submitted by    /u/Iphone8plus256gb  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ysponk/smoking_thuoc_lao/",
-          "publishedOn": "2022-11-11T22:50:18.000Z",
-          "wordCount": 14645,
-          "title": "Smoking Thuoc Lao",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ysk5lz/current_traffic_stop_bribe_rates/",
-          "author": null,
-          "description": "Hi, I was wondering what were the current traffic stop bribe rates for say:\n  \nDriving a motorbike without a license\n Breaking simple traffic rules (crossing a solid line etc)\n Running a red light\n  \nI'm guessing it would probably run from 200K for 2, 400K for 3 and maybe 1 million for 1, would that be about correct?\n Thanks!\n    submitted by    /u/DragonXDT  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ysk5lz/current_traffic_stop_bribe_rates/",
-          "publishedOn": "2022-11-11T19:20:25.000Z",
-          "wordCount": 15121,
-          "title": "Current traffic stop bribe rates?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ysg9xc/which_platform_should_i_use_to_book_hotels/",
-          "author": null,
-          "description": "Agoda has horror reviews, booking.com has higher prices, both have more fake reviews than true ones. I'm traveling in December ending during Christmas time. Should i book the hotels then and there? Will they be vacant?\n    submitted by    /u/_Anti_Natalist  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ysg9xc/which_platform_should_i_use_to_book_hotels/",
-          "publishedOn": "2022-11-11T17:01:36.000Z",
-          "wordCount": 14701,
-          "title": "which platform should I use to book hotels?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ysfmh2/what_does_this_say/",
-          "author": null,
-          "description": "submitted by    /u/JohnHenrik1361  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ysfmh2/what_does_this_say/",
-          "publishedOn": "2022-11-11T16:39:06.000Z",
-          "wordCount": 14779,
-          "title": "What does this say?",
-          "imageUrl": "https://preview.redd.it/wuqp2u4q5ez91.jpg?auto=webp&s=d3344ec5ebded2c10c5ad433a7956bd3eae81f12"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ysbumh/our_new_house_is_officially_done/",
-          "author": null,
-          "description": "submitted by    /u/GodBlessHentai  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ysbumh/our_new_house_is_officially_done/",
-          "publishedOn": "2022-11-11T14:19:12.000Z",
-          "wordCount": 15378,
-          "title": "Our new house is officially done!",
-          "imageUrl": null
         }
       ]
     },
@@ -7744,46 +7864,6 @@
           "wordCount": 2151,
           "title": "Practical Skills for Open Source Maintainers – How to Effectively Maintain OSS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Purple-Minimal-We-Are-Hiring-Twitter-Post--9-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/hacktoberfest-2022-contributors/",
-          "author": "Naomi Carrigan",
-          "description": "freeCodeCamp participated in Hacktoberfest (a month-long celebration of open source) again this year. We wanted to take a moment to thank all of our wonderful contributors for the effort they put in to help us continue to improve our curriculum and learning resources. Thank you for your contributions to open",
-          "link": "https://www.freecodecamp.org/news/hacktoberfest-2022-contributors/",
-          "publishedOn": "2022-11-11T20:25:10.000Z",
-          "wordCount": 2023,
-          "title": "Hacktoberfest 2022 Contributors",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Hacktoberfest_2022.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/clone-an-object-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "A JavaScript object is a collection of key-value pairs. It is a non-primitive data type that can contain various data types. For example: const userDetails = {   name: \"John Doe\",   age: 14,   verified: false }; When working with objects in JavaScript, you may sometimes",
-          "link": "https://www.freecodecamp.org/news/clone-an-object-in-javascript/",
-          "publishedOn": "2022-11-11T17:13:52.000Z",
-          "wordCount": 2267,
-          "title": "JS Copy an Object – How to Clone an Obj in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cover-template--20-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-set-up-your-own-mastodon-instance/",
-          "author": "Naomi Carrigan",
-          "description": "Mastodon is a decentralized, federated social media platform based on the  ActivityPub [https://www.w3.org/TR/activitypub/] protocol. It allows you to follow and interact with friends across multiple instances.  In this article, you will learn how freeCodeCamp set up our own Mastodon instance - and how you can too. What is",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-your-own-mastodon-instance/",
-          "publishedOn": "2022-11-11T16:29:20.000Z",
-          "wordCount": 1389,
-          "title": "How to Set Up Your Own Mastodon Instance",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Mastodon_logotype_-simple-_new_hue.svg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-yaml-the-yml-file-format/",
-          "author": "Dionysia Lemonaki",
-          "description": "YAML is one of the most popular languages for writing configuration files. In this article, you will learn how YAML compares to XML and JSON - two languages also used for creating configuration files. You will also learn some of the rules and features of the language, along with its",
-          "link": "https://www.freecodecamp.org/news/what-is-yaml-the-yml-file-format/",
-          "publishedOn": "2022-11-11T16:20:17.000Z",
-          "wordCount": 2408,
-          "title": "What is YAML? The YML File Format",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-christina-morillo-1181675.jpg"
         }
       ]
     }
