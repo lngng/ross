@@ -12,6 +12,16 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E4A38FC.FrostAdvisory.12641E58B6C0CA.LOXNPWLOX.a988d8372b820faf5ba6f3680b723152",
+          "author": null,
+          "description": "...FROST ADVISORY IN EFFECT FROM 1 AM TO 8 AM PST THURSDAY... * WHAT...Temperatures as low as 32 will result in frost formation. Coldest temperatures will be in the far western San Fernando Valley and through the canyons of the Santa Monica Mountains where isolated temperatures down to 28 degrees are possible. * WHERE...Santa Clarita Valley, Lake Casitas, Ojai Valley,",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E4A38FC.FrostAdvisory.12641E58B6C0CA.LOXNPWLOX.a988d8372b820faf5ba6f3680b723152",
+          "publishedOn": "2022-12-14T21:03:00.000Z",
+          "wordCount": 230,
+          "title": "Frost Advisory issued December 14 at 1:03PM PST until December 15 at 8:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E3B2344.FrostAdvisory.12641E497480CA.LOXNPWLOX.4490e87638a708e103f705ea791d62ae",
           "author": null,
           "description": "...FROST ADVISORY REMAINS IN EFFECT FROM 1 AM TO 8 AM PST WEDNESDAY... * WHAT...Temperatures as low as 32 will result in frost formation. Temperatures as low as 28 are possible in isolated locations. * WHERE...Portions of southwest California.",
@@ -750,66 +760,6 @@
           "wordCount": 302,
           "title": "Red Flag Warning issued November 15 at 10:23AM PST until November 16 at 7:00PM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418546B84.RedFlagWarning.1264187F5E70CA.LOXRFWLOX.ef1a599ebe6da816f5563a2b9c5d367a",
-          "author": null,
-          "description": "...RED FLAG WARNING IS IN EFFECT FOR WESTERN LOS ANGELES COUNTY AND MUCH OF VENTURA COUNTY FROM 7 AM TO 7 PM WEDNESDAY... .Strong high pressure building into the Great Basin will support the first strong Santa Ana event of the season Tuesday night into Wednesday. Strong cold air advection will generally limit relative humidity values above critical values Tuesday evening and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418546B84.RedFlagWarning.1264187F5E70CA.LOXRFWLOX.ef1a599ebe6da816f5563a2b9c5d367a",
-          "publishedOn": "2022-11-14T21:53:00.000Z",
-          "wordCount": 324,
-          "title": "Red Flag Warning issued November 14 at 1:53PM PST until November 16 at 7:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418546B84.RedFlagWarning.1264187F5E70CA.LOXRFWLOX.e5525ac18373e504b391688719d99567",
-          "author": null,
-          "description": "...RED FLAG WARNING IS IN EFFECT FOR WESTERN LOS ANGELES COUNTY AND MUCH OF VENTURA COUNTY FROM 7 AM TO 7 PM WEDNESDAY... .Strong high pressure building into the Great Basin will support the first strong Santa Ana event of the season Tuesday night into Wednesday. Strong cold air advection will generally limit relative humidity values above critical values Tuesday evening and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418546B84.RedFlagWarning.1264187F5E70CA.LOXRFWLOX.e5525ac18373e504b391688719d99567",
-          "publishedOn": "2022-11-14T21:53:00.000Z",
-          "wordCount": 352,
-          "title": "Red Flag Warning issued November 14 at 1:53PM PST until November 16 at 7:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418546B84.RedFlagWarning.1264187F5E70CA.LOXRFWLOX.80e52dfe11b6ebe478309b61309bf030",
-          "author": null,
-          "description": "...RED FLAG WARNING IS IN EFFECT FOR WESTERN LOS ANGELES COUNTY AND MUCH OF VENTURA COUNTY FROM 7 AM TO 7 PM WEDNESDAY... .Strong high pressure building into the Great Basin will support the first strong Santa Ana event of the season Tuesday night into Wednesday. Strong cold air advection will generally limit relative humidity values above critical values Tuesday evening and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418546B84.RedFlagWarning.1264187F5E70CA.LOXRFWLOX.80e52dfe11b6ebe478309b61309bf030",
-          "publishedOn": "2022-11-14T21:53:00.000Z",
-          "wordCount": 331,
-          "title": "Red Flag Warning issued November 14 at 1:53PM PST until November 16 at 7:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418546B84.RedFlagWarning.1264187F5E70CA.LOXRFWLOX.ded2d563ffaa4b74f814765e3ef01cc6",
-          "author": null,
-          "description": "...RED FLAG WARNING IS IN EFFECT FOR WESTERN LOS ANGELES COUNTY AND MUCH OF VENTURA COUNTY FROM 7 AM TO 7 PM WEDNESDAY... .Strong high pressure building into the Great Basin will support the first strong Santa Ana event of the season Tuesday night into Wednesday. Strong cold air advection will generally limit relative humidity values above critical values Tuesday evening and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418546B84.RedFlagWarning.1264187F5E70CA.LOXRFWLOX.ded2d563ffaa4b74f814765e3ef01cc6",
-          "publishedOn": "2022-11-14T21:53:00.000Z",
-          "wordCount": 307,
-          "title": "Red Flag Warning issued November 14 at 1:53PM PST until November 16 at 7:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418546B20.HighWindWarning.1264187F5E70CA.LOXNPWLOX.f150dab8f27353bf4e40941dfe4ca2b5",
-          "author": null,
-          "description": "...HIGH WIND WARNING IN EFFECT FROM 7 PM TUESDAY TO 7 PM PST WEDNESDAY... * WHAT...Northeast winds 30 to 45 mph with gusts up to 75 mph expected. * WHERE...Ventura County Mountains and Los Angeles County Mountains.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418546B20.HighWindWarning.1264187F5E70CA.LOXNPWLOX.f150dab8f27353bf4e40941dfe4ca2b5",
-          "publishedOn": "2022-11-14T21:52:00.000Z",
-          "wordCount": 190,
-          "title": "High Wind Warning issued November 14 at 1:52PM PST until November 16 at 7:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418546B20.HighWindWarning.1264187F5E70CA.LOXNPWLOX.afdadbcc47cd11c7e8b70585ac05d6ec",
-          "author": null,
-          "description": "...HIGH WIND WARNING IN EFFECT FROM 10 PM TUESDAY TO 7 PM PST WEDNESDAY... * WHAT...Northeast winds 25 to 40 mph with gusts up to 65 mph expected. * WHERE...Santa Clarita Valley, Ventura County Beaches, Ventura County Inland Coast, Central Ventura County Valleys,",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418546B20.HighWindWarning.1264187F5E70CA.LOXNPWLOX.afdadbcc47cd11c7e8b70585ac05d6ec",
-          "publishedOn": "2022-11-14T21:52:00.000Z",
-          "wordCount": 268,
-          "title": "High Wind Warning issued November 14 at 1:52PM PST until November 16 at 7:00PM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -818,6 +768,196 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zm7nar/holiday_in_hanoi/",
+          "author": null,
+          "description": "Hi everyone! How much would it roughly cost for a tourist per day in Hanoi (excluding accomodation)? Thanks in advance!\n    submitted by    /u/Lyy25  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zm7nar/holiday_in_hanoi/",
+          "publishedOn": "2022-12-15T00:54:09.000Z",
+          "wordCount": 15469,
+          "title": "Holiday in Hanoi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zm6g5a/is_it_true_this_flag_of_nguyen_dynasty_was_fake/",
+          "author": null,
+          "description": "submitted by    /u/Duytune  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zm6g5a/is_it_true_this_flag_of_nguyen_dynasty_was_fake/",
+          "publishedOn": "2022-12-15T00:00:46.000Z",
+          "wordCount": 15947,
+          "title": "Is it true this flag of Nguyen Dynasty was fake?",
+          "imageUrl": "https://preview.redd.it/g9rqqfl1dy5a1.png?auto=webp&v=enabled&s=f1fe32df6798529827864ad0731a91af00604239"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zm2g94/travelling_from_hanoi_to_da_nang_early_february/",
+          "author": null,
+          "description": "I lived in Da Nang for a couple of years but since I was working I didn't get the chance to travel all that much. I'll be returning with my partner for the month of February and we're wondering if there's a unique/fun way to travel from Hanoi to Da Nang that involves seeing some sights along the way. Or, alternatively, if it's worth just flying instead to cut the duration of the trip. We'd like to see Ninh Binh but my understanding is that we could do that in a day or two from Hanoi and then return and fly out to Da Nang. \n Any insight appreciated! Thanks very much.\n    submitted by    /u/Number8  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zm2g94/travelling_from_hanoi_to_da_nang_early_february/",
+          "publishedOn": "2022-12-14T21:16:06.000Z",
+          "wordCount": 15988,
+          "title": "Travelling from Hanoi to Da Nang early February - is there a fun/unique way to do this journey or should we fly?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zm1l7l/vietnam_holiday/",
+          "author": null,
+          "description": "Looking to go to Vietnam with my wife for 8 days early January. We'd like to stay somewhere luxe, ie, villa with private pool or apartment in 5star hotel. I think south would be better as it looks warmer at that time. Any recommendations?\n    submitted by    /u/Maleficent_Court_441  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zm1l7l/vietnam_holiday/",
+          "publishedOn": "2022-12-14T20:40:00.000Z",
+          "wordCount": 15568,
+          "title": "Vietnam holiday",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zm1kmw/mua_%C4%91%E1%BB%93_ch%E1%BA%BF_juice_vape_%E1%BB%9F_hn/",
+          "author": null,
+          "description": "Ae nào có nguồn mua VG, PG, đặc biệt là nicotine dạng lỏng để pha juice vape cho tôi xin với, google mãi chẳng ra đc j mà mua juice tốn tiền vl 😓\n    submitted by    /u/Retr0_611  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zm1kmw/mua_%C4%91%E1%BB%93_ch%E1%BA%BF_juice_vape_%E1%BB%9F_hn/",
+          "publishedOn": "2022-12-14T20:39:17.000Z",
+          "wordCount": 15944,
+          "title": "mua đồ chế juice vape ở HN",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zm09sr/best_coffee_and_best_value/",
+          "author": null,
+          "description": "So, I reside in Thanh Xuan, and there is this Circle K on Vu Trong Phung. It’s at the intersection of the big Cay Da. I buy my coffee everyday on my way to work. And I order it with no ice, no sugar. Why?\n For a couple of reasons, it’s faster for the employees to make, and I like my coffee black. Anywho, the coffee only cost 12k. I noticed, that the first few times I had ordered my coffee, some of the clerks would fill it a little less than half of the cup. Now! That I have consistently go there everyday, I get the best coffee around town. O don’t even need to tell them my order, instead the clerk would automatically ask me, “black? No ice, no sugar?” I love it! Plus, this time comes around there’s this clerk that just doesn’t care about the amount he gives me. The dude fills it to the brink. Kudos to him! Let me know if this hack works for you.\n    submitted by    /u/uniquelyurs2386  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zm09sr/best_coffee_and_best_value/",
+          "publishedOn": "2022-12-14T19:45:23.000Z",
+          "wordCount": 16515,
+          "title": "Best coffee and best value",
+          "imageUrl": "https://preview.redd.it/4qh8jad1ly5a1.jpg?auto=webp&v=enabled&s=ac401f544747a2d951b33ffa539b89963345c13b"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zlw07d/how_many_visits_per_year/",
+          "author": null,
+          "description": "Hi, how frequently can a person visit per year? Is there a cap per year? Every 6 months? Thanks!\n    submitted by    /u/username5471234712  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zlw07d/how_many_visits_per_year/",
+          "publishedOn": "2022-12-14T16:53:30.000Z",
+          "wordCount": 15651,
+          "title": "How many visits per year",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zlufu1/vietnamese_dad_builds_his_daughter_a_fully/",
+          "author": null,
+          "description": "submitted by    /u/Mr_X_90s  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zlufu1/vietnamese_dad_builds_his_daughter_a_fully/",
+          "publishedOn": "2022-12-14T15:50:05.000Z",
+          "wordCount": 15502,
+          "title": "Vietnamese dad builds his daughter a fully operational car.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zltq81/does_anyone_know_the_vietnamese_version_of_teresa/",
+          "author": null,
+          "description": "I recently came across that song and remembered hearing that in Vietnamese way back, sang buy a guy\n https://youtu.be/6-3ng-f_aJM?t=57\n    submitted by    /u/MA-Q-T  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zltq81/does_anyone_know_the_vietnamese_version_of_teresa/",
+          "publishedOn": "2022-12-14T15:20:55.000Z",
+          "wordCount": 15535,
+          "title": "Does anyone know the Vietnamese version of Teresa Teng - Scandal?",
+          "imageUrl": "https://external-preview.redd.it/4yDdho5jPkaSjvfv6dN6hXUVZ7KXuRzk7DTuVSr-Quk.jpg?auto=webp&v=enabled&s=9961722713a2a8e282e7794ab4f584b1b53e1276"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zlru1d/vietnamese_coworkers_only_refer_to_me_by_title_is/",
+          "author": null,
+          "description": "Hello all, I've been living in Vietnam for a while now, and this is something that's started to grate on me a bit.\n Most of the vietnamese teachers that I have gone out to eat with, have invited to my house, sang karaoke with, and thought I'd gotten friendlier with, still call me just \"teacher\" even though I've long since told them they can just call me by my name unless in front of students in which case they can call me \"Teacher _____\". I also always call them by their name or nickname, unless it's someone I'm not that familiar with.\n ​\n It's kind of like insisting on calling someone \"Doctor\" or \"Sir\" after they've already allowed you to call them by name, like they want to keep the relationship distant to less than acquaintances, which is fine if that's what they want, I won't have to join their drinking sessions anymore haha.\n ​\n Is this normal in vietnam? I have a vietnamese friend that says in their language they just call each other by name, but when I discuss it with the teachers they say they are just being \"polite\" in their culture. I even told them I prefer to be called by my name and they still say, \"hello Teacher.\"\n    submitted by    /u/Vivoras  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zlru1d/vietnamese_coworkers_only_refer_to_me_by_title_is/",
+          "publishedOn": "2022-12-14T14:06:27.000Z",
+          "wordCount": 17997,
+          "title": "Vietnamese coworkers only refer to me by title, is it a culture thing?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zlr8l3/vietnamese_dad_built_her_daughter_a_fully/",
+          "author": null,
+          "description": "submitted by    /u/Chillax420x  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zlr8l3/vietnamese_dad_built_her_daughter_a_fully/",
+          "publishedOn": "2022-12-14T13:41:27.000Z",
+          "wordCount": 15694,
+          "title": "Vietnamese dad built her daughter a fully operational car for 1 year bday",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zlqcsn/uni_with_researchers_on_buddhism/",
+          "author": null,
+          "description": "Hi, I am looking for a university in Vietnam that has a department with several researchers on Buddhism. Google didn't really help. Any advise on what university might meet this criterion?\n    submitted by    /u/AlexandraSolhere  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zlqcsn/uni_with_researchers_on_buddhism/",
+          "publishedOn": "2022-12-14T13:00:57.000Z",
+          "wordCount": 16546,
+          "title": "Uni with Researchers on Buddhism?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zlpssc/most_normal_fish_in_b%C3%ACnh_d%C6%B0%C6%A1ng/",
+          "author": null,
+          "description": "submitted by    /u/Affectionate_Big8864  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zlpssc/most_normal_fish_in_b%C3%ACnh_d%C6%B0%C6%A1ng/",
+          "publishedOn": "2022-12-14T12:33:32.000Z",
+          "wordCount": 16303,
+          "title": "Most normal fish in Bình Dương",
+          "imageUrl": "https://preview.redd.it/jqflcaqzfw5a1.jpg?auto=webp&v=enabled&s=685d72b5346ff0e2d7564920a764167a05d4f639"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zlpjtm/did_hanime_and_hentaihaven_get_blocked_in_vietnam/",
+          "author": null,
+          "description": "I was going on hanime (like usual) but this time it was blocked,i know Vietnam has laws against pornography but hanime been online for awhile\n    submitted by    /u/the-crusader-2  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zlpjtm/did_hanime_and_hentaihaven_get_blocked_in_vietnam/",
+          "publishedOn": "2022-12-14T12:21:31.000Z",
+          "wordCount": 15171,
+          "title": "did hanime and Hentaihaven get blocked in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zloenn/unfortunate_name/",
+          "author": null,
+          "description": "submitted by    /u/freedomfighter-alt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zloenn/unfortunate_name/",
+          "publishedOn": "2022-12-14T11:19:42.000Z",
+          "wordCount": 15940,
+          "title": "unfortunate name",
+          "imageUrl": "https://preview.redd.it/lh2s1cgt2w5a1.jpg?auto=webp&v=enabled&s=f6b98280aa5099364d69459fe4bb3461cc541f34"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zlkjh1/train_street_in_hanoi/",
+          "author": null,
+          "description": "Hi everyone, can we still see the train passing by at the Train Street in Hanoi? I can see some articles showing that tourists cannot visit the Train Street any more or it has been closed or something. If there is a local person, who can help with location from where I can sit and watch the train pass through narrow Street while sipping coffee?? Thanks in Advance\n    submitted by    /u/Nica28-11-14  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zlkjh1/train_street_in_hanoi/",
+          "publishedOn": "2022-12-14T07:18:49.000Z",
+          "wordCount": 15992,
+          "title": "Train Street in Hanoi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zlgwne/m%C5%A9_m%E1%BB%9Bi_t%C3%B4i_l%C3%A0m/",
+          "author": null,
+          "description": "submitted by    /u/cactuscott  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zlgwne/m%C5%A9_m%E1%BB%9Bi_t%C3%B4i_l%C3%A0m/",
+          "publishedOn": "2022-12-14T04:03:37.000Z",
+          "wordCount": 17083,
+          "title": "Mũ mới tôi làm 🇻🇳",
+          "imageUrl": "https://preview.redd.it/slu07um0xt5a1.jpg?auto=webp&v=enabled&s=5a0d035614562aea62db4b97661009296a1a9d93"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zlfa8s/m%C3%A0ytao_ho%E1%BA%B7c_tami_th%C3%AC_qu%C3%A1_giang_h%E1%BB%93_b%E1%BA%A1nm%C3%ACnh_th%C3%AC_h%C6%A1i/",
+          "author": null,
+          "description": "submitted by    /u/supermegaphuoc  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zlfa8s/m%C3%A0ytao_ho%E1%BA%B7c_tami_th%C3%AC_qu%C3%A1_giang_h%E1%BB%93_b%E1%BA%A1nm%C3%ACnh_th%C3%AC_h%C6%A1i/",
+          "publishedOn": "2022-12-14T02:47:50.000Z",
+          "wordCount": 18063,
+          "title": "mày/tao hoặc ta/mi thì quá giang hồ, bạn/mình thì hơi thân mật, tớ/cậu thì rất cringe, thế xưng hô với bạn bè cùng lứa thế nào đây?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zld5ut/if_someone_was_visiting_you_from_another_country/",
+          "author": null,
+          "description": "I live in US and will be visiting family I have seen over 20 years. I am not close to them since I was a kid when I left Vietnam but they are still my uncles, aunts, and cousins.\n What should I bring as gifts? Adults and kids.\n    submitted by    /u/TwiceCaptain  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zld5ut/if_someone_was_visiting_you_from_another_country/",
+          "publishedOn": "2022-12-14T01:14:32.000Z",
+          "wordCount": 17085,
+          "title": "If someone was visiting you from another country what you like to receive?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/zlcglm/grab_jacket_where_to_get_one/",
           "author": null,
@@ -6847,226 +6987,6 @@
           "wordCount": 17008,
           "title": "Anyone effected by this? Seems like a pretty big mess",
           "imageUrl": "https://external-preview.redd.it/M8NOGaGUBz0YxCPtFV3816wKoaMj4rTkS57b4flATU4.jpg?auto=webp&s=7d93c847f7096aed0c5dd408b61e78b161b22e53"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yvvpf8/just_watched_the_news_and_learned_that_our_worlds/",
-          "author": null,
-          "description": "submitted by    /u/kocojodaydau  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yvvpf8/just_watched_the_news_and_learned_that_our_worlds/",
-          "publishedOn": "2022-11-15T12:25:48.000Z",
-          "wordCount": 15319,
-          "title": "Just watched the news and learned that our world’s population is 8 billion people already😮",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yvtowr/vietnamese_gift_giving_etiquette/",
-          "author": null,
-          "description": "One of my friends in Vietnam is a teacher. I want to give her a gift on the occasion of the Vietnamese Teacher's Day but I'm not sure what to buy. Please help me choose a gift for her. (I don't know if this information is important but she's 25 years old)\n    submitted by    /u/Haunting_Relative_30  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yvtowr/vietnamese_gift_giving_etiquette/",
-          "publishedOn": "2022-11-15T10:50:50.000Z",
-          "wordCount": 15386,
-          "title": "Vietnamese gift giving etiquette!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yvsw88/visa_overstay_problem/",
-          "author": null,
-          "description": "We applied for E-Visa on the 10.11.2022 at 9:35 in the morning and had a flight from Bali to Vietnam Ho Chi Min City on Monday 14.11.2022. We arrived at 18:30 and our E-Visa was still in Process. We had to enter using our German Passport which granted us a stay for 14 Days. We now have to leave vietnam on the 28.11.2022.\n We already have a flight from hanoi to chiang Mai on the 05.12.2022, so we would overstay for 7 Days. \n Now we dont know what to do. Should we do a visa run? Should we try to extend our visa? -> we already went to a Immigration office in which they told us we cant extend our visa so we have to pay a fine at the airport for our overstay in Hanoi on the 05.12.2022. Or should we just book a new flight out of vietnam before the 28.11… \n I hope you guys can help us out.\n Cheers :)\n    submitted by    /u/Relevant_Rabbit_4907  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yvsw88/visa_overstay_problem/",
-          "publishedOn": "2022-11-15T10:10:24.000Z",
-          "wordCount": 16416,
-          "title": "Visa Overstay Problem",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yvrr2h/affordable_beach_resorts_close_to_airports/",
-          "author": null,
-          "description": "Hey all,\n For my visit to Vietnam, I am looking for beachfront resorts (or homes if resorts are not available) in places close to cities with airports (apart from Da Nang). The dates are between 26th November and 6th December. Budget can be up to 75 USD (or 1850000 VND) per night but the lower, the better. Quiet, serene places with good food options are preferred.\n I checked AirBnBs, booking.com, other such sites and didn't find many options. If any of you know have stayed at places like this or know of them, please drop a comment here. Would appreciate it a lot :)\n Thanks\n    submitted by    /u/yipra97  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yvrr2h/affordable_beach_resorts_close_to_airports/",
-          "publishedOn": "2022-11-15T09:13:51.000Z",
-          "wordCount": 15710,
-          "title": "Affordable beach resorts close to airports?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yvpeel/gunman_robs_28000_from_northern_vietnam_bank/",
-          "author": null,
-          "description": "submitted by    /u/trangtrangxyz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yvpeel/gunman_robs_28000_from_northern_vietnam_bank/",
-          "publishedOn": "2022-11-15T06:50:37.000Z",
-          "wordCount": 15221,
-          "title": "Gunman robs $28,000 from northern Vietnam bank",
-          "imageUrl": "https://external-preview.redd.it/t81q4lmp1OgvCq40VjaNHsXbPiVn1GFspcvCurTUmuY.jpg?auto=webp&s=fec61b2a9b701da48c6b3f5a20392f21d5c47a1e"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yvok9x/hoi_an_lantern_festival_7th_november_2022/",
-          "author": null,
-          "description": "submitted by    /u/AnyMoment3637  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yvok9x/hoi_an_lantern_festival_7th_november_2022/",
-          "publishedOn": "2022-11-15T06:02:43.000Z",
-          "wordCount": 15091,
-          "title": "Hoi An Lantern Festival - 7th November 2022",
-          "imageUrl": "https://external-preview.redd.it/XOtEPXZtaVasNDlnLYJMTcuZ2u6TlnK-WE4sUUuz1kM.png?format=pjpg&auto=webp&s=b9380f72e9d40c2cda25125ad1ca099f479da694"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yvnkm5/motorcycle_adventure_vietnam_cambodia_thailand/",
-          "author": null,
-          "description": "My girlfriend and I are coming to Vietnam in 2 weeks, we are playing with the idea of buying a cheap motorcycle and traveling up through Cambodia, across Thailand and down to Phuket. I have done this before in India, but never south east Asia. Can anyone foresee any potential obstacles we may face doing this? \n Thanks,\n J\n    submitted by    /u/Background_Draw6474  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yvnkm5/motorcycle_adventure_vietnam_cambodia_thailand/",
-          "publishedOn": "2022-11-15T05:08:45.000Z",
-          "wordCount": 17274,
-          "title": "Motorcycle Adventure (Vietnam, Cambodia, Thailand)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yvn4fn/how_scb_legitimizes_selling_crafty_bonds_to_its/",
-          "author": null,
-          "description": "submitted by    /u/mmmUwUmmm  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yvn4fn/how_scb_legitimizes_selling_crafty_bonds_to_its/",
-          "publishedOn": "2022-11-15T04:45:54.000Z",
-          "wordCount": 15945,
-          "title": "HOW SCB LEGITIMIZES SELLING CRAFTY BONDS TO ITS SAVERS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yvma8e/how_to_spend_my_one_free_day_in_hcmc/",
-          "author": null,
-          "description": "I have been in Vietnam for business all week. I am enjoying the country very much but have not really done much besides work related events. This coming Friday is my only day to get out and experience some touristy things in the city before I leave. I enjoy historical sites, architecture, botanical gardens, et cetera. Not interested in partying. If you had one day to explore, where would you go? Any input is greatly appreciated!\n    submitted by    /u/hebrew-hammers  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yvma8e/how_to_spend_my_one_free_day_in_hcmc/",
-          "publishedOn": "2022-11-15T04:04:13.000Z",
-          "wordCount": 17088,
-          "title": "How to spend my one free day in HCMC? Recommendation greatly appreciated.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yvijtd/vct_2023_nrg_esports_ho%C3%A0n_thi%E1%BB%87n_%C4%91%E1%BB%99i_h%C3%ACnh_to%C3%A0n_sao/",
-          "author": null,
-          "description": "VCT 2023: NRG Esports hoàn thiện đội hình toàn sao với bom tấn ardiis\n  \nVALORANT Champions Tour 2023 là gì?\n VALORANT Champions Tour 2023 là vòng đấu chính thức thứ ba của Riot Games. Mạch được công bố vào ngày 14 tháng 9 năm 2022 với một bài đăng trên blog. \n Hệ thống chuyên nghiệp VCT\n Giải đấu Khởi động\n  \n30 đội đối tác của các Giải đấu Quốc tế thi đấu tại Brazil São Paulo\n Người chiến thắng sẽ kiếm thêm một suất cho giải đấu của họ tại Masters\n  \nGiải đấu quốc tế\n  \nBa giải đấu trong mạng LAN, mỗi giải đấu ở mỗi lãnh thổ quốc tế.\n Mỗi giải đấu bao gồm 10 đội đối tác do Riot lựa chọn\n Các đội xuất sắc nhất từ mỗi khu vực đủ điều kiện tham dự giải Thạc sĩ\n Americas League chơi ở United States Los Angeles\n EMEA League chơi ở Đức Berlin\n Pacific League thi đấu tại Seoul Hàn Quốc\n  \nVCT 2…",
-          "link": "https://www.reddit.com/r/VietNam/comments/yvijtd/vct_2023_nrg_esports_ho%C3%A0n_thi%E1%BB%87n_%C4%91%E1%BB%99i_h%C3%ACnh_to%C3%A0n_sao/",
-          "publishedOn": "2022-11-15T01:11:06.000Z",
-          "wordCount": 17085,
-          "title": "VCT 2023: NRG Esports hoàn thiện đội hình toàn sao với bom tấn ardiis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yvfjx3/women_drying_incense_sticks_in_ung_hoa_hanoi/",
-          "author": null,
-          "description": "submitted by    /u/honganh102  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yvfjx3/women_drying_incense_sticks_in_ung_hoa_hanoi/",
-          "publishedOn": "2022-11-14T23:00:49.000Z",
-          "wordCount": 15587,
-          "title": "Women drying incense sticks in Ung Hoa, Hanoi",
-          "imageUrl": "https://preview.redd.it/6chybvkzyzz91.jpg?auto=webp&s=83e174b07cf27783392063d3ad14de69085809dc"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yvetbt/shipping_agentpersonal_shopper/",
-          "author": null,
-          "description": "I am looking for a sipping agent similar to Pandabuy, I love Vietnam fashion but most brands do not offer international shipping, and if they do it's more expensive than the item. Can someone point me to the right direction?\n -------------------------------------\n Tôi đang tìm một đại lý đồ si tương tự như Pandabuy, tôi yêu thích thời trang Việt Nam nhưng hầu hết các thương hiệu không cung cấp dịch vụ vận chuyển quốc tế, và nếu họ làm điều đó sẽ đắt hơn so với mặt hàng. Ai đó có thể chỉ cho tôi hướng đi đúng không?\n    submitted by    /u/Nottoosure21  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yvetbt/shipping_agentpersonal_shopper/",
-          "publishedOn": "2022-11-14T22:31:21.000Z",
-          "wordCount": 15728,
-          "title": "Shipping Agent/Personal Shopper???",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yvepm1/where_to_buy_hiking_clothes_in_hcmc/",
-          "author": null,
-          "description": "I'll travel in Vietnam next week and I am very excited about it! I have some ideas on what to visit but I have not planned anything in details, the only thing that I know is that I would like to explore nice hiking places and do outdoor activities. I should spend some time both in South Vietnam and the north. \n Is it easy to find decent outdoor clothes? Here in Europe, there are shops like Decathlon that sell decent clothes at a decent price for outdoor activities. What are the similar shops in HCMC? Does it make sense to buy the clothes that I need there rather than bring a lot of clothes with me?\n    submitted by    /u/Proper_Opportunity16  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yvepm1/where_to_buy_hiking_clothes_in_hcmc/",
-          "publishedOn": "2022-11-14T22:27:20.000Z",
-          "wordCount": 15467,
-          "title": "Where to buy hiking clothes in HCMC?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yvct6g/vietnamese_football_fans_what_nations_do_you/",
-          "author": null,
-          "description": "So my country isn't at the Word Cup but I really want to follow a team, any suggestions? I'm thinking of teams like Uruguay or Senegal or Croatia. Teams that aren't favourites but could be considered dark horses.\n    submitted by    /u/Muangthong200  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yvct6g/vietnamese_football_fans_what_nations_do_you/",
-          "publishedOn": "2022-11-14T21:13:03.000Z",
-          "wordCount": 15326,
-          "title": "Vietnamese football fans, what nations do you usually support in the World Cups? Also, which nations are u gonna support for the upcoming 2022 world cup?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yv99r1/when_is_the_next_lanturn_festival_in_hoi_an/",
-          "author": null,
-          "description": "On some of the website it says, it's on 7th of December and other sites says it's on the 8th of December? So it's kind of confusing. I will be leaving on the 8th of December so I hope I can still experience this festival!\n    submitted by    /u/Z4b0rg  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yv99r1/when_is_the_next_lanturn_festival_in_hoi_an/",
-          "publishedOn": "2022-11-14T19:07:59.000Z",
-          "wordCount": 15054,
-          "title": "When is the next Lanturn festival in Hoi An?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yv7lid/dipping_cigarette_filters_in_coffe/",
-          "author": null,
-          "description": "Hello everyone, I just joined this subreddit to ask a question I've been thinking about. I work in a bar, and a few gentlemen from Vietnam came to visit my city for business. All of them ordered coffe and sat down. Each and every one dipped their cigarettes into the coffe before smoking it, the filter I mean. So my question is, is this a cultural thing in Vietnam? I tried asking them but we couldn't understand each other well. Do any of you know the answer to this?\n    submitted by    /u/Chadonastick  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yv7lid/dipping_cigarette_filters_in_coffe/",
-          "publishedOn": "2022-11-14T18:10:41.000Z",
-          "wordCount": 15824,
-          "title": "Dipping cigarette filters in coffe.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yv6aaz/question_about_domestic_violence_in_vietnam/",
-          "author": null,
-          "description": "Hi everyone,\n I am an American man planning to move to Vietnam to teach English. I'm almost finished with my TEFL course and plan to visit Vietnam soon after. I'm so excited and have so many questions, but first, I want to ask about this topic which I have seen come up quite often when doing my research about Vietnam.\n Somebody posted an article here a few days ago about culture shocks when traveling to Vietnam, and one of the first things on the list mentioned that it's common to see men publicly physically assault their wives.\n I have been doing a lot of research about Vietnam, and while I love almost every other aspect about it, this topic has arisen so many times that I feel the need to ask you people who live there and have been there before. So many articles mention that you will see men hit their wives and as long as you don't interfere, you will be fine, etc. This really concerns me because of some instances of seeing this in my childhood that really bothered me, so I am really worried about seeing this in Vietnam.\n How common is it really? I plan to travel to the major cities like Hanoi and HCMC. Is it actually a super common thing to hear and see domestic violence? It really makes me anxious thinking about having to see and hear this and not be able to help. \n I guess I get triggered when I hear or see domestic violence and am wondering if it's something that I am likely to be forced to witness on a regular basis in Vietnam.\n    submitted by    /u/Pollo_Perpetuo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yv6aaz/question_about_domestic_violence_in_vietnam/",
-          "publishedOn": "2022-11-14T17:27:19.000Z",
-          "wordCount": 18336,
-          "title": "Question about domestic violence in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yv5bkp/best_us_banks_for_wire_transfers/",
-          "author": null,
-          "description": "Hi all. I’m an American living in Vietnam and I need to open a bank account at a new bank because my international banking with my U.S. credit union is a nightmare. Looking for recommendations on for an international bank that makes international wire transfers from Vietnam easy, has relatively low fees, and can be set up abroad.\n    submitted by    /u/Better_Breadfruit_21  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yv5bkp/best_us_banks_for_wire_transfers/",
-          "publishedOn": "2022-11-14T16:55:42.000Z",
-          "wordCount": 15483,
-          "title": "Best U.S. Banks for Wire Transfers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yuzqzi/where_can_you_find_vietnamese_films_dramas/",
-          "author": null,
-          "description": "To help with learning Vietnamese I would like to watch some good movies or dramas but there are barely any on Netflix so could anyone give me some recommendations or which sites to use to watch Vietnamese things?\n    submitted by    /u/emma_8560  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yuzqzi/where_can_you_find_vietnamese_films_dramas/",
-          "publishedOn": "2022-11-14T13:41:56.000Z",
-          "wordCount": 15726,
-          "title": "Where can you find Vietnamese films/ dramas?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yuzon1/n%E1%BA%AFng_%C4%91%E1%BA%B9p_th%E1%BA%BF_n%C3%A0y_m%C3%A0_kh%C3%B4ng_x%C3%A1ch_m%C3%B4ng_%C4%91i_%C4%91%C3%A0_l%E1%BA%A1t_th%C3%AC/",
-          "author": null,
-          "description": "submitted by    /u/HuynhLoc_Dalat  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yuzon1/n%E1%BA%AFng_%C4%91%E1%BA%B9p_th%E1%BA%BF_n%C3%A0y_m%C3%A0_kh%C3%B4ng_x%C3%A1ch_m%C3%B4ng_%C4%91i_%C4%91%C3%A0_l%E1%BA%A1t_th%C3%AC/",
-          "publishedOn": "2022-11-14T13:39:24.000Z",
-          "wordCount": 14829,
-          "title": "🎄Nắng đẹp thế này mà không xách mông đi Đà Lạt thì thật quả là điều lãng phí 🌤",
-          "imageUrl": "https://external-preview.redd.it/u09pzzhXZxtU5PYNCsmrkUK4u1yi7j8Q7c1c_iHlu5I.png?format=pjpg&auto=webp&s=f2f06977548c0cebd7760a148ff03b02ecfb2500"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yuyuck/easiest_way_for_non_vn_citizen_to_open_an_account/",
-          "author": null,
-          "description": "For non vn citizen, I am having trouble opening a bank account. So I have a 5 year visa exemption but it has only 6 months to stay. I tried opening a bank account and was told to get a year permit to stay in order to open a bank account. \n Does anyone know how to get 1 year visa and the cost in Vietnam? What about the temporary residence permit , where do I apply and the fees associated with it?\n Note: Not planning to work in VN yet. Any suggestions would be appreciated 👍\n    submitted by    /u/cybertanks  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yuyuck/easiest_way_for_non_vn_citizen_to_open_an_account/",
-          "publishedOn": "2022-11-14T13:06:45.000Z",
-          "wordCount": 16196,
-          "title": "Easiest way for non vn citizen to open an account",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yuyrdx/buying_goods_from_vietnam/",
-          "author": null,
-          "description": "I am trying to buy something from a seller in Vietnam but she's being very difficult. She will not ship overseas, she will not accept me paying by bank transfer and shipping to a friend in VN. Now my friend is being difficult because it is not the first time I ask her to buy goods on my behalf. The seller says: \"Anh gửi cho em số điện thoại và địa chỉ của người nhận bên việt nam nhé\"... does anyone know where I can get a buyer who can buy goods on my behalf and ship it to the UK for a reasonable fee?\n    submitted by    /u/A1a1ann  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yuyrdx/buying_goods_from_vietnam/",
-          "publishedOn": "2022-11-14T13:03:34.000Z",
-          "wordCount": 16639,
-          "title": "Buying goods from Vietnam.",
-          "imageUrl": null
         }
       ]
     },
@@ -7075,6 +6995,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-range-create-an-array-of-numbers-with-the-from-method/",
+          "author": "Joel Olawanle",
+          "description": "The .from() method is a static method of the Array object in JavaScript ES6. It creates a new, shallow-copied Array instance from an array-like or iterable object like map and set. This method returns an array from any object with a length property. You can use it to create an",
+          "link": "https://www.freecodecamp.org/news/javascript-range-create-an-array-of-numbers-with-the-from-method/",
+          "publishedOn": "2022-12-14T21:15:06.000Z",
+          "wordCount": 1466,
+          "title": "JavaScript Range – How to Create an Array of Numbers with .from() in JS ES6",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/",
+          "author": "Beau Carnes",
+          "description": "Building projects is a great way to improve your programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a digital card game with JavaScirpt, HTML, and CSS. This tutorial not only covers creating a basic card game using JavaScript but",
+          "link": "https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/",
+          "publishedOn": "2022-12-14T18:56:08.000Z",
+          "wordCount": 759,
+          "title": "Improve Your JavaScript Skills by Coding a Card Game",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/jsgavin.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-next-js-tutorial/",
+          "author": "Beau Carnes",
+          "description": "Next.js is a popular framework for building server-rendered JavaScript applications. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn how to use Next.js. Next.js is built on top of React, which is a popular JavaScript library for building user interfaces. Next.js makes it",
+          "link": "https://www.freecodecamp.org/news/learn-next-js-tutorial/",
+          "publishedOn": "2022-12-14T18:35:12.000Z",
+          "wordCount": 811,
+          "title": "Learn Next.js for Scalable Web Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Next.js-Course.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-read-a-file-line-by-line-in-python/",
+          "author": "Dionysia Lemonaki",
+          "description": "When coding in Python, there may be times when you need to open and read the contents of a text file. Luckily enough, there are several ways to do this in Python. The language has many built-in functions, methods, and keywords that you can use to create, write, read and",
+          "link": "https://www.freecodecamp.org/news/how-to-read-a-file-line-by-line-in-python/",
+          "publishedOn": "2022-12-14T17:58:48.000Z",
+          "wordCount": 1795,
+          "title": "How to Read a File Line by Line in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-mateusz-dach-450035.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-solidity-handbook/",
+          "author": "Zubin Pratap",
+          "description": "When I changed careers from lawyer to software engineer [/news/from-lawyer-to-google-engineer/] in 2018, I never imagined that I’d enjoy being a developer as much as I do. I also never thought I'd end up working for amazing organizations like Google [/news/coding-interview-prep-for-big-tech/]  and Chainlink labs.  After 15 years in law",
+          "link": "https://www.freecodecamp.org/news/learn-solidity-handbook/",
+          "publishedOn": "2022-12-14T15:45:30.000Z",
+          "wordCount": 19072,
+          "title": "Learn Solidity – A Handbook for Smart Contract Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-pixabay-417173--2-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/linux-shells-explained/",
           "author": "Anthony Behery",
@@ -7864,66 +7834,6 @@
           "wordCount": 764,
           "title": "How to Manage State in React",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/reactstate.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-declare-an-array-in-javascript-creating-an-array-in-js/",
-          "author": "Joel Olawanle",
-          "description": "In JavaScript, an array is one of the most commonly used data types. It stores multiple values and elements in one variable. These values can be of any data type — meaning you can store a string, number, boolean, and other data types in one variable. There are two standard",
-          "link": "https://www.freecodecamp.org/news/how-to-declare-an-array-in-javascript-creating-an-array-in-js/",
-          "publishedOn": "2022-11-14T21:38:37.000Z",
-          "wordCount": 1239,
-          "title": "How to Declare an Array in JavaScript – Creating an Array in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cover-template--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/recursion-in-javascript/",
-          "author": "Benjamin Semah",
-          "description": "Recursion is a problem-solving technique in programming. In this article, you will learn how to use recursive functions in JavaScript. What is a Recursive Function? A recursive function is a function that calls itself somewhere within the body of the function. Below is a basic example of a recursive function.",
-          "link": "https://www.freecodecamp.org/news/recursion-in-javascript/",
-          "publishedOn": "2022-11-14T18:44:18.000Z",
-          "wordCount": 1556,
-          "title": "What is Recursion in JavaScript?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/benjamin-semah-freecodecamp-recursion.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/",
-          "author": "David Fagbuyiro",
-          "description": "YouTube is a well-known internet video streaming service. There are millions of videos in categories such as education, entertainment, and travel.  You can quickly watch videos with a few mouse clicks, but downloading videos is difficult. But in a recent upgrade, YouTube now allows you to save videos in",
-          "link": "https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/",
-          "publishedOn": "2022-11-14T15:56:27.000Z",
-          "wordCount": 1280,
-          "title": "How to Build a Python Program to Download YouTube Videos",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-christina-morillo-1181671.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/bash-if-statement-linux-shell-if-else-syntax-example/",
-          "author": "Zaira Hira",
-          "description": "When coding, you might need to make decisions based on certain conditions. Conditions are expressions that evaluate to a boolean expression (true or false ). Statements that help to execute different code branches based on certain conditions are known as conditional statements. if...else is one of the most commonly used",
-          "link": "https://www.freecodecamp.org/news/bash-if-statement-linux-shell-if-else-syntax-example/",
-          "publishedOn": "2022-11-14T15:37:54.000Z",
-          "wordCount": 1230,
-          "title": "Bash If Statement – Linux Shell If-Else Syntax Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Copy-of-Copy-of-read-write-files-python--4-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/postgresql-in-python/",
-          "author": "Shittu Olumide",
-          "description": "There are many different types of databases in use today. We have centralized databases, commercial databases, cloud databases, distributed databases, end-user databases, NoSQL databases, relational databases, and lots more. This article will focus on an example of a relational database (PostgreSQL) and how to query data from it. Other examples",
-          "link": "https://www.freecodecamp.org/news/postgresql-in-python/",
-          "publishedOn": "2022-11-14T15:16:10.000Z",
-          "wordCount": 1874,
-          "title": "How to Use PostgreSQL in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/postgresql-in-python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/practical-skills-for-open-source-maintainers/",
-          "author": "Njong Emy",
-          "description": "Open source software is used by organizations large and small around the world. And it's become very popular in the tech industry.  Many people want to be involved in this open side of tech, and luckily there are many different ways to contribute.  Still, open source can be",
-          "link": "https://www.freecodecamp.org/news/practical-skills-for-open-source-maintainers/",
-          "publishedOn": "2022-11-14T14:51:31.000Z",
-          "wordCount": 2151,
-          "title": "Practical Skills for Open Source Maintainers – How to Effectively Maintain OSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Purple-Minimal-We-Are-Hiring-Twitter-Post--9-.png"
         }
       ]
     }
