@@ -12,6 +12,26 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E96B128.FrostAdvisory.12641EA50200CA.LOXNPWLOX.ad8ea06169bf798697c618d6567f1b73",
+          "author": null,
+          "description": "...FROST ADVISORY IN EFFECT FROM MIDNIGHT TONIGHT TO 8 AM PST TUESDAY... * WHAT...Temperatures as low as 32 will result in frost formation. Isolated temperatures in the mid to upper 20s are possible through the canyons of the Santa Monica Range. * WHERE...Santa Clarita Valley, Ojai Valley, Central Ventura",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E96B128.FrostAdvisory.12641EA50200CA.LOXNPWLOX.ad8ea06169bf798697c618d6567f1b73",
+          "publishedOn": "2022-12-19T22:18:00.000Z",
+          "wordCount": 211,
+          "title": "Frost Advisory issued December 19 at 2:18PM PST until December 20 at 8:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E968504.AirQualityAlert.12641EB30BC0CA.LOXAQALOX.769a578d49bd0ff8460b965372be6ac9",
+          "author": null,
+          "description": "...AIR QUALITY ALERT: MANDATORY WOOD-BURNING BAN IN EFFECT... The South Coast AQMD has extended a mandatory wood-burning ban for residents in the South Coast Air Basin for Monday, December 19 to Tuesday, December 20. No-Burn days are declared to protect public health when levels of fine particulate air pollution in the region are forecast to be high.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E968504.AirQualityAlert.12641EB30BC0CA.LOXAQALOX.769a578d49bd0ff8460b965372be6ac9",
+          "publishedOn": "2022-12-19T21:05:00.000Z",
+          "wordCount": 337,
+          "title": "Air Quality Alert issued December 19 at 1:05PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E8730CC.AirQualityAlert.12641EA3C980CA.LOXAQALOX.769a578d49bd0ff8460b965372be6ac9",
           "author": null,
           "description": "...AIR QUALITY ALERT: MANDATORY WOOD-BURNING BAN IN EFFECT... The South Coast AQMD has extended a mandatory wood-burning ban for residents in the South Coast Air Basin for Sunday, December 18 to Monday, December 19. No-Burn days are declared to protect public health when levels of fine particulate air pollution in the region are forecast to be high.",
@@ -410,86 +430,6 @@
           "wordCount": 168,
           "title": "Hard Freeze Warning issued November 20 at 1:47PM PST until November 21 at 9:00AM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0FF6C.RedFlagWarning.126418AD9A60CA.LOXRFWLOX.f040e111a73bcc8357872c94d0debff4",
-          "author": null,
-          "description": "...RED FLAG WARNING IN EFFECT UNTIL 10 AM SUNDAY FOR THE MOUNTAINS OF LOS ANGELES AND VENTURA COUNTIES, SANTA CLARITA VALLEY, SAN FERNANDO VALLEY, AND VENTURA VALLEYS DUE TO GUSTY SANTA ANA WINDS AND LOW HUMIDITIES... ...RED FLAG WARNING IN EFFECT UNTIL 10 PM SATURDAY FOR THE VENTURA COUNTY COAST AND MALIBU DUE TO GUSTY SANTA ANA WINDS AND",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0FF6C.RedFlagWarning.126418AD9A60CA.LOXRFWLOX.f040e111a73bcc8357872c94d0debff4",
-          "publishedOn": "2022-11-19T23:39:00.000Z",
-          "wordCount": 273,
-          "title": "Red Flag Warning issued November 19 at 3:39PM PST until November 19 at 10:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0FF6C.RedFlagWarning.126418AF6F20CA.LOXRFWLOX.5e156dabbbdf70aade2e437024298887",
-          "author": null,
-          "description": "...RED FLAG WARNING IN EFFECT UNTIL 10 AM SUNDAY FOR THE MOUNTAINS OF LOS ANGELES AND VENTURA COUNTIES, SANTA CLARITA VALLEY, SAN FERNANDO VALLEY, AND VENTURA VALLEYS DUE TO GUSTY SANTA ANA WINDS AND LOW HUMIDITIES... ...RED FLAG WARNING IN EFFECT UNTIL 10 PM SATURDAY FOR THE VENTURA COUNTY COAST AND MALIBU DUE TO GUSTY SANTA ANA WINDS AND",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0FF6C.RedFlagWarning.126418AF6F20CA.LOXRFWLOX.5e156dabbbdf70aade2e437024298887",
-          "publishedOn": "2022-11-19T23:39:00.000Z",
-          "wordCount": 279,
-          "title": "Red Flag Warning issued November 19 at 3:39PM PST until November 20 at 10:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0FF6C.RedFlagWarning.126418AF6F20CA.LOXRFWLOX.d40cf0d2c75a681280f906a57404788f",
-          "author": null,
-          "description": "...RED FLAG WARNING IN EFFECT UNTIL 10 AM SUNDAY FOR THE MOUNTAINS OF LOS ANGELES AND VENTURA COUNTIES, SANTA CLARITA VALLEY, SAN FERNANDO VALLEY, AND VENTURA VALLEYS DUE TO GUSTY SANTA ANA WINDS AND LOW HUMIDITIES... ...RED FLAG WARNING IN EFFECT UNTIL 10 PM SATURDAY FOR THE VENTURA COUNTY COAST AND MALIBU DUE TO GUSTY SANTA ANA WINDS AND",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0FF6C.RedFlagWarning.126418AF6F20CA.LOXRFWLOX.d40cf0d2c75a681280f906a57404788f",
-          "publishedOn": "2022-11-19T23:39:00.000Z",
-          "wordCount": 312,
-          "title": "Red Flag Warning issued November 19 at 3:39PM PST until November 20 at 10:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0B534.HardFreezeWarning.126418AF2100CA.LOXNPWLOX.965390006f0546b3773aef5651e8af15",
-          "author": null,
-          "description": "...HARD FREEZE WARNING IN EFFECT FROM 1 AM TO 8 AM PST SUNDAY... * WHAT...Sub-freezing temperatures as low as 23 expected. * WHERE...Antelope Valley. * WHEN...From 1 AM to 8 AM PST Sunday. * IMPACTS...Damage to outdoor plumbing possible. Expect severe damage to crops or sensitive vegetation, and harm to unprotected",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0B534.HardFreezeWarning.126418AF2100CA.LOXNPWLOX.965390006f0546b3773aef5651e8af15",
-          "publishedOn": "2022-11-19T21:49:00.000Z",
-          "wordCount": 168,
-          "title": "Hard Freeze Warning issued November 19 at 1:49PM PST until November 20 at 8:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0B534.WindAdvisory.126418AF6F20CA.LOXNPWLOX.bc996b8b518c21d4dece1b642968ad4e",
-          "author": null,
-          "description": "...WIND ADVISORY NOW IN EFFECT UNTIL 10 AM PST SUNDAY... * WHAT...Areas of north to northeast winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Ventura County Mountains. * WHEN...Until 10 AM PST Sunday. * IMPACTS...Gusty winds will blow around unsecured objects and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0B534.WindAdvisory.126418AF6F20CA.LOXNPWLOX.bc996b8b518c21d4dece1b642968ad4e",
-          "publishedOn": "2022-11-19T21:49:00.000Z",
-          "wordCount": 180,
-          "title": "Wind Advisory issued November 19 at 1:49PM PST until November 20 at 10:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0B534.WindAdvisory.126418AF6F20CA.LOXNPWLOX.ccd4931241fc41f3d0a87ea074b08711",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT UNTIL 10 AM PST SUNDAY... * WHAT...North to northeast winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Los Angeles County Mountains. * WHEN...Until 10 AM PST Sunday. * IMPACTS...Gusty winds will blow around unsecured objects and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0B534.WindAdvisory.126418AF6F20CA.LOXNPWLOX.ccd4931241fc41f3d0a87ea074b08711",
-          "publishedOn": "2022-11-19T21:49:00.000Z",
-          "wordCount": 151,
-          "title": "Wind Advisory issued November 19 at 1:49PM PST until November 20 at 10:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0B534.WindAdvisory.126418AF6F20CA.LOXNPWLOX.2fb8f395048f43628a3d06479571b715",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT UNTIL 10 AM PST SUNDAY... * WHAT...North to northeast winds 20 to 30 mph with gusts up to 45 mph expected. * WHERE...Santa Clarita Valley and Southeastern Ventura County Valleys. * WHEN...Until 10 AM PST Sunday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0B534.WindAdvisory.126418AF6F20CA.LOXNPWLOX.2fb8f395048f43628a3d06479571b715",
-          "publishedOn": "2022-11-19T21:49:00.000Z",
-          "wordCount": 165,
-          "title": "Wind Advisory issued November 19 at 1:49PM PST until November 20 at 10:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0B534.WindAdvisory.126418AF6F20CA.LOXNPWLOX.78c77972faec2f566767b8cc2859998e",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT UNTIL 10 AM PST SUNDAY... * WHAT...North to northeast winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Santa Monica Mountains. * WHEN...Until 10 AM PST Sunday. * IMPACTS...Gusty winds will blow around unsecured objects and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418A0B534.WindAdvisory.126418AF6F20CA.LOXNPWLOX.78c77972faec2f566767b8cc2859998e",
-          "publishedOn": "2022-11-19T21:49:00.000Z",
-          "wordCount": 150,
-          "title": "Wind Advisory issued November 19 at 1:49PM PST until November 20 at 10:00AM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -498,6 +438,216 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zq81il/anyone_feeling_sick_from_the_bad_air_quality/",
+          "author": null,
+          "description": "Currently in Hanoi - it seems like my partner and I are having hard time with the bad air. Wondering how other people are dealing with it.\n    submitted by    /u/ngubcpk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zq81il/anyone_feeling_sick_from_the_bad_air_quality/",
+          "publishedOn": "2022-12-20T00:01:28.000Z",
+          "wordCount": 15166,
+          "title": "Anyone feeling sick from the bad air quality?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zq71ms/medical_science_job_opportunities_in_vietnam/",
+          "author": null,
+          "description": "Hello all, I’m considering moving to Vietnam (just made a post), and I would truly love to have some opportunity to be involved in something such as medical research in Vietnam. I have a bachelors degree in Biomedical science, and am more than willing to learn Vietnamese if needed. Are there any such opportunities like this for a British person there? I have tried looking into it a bit but can’t seem to find much information or opportunities, but maybe you guys here would know much more, thank you!\n    submitted by    /u/ijintheuk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zq71ms/medical_science_job_opportunities_in_vietnam/",
+          "publishedOn": "2022-12-19T23:22:39.000Z",
+          "wordCount": 15177,
+          "title": "Medical science job opportunities in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zq6yyp/considering_moving_to_vietnam_probably_saigon_any/",
+          "author": null,
+          "description": "Hi all been on this forum for a while. I am strongly considering moving to Vietnam. I’d love to have a scientific job there such as medical research, but I’ve done quite a bit of looking into this and can’t seem to find many opportunities, so I would probably go into teaching english.\n I lived in Saigon for about 6 months in 2020 with my now ex-gf, and I really loved it, and ever since have been a little obsessed with watching videos about it, keeping up with news/info there. My friends and family know I love it as I do speak about it with them sometimes.\n The problem is, while I was living there, I wasn’t actually working, so it was more of an extended holiday, and I know actually working there would be much different. I have a TEFL certificate and also a bachelors degree, and actually had an interview a while ago when I was considering moving there a year ago, and was offered a teaching job, but in the end I declined it.\n Only things that are stopping me are leaving my great friends and family here, learning to ride a bike there is a bit daunting (never driven one before), and maybe regretting my decision after taking the leap. \n I am considering taking another holiday there for around a month and just kind of acting like I l live and work there, just to test it out, but not sure how useful that actually is.\n Anyway, if you have any thoughts on this let me know! And if you know of any medical science jobs there that a British person with a science degree could get into, please tell me (although I may make a separate post about this)!\n    submitted by    /u/ijintheuk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zq6yyp/considering_moving_to_vietnam_probably_saigon_any/",
+          "publishedOn": "2022-12-19T23:19:58.000Z",
+          "wordCount": 16630,
+          "title": "Considering moving to Vietnam (probably Saigon), any advice from someone who has done the same recently?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zq3qf6/best_beach_town/",
+          "author": null,
+          "description": "Hi! I’m looking to spend a couple of days at a beach town but am struggling to choose between Quy Nhon, Nha Trang and Mui Ne. Which one would you recommend and why? Thanks!\n    submitted by    /u/AngelaMartin90  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zq3qf6/best_beach_town/",
+          "publishedOn": "2022-12-19T21:13:24.000Z",
+          "wordCount": 1875,
+          "title": "Best beach town?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zq3hos/how_to_spend_new_year_eve_in_hcm/",
+          "author": null,
+          "description": "Hey everyone, will be in Ho Chi Minh for New Year’s Eve. Just wondering the best parties/bars to spend it at?\n    submitted by    /u/moonboot0  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zq3hos/how_to_spend_new_year_eve_in_hcm/",
+          "publishedOn": "2022-12-19T21:03:55.000Z",
+          "wordCount": 15046,
+          "title": "How to spend New Year Eve in HCM?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zq36sj/suy_ngh%C4%A9kinh_nghi%E1%BB%87m_v%E1%BB%81_vinfast_v%C3%A0_li%E1%BB%87u_n%C3%B3_s%E1%BA%BD/",
+          "author": null,
+          "description": "Mấy hôm nay tôi có đọc những bài viết chỉ trích Vinfast.\n Vinfast chưa sẵn sàng đến Mỹ\n Vinfast VF8 giá 1,3 tỷ đồng chỉ đi được 290 km bằng điện\n Đối với phiên bản City (phiên bản sản xuất giới hạn), VF 8 sẽ có giá 55 nghìn USD (khoảng 1,3 tỷ đồng), với phiên bản Eco có giá 59 nghìn USD (khoảng 1,4 tỷ đồng) theo trang web của họ. Phiên bản City Edition sẽ chỉ có quãng đường đi được là 300 km khi sử dụng điện và xét rằng Hyundai Ioniq 5 Limited dẫn động cầu sau (đầy đủ tải) có giá tương đương với VF 8 City Edition (khoảng 1,3 tỷ đồng) trong khi cung cấp quãng đường chạy điện là 485 km , điều đó có nghĩa là Vinfast VF 8 có thể sẽ khó bán ở Mỹ. Và xét đến việc Tesla Model 3 Long Range chỉ có giá khoảng 58.000 USD (khoảng 1,375 tỷ đồng) với phạm vi hoạt động 575 km và bạn có thể thấy rằng Vinf…",
+          "link": "https://www.reddit.com/r/VietNam/comments/zq36sj/suy_ngh%C4%A9kinh_nghi%E1%BB%87m_v%E1%BB%81_vinfast_v%C3%A0_li%E1%BB%87u_n%C3%B3_s%E1%BA%BD/",
+          "publishedOn": "2022-12-19T20:52:26.000Z",
+          "wordCount": 20101,
+          "title": "Suy Nghĩ/Kinh Nghiệm Về Vinfast Và Liệu Nó Sẽ Thành Công Hay Thất Bại",
+          "imageUrl": "https://external-preview.redd.it/zreMJUSsM46loUk073wb6nOjWkRIRGWwBTVU8gWJrAE.jpg?auto=webp&s=e3b966b6dd30f33669d6105a015afbf69288b8f2"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zq1487/best_route_for_two_weeks_motorbike_trip_in_vietnam/",
+          "author": null,
+          "description": "Hey everyone,\n I'm planning a two week motorbike road trip in Vietnam and I'm trying to decide where to go. I'm considering either starting in Ho Chi Minh City and making my way up to Hanoi, or just focusing on the northern part of the country. I'm wondering if anyone has any recommendations on which option would be the best for a road trip.\n I'm interested in seeing as much of the country as possible, but I'm also open to just staying in one region if it has particularly beautiful or interesting sights to see. I'm particularly interested in seeing more of the traditional Vietnamese culture and nature. \n Is the southern part of Vietnam also worth visiting, or is Ho Chi Minh City the main highlight in that region?\n Any thoughts or recommendations would be greatly appreciated!\n    submitted by    /u/Lynxwe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zq1487/best_route_for_two_weeks_motorbike_trip_in_vietnam/",
+          "publishedOn": "2022-12-19T19:31:58.000Z",
+          "wordCount": 16073,
+          "title": "Best route for two weeks motorbike trip in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zq0wei/peakposting_from_vietnam_government_portal/",
+          "author": null,
+          "description": "submitted by    /u/monchestor_hl  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zq0wei/peakposting_from_vietnam_government_portal/",
+          "publishedOn": "2022-12-19T19:23:52.000Z",
+          "wordCount": 14936,
+          "title": "Peakposting from Vietnam Government Portal",
+          "imageUrl": "https://preview.redd.it/qv9la4ar5y6a1.jpg?auto=webp&s=61febb5372d2d23ad13c58d797b850a1caa1149b"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zpzbeu/does_anyone_know_the_origin_of_pasta_in_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/ramentaka  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zpzbeu/does_anyone_know_the_origin_of_pasta_in_vietnam/",
+          "publishedOn": "2022-12-19T18:25:13.000Z",
+          "wordCount": 15205,
+          "title": "Does anyone know the origin of pasta in Vietnam? How did it get there?",
+          "imageUrl": "https://preview.redd.it/a8n0jaomdw6a1.jpg?auto=webp&s=ebf5a987c7c9826b6282261073363cf8b898fbed"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zpy7ps/traveling_to_vietnam/",
+          "author": null,
+          "description": "Hello people, my family and I have booked our flights to Vietnam. We will start in Hanoi and we will go to probably to Phu Quoc and Saigon at the end. What would you recommend to visit ? What are the most interesting places to visit, what are the best beaches ? We will be there for around two full weeks and I would love to experience everything of Vietnam and their culture.\n Thank you !\n    submitted by    /u/xFawwaz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zpy7ps/traveling_to_vietnam/",
+          "publishedOn": "2022-12-19T17:45:15.000Z",
+          "wordCount": 15211,
+          "title": "TRAVELING TO VIETNAM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zpuj8i/ph%E1%BA%A3i_l%C3%A0m_sao_khi_h%E1%BA%BFt_b%E1%BB%8B_l%E1%BB%A5y_t%C3%ACnh_%C4%91%C3%A2y_m%E1%BB%8Di_ng%C6%B0%E1%BB%9Di/",
+          "author": null,
+          "description": "submitted by    /u/Giang104109  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zpuj8i/ph%E1%BA%A3i_l%C3%A0m_sao_khi_h%E1%BA%BFt_b%E1%BB%8B_l%E1%BB%A5y_t%C3%ACnh_%C4%91%C3%A2y_m%E1%BB%8Di_ng%C6%B0%E1%BB%9Di/",
+          "publishedOn": "2022-12-19T15:27:31.000Z",
+          "wordCount": 15476,
+          "title": "Phải làm sao khi hết bị lụy tình đây mọi người",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zpue62/santa_in_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/kaylabuonlam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zpue62/santa_in_vietnam/",
+          "publishedOn": "2022-12-19T15:22:05.000Z",
+          "wordCount": 15116,
+          "title": "Santa in Vietnam",
+          "imageUrl": "https://external-preview.redd.it/ce4MPFomVpo-gRY-MQfTPHWqiRieyptot9eKuMx5ngc.png?format=pjpg&auto=webp&s=e673fa526b0b7cf29b7aa1784520bb491747514e"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zpq250/cursed_vietnam_image/",
+          "author": null,
+          "description": "submitted by    /u/EdseAnotherAccount  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zpq250/cursed_vietnam_image/",
+          "publishedOn": "2022-12-19T12:17:54.000Z",
+          "wordCount": 15419,
+          "title": "Cursed Vietnam image",
+          "imageUrl": "https://preview.redd.it/0h28ps8r1w6a1.jpg?auto=webp&s=3982236302aa70ce7c1404e58c7f374d5e18ba37"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zppzzr/old_money/",
+          "author": null,
+          "description": "submitted by    /u/axa88  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zppzzr/old_money/",
+          "publishedOn": "2022-12-19T12:15:01.000Z",
+          "wordCount": 16400,
+          "title": "old money",
+          "imageUrl": "https://preview.redd.it/vtl3rty81w6a1.jpg?auto=webp&s=65f11ba1ddf27a3c1d30ae64dd606247bcb814df"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zpouzt/is_vietnam_still_communist/",
+          "author": null,
+          "description": "Is Communism still relevant in the Vietnamese government and everyday lives? Or is it more a thing of the past?\n    submitted by    /u/Safe-Raspberry-343  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zpouzt/is_vietnam_still_communist/",
+          "publishedOn": "2022-12-19T11:15:52.000Z",
+          "wordCount": 16162,
+          "title": "Is Vietnam still communist?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zpoorn/sesame_seeded_banh_mi/",
+          "author": null,
+          "description": "submitted by    /u/Chubby2000  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zpoorn/sesame_seeded_banh_mi/",
+          "publishedOn": "2022-12-19T11:06:57.000Z",
+          "wordCount": 15092,
+          "title": "sesame seeded banh mi",
+          "imageUrl": "https://preview.redd.it/81wjsym3pv6a1.jpg?auto=webp&s=cc947db04d826e008c0120d25999e7843e53cd78"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zpmjib/this_shirt_goes_hard/",
+          "author": null,
+          "description": "submitted by    /u/vung20019  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zpmjib/this_shirt_goes_hard/",
+          "publishedOn": "2022-12-19T08:57:18.000Z",
+          "wordCount": 16075,
+          "title": "this shirt goes hard",
+          "imageUrl": "https://preview.redd.it/ra74fawy1v6a1.jpg?auto=webp&s=3f40437354460e0e345c1d93607c31f617f61434"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zpk7m1/oc_h%C3%A0_giang_ngay_l%C3%BAc_n%C3%A0y_6c/",
+          "author": null,
+          "description": "submitted by    /u/glass_broken  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zpk7m1/oc_h%C3%A0_giang_ngay_l%C3%BAc_n%C3%A0y_6c/",
+          "publishedOn": "2022-12-19T06:34:01.000Z",
+          "wordCount": 14997,
+          "title": "[oc] hà giang ngay lúc này (6°c)",
+          "imageUrl": "https://external-preview.redd.it/FCVRL90Ojm-3fjXecw8oVjOy1vpMUgWTUxQYtA9wjtU.png?format=pjpg&auto=webp&s=8a87c00f7889c16577cbaa73730021dc6fb9ad2e"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zpju3q/opinions_on_vinfast_and_whether_it_would_succeed/",
+          "author": null,
+          "description": "Several days ago, I have read two articles that are critical about Vinfast.\n VinFast VF8 Is Simply Not Ready for America (jalopnik.com) \n 180 Miles for $55k: Can the 2023 VinFast VF 8 SUV Break Into America? (motortrend.com) \n From what I have found out, the Vinfast VF 8 would cost at least $55k (Eco starts at $59k according to their site), and that the City Edition would only have 180 miles of range, which is a joke considering that most EVs have between 200-350 miles of range. The fact that the Vinfast name is weak compared to other brands like Tesla, Polestar, Rivian, Lucid, Hyundai, Kia, Ford, GM, Mercedes Benz, BMW, VW/Audi/Porsche, etc. won't do it any favours either.\n In the US, with other EVs that are more competitive like the Hyundai Ioniq 5, Hyundai Ioniq 6, Hyundai Kona EV, Kia EV6, Kia Niro EV, Ford Mustang Mach-E, Polestar 2, BMW i4, Mercedes Benz EQB, Audi Q4 E-tron, VW ID.4, Chevy Bolt, Nissan Leaf, and the Tesla Model 3 (even its starting price now at $47k puts it at a better position than the VF 8, and that is after massive price hikes as the April 2021 price of the Model 3 Rear Wheel Drive sits below $40k), would Vinfast succeed or would they end up failing like Yugo (at least Yugos are cheap)?\n Also, how was the experience of Vinfast cars and EVs in Vietnam? Were they good or were they bad?\n    submitted by    /u/MussleGeeYem  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zpju3q/opinions_on_vinfast_and_whether_it_would_succeed/",
+          "publishedOn": "2022-12-19T06:12:35.000Z",
+          "wordCount": 22014,
+          "title": "Opinions On Vinfast And Whether It Would Succeed Or Fail In The US",
+          "imageUrl": "https://external-preview.redd.it/zreMJUSsM46loUk073wb6nOjWkRIRGWwBTVU8gWJrAE.jpg?auto=webp&s=e3b966b6dd30f33669d6105a015afbf69288b8f2"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zpjoho/view_for_days_ba_na_hills_hoi_an/",
+          "author": null,
+          "description": "submitted by    /u/SnooCapers4885  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zpjoho/view_for_days_ba_na_hills_hoi_an/",
+          "publishedOn": "2022-12-19T06:04:03.000Z",
+          "wordCount": 15115,
+          "title": "View for days! Ba Na Hills, Hoi An",
+          "imageUrl": "https://preview.redd.it/twh4fz227u6a1.jpg?auto=webp&s=d6896c528c8aefdd72cff77e902cf77d75bc5832"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zpfhzo/this_made_me_laugh_for_a_few_mins_straight_when_i/",
+          "author": null,
+          "description": "submitted by    /u/Rocmue  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zpfhzo/this_made_me_laugh_for_a_few_mins_straight_when_i/",
+          "publishedOn": "2022-12-19T02:31:50.000Z",
+          "wordCount": 15362,
+          "title": "This made me laugh for a few mins straight when I received lol massive Banh Mi for breakfast. This is awesome",
+          "imageUrl": "https://preview.redd.it/pcjw1c075t6a1.jpg?auto=webp&s=ac20694de06a4146a293bb2676a69061aeee2205"
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/zpcbee/today_is_the_76_anniversary_of_the_battle_of_h%C3%A0/",
           "author": null,
@@ -6487,186 +6637,6 @@
           "wordCount": 16453,
           "title": "Yes, i try to combine the first 3 Eps now, here's the result:",
           "imageUrl": "https://preview.redd.it/vxgn7mh5c51a1.png?auto=webp&s=3a23959ab95c01b897673c0f918a90146c5eb703"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z00xdg/possible_bar_scam_going_to_vietnam_soon_and/",
-          "author": null,
-          "description": "submitted by    /u/Throwaway0333Viet  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z00xdg/possible_bar_scam_going_to_vietnam_soon_and/",
-          "publishedOn": "2022-11-20T10:35:25.000Z",
-          "wordCount": 18452,
-          "title": "Possible Bar Scam? Going to Vietnam soon and matched a couple girls on Tinder. They independently suggested drinking at a bar or club after dinner. Heard of scams in other places where girls bring you to an place with inflated prices. Or am I just overthinking?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzzp58/happy_teachers_day_and_congrats_on_graduating_fpt/",
-          "author": null,
-          "description": "I have been invited to join FPT uni graduation events and have a tour of the places and it was the best University I have ever been in and the exciting for the final cap throwing ceremony\n    submitted by    /u/ComprehensiveOil6890  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzzp58/happy_teachers_day_and_congrats_on_graduating_fpt/",
-          "publishedOn": "2022-11-20T09:15:44.000Z",
-          "wordCount": 14861,
-          "title": "Happy Teachers day and congrats on graduating FPT University In HCMC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzz0yn/stingless_honey_beesnative_bee/",
-          "author": null,
-          "description": "submitted by    /u/Saigon-bees  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzz0yn/stingless_honey_beesnative_bee/",
-          "publishedOn": "2022-11-20T08:31:45.000Z",
-          "wordCount": 15254,
-          "title": "Stingless honey bees(native bee)",
-          "imageUrl": "https://external-preview.redd.it/qlWDM-O1hnj8JjLLA0omNFo9cd9JFpDInCJo_4PAaqE.jpg?auto=webp&s=037eb26344b5db852dc22204f7c475ecea83d3be"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzy8iy/id_appreciate_it_if_someone_can_give_advice_and/",
-          "author": null,
-          "description": "A bit of context, we met through an online dating app, have been talking for 6 months casually, and have moved to iMessage and Messenger after getting to know better, and we finally met in person last week, I took a long break to have my vacation there and the main plan was to meet her. So we meet under a shady tree at Hoan Kiem lake on 11 November. It was a surreal moment for me as I've been in a toxic relationship and meeting her and going out with her while she shows me around made me think that she's so perfect. She has these ever-positive vibes all around and is lovely. She's graduating in August, and I plan to visit her during graduation as well. We made some happy memories by strolling around Ha Noi. She always sends out gifts or food whenever we met. I am not white btw, I am a Sout…",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzy8iy/id_appreciate_it_if_someone_can_give_advice_and/",
-          "publishedOn": "2022-11-20T07:40:40.000Z",
-          "wordCount": 20106,
-          "title": "I'd appreciate it if someone can give advice and tips on how to maintain a long-distance relationship with a Hanoi woman. She's (F 22) and I (M 25).",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzwfv8/go_snap_somewhere_else/",
-          "author": null,
-          "description": "submitted by    /u/birdinblack  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzwfv8/go_snap_somewhere_else/",
-          "publishedOn": "2022-11-20T05:47:48.000Z",
-          "wordCount": 15360,
-          "title": "Go snap somewhere else",
-          "imageUrl": "https://preview.redd.it/aanusq01o11a1.jpg?auto=webp&s=b134ffa0060fa6d806aee485b44e84a8589d4f37"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzsnwf/had_an_amazing_day_exploring_cat_cat_village_sa_pa/",
-          "author": null,
-          "description": "submitted by    /u/noxater666  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzsnwf/had_an_amazing_day_exploring_cat_cat_village_sa_pa/",
-          "publishedOn": "2022-11-20T02:18:02.000Z",
-          "wordCount": 15122,
-          "title": "Had an amazing day exploring Cat Cat Village, Sa Pa.",
-          "imageUrl": "https://preview.redd.it/407egeua421a1.jpg?auto=webp&s=53333028feda52d71772fa2d02db2a2231d7fb0c"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzr15s/coming_to_ho_chi_minh_soon_from_the_us_what_are/",
-          "author": null,
-          "description": "submitted by    /u/SoManyTrolls5-0  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzr15s/coming_to_ho_chi_minh_soon_from_the_us_what_are/",
-          "publishedOn": "2022-11-20T00:54:16.000Z",
-          "wordCount": 14718,
-          "title": "Coming to Ho Chi Minh soon, from the US. What are some gifts I should bring for my host and tour guide(s)?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzqnnm/cu%E1%BB%99c_chi%E1%BA%BFn_c%C3%B4ng_b%E1%BA%B1ng_khi%E1%BA%BFn_t%E1%BA%A5t_c%E1%BA%A3_%C4%91%E1%BB%81u_vui/",
-          "author": null,
-          "description": "submitted by    /u/0921862527  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzqnnm/cu%E1%BB%99c_chi%E1%BA%BFn_c%C3%B4ng_b%E1%BA%B1ng_khi%E1%BA%BFn_t%E1%BA%A5t_c%E1%BA%A3_%C4%91%E1%BB%81u_vui/",
-          "publishedOn": "2022-11-20T00:35:23.000Z",
-          "wordCount": 14260,
-          "title": "Cuộc chiến công bằng khiến tất cả đều vui!",
-          "imageUrl": "https://external-preview.redd.it/Z7BPpAOBVwISeN-arYiM7f9oPPXJ0t-78E83lEORhoI.jpg?blur=40&format=pjpg&auto=webp&s=ff9c18429ba630472ca96b8e0c72d6e9fa72653e"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzqi5f/300gr_of_potato_chips_for_2_usd_what_can_you_buy/",
-          "author": null,
-          "description": "submitted by    /u/ShadowMancer_GoodSax  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzqi5f/300gr_of_potato_chips_for_2_usd_what_can_you_buy/",
-          "publishedOn": "2022-11-20T00:28:12.000Z",
-          "wordCount": 14701,
-          "title": "300gr of potato chips for 2 USD. What can you buy in your country for 2 USD",
-          "imageUrl": "https://preview.redd.it/no4zfktok11a1.jpg?auto=webp&s=fe85a8a4bdaf9a5b72fe266605436285b3ffefbb"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yznt53/purchasing_luggage_with_vietjet/",
-          "author": null,
-          "description": "I have purchased 15 kg luggage with my vietjet ticket, however now I realize that it is not enough and I actually need 25 kg luggage. Question: do I need to purchase brand new luggage in the amount of 25kg, or can I just add 10 kilos?\n    submitted by    /u/Plus-Ratio7108  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yznt53/purchasing_luggage_with_vietjet/",
-          "publishedOn": "2022-11-19T22:22:16.000Z",
-          "wordCount": 14320,
-          "title": "Purchasing luggage with Vietjet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzm7oe/eli5_how_a_bidet_works/",
-          "author": null,
-          "description": "submitted by    /u/Vindicatenow  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzm7oe/eli5_how_a_bidet_works/",
-          "publishedOn": "2022-11-19T21:10:37.000Z",
-          "wordCount": 14249,
-          "title": "eli5 How a bidet works",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzjv4g/how_safe_is_da_nang/",
-          "author": null,
-          "description": "Hi, \n I plan to visit Vietnam, Da Nang around the end of January, 2023. I'm little bit concerned about Typhoons as in my home country we do not have anything relatively extreme. I read on news that Da Nang experienced Typhoon Noru - saw the videos, images and heard that there was an evacuation in thousands, so got scared a bit and thinking - maybe just go back to EU and sip beers there without worrying too much, haha. \n I do plan to stay there for a month or two as DN. Anyone who have been there and can give any pro-tips about that place, please let me know down below. \n Cheers\n    submitted by    /u/MaartinBlack1996  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzjv4g/how_safe_is_da_nang/",
-          "publishedOn": "2022-11-19T19:25:35.000Z",
-          "wordCount": 15725,
-          "title": "How safe is Da Nang?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzete8/entitled_guy_who_crashed_into_a_wedding_made_a/",
-          "author": null,
-          "description": "https://youtu.be/F8veF0dbCF8\n    submitted by    /u/Real-Imagination671  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzete8/entitled_guy_who_crashed_into_a_wedding_made_a/",
-          "publishedOn": "2022-11-19T15:46:04.000Z",
-          "wordCount": 16000,
-          "title": "Entitled guy who crashed into a wedding made a response and it's somehow worse",
-          "imageUrl": "https://external-preview.redd.it/h166Rp8vY1Dl5XF5ZtccjLPX1T7thO_bRqE795Xb8hQ.jpg?auto=webp&s=958ddfb0036a904cde2b183736f34001330201be"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzdq32/urban_sketchers_vietnam_v%E1%BA%BD_k%C3%BD_h%E1%BB%8Da_nh%C3%A0_th%E1%BB%9D_l%E1%BB%9Bn_h%C3%A0/",
-          "author": null,
-          "description": "submitted by    /u/QuanArtDrawing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzdq32/urban_sketchers_vietnam_v%E1%BA%BD_k%C3%BD_h%E1%BB%8Da_nh%C3%A0_th%E1%BB%9D_l%E1%BB%9Bn_h%C3%A0/",
-          "publishedOn": "2022-11-19T14:57:38.000Z",
-          "wordCount": 14751,
-          "title": "Urban Sketchers Vietnam - Vẽ ký họa nhà thờ lớn Hà Nội , Việt Nam - Quan Art Drawing",
-          "imageUrl": "https://preview.redd.it/v1ry0bl49x0a1.jpg?auto=webp&s=1b53ea5e05b28c5e0de7fd1ca0b4989ebefdc02f"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzdh2a/orange_turtle_found_in_the_vietnamese_jungle/",
-          "author": null,
-          "description": "submitted by    /u/_Anti_Natalist  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzdh2a/orange_turtle_found_in_the_vietnamese_jungle/",
-          "publishedOn": "2022-11-19T14:45:43.000Z",
-          "wordCount": 15176,
-          "title": "🔥 Orange turtle found in the Vietnamese jungle",
-          "imageUrl": "https://preview.redd.it/5i73i7084w0a1.jpg?auto=webp&s=bd4c5a2fb9cf74f6a6fddcc99371793adf887ba7"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzcu2b/its_eps_4_of_my_drawing_series_this_time_gia_lai/",
-          "author": null,
-          "description": "This time we left the Mekong Delta and visit the Mountains of the Central Highland of Vietnam! Welcome to: Gia Lai\n    submitted by    /u/Baosia  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzcu2b/its_eps_4_of_my_drawing_series_this_time_gia_lai/",
-          "publishedOn": "2022-11-19T14:15:22.000Z",
-          "wordCount": 15601,
-          "title": "Its Eps 4 of my drawing series, this time Gia Lai:",
-          "imageUrl": "https://preview.redd.it/cug3vsocjy0a1.png?auto=webp&s=d0387a1cefb00d74e09f38f408cd9e79813545d0"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzcrdg/vietnam_football_federation_agreed_to_create_a/",
-          "author": null,
-          "description": "submitted by    /u/JoJo-Bizarre-1997  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzcrdg/vietnam_football_federation_agreed_to_create_a/",
-          "publishedOn": "2022-11-19T14:11:50.000Z",
-          "wordCount": 18034,
-          "title": "Vietnam Football Federation agreed to create a women's football fund and sending team for friendlies before 2023 Women's World Cup... but no mention about reforming the amateur women's domestic league 🤦🏻‍♂️",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/yzc4qn/pub_crawltouristexpat_events_in_hcmc_on_sunday/",
-          "author": null,
-          "description": "I am traveling to Vietnam, starting from hcmcand going north. I'll arrive in HCMC tomorrow and I'll stay in an hotel for the first night to recover from the travel.\n What are some good spots or activities to meet other tourists/backpackers/expat/etc?\n I saw a pub crawl and a couch surfing event but they are both on Saturday and I can't find anything on meetup.\n    submitted by    /u/lollo27  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/yzc4qn/pub_crawltouristexpat_events_in_hcmc_on_sunday/",
-          "publishedOn": "2022-11-19T13:41:29.000Z",
-          "wordCount": 15417,
-          "title": "Pub crawl/tourist/expat events in HCMC on sunday",
-          "imageUrl": null
         }
       ]
     },
@@ -6675,6 +6645,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/",
+          "author": "Megan Kaczanowski",
+          "description": "Getting your first job in information security (infosec, or cybersecurity) can be tough.  It's (still) a relatively new industry, and job roles and descriptions aren't always consistent. Plus, it can be hard to figure out where to get started, what skills you need, and how you can acquire them.",
+          "link": "https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/",
+          "publishedOn": "2022-12-19T23:32:44.000Z",
+          "wordCount": 3410,
+          "title": "How to Get Your First Job in InfoSec",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-tima-miroshnichenko-5380665.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/have-fun-building-react-apps/",
+          "author": "Reed Barger",
+          "description": "Building React apps can either be a very fun experience or a very difficult and tedious one, based off of the tools you choose. React is a JavaScript library that, unlike frameworks like Angular, leave us to making a lot of decisions on our own. You have to choose which",
+          "link": "https://www.freecodecamp.org/news/have-fun-building-react-apps/",
+          "publishedOn": "2022-12-19T21:41:26.000Z",
+          "wordCount": 2389,
+          "title": "How to Have Fun Building React Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/mugshotbot.com_customize_color-teal-discounted_price--image-fa229fca-mode-light-pattern-charlie_brown-price--theme-e_commerce-url-https___gifcoins.io.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/",
+          "author": "David Clinton",
+          "description": "You may already understand how important a good VPN can be for maintaining the security and privacy of your mobile communications.  Whether you need to use your phone for banking over a public airport or coffee shop WiFi connection, or you're worried about the wrong people listening in on",
+          "link": "https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/",
+          "publishedOn": "2022-12-19T20:46:15.000Z",
+          "wordCount": 2246,
+          "title": "How to Build Your Own Wireguard VPN in Five Minutes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-ibrahim-boran-339814.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/",
+          "author": "Andrej Kovacevic",
+          "description": "If you've ever managed a software development pipeline—or have plans to do so—there's one thing you'll need to prioritize above almost all else: speed.  No matter the type of software you're working on, you'll always be under pressure to speed up your team's deliverables. Some of that pressure might",
+          "link": "https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/",
+          "publishedOn": "2022-12-19T17:51:06.000Z",
+          "wordCount": 2086,
+          "title": "How to Speed up Your Software Development Pipeline",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/software-development-team.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/rules-of-api-testing-for-beginners/",
           "author": "Hillary Nyakundi",
@@ -7414,16 +7424,6 @@
           "wordCount": 947,
           "title": "The freeCodeCamp Mobile App – Learn to Code Right On Your Phone",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/michal-soukup-hDOskFirs-c-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/",
-          "author": "Arunachalam B",
-          "description": "Linux has many utility tools that help you quickly find the answer to your questions. But many devs aren't aware of them. In this article, you will learn a command that has exceptional benefits.  For example, say you want to take a look at your calendar to plan a",
-          "link": "https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/",
-          "publishedOn": "2022-11-19T19:06:26.000Z",
-          "wordCount": 1998,
-          "title": "Linux Date Command – How to Query the Terminal to Get Dates",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/10.-Date-Command---Brief-1.png"
         }
       ]
     }
