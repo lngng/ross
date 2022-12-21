@@ -12,6 +12,16 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641EA5A73C.AirQualityAlert.12641EC24E00CA.LOXAQALOX.769a578d49bd0ff8460b965372be6ac9",
+          "author": null,
+          "description": "...AIR QUALITY ALERT: MANDATORY WOOD-BURNING BAN IN EFFECT... The South Coast AQMD has issued a mandatory wood-burning ban for residents in the South Coast Air Basin for Tuesday, December 20 to Wednesday, December 21. No-Burn days are declared to protect public health when levels of fine particulate air pollution in the region are forecast to be high.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641EA5A73C.AirQualityAlert.12641EC24E00CA.LOXAQALOX.769a578d49bd0ff8460b965372be6ac9",
+          "publishedOn": "2022-12-20T20:23:00.000Z",
+          "wordCount": 337,
+          "title": "Air Quality Alert issued December 20 at 12:23PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E96B128.FrostAdvisory.12641EA50200CA.LOXNPWLOX.ad8ea06169bf798697c618d6567f1b73",
           "author": null,
           "description": "...FROST ADVISORY IN EFFECT FROM MIDNIGHT TONIGHT TO 8 AM PST TUESDAY... * WHAT...Temperatures as low as 32 will result in frost formation. Isolated temperatures in the mid to upper 20s are possible through the canyons of the Santa Monica Range. * WHERE...Santa Clarita Valley, Ojai Valley, Central Ventura",
@@ -420,16 +430,6 @@
           "wordCount": 170,
           "title": "High Wind Watch issued November 22 at 1:23PM PST until November 24 at 3:00PM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418AFF6AC.HardFreezeWarning.126418BE8A50CA.LOXNPWLOX.fe35133de308adfa758eae52c72041ce",
-          "author": null,
-          "description": "...HARD FREEZE WARNING IN EFFECT FROM 1 AM TO 9 AM PST MONDAY... * WHAT...Sub-freezing temperatures as low as 20 expected. * WHERE...Antelope Valley. * WHEN...From 1 AM to 9 AM PST Monday. * IMPACTS...Damage to outdoor plumbing possible. Expect severe damage to crops or sensitive vegetation, and harm to unprotected",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126418AFF6AC.HardFreezeWarning.126418BE8A50CA.LOXNPWLOX.fe35133de308adfa758eae52c72041ce",
-          "publishedOn": "2022-11-20T21:47:00.000Z",
-          "wordCount": 168,
-          "title": "Hard Freeze Warning issued November 20 at 1:47PM PST until November 21 at 9:00AM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -438,6 +438,226 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zr4c36/ha_giang_loop_by_car_4_days_3_nights_solo/",
+          "author": null,
+          "description": "Hey all, I'm a solo traveller and will arrive in Hanoi soon for some holidays. 🗺 \n ​\n I've signed up for a tour by car (not motorbike) around the Ha Giang Loop for period 29 December - 01 January (4 days 3 nights) with YESD. 🚙 \n ​\n If there's anyone who would like to join me on this trip so we can share the costs, please DM me! 📥\n    submitted by    /u/vladonescu  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zr4c36/ha_giang_loop_by_car_4_days_3_nights_solo/",
+          "publishedOn": "2022-12-21T00:13:51.000Z",
+          "wordCount": 15089,
+          "title": "Ha Giang Loop by Car - 4 days 3 nights - solo traveller - wanna join me to share costs?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zr1qm4/mexican_grocery_stores_in_hcm/",
+          "author": null,
+          "description": "Is there any Mexican supermarkets in Ho Chi Minh. What is the most authentic Mexican restaurants here ? Not Tex-mex , thank you\n    submitted by    /u/VanillaInevitable469  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zr1qm4/mexican_grocery_stores_in_hcm/",
+          "publishedOn": "2022-12-20T22:27:15.000Z",
+          "wordCount": 15453,
+          "title": "Mexican grocery stores in hcm?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqzhi8/ordering_food_for_your_friendsfamily_in_vietnam/",
+          "author": null,
+          "description": "I’m looking for suggestions which apps/stores that take payment via Paypal/Venmo. I want to order some foods and deliver them to my friends to surprise them, I’m currently not in Vietnam. Thank you!\n    submitted by    /u/wand3rlust00  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqzhi8/ordering_food_for_your_friendsfamily_in_vietnam/",
+          "publishedOn": "2022-12-20T20:58:58.000Z",
+          "wordCount": 16781,
+          "title": "Ordering food for your friends/family in Vietnam and pay from outside of Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqyqze/vinfast_prices_increase_battery_lease_price_not/",
+          "author": null,
+          "description": "submitted by    /u/MussleGeeYem  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqyqze/vinfast_prices_increase_battery_lease_price_not/",
+          "publishedOn": "2022-12-20T20:29:09.000Z",
+          "wordCount": 15834,
+          "title": "Vinfast Prices Increase, Battery Lease Price Not Shown On Site",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqyicc/any_shops_in_hcm_that_sell_english_dvds_or/",
+          "author": null,
+          "description": "I know nobody uses physical discs anymore but i'm going to Saigon tomorrow and we want to buy some dvd's for my in-laws who are pretty old and not tech savvy.\n    submitted by    /u/ricshos  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqyicc/any_shops_in_hcm_that_sell_english_dvds_or/",
+          "publishedOn": "2022-12-20T20:19:16.000Z",
+          "wordCount": 15126,
+          "title": "any shops in HCM that sell english dvds or blurays with viet dub or sub?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqvm2i/just_wanted_to_share_small_clip_from_our/",
+          "author": null,
+          "description": "submitted by    /u/TriVoMoto  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqvm2i/just_wanted_to_share_small_clip_from_our/",
+          "publishedOn": "2022-12-20T18:24:00.000Z",
+          "wordCount": 15071,
+          "title": "Just wanted to share small clip from our Motorbike trip from Saigon to Hanoi.",
+          "imageUrl": "https://external-preview.redd.it/hOqwL0yW-7ajJV8mupGZeUSlGR3TOyd2lq6hBQg5WKg.jpg?auto=webp&s=3a8a66ced57613eaf6273c6961bb65e7ac8ef531"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqthtx/understanding_vietnamese_abbreviations_in_text/",
+          "author": null,
+          "description": "Recently in texting I encountered some Vietnamese abbreviations that I don't understand and can't translate.\n What does DFI mean?\n Context: \"Vừa dfi vừa gãi\"\n    submitted by    /u/WhoKnowsTruly  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqthtx/understanding_vietnamese_abbreviations_in_text/",
+          "publishedOn": "2022-12-20T16:59:30.000Z",
+          "wordCount": 17227,
+          "title": "Understanding Vietnamese abbreviations in text",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqthl9/nguyen_hue_walking_street_performances/",
+          "author": null,
+          "description": "I was wondering if there are any similar streets to HCMC Nguyen Hue in Hanoi. Where there are always street performers dancing, singing Etc; in the night\n    submitted by    /u/BurliestWheat47  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqthl9/nguyen_hue_walking_street_performances/",
+          "publishedOn": "2022-12-20T16:59:13.000Z",
+          "wordCount": 15841,
+          "title": "Nguyen hue walking street performances",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqtavq/travel_advice_due_to_rain_in_da_nang/",
+          "author": null,
+          "description": "Hi everyone, I need some travel related advice from a person familiar with these cities in Vietnam : Da Nang, Hoi An and Hue City. \n I am from India and currently in Vietnam with my parents. I have been here for 6 days and visited Hanoi, Sa Pa, HaLong Bay and HCMC, and now moving on to Hue city by an early morning flight on 21st December, and my return flight back to India is in evening of 24th December from Da Nang. \n The issue, now, is that the weather forecast shows it will more or less rain for next 3 days (21-24 December) continuously. I was currently planning to visit the Historic city of Hoi An, then Ba Na Hills through Ropeway and then Citadel in Hue city and then go back to Da Nang and take the return flight. \n Can someone please help me figure out how many days I should spend in each city and what I should avoid doing to make the best of whatever time I have in these 3 cities. Or. Maybe I can go to a nearby city that has no rain and travel there? Open to suggestions.\n    submitted by    /u/Nica28-11-14  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqtavq/travel_advice_due_to_rain_in_da_nang/",
+          "publishedOn": "2022-12-20T16:51:28.000Z",
+          "wordCount": 16454,
+          "title": "Travel advice due to rain in Da Nang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqsrpp/hoi_an_chewing_tobaccosnus/",
+          "author": null,
+          "description": "Hey Im going to Hoi An tomorrow and I’m in desperate need of help to find chewing tobacco or snus. Are there anyone out there who know if it is possible to buy and where? Any answers are much appreciated!\n    submitted by    /u/TamtamTommy27  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqsrpp/hoi_an_chewing_tobaccosnus/",
+          "publishedOn": "2022-12-20T16:29:20.000Z",
+          "wordCount": 14519,
+          "title": "Hoi An chewing tobacco/snus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqryez/come_and_take_your_ufo_ufo_burger/",
+          "author": null,
+          "description": "submitted by    /u/Sophieoi_777  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqryez/come_and_take_your_ufo_ufo_burger/",
+          "publishedOn": "2022-12-20T15:55:40.000Z",
+          "wordCount": 16133,
+          "title": "Come and take your “UFO” - UFO burger 😋",
+          "imageUrl": "https://preview.redd.it/09nm65tzr27a1.jpg?auto=webp&s=6d82631ddf959161bf8171642be6dc11a7d42549"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqrss4/international_students_in_us_by_country_of_origin/",
+          "author": null,
+          "description": "submitted by    /u/Effective_Biscotti65  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqrss4/international_students_in_us_by_country_of_origin/",
+          "publishedOn": "2022-12-20T15:49:09.000Z",
+          "wordCount": 15929,
+          "title": "International Students in US by Country of Origin (1949/2022)",
+          "imageUrl": "https://external-preview.redd.it/HUMg9W_Z_uOB2iIgZCufETQ5-pt0X_Mcr8bOAwc2mpM.jpg?auto=webp&s=bd447281ec71dbe19dc7ac2914fd18262bbd720b"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqqwep/vietnam_airlines_carry_on_weight_limit_for_intl/",
+          "author": null,
+          "description": "Flying from Vietnam to the US through delta but Hanoi to Korea is through Vietnam Airlines. I can’t find our weight limits for carry ons for international flights online and was wondering if anyone knows it.\n    submitted by    /u/Better_Breadfruit_21  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqqwep/vietnam_airlines_carry_on_weight_limit_for_intl/",
+          "publishedOn": "2022-12-20T15:11:11.000Z",
+          "wordCount": 15453,
+          "title": "Vietnam Airlines Carry On Weight Limit for Intl Flights",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqnea4/top_3_reasons_you_love_vietnam/",
+          "author": null,
+          "description": "Just wanted to ask a simple question: What are the top 3 reasons why you love Vietnam? \n No wrong answers here as I can think of many. \n For me, I would say the Top 3 Reasons I Love Vietnam Are:\n  \nThe people. The people here are absolutely incredible. \n The beauty of the country. Vietnam has everything some of the best landscapes and scenery I have ever seen in my life. \n The food. I know Vietnamese food might not be for everyone, but I really enjoy most of it. I think it is very unique, flavorful and tasty.\n  \n   submitted by    /u/SaigonSterling  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqnea4/top_3_reasons_you_love_vietnam/",
+          "publishedOn": "2022-12-20T12:39:09.000Z",
+          "wordCount": 17649,
+          "title": "Top 3 Reasons You Love Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqm1lj/to_say_congratulations_to_messi_my_friend_changed/",
+          "author": null,
+          "description": "submitted by    /u/tampanel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqm1lj/to_say_congratulations_to_messi_my_friend_changed/",
+          "publishedOn": "2022-12-20T11:29:33.000Z",
+          "wordCount": 15011,
+          "title": "To say congratulations to Messi, my friend changed their house gateway. So how do you feel?😍",
+          "imageUrl": "https://preview.redd.it/fkzvy2o1y27a1.jpg?auto=webp&s=f2cfa04cbef8c7529553ae61ca5163d00b976bad"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqjvyg/good_morning_from_h%C3%A0_giang_nh%E1%BB%9B_qu%E1%BA%BF_river/",
+          "author": null,
+          "description": "submitted by    /u/Yimchi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqjvyg/good_morning_from_h%C3%A0_giang_nh%E1%BB%9B_qu%E1%BA%BF_river/",
+          "publishedOn": "2022-12-20T09:20:54.000Z",
+          "wordCount": 15568,
+          "title": "Good morning from Hà Giang, Nhớ quế River!",
+          "imageUrl": "https://external-preview.redd.it/QwzwADr5YZZNFuZSNRwQ7n4MZpAgl14PcJWBLyrNqb0.jpg?auto=webp&s=b01a1f134a57c0c06ae4e88c2547927ca1353b55"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqjqym/famous_disabled_vietnamese_people/",
+          "author": null,
+          "description": "Does Vietnam have any famous people (celebrities or historical personalities) who have had a noticeable disability of any kind?\n Any current Vietnamese celebrities (alive) who have some sort of physical disability?\n    submitted by    /u/Would-Be-Superhero  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqjqym/famous_disabled_vietnamese_people/",
+          "publishedOn": "2022-12-20T09:12:22.000Z",
+          "wordCount": 15960,
+          "title": "Famous disabled Vietnamese people",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqja9z/hcmc_airport_scam/",
+          "author": null,
+          "description": "It’s not the first post about this, and unfortunately it probably won’t be the last either :( \n My husband and I arrived at HCMC airport a couple hours ago - we’ve been in Thailand for the past couple weeks on holiday, and thought we’d pop over to Vietnam for a few days too. \n When we came out the airport, one of the guys in a white shirt got us. All the advice we read beforehand was about metered taxis, and the guy said that the taxi is metered so we didn’t think anything more of it so it should be fine. Hopped in and asked to be dropped to our hotel in District 1. \n No joke… the meter was going up 25k every 10 seconds. After less than 10 mins of driving, we told him it’s far too expensive and we need to get out. Paid 600k to be left on the side of the road :( wish we’d stuck to our guns and given him less, he made a stupid amount off our naïveté. \n We ordered a Grab which dropped us the rest of the way for just 80k. In hindsight that’s what we should’ve done when we were looking for a taxi, but hindsight is always 20/20!\n    submitted by    /u/sam0sa94  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqja9z/hcmc_airport_scam/",
+          "publishedOn": "2022-12-20T08:45:57.000Z",
+          "wordCount": 17386,
+          "title": "HCMC Airport Scam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqewna/any_interest_in_a_saigon_meetup/",
+          "author": null,
+          "description": "I want to get any idea if there is any interest in a meet-up for this community in Saigon. I was thinking something informal at a pub one evening after the holidays. I like the community and would be interested in meeting some of you in person. If you have interest in a meet-up just reply below.\n    submitted by    /u/bigjd33  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqewna/any_interest_in_a_saigon_meetup/",
+          "publishedOn": "2022-12-20T04:55:58.000Z",
+          "wordCount": 15662,
+          "title": "Any Interest in a Saigon Meet-Up?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqe53o/remember_the_d1_fire_next_to_b%E1%BA%BFn_th%C3%A0nh_market/",
+          "author": null,
+          "description": "There are still piles of glass outside. How does stuff not get cleaned up after two months? Kids and animals are running around here all day, hundreds of tourists walking past. I'm sure there will be some 'good explanation' for it, probably involving liability or money, but really there is no excuse.\n https://preview.redd.it/kyke9vcnbz6a1.jpg?width=960&format=pjpg&auto=webp&s=da5c58486a0cfcfe0cabf7c1cdab4fd86a39f93a\n    submitted by    /u/legatrixx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqe53o/remember_the_d1_fire_next_to_b%E1%BA%BFn_th%C3%A0nh_market/",
+          "publishedOn": "2022-12-20T04:20:09.000Z",
+          "wordCount": 16133,
+          "title": "Remember the D1 fire next to Bến Thành market?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqds0v/abortion_for_foreigner/",
+          "author": null,
+          "description": "answered\n Hi, can anyone recommend a hospital or clinic which will preform an abortion for a foreigner? Also how to contact them, email, website, phone? Should I expect the hospital staff to understand english? Should I get a translator?\n Thanks\n edit incase anyone has same question: FV hospital or Hanh Phuc Hospital for foreigners are known to provide abortions to foreigners\n    submitted by    /u/Routine-Mastodon931  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqds0v/abortion_for_foreigner/",
+          "publishedOn": "2022-12-20T04:03:27.000Z",
+          "wordCount": 15603,
+          "title": "Abortion for foreigner",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zqcikf/what_do_you_vietnamese_and_foreigners_think_of/",
+          "author": null,
+          "description": "In reference to this case https://en.m.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Xu%C3%A2n_Thanh\n    submitted by    /u/RevolutionaryWater31  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zqcikf/what_do_you_vietnamese_and_foreigners_think_of/",
+          "publishedOn": "2022-12-20T03:06:53.000Z",
+          "wordCount": 17056,
+          "title": "What do you (Vietnamese and foreigners) think of the abduction case in Germany in 2017?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/zq81il/anyone_feeling_sick_from_the_bad_air_quality/",
           "author": null,
@@ -6397,246 +6617,6 @@
           "wordCount": 17083,
           "title": "If I can't eat my whole meal, is that ok?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0xqdo/i_recently_got_published_as_the_opening_spread_in/",
-          "author": null,
-          "description": "submitted by    /u/lostcanuck  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0xqdo/i_recently_got_published_as_the_opening_spread_in/",
-          "publishedOn": "2022-11-21T12:25:32.000Z",
-          "wordCount": 15685,
-          "title": "I recently got published as the opening spread in a fashion & culture magazine for my photo series in Ha Giang, Vietnam. Pretty proud of it and figured I'd share here!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0wq8f/bvb_asian_tour_hanoi/",
-          "author": null,
-          "description": "Hi everyone I'm travelling to Hanoi on an unrelated matter and I find that my fav football team in the world Borussia Dortmund are playing the vietnam national team on 30th Unfortunately it doesn't look like I'll be able to watch the game as my flight is on 30th (horrible luck I know) But I would love to see the players or get to meet them Any suggestions on what I can do?\n    submitted by    /u/Classic-Traffic130  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0wq8f/bvb_asian_tour_hanoi/",
-          "publishedOn": "2022-11-21T11:32:03.000Z",
-          "wordCount": 14843,
-          "title": "BvB Asian tour - Hanoi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0w9et/bead_shops_in_hcm_hanoi/",
-          "author": null,
-          "description": "hi!! does anyone know where i can find bead shops/ beads in HCM & Hanoi? :)\n PS does anyone know what the weather is like and the appropriate attire to wear?\n    submitted by    /u/alternativeingenuine  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0w9et/bead_shops_in_hcm_hanoi/",
-          "publishedOn": "2022-11-21T11:06:23.000Z",
-          "wordCount": 15016,
-          "title": "bead shops in HCM & Hanoi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0vas9/something_to_do_on_a_monday_night_thats_not_a_bar/",
-          "author": null,
-          "description": "Any suggestions for something to do tonight that’s not a bar? \n Taking someone out and seeking some suggestions for a chill but interesting night out.\n Hanoi Old Quarter\n 🙏🏼\n    submitted by    /u/Balenciagaa-  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0vas9/something_to_do_on_a_monday_night_thats_not_a_bar/",
-          "publishedOn": "2022-11-21T10:10:12.000Z",
-          "wordCount": 15222,
-          "title": "Something to do on a Monday night that’s not a bar? (Hanoi)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0sfdv/antidepressant_as_tourist/",
-          "author": null,
-          "description": "Hello, I'm currently travelling through SEA and running low on my Antidepressants.\n Now I wanted to ask if Sertralin is OTC in Vietnam so that I can get it in any pharmacy or if I need to see a doctor. I will be back in my Homecountry soon so I will only need a small package of the Pills.\n Glad if anyone has experience with the topic and can help me.\n Thanks!\n    submitted by    /u/Knock-Outist  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0sfdv/antidepressant_as_tourist/",
-          "publishedOn": "2022-11-21T07:13:46.000Z",
-          "wordCount": 15020,
-          "title": "Antidepressant as Tourist",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0r6vx/being_hanoi_for_a_week_any_suggestions_for/",
-          "author": null,
-          "description": "submitted by    /u/babymichelone  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0r6vx/being_hanoi_for_a_week_any_suggestions_for/",
-          "publishedOn": "2022-11-21T06:03:00.000Z",
-          "wordCount": 17423,
-          "title": "Being Hanoi for a week. Any suggestions for cuisine/bar?",
-          "imageUrl": "https://preview.redd.it/65qb9ubpv81a1.jpg?auto=webp&s=266d2545f440a66447f6dbf9512285d18f8275f4"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0ole8/k%E1%BB%B3_%C4%91%C3%A0i_the_flag_tower_in_hu%E1%BA%BF/",
-          "author": null,
-          "description": "submitted by    /u/Matthew__19  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0ole8/k%E1%BB%B3_%C4%91%C3%A0i_the_flag_tower_in_hu%E1%BA%BF/",
-          "publishedOn": "2022-11-21T03:49:14.000Z",
-          "wordCount": 15420,
-          "title": "Kỳ Đài (The Flag Tower) in Huế",
-          "imageUrl": "https://preview.redd.it/sw4rku1hp91a1.jpg?auto=webp&s=94b59f30052dc0a488155a2c294438162967642d"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0m9cy/what_does_you_look_like_vietnamese_coming_from/",
-          "author": null,
-          "description": "I’ve been in Vietnam the past month (& loved it btw, I fell in love after visiting Ninh Binh) - 2 weeks in Hanoi & the last 2 in Da Nang. \n Everywhere I go, people constantly stare at me & when I do go into shops, I’ve been told I look Vietnamese. This happens when I speak english to them. I say thank you when I hear them, cause tbh Vietnamese women are beautiful & also didn’t know what to say in response. \n Honestly, I’m not sure if I’m thinking too much into it but just wanted to know what it means? \n I’m not Vietnamese (obviously lolol), just a traveler from another SEA country.\n Edit to add: I’m a female & motorcyclists stare at me while driving past. not sure if they’re just being creeps\n    submitted by    /u/bongtheduck  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0m9cy/what_does_you_look_like_vietnamese_coming_from/",
-          "publishedOn": "2022-11-21T01:59:20.000Z",
-          "wordCount": 16986,
-          "title": "what does “you look like vietnamese” coming from multiple vietnamese women mean?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0kod4/took_a_break_from_melbourne_to_enjoy_vietnam/",
-          "author": null,
-          "description": "submitted by    /u/Darkness_Lurking  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0kod4/took_a_break_from_melbourne_to_enjoy_vietnam/",
-          "publishedOn": "2022-11-21T00:47:21.000Z",
-          "wordCount": 14706,
-          "title": "Took a break from Melbourne to enjoy Vietnam",
-          "imageUrl": "https://preview.redd.it/rpvb7d31t81a1.jpg?auto=webp&s=89838aa47169e17b64fbd67642ec69003d508bb1"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0kdfy/nose_ordinances/",
-          "author": null,
-          "description": "Are there noise ordinances in Hanoi? There is construction drilling that is starting at 7 AM everyday and I’m losing my mind.\n    submitted by    /u/Better_Breadfruit_21  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0kdfy/nose_ordinances/",
-          "publishedOn": "2022-11-21T00:33:19.000Z",
-          "wordCount": 14695,
-          "title": "Nose Ordinances?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0k94b/we_need_to_stop_giving_petty_bribes/",
-          "author": null,
-          "description": "submitted by    /u/LaxohajcVN  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0k94b/we_need_to_stop_giving_petty_bribes/",
-          "publishedOn": "2022-11-21T00:28:00.000Z",
-          "wordCount": 15502,
-          "title": "We need to stop giving petty bribes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0jzrs/saigon_airport_taxi_scam/",
-          "author": null,
-          "description": "Arrived at SGN yesterday and went to the taxi rank. We've been following the advice of only using Mai Linh / Vinasun or just walking, but a man at the rank queue guided us to a Saigon Tourist taxi at the queue. I thought he was the official taxi rank guide, but looking back obviously he was a partner / part of this particular taxi company.\n Taxi driver was chatty and had fairly good English, asking us about our home country.\n First issue was the exit toll - didn't realise there was one - he said we had to pay it, pointing to a sign on his sun visor. I asked how much and he wouldn't properly say, then as I looked in my wallet he reached over and grabbed it, went through the notes saying there were lots of big ones, and pulled one out. I really thought it was a 100k bill (but can't be sure) …",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0jzrs/saigon_airport_taxi_scam/",
-          "publishedOn": "2022-11-21T00:16:22.000Z",
-          "wordCount": 16007,
-          "title": "Saigon Airport Taxi Scam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0j0eo/vietnams_cursed_images_70/",
-          "author": null,
-          "description": "submitted by    /u/GodBlessHentai  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0j0eo/vietnams_cursed_images_70/",
-          "publishedOn": "2022-11-20T23:34:23.000Z",
-          "wordCount": 14746,
-          "title": "Vietnam's cursed images #70",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0hkr8/noi_bai_airport_to_old_quarter/",
-          "author": null,
-          "description": "Hi guys! Planning on taking a cab from the airport to the old quarter— what should I expect to pay for a taxi? Don’t want to get scammed!\n    submitted by    /u/girlyangry  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0hkr8/noi_bai_airport_to_old_quarter/",
-          "publishedOn": "2022-11-20T22:36:15.000Z",
-          "wordCount": 14556,
-          "title": "Noi Bai airport to old quarter?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0hbsm/cave_diving_in_vietnam/",
-          "author": null,
-          "description": "As per my username I want to cave dive, but I’m so far struggling to find an option to get trained and do this in Vietnam. My usual dive sites Phu Quoc and Nha Trang don’t seem to have any caves to the best of my knowledge and no dive shop I’ve checked offers either cavern or cave training. \n Has anyone got any ideas? I’m kind of stumped and even when I’ve asked in Vietnamese language scuba groups nobody seems to know.\n    submitted by    /u/iwanttobeacavediver  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0hbsm/cave_diving_in_vietnam/",
-          "publishedOn": "2022-11-20T22:26:18.000Z",
-          "wordCount": 14891,
-          "title": "Cave diving in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0dtli/laundry_service_while_backpacking/",
-          "author": null,
-          "description": "Hey everyone, \n Soon i'll travel to Vietnam with a backpack. I've been to Thailand before and almost everywhere you could find a laundry service. Is it as easy aswell in Vietnam? Not sleeping in Hotels but hostels. Thanks for the tips!\n    submitted by    /u/RoadtoDividends  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0dtli/laundry_service_while_backpacking/",
-          "publishedOn": "2022-11-20T20:07:34.000Z",
-          "wordCount": 16079,
-          "title": "Laundry service while backpacking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0d184/new_years_celebrations/",
-          "author": null,
-          "description": "Can anyone shed light on what the holiday season for New Year's is like in Vietnam? Will things be open, is it a good tourist season. Should we wait until after?\n Edit: I should have clarified and said Tet (Vietnam's New Year Celebration) which falls on January 22'nd I believe. \n    submitted by    /u/m_renee86  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0d184/new_years_celebrations/",
-          "publishedOn": "2022-11-20T19:35:34.000Z",
-          "wordCount": 15298,
-          "title": "New Year's Celebrations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z090r9/hanoi_12_hours_what_to_do_apart_from_oldfrench/",
-          "author": null,
-          "description": "We’ve seen the old quarter. But It’s such a big city, pls suggest uncommon sights and sounds of the city !\n    submitted by    /u/nandakv  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z090r9/hanoi_12_hours_what_to_do_apart_from_oldfrench/",
-          "publishedOn": "2022-11-20T16:56:16.000Z",
-          "wordCount": 16014,
-          "title": "Hanoi 12 hours what to do? (Apart from old/French quarter)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z08abs/can_anyone_tell_me_the_different_between_2_kind/",
-          "author": null,
-          "description": "submitted by    /u/Salsadontsour  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z08abs/can_anyone_tell_me_the_different_between_2_kind/",
-          "publishedOn": "2022-11-20T16:25:38.000Z",
-          "wordCount": 14983,
-          "title": "Can anyone tell me the different between 2 kind of instant noodle \"Miliket hai tôm\" and \"Miliket bốn tôm\". And which is better?",
-          "imageUrl": "https://preview.redd.it/34apl58ib61a1.jpg?auto=webp&s=be1b4f0383c7c854c7a363023cbb34dbaedb6ecb"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z07p7m/print_shop_open_247_in_ho_chi_minh_city/",
-          "author": null,
-          "description": "Hello,\n I'm looking for a place to print documents that is open 24/24 7/7 in HCMC.\n Do you know if such place exist ?\n Thanks\n    submitted by    /u/TwiceThinking  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z07p7m/print_shop_open_247_in_ho_chi_minh_city/",
-          "publishedOn": "2022-11-20T16:01:09.000Z",
-          "wordCount": 15151,
-          "title": "Print shop open 24/7 in Ho Chi Minh City",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z0752c/hoi_an_2030mm_of_rain_for_a_few_days/",
-          "author": null,
-          "description": "submitted by    /u/efficientlaugh21  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z0752c/hoi_an_2030mm_of_rain_for_a_few_days/",
-          "publishedOn": "2022-11-20T15:38:23.000Z",
-          "wordCount": 15692,
-          "title": "Hoi An 20-30mm of rain for a few days..",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z06c5h/why_does_everything_feels_incomplete_in_saigon/",
-          "author": null,
-          "description": "Hanoi has a BRT, bus rapid transportation system, Noi Bai Anh has been upgraded and now a metro. While everything in Saigon of projects feels incomplete. The metro has been delayed forever, not started on the new airport and recently the infamous Saigon One Tower that is incomplete stopped construction because one guy behind the management got arrested.\n    submitted by    /u/Regenereatior_88  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z06c5h/why_does_everything_feels_incomplete_in_saigon/",
-          "publishedOn": "2022-11-20T15:05:12.000Z",
-          "wordCount": 17240,
-          "title": "Why does everything feels incomplete in Saigon compared to Hanoi?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z05u5n/disposing_vapespods/",
-          "author": null,
-          "description": "Are there any places where I would be able to throw away vapes or dispos since you cant really throw them away in a normal garbage bin??\n    submitted by    /u/Beautiful-Celery7484  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z05u5n/disposing_vapespods/",
-          "publishedOn": "2022-11-20T14:44:30.000Z",
-          "wordCount": 14705,
-          "title": "disposing vapes/pods",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z03p0b/yes_i_try_to_combine_the_first_3_eps_now_heres/",
-          "author": null,
-          "description": "submitted by    /u/Baosia  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z03p0b/yes_i_try_to_combine_the_first_3_eps_now_heres/",
-          "publishedOn": "2022-11-20T13:07:27.000Z",
-          "wordCount": 16453,
-          "title": "Yes, i try to combine the first 3 Eps now, here's the result:",
-          "imageUrl": "https://preview.redd.it/vxgn7mh5c51a1.png?auto=webp&s=3a23959ab95c01b897673c0f918a90146c5eb703"
         }
       ]
     },
@@ -6645,6 +6625,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-your-own-saas-pagerduty-clone/",
+          "author": "Beau Carnes",
+          "description": "One of the best ways to learn software development is to create a slimmed-down version of software you use every day to get a better understanding of how it might work. This process helps you understand the problem space constraints and techniques required to build a real-world use-case. We just",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-saas-pagerduty-clone/",
+          "publishedOn": "2022-12-20T13:47:49.000Z",
+          "wordCount": 11135,
+          "title": "How to Build Your Own SaaS – PagerDuty Clone",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/maxresdefault.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/",
           "author": "Megan Kaczanowski",
