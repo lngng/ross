@@ -12,13 +12,23 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641EF1C52C.AirQualityAlert.12641F0E9940CA.LOXAQALOX.769a578d49bd0ff8460b965372be6ac9",
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F015A3C.HighSurfAdvisory.12641F2D92F0CA.LOXCFWLOX.b3c79ad73b5b4c4189e6496941b84da9",
           "author": null,
-          "description": "...AIR QUALITY ALERT: MANDATORY WOOD-BURNING BAN IN EFFECT... The South Coast AQMD has extended a mandatory wood-burning ban for residents in the South Coast Air Basin for Sunday December 25th and Monday December 26th. No-Burn days are declared to protect public health when levels of fine particulate air pollution in the region are forecast to be high.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641EF1C52C.AirQualityAlert.12641F0E9940CA.LOXAQALOX.769a578d49bd0ff8460b965372be6ac9",
-          "publishedOn": "2022-12-25T19:07:00.000Z",
-          "wordCount": 337,
-          "title": "Air Quality Alert issued December 25 at 11:07AM PST by NWS",
+          "description": "...HIGH SURF ADVISORY IN EFFECT UNTIL 3 AM PST THURSDAY... * WHAT...Large breaking waves of 5 to 8 feet with dangerous rip currents. Local max sets to 9 feet are possible Wednesday. Highest surf on west-facing beaches. * WHERE...Malibu Coast and Los Angeles County Beaches. * WHEN...Until 3 AM PST Thursday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F015A3C.HighSurfAdvisory.12641F2D92F0CA.LOXCFWLOX.b3c79ad73b5b4c4189e6496941b84da9",
+          "publishedOn": "2022-12-26T21:19:00.000Z",
+          "wordCount": 191,
+          "title": "High Surf Advisory issued December 26 at 1:19PM PST until December 29 at 3:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F013A34.AirQualityAlert.12641F10E90CCA.LOXAQALOX.769a578d49bd0ff8460b965372be6ac9",
+          "author": null,
+          "description": "...AIR QUALITY ALERT: MANDATORY WOOD-BURNING BAN IN EFFECT UNTIL 11 PM PST TUESDAY... The South Coast AQMD has extended a mandatory wood-burning ban for residents in the South Coast Air Basin for Monday December 26th and Tuesday December 27th. No-Burn days are declared to protect public health when levels of",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F013A34.AirQualityAlert.12641F10E90CCA.LOXAQALOX.769a578d49bd0ff8460b965372be6ac9",
+          "publishedOn": "2022-12-26T20:37:00.000Z",
+          "wordCount": 342,
+          "title": "Air Quality Alert issued December 26 at 12:37PM PST by NWS",
           "imageUrl": null
         },
         {
@@ -329,12 +339,222 @@
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/VietNam/comments/zw226i/going_to_vietnam_in_mid_february/",
+          "author": null,
+          "description": "Any recommendation on how many days to stay in dalat? These are the cities im hitting in a 8 day period. Any suggestions which one to take out? Havent been to the homeland since 2006 ty!!\n -dalat -nha trang -danang -hue -hoi an -halong bay -hanoi\n    submitted by    /u/jackaaydang  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zw226i/going_to_vietnam_in_mid_february/",
+          "publishedOn": "2022-12-27T00:50:22.000Z",
+          "wordCount": 16268,
+          "title": "going to vietnam in mid February",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zw0amg/fave_places_to_eat_and_drink_in_hcm/",
+          "author": null,
+          "description": "In HCM from 27-31st! I do have a list of some spots but curious to know if anyone has a must-go place! Just 1 place that blew your mind and would make Anthony Bordain happy.\n    submitted by    /u/bugbiyte  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zw0amg/fave_places_to_eat_and_drink_in_hcm/",
+          "publishedOn": "2022-12-26T23:31:50.000Z",
+          "wordCount": 16256,
+          "title": "Fave places to eat and drink in HCM?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvz5za/a_beautiful_viewpoint_among_many_others_in_ha/",
+          "author": null,
+          "description": "submitted by    /u/richardfernando  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvz5za/a_beautiful_viewpoint_among_many_others_in_ha/",
+          "publishedOn": "2022-12-26T22:43:02.000Z",
+          "wordCount": 16204,
+          "title": "A beautiful viewpoint among many others in Ha Giang Loop bike trip",
+          "imageUrl": "https://external-preview.redd.it/QZrbAginhvzwQSf1Xng2ghcZqZoefodnzd5T7ojW5I8.jpg?auto=webp&s=81baf19950fdb76bf76c9876a87a951b1b2c6a94"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvyado/first_time_visiting_vietnam_3_vs_4_day_ha_giang/",
+          "author": null,
+          "description": "First time visiting Vietnam in March and we will be doing 10 days in the north and trying get some ideas for how we can plan the trip. We want to fit in Ha Giang/Sapa, Ninh Binh, Halong Bay, and Hanoi in but the issue is 10 days is a little tight.\n What do you guys think about the 4 day/3 night option vs 3 day/2 nights for Ha Giang Loop? Is it too rushed to do the 3 day option on QT's website? It allows us to fit Ninh Binh and Halong Bay in a bit easier but I'm a little worried that it'll be too rushed to enjoy the loop.\n The other option is to do Sapa instead of the Ha Giang loop which will definitely make the itinerary easier since I think you can definitely fit Sapa in 3 day/2 nights in very easily.\n Thoughts? Are there any other places you think I should consider and bump one of the options I listed out?\n    submitted by    /u/IevaFT  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvyado/first_time_visiting_vietnam_3_vs_4_day_ha_giang/",
+          "publishedOn": "2022-12-26T22:05:34.000Z",
+          "wordCount": 16629,
+          "title": "First time visiting Vietnam, 3 vs 4 day Ha Giang loop or Sapa?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvro43/hello_guys_please_fill_this_questionnaire_on/",
+          "author": null,
+          "description": "submitted by    /u/Frog-2021  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvro43/hello_guys_please_fill_this_questionnaire_on/",
+          "publishedOn": "2022-12-26T17:13:01.000Z",
+          "wordCount": 15082,
+          "title": "Hello guys. Please fill this questionnaire on Unconventional Professions. Have a nice day.",
+          "imageUrl": "https://external-preview.redd.it/fzDb9OOI4EG9xy478IBhus1fwcpu75fazmDlxc3jSXQ.jpg?auto=webp&s=81dd7e6ac5251eada45153488db409d487b00636"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvr18i/best_night_club_in_nha_trang/",
+          "author": null,
+          "description": "Hey I have 10 days in Vietnam and I d like to leave the hotel and start exploring the Night live, and that d be good if I could get there with public transportation\n    submitted by    /u/deniswerd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvr18i/best_night_club_in_nha_trang/",
+          "publishedOn": "2022-12-26T16:43:24.000Z",
+          "wordCount": 15239,
+          "title": "best night club in Nha Trang ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvqcut/msu_vietnam_group_archive/",
+          "author": null,
+          "description": "submitted by    /u/overflow_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvqcut/msu_vietnam_group_archive/",
+          "publishedOn": "2022-12-26T16:11:26.000Z",
+          "wordCount": 16705,
+          "title": "MSU Vietnam Group Archive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvq863/if_you_have_a_chase_account_in_us_can_you/",
+          "author": null,
+          "description": "I am a viet kieu and my cousin is currently in vietnam now. He has a chase account and was wondering if he could just go to a chase in vietnam (there is one apparently in hcm) and withdraw from his us account. Would they allow this and are theree fees?\n    submitted by    /u/spitfire9107  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvq863/if_you_have_a_chase_account_in_us_can_you/",
+          "publishedOn": "2022-12-26T16:05:26.000Z",
+          "wordCount": 16168,
+          "title": "If you have a chase account in us can you withdraw from chase in vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvp3tb/i_need_a_little_help_you_guys/",
+          "author": null,
+          "description": "What is vanilla powder? And how much would 2 tubes be in grams? I have vanilla coffee creamer, will that work?\n    submitted by    /u/gfa22  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvp3tb/i_need_a_little_help_you_guys/",
+          "publishedOn": "2022-12-26T15:11:25.000Z",
+          "wordCount": 16077,
+          "title": "I need a little help you guys...",
+          "imageUrl": "https://external-preview.redd.it/L3PYQX1plcgia45n8en-7Nrc1gErgLrNHXXzD9BG-DM.jpg?auto=webp&s=c7a7634e6817336c42d8db766dde8eab4cf29e4d"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvo553/sharks_ate_vietnams_undersea_internet_cable_again/",
+          "author": null,
+          "description": "Well, it's that time of the year again and Vietnamese Sharks are hungry hungry for some internet cable, so don't be suprised if your internet is slowwwwwwwwwwwwwwwwwwww.\n    submitted by    /u/GrapeJam-44-1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvo553/sharks_ate_vietnams_undersea_internet_cable_again/",
+          "publishedOn": "2022-12-26T14:22:58.000Z",
+          "wordCount": 15280,
+          "title": "\"Sharks\" ate Vietnam's undersea internet cable again.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvo2vs/flying_to_nha_trang_with_a_surfboard_via_vietnam/",
+          "author": null,
+          "description": "I'm planning to go on a surf trip in Nha Trang in January (coming from the Philippines) and I can't find any clear guidelines on whether or not Vietnam Airlines (or other airlines) will accept baggage as big as a 9ft surfboard. Has anyone tried this? if it's possible, how was your experience? thanks in advance!\n    submitted by    /u/Forsaken-Spirit2974  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvo2vs/flying_to_nha_trang_with_a_surfboard_via_vietnam/",
+          "publishedOn": "2022-12-26T14:19:43.000Z",
+          "wordCount": 16879,
+          "title": "Flying to Nha Trang with a surfboard via Vietnam Airlines - is it doable?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvmfii/shipping_from_hcmc_to_uk/",
+          "author": null,
+          "description": "Hey guys, my wife and I are finishing our journey through Vietnam and would like to load off some of the warmer clothes we had for north of the country. I’ve checked DHL and the price is pretty much the same as the price for a flight. What are our other, preferably cheaper, options of sending some of our stuff back home? \n Appreciate the help.\n    submitted by    /u/lastpagan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvmfii/shipping_from_hcmc_to_uk/",
+          "publishedOn": "2022-12-26T12:44:32.000Z",
+          "wordCount": 16585,
+          "title": "Shipping from HCMC to UK",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvli86/how_tf_you_supposed_to_properly_unwrap_this_thing/",
+          "author": null,
+          "description": "submitted by    /u/angel_of_the_city  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvli86/how_tf_you_supposed_to_properly_unwrap_this_thing/",
+          "publishedOn": "2022-12-26T11:42:30.000Z",
+          "wordCount": 16315,
+          "title": "How tf you supposed to properly unwrap this thing? Loving the taste but finding the plastic wrapping removal a tedium 😳",
+          "imageUrl": "https://preview.redd.it/ock725ktt98a1.jpg?auto=webp&s=cd15605e939dbe988d49308b0823efb8f35f799b"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvjypw/travelling_to_vietnam_first_time/",
+          "author": null,
+          "description": "is anyone travelling to hanoi and da nang between 10 jan to 20 jan\n    submitted by    /u/Far_Bobcat4039  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvjypw/travelling_to_vietnam_first_time/",
+          "publishedOn": "2022-12-26T09:54:54.000Z",
+          "wordCount": 15709,
+          "title": "travelling to Vietnam first time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvjure/can_someone_tell_me_what_kind_of_data_plans/",
+          "author": null,
+          "description": "thank youu\n    submitted by    /u/pizzavegano  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvjure/can_someone_tell_me_what_kind_of_data_plans/",
+          "publishedOn": "2022-12-26T09:46:48.000Z",
+          "wordCount": 15766,
+          "title": "Can someone tell me what kind of data plans Mobifone and vinaphone offer? Viettel has only 6GB/day. I need unlimited",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvj8i5/another_child_predator_caught_on_christmas_day_in/",
+          "author": null,
+          "description": "This time, an American tourist was caught trying to meet a minor on Christmas Day. Unfortunately, this was also his last day in Vietnam. More than likely nothing will happen to him as he has already gotten on his flight back to America, but the good news is we will be submitting the evidence to his local authorities in New York where he lives. 4 catches in 4 weeks. \n Be sure to check your children's phones to see who they may be chatting to. I will post the video tonight at 8pm (local time in Vietnam). \n Just like the other catches, this guy stays and tries to talk his way out of the crime he committed. It is illegal to lure a minor. It is illegal in Vietnam, the United States, and nearly every country around the world.\n    submitted by    /u/SaigonSterling  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvj8i5/another_child_predator_caught_on_christmas_day_in/",
+          "publishedOn": "2022-12-26T09:03:31.000Z",
+          "wordCount": 17400,
+          "title": "Another Child Predator Caught on Christmas Day in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvj7l9/just_crushed_this_bbh_in_da_nang_street_side/",
+          "author": null,
+          "description": "submitted by    /u/RonJohnsonStereo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvj7l9/just_crushed_this_bbh_in_da_nang_street_side/",
+          "publishedOn": "2022-12-26T09:01:49.000Z",
+          "wordCount": 15803,
+          "title": "Just crushed this bbh in Da Nang. Street side.",
+          "imageUrl": "https://preview.redd.it/2rvur0dz098a1.jpg?blur=40&format=pjpg&auto=webp&s=e2d7fee8b1cd0e1b88ca9f62f3a5a575fcb140c1"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvigjt/down_in_the_cu_chi_tunnels/",
+          "author": null,
+          "description": "submitted by    /u/grundlesquatch  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvigjt/down_in_the_cu_chi_tunnels/",
+          "publishedOn": "2022-12-26T08:10:36.000Z",
+          "wordCount": 15553,
+          "title": "Down in the Cu Chi Tunnels",
+          "imageUrl": "https://preview.redd.it/2cw00m90s88a1.jpg?auto=webp&s=88078658f76dc7a9f57aec54380129bb46605fc6"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvi1cy/b12_injection/",
+          "author": null,
+          "description": "Hello, My girlfriend is b12 deficient. Back in the uk she receives b12 injections every 12weeks and we are now 2 weeks away from that time. She has the b12 formula in capsule form from a uk dr that would need to be injected by someone here in Vietnam. My question is where would we go too get this done and how much would it roughly cost? Any help I’d appreciated thankyou\n    submitted by    /u/jakebrooker  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvi1cy/b12_injection/",
+          "publishedOn": "2022-12-26T07:42:55.000Z",
+          "wordCount": 17356,
+          "title": "B12 injection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zvf4v4/daily_broadcast_in_the_street/",
+          "author": null,
+          "description": "Does anyone know what the deal is with these speakers in the neighbourhood?\n I’m currently residing in Long Hai at my wife’s parents house. I’ve been coming here for a few years. The speaking normally starts around 5 am. My wife said it’s some kind of government news message.\n    submitted by    /u/Old_Elephant22  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zvf4v4/daily_broadcast_in_the_street/",
+          "publishedOn": "2022-12-26T04:37:51.000Z",
+          "wordCount": 16408,
+          "title": "Daily broadcast in the street",
+          "imageUrl": "https://preview.redd.it/jfx6wo82q78a1.jpg?auto=webp&s=1f93d3896f1fd4e5169244d9a9099dbe5ba99cdd"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zveeck/i_spent_2_weeks_in_hanoi_and_made_a_short_video_i/",
+          "author": null,
+          "description": "submitted by    /u/MadMarioMax  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zveeck/i_spent_2_weeks_in_hanoi_and_made_a_short_video_i/",
+          "publishedOn": "2022-12-26T03:53:49.000Z",
+          "wordCount": 17394,
+          "title": "I spent 2 weeks in Hanoi and made a short video. I loved it!",
+          "imageUrl": "https://external-preview.redd.it/px_tnTktC2spg32zfERpeJTPa2JbSopC6-1SEZjaE2k.jpg?auto=webp&s=c5f9ae829850ec56fe22956a9050bca60a301aa3"
+        },
+        {
           "id": "https://www.reddit.com/r/VietNam/comments/zvb6bl/best_banh_can_i_ever_had_from_nha_trang/",
           "author": null,
           "description": "submitted by    /u/GoldenMaus  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/VietNam/comments/zvb6bl/best_banh_can_i_ever_had_from_nha_trang/",
           "publishedOn": "2022-12-26T00:55:05.000Z",
-          "wordCount": 16087,
+          "wordCount": 15217,
           "title": "Best banh can I ever had. From Nha Trang",
           "imageUrl": null
         },
@@ -344,7 +564,7 @@
           "description": "submitted by    /u/Dear-Adhesiveness-27  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/VietNam/comments/zva9j7/the_my_lai_massacre_is_retold_by_only_survivor/",
           "publishedOn": "2022-12-26T00:06:39.000Z",
-          "wordCount": 16504,
+          "wordCount": 15805,
           "title": "The My Lai Massacre Is Retold By Only Survivor",
           "imageUrl": "https://external-preview.redd.it/Zfl7fldZo4Y4WWNBpr3Y42v3S3gor74iOT-0waiLfxE.png?format=pjpg&auto=webp&s=3af4723c74ff8f645853350de8aa4baf692339ba"
         },
@@ -354,18 +574,8 @@
           "description": "submitted by    /u/GodBlessHentai  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/VietNam/comments/zv93yw/vietnams_cursed_images_75/",
           "publishedOn": "2022-12-25T23:06:38.000Z",
-          "wordCount": 16055,
+          "wordCount": 16706,
           "title": "Vietnam's cursed images #75",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zv4hda/vi%E1%BB%85n_translated_to_english/",
-          "author": null,
-          "description": "Family is arguing over what it means, please help\n    submitted by    /u/ChrisHansen6969  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zv4hda/vi%E1%BB%85n_translated_to_english/",
-          "publishedOn": "2022-12-25T19:14:59.000Z",
-          "wordCount": 15569,
-          "title": "Viễn translated to English?",
           "imageUrl": null
         },
         {
@@ -374,149 +584,9 @@
           "description": "submitted by    /u/soloazn  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/VietNam/comments/zv4574/ph%E1%BB%9F_%C4%91u%C3%B4i_b%C3%B2_c%E1%BB%A7a_ng%C6%B0%E1%BB%9Di_hu%E1%BA%BF_l%C3%A0m/",
           "publishedOn": "2022-12-25T18:58:13.000Z",
-          "wordCount": 15375,
+          "wordCount": 16087,
           "title": "Phở Đuôi Bò của người Huế làm",
           "imageUrl": "https://preview.redd.it/2gfyzkanu48a1.png?auto=webp&s=008d1a4d125238d619be65061f7f428439900017"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zv1nyz/surf_fishing_at_cam_binh_beach_lagi/",
-          "author": null,
-          "description": "Angler say that surf fishing is fishing when they are close to the shore. When the fish bites the bait, the rod will straighten, and this is the time to pull them up.\n    submitted by    /u/NDTK_08  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zv1nyz/surf_fishing_at_cam_binh_beach_lagi/",
-          "publishedOn": "2022-12-25T16:51:15.000Z",
-          "wordCount": 16857,
-          "title": "Surf fishing at Cam Binh beach, Lagi.",
-          "imageUrl": "https://preview.redd.it/zab0lyoz748a1.jpg?auto=webp&s=b13eedf6a20b8bc9d88505049222136fb38fda06"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zuusd7/ohh_boy_the_ai_is_stupid/",
-          "author": null,
-          "description": "submitted by    /u/MassiveIndependence8  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zuusd7/ohh_boy_the_ai_is_stupid/",
-          "publishedOn": "2022-12-25T09:26:30.000Z",
-          "wordCount": 17423,
-          "title": "Ohh boy... The AI is stupid 😂",
-          "imageUrl": "https://preview.redd.it/6y8hd4as7z7a1.png?auto=webp&s=cf069414b1fcd97181cb57080b034bffa6e69346"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zusvsi/et_phone_home_but_how/",
-          "author": null,
-          "description": "Hello!\n Just had some issues with my credit cards. Still not sure what the problem was. Maybe I selected the wrong account (default/saving/credit) or too high amount - I don't know. But if I wouldn't have trial-and-error'ed my way through I'd have had to call my bank in Germany.\n Now I do have a Vinaphone SIM but of course not enough money to make that call. And if I had - neither would I know if sufficient for the call nor if that would be smart anyway.\n So, my question is - what would be the cheapest and easiest way to do that. Especially spontaneously when such a situation arises???\n Thanks\n    submitted by    /u/Fine-Technician-8752  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zusvsi/et_phone_home_but_how/",
-          "publishedOn": "2022-12-25T07:05:29.000Z",
-          "wordCount": 16545,
-          "title": "ET phone home ... but how?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zuslff/typo_on_my_last_name_in_a_vietjet_ticket_what_can/",
-          "author": null,
-          "description": "Hi there so I have a flight from HCMC to DANANG and i did the mistake of writting my last name wrong.\n does anyone knows if I can just go to the airport and ask them to change it, their phone number is not working\n    submitted by    /u/Bigtorigate  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zuslff/typo_on_my_last_name_in_a_vietjet_ticket_what_can/",
-          "publishedOn": "2022-12-25T06:45:09.000Z",
-          "wordCount": 15683,
-          "title": "Typo on my last name in a Vietjet ticket, what can I do",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zusjau/can_someone_shed_light_on_the_reasons_ha_long_bay/",
-          "author": null,
-          "description": "submitted by    /u/somemish  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zusjau/can_someone_shed_light_on_the_reasons_ha_long_bay/",
-          "publishedOn": "2022-12-25T06:40:57.000Z",
-          "wordCount": 16729,
-          "title": "can someone shed light on the reasons Ha long bay city is a ghost town?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zurli2/where_can_i_buy_a_good_gaming_cpu_in_hcmc/",
-          "author": null,
-          "description": "Any electronic store or websites have good cpus for sale? Any info would help\n    submitted by    /u/ndzzz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zurli2/where_can_i_buy_a_good_gaming_cpu_in_hcmc/",
-          "publishedOn": "2022-12-25T05:36:52.000Z",
-          "wordCount": 16492,
-          "title": "Where can I buy a good gaming cpu in hcmc?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zuquuo/can_someone_recommend_me_a_phone_shop_in_saigon/",
-          "author": null,
-          "description": "Hi storage was not enough so I bought a new one\n Can someone here recommend me a shop where I can sell my old iphone 11 pro max 256gb? \n i tried fb groups and fb marketplace, but no success\n    submitted by    /u/pizzavegano  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zuquuo/can_someone_recommend_me_a_phone_shop_in_saigon/",
-          "publishedOn": "2022-12-25T04:49:15.000Z",
-          "wordCount": 15905,
-          "title": "Can someone recommend me a phone shop in Saigon where I can sell my old iPhone?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zuq9lk/snorkeling_in_phu_quoc_island/",
-          "author": null,
-          "description": "Where in Phu Quoc best for seeing colourful coral and fish by snorkeling (not diving)? Or is it mainly the cactus coral pretty much everywhere?\n    submitted by    /u/kurumbas  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zuq9lk/snorkeling_in_phu_quoc_island/",
-          "publishedOn": "2022-12-25T04:11:13.000Z",
-          "wordCount": 16531,
-          "title": "Snorkeling in Phu Quoc island ?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zuq4j0/where_to_buy_coffee_beans_in_phu_quoc/",
-          "author": null,
-          "description": "Hi everyone!\n I’ve been looking to buy coffee beans to take back home to the UK with me. I’m having trouble finding places that sell them, a lot of the places listed on Google, seem to be closed down now. Anyone able to help?\n    submitted by    /u/Cautious_Guarantee24  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zuq4j0/where_to_buy_coffee_beans_in_phu_quoc/",
-          "publishedOn": "2022-12-25T04:02:12.000Z",
-          "wordCount": 15426,
-          "title": "Where to buy coffee beans in Phu Quoc?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zuphq5/vinfast_vf9_prices_increase_again_83k/",
-          "author": null,
-          "description": "submitted by    /u/MussleGeeYem  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zuphq5/vinfast_vf9_prices_increase_again_83k/",
-          "publishedOn": "2022-12-25T03:21:51.000Z",
-          "wordCount": 18277,
-          "title": "Vinfast VF9 Prices Increase ... Again ($83k)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zuonw0/how_is_your_christmas_going_every_one/",
-          "author": null,
-          "description": "submitted by    /u/CyberWayet  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zuonw0/how_is_your_christmas_going_every_one/",
-          "publishedOn": "2022-12-25T02:30:10.000Z",
-          "wordCount": 14992,
-          "title": "How is your Christmas going every one?",
-          "imageUrl": "https://external-preview.redd.it/RRIwKOQccWipmvjQ1YvzL969BvGayUzHItrTDi0fwC0.png?format=pjpg&auto=webp&s=590cd49c5fbba6226f630b12f97b500dbf4518d5"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zuojzd/things_disappearing/",
-          "author": null,
-          "description": "Hi everyone,\n I am in a sabbatical traveling around Asia and have been spending some months in HCMC now.\n I'm staying in a serviced apartment in Ben Nghe with cleaning, laundry etc.\n Thing is lately I discovered something has disappeared in my apartment (my trimmer), I checked the whole place but just couldn't find it.\n Nobody has been staying in the apartment except me (and hotel staff of course). I texted to the owner yesterday and waiting for an answer.\n Anybody has been dealing with this kind of things and would have an advice?\n Thank you all\n    submitted by    /u/Abject-Razzmatazz182  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zuojzd/things_disappearing/",
-          "publishedOn": "2022-12-25T02:23:04.000Z",
-          "wordCount": 16799,
-          "title": "Things disappearing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zuo3a2/what_is_this_leaf_can_someone_identify_came_in_a/",
-          "author": null,
-          "description": "submitted by    /u/notreallyprincess  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zuo3a2/what_is_this_leaf_can_someone_identify_came_in_a/",
-          "publishedOn": "2022-12-25T01:54:40.000Z",
-          "wordCount": 15455,
-          "title": "What is this leaf? Can someone identify? Came in a salad at a Vietnamese restaurant. The leaf was very hard/firm, and tasted like lemon/limes.",
-          "imageUrl": "https://preview.redd.it/v1w6pnkddx7a1.jpg?auto=webp&s=20a4f22490b4b3fb8c752de9aace7c170a3b676e"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zunm70/ha_giang_experience/",
-          "author": null,
-          "description": "We just finished doing the 3D ha giang loop. Honestly one of the best experiences i had in vietnam and maybe in my life!\n First of we took a bus from Hanoi to Ha Giang city. We missed our first ride due to realizing to late we didnt get picked up at the hotel eventhough this was what we booked. We managed to change our bus for later that evening but got a downgrade to a normal sleeper bus. The company we traveled with was Good morning Cat Ba. Despite being able to switch to a later bus the service was pretty bad. The driver laughed and shouted in my face when i asked if anyone at the office spoke English. They told us to be at the bus station at 20:30 and we left at 22:00 without anyone telling anything about delay or what so ever. But in the we got there at 4:00. Luckily the hostel was open (Hong Hao) and the staff was very friendly. Everything looked new and clean and so were the bikes. Would recommend sleeping here. Also they offered a VIP bus back to Hanoi that was €2 more expensive than the sleeper bus. Needles to say i highly recommend this aswel. \n We rented a honda xr150 at the hostel and honestly i wouldn’t drive a scooter or anything without gears there. A good suspension will make your back very happy in the end. My gf and I were both on the same bike with a duffelbag strapped to the back of the bike. \n We are both not as fast in the mornings and therefore we left 10 or 11 and had to drive in the dark for 2 nights (for about 1.5hours). We did this in December and at night it got pretty cold. So if u want to stop and take fotos or videos start your day a bit earlier. Temperature got down to about 10 degrees so if you go around this time of year bring some warm clothes. Hanoi sells a lot of the north fake jackets that are still warm!\n It was an amazing experience and i would recommend this to anyone wanting a bit of an adventure or see some amazing nature in vietnam. If you drive it I would highly recommend doing it on a dirtbike!\n    submitted by    /u/IamYorrickK  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zunm70/ha_giang_experience/",
-          "publishedOn": "2022-12-25T01:25:36.000Z",
-          "wordCount": 16831,
-          "title": "Ha giang experience",
-          "imageUrl": "https://preview.redd.it/r6wza7rumz7a1.jpg?auto=webp&s=4dc10b9c93c9271a91dc871b98348408f7fe6101"
         },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/zun30p/eps_8_9_ph%C3%BA_y%C3%AAn_and_qu%E1%BA%A3ng_ninh/",
@@ -6267,176 +6337,6 @@
           "wordCount": 14843,
           "title": "Eps 6: Ninh Thuận",
           "imageUrl": "https://preview.redd.it/79ohugowaj2a1.png?auto=webp&s=f7c25a8a0eea9fae76a31a126ec101dc6098e615"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z5xsgj/hi_im_producer_from_singapore_this_is_my_recent/",
-          "author": null,
-          "description": "submitted by    /u/CloudDevelic  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z5xsgj/hi_im_producer_from_singapore_this_is_my_recent/",
-          "publishedOn": "2022-11-27T10:21:28.000Z",
-          "wordCount": 19518,
-          "title": "Hi I'm Producer from Singapore, this is my recent attempt at making Vinahouse. Did I understand the Genre enough?",
-          "imageUrl": "https://external-preview.redd.it/oowoB-zhQxmFYfVRXz0vQ0OUScYQUOeRNDsEbrpFXnY.png?format=pjpg&auto=webp&s=501374f17a9afe0cd035a2aec58d0899c1049706"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z5whhh/best_alternatives_to_amazon/",
-          "author": null,
-          "description": "Hi,\n What are best alternatives to Amazon in Vietnam? I've heard of Lazada and Shopee but not used either.\n I have a couple items I need such as a 3D printer and fish pond filter that are hard to find in shops\n Thanks\n    submitted by    /u/MisoSoup6  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z5whhh/best_alternatives_to_amazon/",
-          "publishedOn": "2022-11-27T09:08:26.000Z",
-          "wordCount": 15448,
-          "title": "best alternatives to Amazon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z5w878/what_to_say_to_someone_who_just_lost_a_close/",
-          "author": null,
-          "description": "Hi, I’m dating a Vietnamese girl and her grandfather just passed away. He has been ill for some time and doctors have even said he didn’t have much time, so it’s not really a surprise. Still, it’s obviously quite devastating to her and I’m trying to help her out somehow.\n I’m looking for ways to comfort and/or help her somehow. Maybe there’s something Vietnamese I can say. Any help would be appreciated.\n    submitted by    /u/PhilosopherKnown1203  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z5w878/what_to_say_to_someone_who_just_lost_a_close/",
-          "publishedOn": "2022-11-27T08:53:26.000Z",
-          "wordCount": 15222,
-          "title": "What to say to someone who just lost a close relative?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z5uwuh/scb_mlm_scheme/",
-          "author": null,
-          "description": "submitted by    /u/HelpWanted79  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z5uwuh/scb_mlm_scheme/",
-          "publishedOn": "2022-11-27T07:33:24.000Z",
-          "wordCount": 14807,
-          "title": "SCB MLM SCHEME",
-          "imageUrl": "https://external-preview.redd.it/7b4HacH4lvV0p4KP38YRUmK9a2AXSK-LBu8AI-aFV3I.jpg?auto=webp&s=1343d2e3f8b773eb3d0253c0000d58d69de65ac6"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z5rg5w/is_mandarin_or_cantonese_most_spoken_in_saigon/",
-          "author": null,
-          "description": "Do the Chinese people in Saigon mainly speak Mandarin or Cantonese? \n I’m looking for a new language to learn and it would be great to interact with them.\n Also, besides Vietnamese and English, is Chinese the next most spoken in Saigon? Or is there a different language I should learn instead of Mandarin/Cantonese?\n Thanks I’m advance!\n    submitted by    /u/GetSwole420  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z5rg5w/is_mandarin_or_cantonese_most_spoken_in_saigon/",
-          "publishedOn": "2022-11-27T04:24:36.000Z",
-          "wordCount": 15801,
-          "title": "Is Mandarin or Cantonese most spoken in Saigon?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z5rfqf/eps_5_%C4%91%E1%BB%93ng_th%C3%A1p/",
-          "author": null,
-          "description": "submitted by    /u/Baosia  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z5rfqf/eps_5_%C4%91%E1%BB%93ng_th%C3%A1p/",
-          "publishedOn": "2022-11-27T04:24:01.000Z",
-          "wordCount": 15127,
-          "title": "Eps 5: Đồng Tháp",
-          "imageUrl": "https://preview.redd.it/4gc4qop5pg2a1.png?auto=webp&s=78df7a78772004a048d0900619c5acf7e92f39bf"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z5nlls/what_was_your_favorite_childhood_tv_show/",
-          "author": null,
-          "description": "submitted by    /u/Matthew__19  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z5nlls/what_was_your_favorite_childhood_tv_show/",
-          "publishedOn": "2022-11-27T01:16:09.000Z",
-          "wordCount": 16639,
-          "title": "What was your favorite childhood TV show ? 📺",
-          "imageUrl": "https://preview.redd.it/bdglnnqmrf2a1.jpg?auto=webp&s=57b2268f5e9826002227b178ce7f01a118bfb496"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z5jdc5/ha_giang_motorbike_rental_deposit/",
-          "author": null,
-          "description": "My (VN) wife and I (67yo American) will spend two days in Ha Giang soon. We want to rent a motorbike for two days to drive around, but not do the full loop. We live in Vietnam. I normally drive an electric motorbike and don't have a motorbike license. I have a TRC. I've learned that one of the leading motorbike rental shops (QT Motorbikes) will rent a motorbike to me, but they require that I leave my passport with them. I don't like doing that. (Also, I might need my passport at a hotel or if the police stop us.) I'm looking for recommendations for a motorbike rental in Ha Giang that will rent a semi-automatic bike to me for two days without requiring my passport as a deposit. Thanks\n Edit: Would welcome hotel recommendations in Ha Giang and places to see within a few hours' motorbike ride, too.\n    submitted by    /u/RanyDaze2  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z5jdc5/ha_giang_motorbike_rental_deposit/",
-          "publishedOn": "2022-11-26T22:05:50.000Z",
-          "wordCount": 15063,
-          "title": "Ha Giang motorbike rental deposit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z5hjgt/visiting_vietnam_next_year_may_university_trip/",
-          "author": null,
-          "description": "Hey! I'm from England, I'm 19. \n My university has offered a trip to Vietnam for a month because our university collaborates with a university (BUV) in Vietnam, Hanoi and I need to do some volunteering work and such.\n Expenses such as Flights and accommodation are covered which is nice and is why I took the offer. I have never been outside of Europe and have no real idea what to expect. \n I'm eager to have this new experience and see a completely different culture and hopefully meet some nice people :)\n What should I expect? And any tips?\n Thank you :)\n    submitted by    /u/Catzario  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z5hjgt/visiting_vietnam_next_year_may_university_trip/",
-          "publishedOn": "2022-11-26T20:48:28.000Z",
-          "wordCount": 15222,
-          "title": "Visiting Vietnam next year May (University trip)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z5cbgl/i_kinda_wish_hanoi_was_building_this_saigoneercom/",
-          "author": null,
-          "description": "submitted by    /u/imaginenotbeing_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z5cbgl/i_kinda_wish_hanoi_was_building_this_saigoneercom/",
-          "publishedOn": "2022-11-26T17:03:47.000Z",
-          "wordCount": 14868,
-          "title": "I kinda wish Hanoi was building this: (saigoneer.com)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z5boac/im_visiting_vietnam_and_since_the_cabs_are_so/",
-          "author": null,
-          "description": "submitted by    /u/Rassadeck  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z5boac/im_visiting_vietnam_and_since_the_cabs_are_so/",
-          "publishedOn": "2022-11-26T16:36:21.000Z",
-          "wordCount": 17638,
-          "title": "I’m visiting Vietnam and since the cabs are so expensive and I’m concerned about getting cheated, I wanted to know about the public transportation system. I’ll be visiting Hanoi, Da Nang and Ho Chi Minh. So please give me any tips and advice for the same. Thankyou",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z5b68m/t%C3%B4i_c%E1%BA%A7n_3tr5_t%E1%BB%91i_nay_mai_tr%E1%BA%A3_%C4%91%C3%B3ng_ti%E1%BB%81n_nh%C3%A0_uy_t%C3%ADn/",
-          "author": null,
-          "description": "submitted by    /u/viay7274  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z5b68m/t%C3%B4i_c%E1%BA%A7n_3tr5_t%E1%BB%91i_nay_mai_tr%E1%BA%A3_%C4%91%C3%B3ng_ti%E1%BB%81n_nh%C3%A0_uy_t%C3%ADn/",
-          "publishedOn": "2022-11-26T16:14:37.000Z",
-          "wordCount": 14828,
-          "title": "tôi cần 3tr5 tối nay, mai trả đóng tiền nhà uy tín",
-          "imageUrl": "https://preview.redd.it/u4s8iszhlb2a1.jpg?auto=webp&s=cd40597429b99fad5e6639a61d2583fb45b2e498"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z5acl0/reasons_for_vietnams_bad_education/",
-          "author": null,
-          "description": "Hey guys!\n I'm doing an essay on reasons for Vietnam's bad education or sociology (esp. higher education) can you guys help list numbers of reasons as to why this has happened?\n Found this discussion: https://www.reddit.com/r/VietNam/comments/xezgk1/whats_your_opinion_on_vietnams_education_system/\n but would love to hear from y'all.\n    submitted by    /u/Similar-Huckleberry9  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z5acl0/reasons_for_vietnams_bad_education/",
-          "publishedOn": "2022-11-26T15:38:41.000Z",
-          "wordCount": 17019,
-          "title": "Reasons For Vietnam's Bad Education",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z59zjs/rock_climbing_equipment_stores_in_hanoi/",
-          "author": null,
-          "description": "Does anyone know where to find a store that sells rock climbing equipment in Hanoi? I'm hoping to buy shoes from brands like La Sportiva/ Madrock, thanks in advance\n    submitted by    /u/thediudiao  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z59zjs/rock_climbing_equipment_stores_in_hanoi/",
-          "publishedOn": "2022-11-26T15:22:27.000Z",
-          "wordCount": 15034,
-          "title": "Rock climbing equipment stores in Hanoi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z58pn7/looking_for_the_must_things_to_do_in_dalat_have/",
-          "author": null,
-          "description": "submitted by    /u/maxmax86  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z58pn7/looking_for_the_must_things_to_do_in_dalat_have/",
-          "publishedOn": "2022-11-26T14:23:41.000Z",
-          "wordCount": 15442,
-          "title": "Looking for the must things to do in Dalat. Have 2-3 days tia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z58e6r/should_i_travel_to_saigon_during_the_week_of_t%E1%BA%BFt/",
-          "author": null,
-          "description": "My wife and I have tickets to be in Saigon from January 23 to February 1. Since that week is Tết, we heard it may be a bad time to go because a majority of the city will be closed due to the Holiday week ( similar to the US and Christmas Day).\n Does anyone know for sure what it’s like during the week of Tết? My wife and I were just hoping to enjoy some of the local scene such as (and especially) eating at all the street foods, local markets, some sight seeing, etc.\n Thank you!\n    submitted by    /u/socalcaptain  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z58e6r/should_i_travel_to_saigon_during_the_week_of_t%E1%BA%BFt/",
-          "publishedOn": "2022-11-26T14:08:43.000Z",
-          "wordCount": 15299,
-          "title": "Should I Travel to Saigon During The Week of Tết?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z5737i/next_level_of_satire_n%E1%BB%9D_%C3%B4_n%C3%B4_is_a_little_piece_of/",
-          "author": null,
-          "description": "submitted by    /u/Cheap_District_9762  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z5737i/next_level_of_satire_n%E1%BB%9D_%C3%B4_n%C3%B4_is_a_little_piece_of/",
-          "publishedOn": "2022-11-26T13:03:56.000Z",
-          "wordCount": 14842,
-          "title": "Next level of satire. Nờ Ô Nô is a little piece of shit.",
-          "imageUrl": "https://preview.redd.it/2pz6c7905c2a1.jpg?auto=webp&s=43b9c8ac88a046d11f7cf01afbb30784176659cd"
         }
       ]
     },
