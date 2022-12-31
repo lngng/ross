@@ -12,6 +12,36 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F3E6468.HighWindWarning.12662FFD17C0CA.LOXNPWLOX.720c21059c237b8e13d4b2bc534578c3",
+          "author": null,
+          "description": "...HIGH WIND WARNING IN EFFECT FROM 10 AM SATURDAY TO MIDNIGHT PST SATURDAY NIGHT... * WHAT...Southwest winds 25 to 35 mph with gusts up to 60 mph expected. * WHERE...Los Angeles County Mountains and Antelope Valley. Strongest in the foothills and mountains.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F3E6468.HighWindWarning.12662FFD17C0CA.LOXNPWLOX.720c21059c237b8e13d4b2bc534578c3",
+          "publishedOn": "2022-12-30T21:22:00.000Z",
+          "wordCount": 191,
+          "title": "High Wind Warning issued December 30 at 1:22PM PST until January 01 at 12:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F3E5EF0.FlashFloodWatch.12662FFD17C0CA.LOXFFALOX.8b863e4a249a4b62959d1c6a60d01aff",
+          "author": null,
+          "description": "...FLASH FLOOD WATCH FOR THE FISH AND LAKE BURN SCARS IN EFFECT FROM SATURDAY AFTERNOON THROUGH SATURDAY EVENING... * WHAT...Flash flooding and debris flows caused by excessive rainfall are possible over the Fish and Lake Burn Scars. * WHERE...The recent burn areas in Los Angeles County, including the Fish Fire and the Lake Fire.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F3E5EF0.FlashFloodWatch.12662FFD17C0CA.LOXFFALOX.8b863e4a249a4b62959d1c6a60d01aff",
+          "publishedOn": "2022-12-30T21:08:00.000Z",
+          "wordCount": 287,
+          "title": "Flash Flood Watch issued December 30 at 1:08PM PST until January 01 at 12:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F3E5E28.HighSurfAdvisory.1266300E2EC0CA.LOXCFWLOX.4928f713f457efae90b4d74172851e72",
+          "author": null,
+          "description": "...HIGH SURF ADVISORY IN EFFECT FROM 10 PM SATURDAY TO NOON PST MONDAY... * WHAT...Large breaking waves of 6 to 9 feet with dangerous rip currents. Local sets to 10 feet are possible near Ventura Harbor and other west-facing beaches. * WHERE...Ventura County Beaches, Malibu Coast and Los Angeles",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F3E5E28.HighSurfAdvisory.1266300E2EC0CA.LOXCFWLOX.4928f713f457efae90b4d74172851e72",
+          "publishedOn": "2022-12-30T21:06:00.000Z",
+          "wordCount": 210,
+          "title": "High Surf Advisory issued December 30 at 1:06PM PST until January 02 at 12:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F1F6220.HighSurfAdvisory.12641F2D92F0CA.LOXCFWLOX.897e4d5ebce5764e1a7b6082c3200290",
           "author": null,
           "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 3 AM PST THURSDAY... * WHAT...Large breaking waves of 5 to 8 feet with dangerous rip currents. * WHERE...Los Angeles and Ventura County Beaches. Highest surf on west facing beaches. * WHEN...Until 3 AM PST Thursday.",
@@ -320,16 +350,6 @@
           "wordCount": 277,
           "title": "Flash Flood Watch issued December 09 at 1:04PM PST until December 11 at 6:00PM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
-          "author": null,
-          "description": "",
-          "link": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
-          "publishedOn": "2022-12-01T01:12:04.000Z",
-          "wordCount": 35,
-          "title": "There are no active watches, warnings or advisories",
-          "imageUrl": null
         }
       ]
     },
@@ -338,6 +358,236 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zze89f/vietnamese_citizenship_vs_passport/",
+          "author": null,
+          "description": "Hey friends, I’ve been interested in getting a Vietnamese passport or dual citizenship. What is the difference between the two? Can you get one without the other? I was born in VN and have my birth certificate but did not have a passport as I entered USA under my parents passport (5 years old).\n What do I need to do to get dual citizenship. Keep in mind that I would not be able to obtain any documents pertaining my parents as they do not want me to get dual citizenship. I have family in VN also.\n    submitted by    /u/RatePopular4004  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zze89f/vietnamese_citizenship_vs_passport/",
+          "publishedOn": "2022-12-30T22:58:33.000Z",
+          "wordCount": 17176,
+          "title": "Vietnamese citizenship vs passport",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zze7bb/do_people_actually_think_france_shouldve_stayed/",
+          "author": null,
+          "description": "My friend in Vietnam always compares Ho Chi Minh to the Taliban. He just doesn't shut up about it. I thought this was somewhat absurd and I stated matter-of-factly that Ho Chi Minh booted France out of Vietnam but he acted like that was a bad thing. His uncle fought with US soldiers and they were exiled to Singapore. He's basically grown up in Vietnam though but he's trying very hard to come to America.\n    submitted by    /u/DiskTime4689  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zze7bb/do_people_actually_think_france_shouldve_stayed/",
+          "publishedOn": "2022-12-30T22:57:32.000Z",
+          "wordCount": 18959,
+          "title": "Do people actually think France should've stayed in power?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zze3fr/is_my_friend_vietnamese_or_prejudice/",
+          "author": null,
+          "description": "I (21F) have a Vietnamese friend (20) we'll call F.\n We've been close friends for nearly five years. They've taught me a lot about antisemitism (they're half jewish) and about Vietnamese culture.\n Recently, we've been getting into some arguments about their behavior and general attitude toward our friendship. I try to be as openminded and a good listening ear but I'm not sure how to pick out what is and isn't \"okay\" for them to say. (For clarity, I'm autistic and I cannot for the life of me discern some things as excuses and others as real reasons. I err on the side of caution and take everything as a reason but recently I've had a gut feeling about that being the wrong approach.)\n Some things we've gotten into recent tiffs/disagreements about have been:\n  \nThem using the jewish k-slur eve…",
+          "link": "https://www.reddit.com/r/VietNam/comments/zze3fr/is_my_friend_vietnamese_or_prejudice/",
+          "publishedOn": "2022-12-30T22:53:00.000Z",
+          "wordCount": 16819,
+          "title": "Is my friend Vietnamese or prejudice?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzd39k/your_thought/",
+          "author": null,
+          "description": "Hi , I’m a Vietnamese , kinda outdoor guy , i travel alot sea fishing / camping . Everywhere i goes , even up in the moutain , trash by human are every where , those peoples go camping just pack their gear and leave trash there . \n When ever i go sea fishing , the whole fisherman village is fully of trash , there is no trash bin , i tried to find one every time , but they said they dont have it , they said the sea is enless , so they dump everything in the sea . Year and year + \n U can ask random high school kids here , no one care about the gobal warming , no one care the forest being chop down everyday for hotel / resort ( look at dà lạt / phú quốc 4 year ago , now - trash everywhere . ) . No one care about protect the nature & animal eviroment . I mean wtf they learn at school ? It 2023 already and people still throw beer can on the street\n People celebrate new year , make sure u guy check the aftermatch in the working street. It alway a huge trash behind . \n How u guy feel about this problem . What can i do for people to know the important of that ? I feel like im just a drop of water in the ocean . We need big change ?\n    submitted by    /u/Hoshitattoomachines  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzd39k/your_thought/",
+          "publishedOn": "2022-12-30T22:10:34.000Z",
+          "wordCount": 17369,
+          "title": "Your thought",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzcuq5/tourists_and_locals/",
+          "author": null,
+          "description": "Hey forum! As some of you may already know, I’ll be travelling to Thailand in a couple months. My planned route will take me up north from Hanoi, more specifically NW,N&NE. I’m staying away from the “tourist cities”, so I’m aware that a vast majority of interactions will be with locals. Apart from good manners and common sense, is there anything else I should know to stay polite and respectful to the locals? Perhaps a couple phrases in Vietnamese etc etc.\n    submitted by    /u/leodunz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzcuq5/tourists_and_locals/",
+          "publishedOn": "2022-12-30T22:00:58.000Z",
+          "wordCount": 16722,
+          "title": "Tourists and locals?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zza2ad/traditional_wedding_ceremonies_and_how_they_might/",
+          "author": null,
+          "description": "Hi everyone! \n I am currently working on a fiction novel series in which two of my main characters are in a queer relationship and one of them comes from a very traditional Vietnamese home. (His mother is Vietnamese.) I do plan on them getting married later in the series, and I have some general questions about how some of their traditional wedding practices may differ based on them being both males. I've tried doing some research on it, but I can't find much about queer couples specifically. (Note, these characters do live in America, however my MC would like to incorporate his mother's traditions into the wedding.)\n For reference, my MC (main character) is Vietnamese and his LI (love interest) is white.\n  \nIn a queer couple (mXm) who would be considered the ‘groom’ and who would be consi…",
+          "link": "https://www.reddit.com/r/VietNam/comments/zza2ad/traditional_wedding_ceremonies_and_how_they_might/",
+          "publishedOn": "2022-12-30T20:06:09.000Z",
+          "wordCount": 16618,
+          "title": "Traditional Wedding Ceremonies and how they might change for queer couples...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zz9nis/hasalo_hasalili_what_does_it_mean/",
+          "author": null,
+          "description": "Hello!\n My friend is an ESL teacher and he's annoyed about kids at his workplace screaming the following\n \"HASALO HASALILI!!!!\" and we been trying for a hot minute about what it means!\n Can some please inform us about this saying / joke!\n Thank you very much. \n btw, he teaches in Hanoi, and the kids are also fimiliar to John Cenas \"Bing Chiling\" & \"Loganma\" if that is to any help! \n best regareds : (reddit user) Ishowernaked420\n    submitted by    /u/Ishowernaked420  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zz9nis/hasalo_hasalili_what_does_it_mean/",
+          "publishedOn": "2022-12-30T19:49:33.000Z",
+          "wordCount": 18191,
+          "title": "Hasalo Hasalili? What does it mean!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zz8rt2/c%C3%B3_c%C3%BA_%C4%91%C3%AAm_n%C3%A0o_kh%C3%B4ng_ra_kh%E1%BB%8Fi_t%E1%BB%95_n%C3%B3i_chuy%E1%BB%87n_v%E1%BB%9Bi_t%C3%B4i/",
+          "author": null,
+          "description": "Cú đêm nặng, cần người tâm sự cho đỡ chán\n    submitted by    /u/Crabby138  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zz8rt2/c%C3%B3_c%C3%BA_%C4%91%C3%AAm_n%C3%A0o_kh%C3%B4ng_ra_kh%E1%BB%8Fi_t%E1%BB%95_n%C3%B3i_chuy%E1%BB%87n_v%E1%BB%9Bi_t%C3%B4i/",
+          "publishedOn": "2022-12-30T19:13:44.000Z",
+          "wordCount": 16785,
+          "title": "Có cú đêm nào không ra khỏi tổ nói chuyện với tôi đi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zz6d5j/i_just_purchased_this_at_an_auction_would_like/",
+          "author": null,
+          "description": "submitted by    /u/Spaced_Quest  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zz6d5j/i_just_purchased_this_at_an_auction_would_like/",
+          "publishedOn": "2022-12-30T17:35:46.000Z",
+          "wordCount": 16052,
+          "title": "I just purchased this at an auction. would like info (not interested in its worth, just history)",
+          "imageUrl": "https://preview.redd.it/hp5cmycf449a1.jpg?auto=webp&s=4cfa4abf8a7968942e694db3a836ef77a51f8e6e"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zz5uyb/recommendations_for_womens_loungewear_retail_shops/",
+          "author": null,
+          "description": "Hello! \n I will be visiting Ho Chi Minh, Vietnam this upcoming Fall and was wondering if there are any local fashion brands that I should check out? I heard that it is not worth shopping for global brands so I am more interested in shopping locally. \n The style I am looking for is casual loungewear/active wear, but looking for thick/plush materials that would not pill, fade, and is soft. I typically avoid any loud patterns or colors and enjoy more neutrals. Brands that I think of as an example of the style I am going for is PANGAIA, Gymshark, Alphalete, etc.\n Thank you!\n    submitted by    /u/BeneficialMastodon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zz5uyb/recommendations_for_womens_loungewear_retail_shops/",
+          "publishedOn": "2022-12-30T17:15:50.000Z",
+          "wordCount": 16875,
+          "title": "Recommendations for Women’s Loungewear Retail Shops?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zz59r3/seafood_in_da_nang/",
+          "author": null,
+          "description": "Hello,\n I’m looking for recommendations for delicious seafood restaurants in Da nang. \n Would love to try new seafood too let me know what dishes I should try! Is the water bug good??\n Thanks!\n    submitted by    /u/Own_Candle  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zz59r3/seafood_in_da_nang/",
+          "publishedOn": "2022-12-30T16:51:41.000Z",
+          "wordCount": 16629,
+          "title": "Seafood in Da Nang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zz34vx/animal_abuse_near_my_home/",
+          "author": null,
+          "description": "Just now, roughly 5-10 minutes before this post was created, I heard my neighbor doing what sounds like physically abusing and beating a dog. From what I can hear him yell, he broken something of the dog and did something to the dogs teeth, possibly causing it to severely bleed. The dog was wimping and crying very loudly as I can hear my neighbor with his wife and children messing up the dog. I live basically next door with the window right above his house. I need to know if there is any practical way of reporting him for \"Animal Abuse\". There has to be some way to make him stop as I very much cannot stand the situation.\n Due to obstruction, the videos I have do not contain any images, but the auditory evidence is very clear.\n I live in Phu Quoc, if that affects anything.\n Please give advices, I am only a highschooler and most other members in my family seems like they won't do much.\n    submitted by    /u/Laisodan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zz34vx/animal_abuse_near_my_home/",
+          "publishedOn": "2022-12-30T15:25:17.000Z",
+          "wordCount": 16610,
+          "title": "Animal abuse near my home",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zz1yql/what_airline_would_you_choose_when_flying_from/",
+          "author": null,
+          "description": "I plan on visiting there soon. Thanks\n    submitted by    /u/moldyjellybean  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zz1yql/what_airline_would_you_choose_when_flying_from/",
+          "publishedOn": "2022-12-30T14:33:03.000Z",
+          "wordCount": 17554,
+          "title": "What airline would you choose when flying from the US to Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zz1r7b/the_tourists_that_may_not_return_vnexpress/",
+          "author": null,
+          "description": "submitted by    /u/DefamedPrawn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zz1r7b/the_tourists_that_may_not_return_vnexpress/",
+          "publishedOn": "2022-12-30T14:23:51.000Z",
+          "wordCount": 17068,
+          "title": "The tourists that may not return - VnExpress International",
+          "imageUrl": "https://external-preview.redd.it/zNKGenp98bFORj8Tng8Yp7vAnp30TXVASRh0mKx3NrY.jpg?auto=webp&s=d169f6f31a1a0384c77e044102f2dd9fa0a4bfc1"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zz0lwc/sourcing_agent_needed_in_vietnam/",
+          "author": null,
+          "description": "I own a sourcing business in the USA and I'm looking for a freelance agent to act on my behalf within VN. I deal w/ textile based products for the most part.....not much into garments, but a lot of bags, cases, fashion/sporting accessories etc. You can see my website at www.okanesourcing.com\n Anyone have an interest?\n    submitted by    /u/nalgene106  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zz0lwc/sourcing_agent_needed_in_vietnam/",
+          "publishedOn": "2022-12-30T13:31:40.000Z",
+          "wordCount": 17415,
+          "title": "Sourcing Agent Needed in Vietnam",
+          "imageUrl": "https://external-preview.redd.it/HqVL8ms0lp_3Gq1XFyQZZ7qXQGL2j5GBTSrGnlsaigQ.jpg?auto=webp&s=15dde7555a8d9deef32749d4ecfdc240ca4ffe31"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zz03ng/looking_for_cheap_souvenirs_in_tphcm_nye/",
+          "author": null,
+          "description": "Hello, overseas viet in hcmc on vacation. I'm looking for cheap souvenirs (keychains, fold cards, magnets, totes) for myself and friends. The prices at the central post office seem high so are there any good alternatives? I'm a little wary on ben thanh and am able to venture to other markets like binh tay if they are better. \n Also, I'm looking to spend NYE in district 1 tomorrow. where would the fireworks be launched or the viewing area? also, any tips for tomorrow (crowds, preparedness)?\n    submitted by    /u/guestrequestt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zz03ng/looking_for_cheap_souvenirs_in_tphcm_nye/",
+          "publishedOn": "2022-12-30T13:06:46.000Z",
+          "wordCount": 16823,
+          "title": "Looking for cheap souvenirs in TPHCM + NYE Celebrations.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zyzl95/local_artist_shops_hanoi/",
+          "author": null,
+          "description": "I will be visiting soon from Bangkok for a weekend to Hanoi and am looking for any shops that sell local artists works. Not so much the stuff you’ll find in tourist shops but stickers, keychains, postcards and prints that are made by the youth and subcultures of Hanoi. Skater culture and coffee culture shops here usually sell that kind of merch. Even “cute” style designs I don’t mind. Just want to support young artists. I’m staying near the French Quarter and the lake. Thank you in advance.\n    submitted by    /u/Efficient_Rabbit_938  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zyzl95/local_artist_shops_hanoi/",
+          "publishedOn": "2022-12-30T12:39:59.000Z",
+          "wordCount": 16743,
+          "title": "Local Artist Shops Hanoi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zyypt4/what_happens_with_those_candles_thrown_on_the/",
+          "author": null,
+          "description": "The title says it all. As nice as it might look to have those candles floating on that side arm of the river in Hoi An. I can't help but wonder whether this beautiful and romantic trash is ending up polluting the sea or if there are measures in place to remove them beforehand.\n Somebody knows something?\n    submitted by    /u/Fine-Technician-8752  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zyypt4/what_happens_with_those_candles_thrown_on_the/",
+          "publishedOn": "2022-12-30T11:51:39.000Z",
+          "wordCount": 16444,
+          "title": "What happens with those candles thrown on the water in Hoi An? Are they being fished / filtered out downstream or are they ending up as trash in the sea?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zyxkzx/so_anyone_know_what_this/",
+          "author": null,
+          "description": "submitted by    /u/Opposite_Interest844  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zyxkzx/so_anyone_know_what_this/",
+          "publishedOn": "2022-12-30T10:45:24.000Z",
+          "wordCount": 17194,
+          "title": "So anyone know what this?",
+          "imageUrl": "https://preview.redd.it/642qfqca329a1.jpg?auto=webp&s=fe2bbaf2de0fa16c8d8676b7e773101ee9f0af85"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zyxan3/does_anyone_know_how_to_contact_bamboo_airways/",
+          "author": null,
+          "description": "I've already emailed them about an issue I'm having with my booking but they told me to call their number\n    submitted by    /u/edenstudiogirl  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zyxan3/does_anyone_know_how_to_contact_bamboo_airways/",
+          "publishedOn": "2022-12-30T10:27:59.000Z",
+          "wordCount": 17439,
+          "title": "Does anyone know how to contact Bamboo Airways call centre from abroad?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zyx2ng/education_question/",
+          "author": null,
+          "description": "My 11 year old attends a Vietnamese school and is in 6th grade. She is currently not doing well having failed two math exams what I would like to know is is she does not pass her math exams throughout the year do they not pass her to the next grade and make her repeat the year over or do they make her do summer school to pass the math grade? Curious as the tutor we got her now seems to be useless in helping her do better. Thanks\n    submitted by    /u/saigonreddd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zyx2ng/education_question/",
+          "publishedOn": "2022-12-30T10:14:16.000Z",
+          "wordCount": 16754,
+          "title": "Education question",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zywj7j/found_this_book_in_a_yard_sale_excited_to_read/",
+          "author": null,
+          "description": "submitted by    /u/ApartGlass1198  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zywj7j/found_this_book_in_a_yard_sale_excited_to_read/",
+          "publishedOn": "2022-12-30T09:40:41.000Z",
+          "wordCount": 16733,
+          "title": "found this book in a yard sale , excited to read and learn some vietnamese folk tales..",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zymcl7/expats_in_vietnam_what_do_you_do_for_work_and_how/",
+          "author": null,
+          "description": "Hello friends, \n What is your current job and your most recent previous job in Vietnam? What city/district is the job in and how did you land the job? \n I'm curious for my job search what jobs and positions/roles other expats have and how you got it. Not to mention is it with a local company or international company? I'm looking to see how others went about getting their lives started in Vietnam\n If you have any stories on the timeframe it took for you, how long you've been there and what times you applied that were peak performance hours for applications for jobs I'd love to hear your stories! Thanks friends and stay safe!\n    submitted by    /u/BungMyPung  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zymcl7/expats_in_vietnam_what_do_you_do_for_work_and_how/",
+          "publishedOn": "2022-12-30T01:00:27.000Z",
+          "wordCount": 20558,
+          "title": "Expats In Vietnam - What Do You Do For Work And How Did You Land The Job?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/zyma3n/help_me_purchase_a_motorbike/",
           "author": null,
@@ -6097,216 +6347,6 @@
           "wordCount": 15160,
           "title": "review phim\"Black Swan\"",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z9ls13/western_food/",
-          "author": null,
-          "description": "Yeah I know we're in SEA, but want to know some of your recommendations for some comfort food in hcmc . Pizza, Mexican, burgers, BBQ. \n TIA\n    submitted by    /u/mongcharlie  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z9ls13/western_food/",
-          "publishedOn": "2022-12-01T11:44:34.000Z",
-          "wordCount": 15952,
-          "title": "Western food",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z9jq9b/suran_must_visit_cafe_in_hanoi/",
-          "author": null,
-          "description": "submitted by    /u/Creepy-Jump8129  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z9jq9b/suran_must_visit_cafe_in_hanoi/",
-          "publishedOn": "2022-12-01T09:41:40.000Z",
-          "wordCount": 15723,
-          "title": "SurAn: Must visit cafe in Hanoi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z9ial0/dental_care_in_vietnam/",
-          "author": null,
-          "description": "Hey everyone, any ideas how much it’d cost to get braces in Vn? Tq\n    submitted by    /u/Due_Caterpillar895  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z9ial0/dental_care_in_vietnam/",
-          "publishedOn": "2022-12-01T08:09:01.000Z",
-          "wordCount": 15857,
-          "title": "Dental care in vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z99si6/vietnamese_opinion_on_the_chinese_protests/",
-          "author": null,
-          "description": "Vietnam seems to be blocking reports on the protest in China on their mainstream news outlets. What’s your opinion on the protests in China and the Vietnamese government’s response to block information on it?\n    submitted by    /u/naps4lyf  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z99si6/vietnamese_opinion_on_the_chinese_protests/",
-          "publishedOn": "2022-12-01T01:19:05.000Z",
-          "wordCount": 19672,
-          "title": "Vietnamese opinion on the Chinese protests?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z99gee/driving_a_car_for_the_first_time_in_vietnam_top/",
-          "author": null,
-          "description": "I’ve been living in Vietnam for 6 years so am well versed with the traffic and rules. I have also been driving a car for around 15 years, but have not yet driven in this country.\n Does anyone have any advice, perhaps they’ve experienced something similar?\n Cheers in advance\n    submitted by    /u/Richardwatson27  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z99gee/driving_a_car_for_the_first_time_in_vietnam_top/",
-          "publishedOn": "2022-12-01T01:04:37.000Z",
-          "wordCount": 14963,
-          "title": "Driving A Car For The First Time In Vietnam - Top Tips For Newbies!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z99amp/what_are_your_top_3_tips_for_a_foreigner_looking/",
-          "author": null,
-          "description": "submitted by    /u/Richardwatson27  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z99amp/what_are_your_top_3_tips_for_a_foreigner_looking/",
-          "publishedOn": "2022-12-01T00:58:13.000Z",
-          "wordCount": 17312,
-          "title": "What are your top 3 tips for a foreigner looking to live in Vietnam for the first time?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z98x0c/what_is_it_like_to_visit_a_quarantine_camp_trai/",
-          "author": null,
-          "description": "I have stayed in the US throughout the entire pandemic and my first foreign trip since the pandemic started was to Europe in May of 2022 so since my last trip to Vietnam (my parents still live in Vietnam by the way) was in the summer of 2019, I don't know what the quarantine camp looks like, but for some Vietnamese international students at MIT, they returned to Vietnam during the pandemic and some of them ended up at the quarantine camp (trai cach ly) which looked like this:\n Note: Since I was adopted by my uncle and aunt, I recently became a US citizen and during 2020/1, I was basically a green card holder, so I didn't have to return to Vietnam during the pandemic.\n Throughout 2020 and 2021, many people who returned to Vietnam stayed in places like these; I do know of some people and hav…",
-          "link": "https://www.reddit.com/r/VietNam/comments/z98x0c/what_is_it_like_to_visit_a_quarantine_camp_trai/",
-          "publishedOn": "2022-12-01T00:42:21.000Z",
-          "wordCount": 15701,
-          "title": "What is it like to visit a quarantine camp (trai cach ly tap trung) for 14 days before entering Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z98rlh/vietnams_vinfast_ships_first_electric_vehicles_to/",
-          "author": null,
-          "description": "submitted by    /u/hsakakibara1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z98rlh/vietnams_vinfast_ships_first_electric_vehicles_to/",
-          "publishedOn": "2022-12-01T00:36:07.000Z",
-          "wordCount": 15338,
-          "title": "Vietnam's VinFast ships first electric vehicles to U.S. customers",
-          "imageUrl": "https://external-preview.redd.it/YiTTYgnvxuoRx3q-MtQDZnmhDtUmGruXZ16FKe_P1qo.jpg?auto=webp&s=41e31dbd131918f4e96dbbfa980fa199d332d5d5"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z98jsp/technodance_scene_in_hcm/",
-          "author": null,
-          "description": "Traveling to HCM for late December till mid January. Is there a really good electronic techno seen out there than anyone knows of?\n    submitted by    /u/bugbiyte  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z98jsp/technodance_scene_in_hcm/",
-          "publishedOn": "2022-12-01T00:27:04.000Z",
-          "wordCount": 14875,
-          "title": "Techno/dance scene in HCM?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z98chk/vietnam_national_team_beat_dortmund_in_a_friendly/",
-          "author": null,
-          "description": "submitted by    /u/Aghanim_wife322  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z98chk/vietnam_national_team_beat_dortmund_in_a_friendly/",
-          "publishedOn": "2022-12-01T00:18:50.000Z",
-          "wordCount": 14859,
-          "title": "Vietnam national team beat Dortmund in a friendly match last night",
-          "imageUrl": "https://external-preview.redd.it/7qNaP97a1_jUphQvBQkUQZMnlBRakm35PB5Qt0_M04k.jpg?auto=webp&s=590c3cda7b014cab62c62089f6e20f09b991460b"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z97v6k/post_your_questions_inquiries_here_rvietnam/",
-          "author": null,
-          "description": "Lưu ý: Đây là thread chủ yếu dành cho người nước ngoài hoặc không nói tiếng Việt đặt câu hỏi. Nếu có thể, hãy trả lời giúp họ nhé.\n Please read the 3rd rule of the sub. Don't post your general questions & inquiries outside of this thread as they will be removed.\n Lots of your questions have been answered already so make sure you do a search before asking (how-to below).\n  \nTo keep this subreddit tidy, we have this monthly thread that is open for random discussions and questions. If you post your basic/general questions outside of this thread they will be removed. Sorry, we want to make this sub friendly but also want it to be clean and organized.\n Some examples of the questions that should be posted here:\n  \nQuestions that can be answered with just Yes/No\n Basic questions like \"Where can I…",
-          "link": "https://www.reddit.com/r/VietNam/comments/z97v6k/post_your_questions_inquiries_here_rvietnam/",
-          "publishedOn": "2022-12-01T00:00:11.000Z",
-          "wordCount": 16367,
-          "title": "Post your questions & inquiries here! - r/Vietnam monthly random discussion thread - F.A.Q",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z92vsh/vietnamese_games/",
-          "author": null,
-          "description": "Hi!\n In my country, we have two very popular games called \"thumb war\" and another one called \"rock, paper, scissors.\" These games are easy to play and don't require any materials, and they are so much fun. I was wondering if people in Vietnam are familiar with these two fun games, and how common they are. If not, what are some other popular games people in Vietnam like to play? I am looking forward to learning more about some exciting and fun Vietnamese games that are very popular\n    submitted by    /u/Pollo_Perpetuo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z92vsh/vietnamese_games/",
-          "publishedOn": "2022-11-30T20:53:04.000Z",
-          "wordCount": 15314,
-          "title": "Vietnamese games",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z920wr/vietnamese_and_vietnamese_american_on_reddit/",
-          "author": null,
-          "description": "I'm Vietnamese American, but I was born in Vietnam. My family lived through the worst period in Vietnam history before we left for the U.S. \n A lot of Vietnamese (here on Reddit) hate Vietnamese Americans because we are anti-communist and accuse us as traitors. While Vietnamese Americans accuse Vietnamese in Vietnam as brainwash idiots.\n However, if we lived in each other shoes, we would probably do the same thing that each side accuses each other off doing. \n If you lived through the war and saw your people murder and torture by the communist government regardless if you are from Northern or Southern Vietnam, you would not be pro-communist. Similarity, if all you learned in school was the Vietnam War (American War) from the perspective of the winner (North Vietnam), then your view will be in favor of the current regime. \n Our views, experiences, attitudes, behaviors are shaped base on the context of our lives and those of our families. \n But one thing that we can agree on is that we want Vietnam to become a develop country.\n    submitted by    /u/Chris7thLegion  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z920wr/vietnamese_and_vietnamese_american_on_reddit/",
-          "publishedOn": "2022-11-30T20:20:34.000Z",
-          "wordCount": 19353,
-          "title": "Vietnamese and Vietnamese American (on Reddit) should appreciate each other unique experiences and perspectives",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z903v1/xin_%C3%BD_ki%E1%BA%BFn/",
-          "author": null,
-          "description": "Xin chào Hiện giờ mình là rối não nên nhờ mấy bạn giúp đỡ Chuyện là mình đang có đam mê học vẽ và muốn phát triển , nhưng không biết nên bắt đầu từ đâu ( không biết vẽ thậm chí vẽ tệ ) Bạn nào có đề cử sách / bài tập luyện vẽ hay là khoá học dạy vẽ online cho người mới bắt đầu hay không ạ ? ^\n    submitted by    /u/Status-Marsupial9518  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z903v1/xin_%C3%BD_ki%E1%BA%BFn/",
-          "publishedOn": "2022-11-30T19:08:53.000Z",
-          "wordCount": 15657,
-          "title": "Xin ý kiến",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z8zcrb/is_b%E1%BA%B1ng_t%E1%BB%91t_nghi%E1%BB%87p_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_the_same/",
-          "author": null,
-          "description": "Hello from a clueless foreigner!\n I am trying to figure out whether Bằng Tốt Nghiệp Trung Học Phổ Thông (which I understand to mean secondary school certificate of graduation) would qualify someone for admission to universities in other countries, like the US or Canada. In other words, is Bằng Tốt Nghiệp Trung Học Phổ Thông equivalent to a high school diploma? Or do students from Vietnam have to do a gap year before they can attend university abroad? I'm getting vague/conflicting info when searching it.\n    submitted by    /u/euphioquest  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z8zcrb/is_b%E1%BA%B1ng_t%E1%BB%91t_nghi%E1%BB%87p_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_the_same/",
-          "publishedOn": "2022-11-30T18:42:27.000Z",
-          "wordCount": 21562,
-          "title": "Is Bằng Tốt Nghiệp Trung Học Phổ Thông the same thing as a high school diploma?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z8yy0o/halong_vs_bai_tu_long_current_recommendations/",
-          "author": null,
-          "description": "Hi All,\n Heading to Vietnam next month and looking to do an all day/overnight cruise experience. The options are overwhelming and most posts in this sub were outdated so looking for refreshed recommendations on what cruise line or location is preferable. Thanks so much in advance!\n    submitted by    /u/SpaceGuyJP  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z8yy0o/halong_vs_bai_tu_long_current_recommendations/",
-          "publishedOn": "2022-11-30T18:27:52.000Z",
-          "wordCount": 15761,
-          "title": "Halong vs. Bai Tu Long & Current Recommendations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z8xiev/as_a_vietnamese_woman_id_say_we_are_naive_and/",
-          "author": null,
-          "description": "submitted by    /u/mangadrawing123  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z8xiev/as_a_vietnamese_woman_id_say_we_are_naive_and/",
-          "publishedOn": "2022-11-30T17:33:03.000Z",
-          "wordCount": 17354,
-          "title": "As a Vietnamese woman, I’d say we are naive and easy to be manipulated. This is a cream to “whitening” your skin. If we actually don’t believe in this bs or cringe when we see this ad then we probably won’t see it. But the fact that it’s common thing, it’s show how easy we are to be manipulated.",
-          "imageUrl": "https://external-preview.redd.it/oJmYUKE_S-QZpEhpC1TjPa5ZurINCGuQcP9Z90fjTMA.png?format=pjpg&auto=webp&s=4f7f62e19b13ccee0e58027eebd05620db0acb63"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z8x32v/vietnam_embassy_in_canada_contacting_and/",
-          "author": null,
-          "description": "Help, the Vietnamese Embassy in Canada is on Covid-19 hours and available for mail ins only. Meaning I cannot reach anybody by phone or email. Have been trying in fact since the summer.\n Now however they have received my documents as of yesterday, but have not charged my bank yet for their legalization and translation fees.\n Would really like some confirmation on cost and expected processing times until I have the documents in my possession again.\n Planning to visit VN this December beginning on the 19th, but prices for airfare are only going up.\n Need some information so I can continue planning my trip.\n Anyone know how to reach someone at the Vietnam Embassy here in Canada?\n    submitted by    /u/kruptah  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z8x32v/vietnam_embassy_in_canada_contacting_and/",
-          "publishedOn": "2022-11-30T17:16:39.000Z",
-          "wordCount": 14625,
-          "title": "Vietnam Embassy in Canada contacting and confirming processing times",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z8x2es/weather_advice/",
-          "author": null,
-          "description": "Thinking of travelling to Vietnam in April next year. \n What is the weather like in North / Central? Reading mixed things online\n Thanks\n    submitted by    /u/lanastainton  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z8x2es/weather_advice/",
-          "publishedOn": "2022-11-30T17:15:59.000Z",
-          "wordCount": 14884,
-          "title": "Weather advice:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z8spou/half_vietnamese_mixed_race_struggle/",
-          "author": null,
-          "description": "Chào các bạn!\n I am a 21yo & half vietnamese, half european (french & italian). I both have vietnamese and european features (& nationalities). I principally lived in France, and I did not learn vietnamese when I was younger, I knew a little from previous trips. I am currently Việt Nam for 3 months by myself (it's been more than 2 months now) and I am speaking a lot better, can hold conversation. Somehow, most of the people here see me as a foreigner. When I approach them (bằng tiếng việt) they stare at me & hit me with the \"tây ạ?\" and ask me why I can speak vietnamese. I have to explain myself pretty much every time to anyone speaking to me, & also not to have the tourist prices haha. Also every time I go to the countryside, everyone stares at me like & talk about me like I don't understand them lol.\n ​\n It hurts me as I always considered myself vietnamese, as I lived with my việt kiều mom most of my life and growing up w vietnamese culture, I feel very vietnamese to put it simple haha. It starts to make me feel a bit sad, & even sometimes I feel wrong not to look viet enough & don't feel like I belong to this community. Everybody in France can tell I am asian from my features, but here I am a foreigner to them.\n ​\n Do you have any tips on how to approach this situation? Does anybody have been through the same experience? I think it would make me feel better to know that I am not alone in this. \n ​\n Cảm ơn mngười! :)\n    submitted by    /u/ljmsn  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z8spou/half_vietnamese_mixed_race_struggle/",
-          "publishedOn": "2022-11-30T14:21:18.000Z",
-          "wordCount": 19880,
-          "title": "Half Vietnamese - Mixed Race struggle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z8s240/viet_bbq_is_mega_under_rated_who_disagrees/",
-          "author": null,
-          "description": "submitted by    /u/Richardwatson27  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z8s240/viet_bbq_is_mega_under_rated_who_disagrees/",
-          "publishedOn": "2022-11-30T13:52:57.000Z",
-          "wordCount": 15375,
-          "title": "Viet BBQ is mega under rated, who dis/agrees?",
-          "imageUrl": "https://external-preview.redd.it/1sOAOUFP90pytD480gGuZ_RkBqgTxPJi1FJl_-qhWVU.png?format=pjpg&auto=webp&s=448ce36acc77fd51b4b6c9f9ccbd9dcb30c22ec4"
         }
       ]
     },
@@ -7004,96 +7044,6 @@
           "wordCount": 2312,
           "title": "SQL INSERT Statement – How to Insert Data into a Table in SQL",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/SQL-Insert-Statement.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/schedule-email-in-gmail/",
-          "author": "Benjamin Semah",
-          "description": "Sometimes you might want to compose an email but send it later. Well, did you know that Gmail allows you to schedule up to 100 emails? In this article, you will learn how to schedule your emails using Gmail. There's no need to install any software or plugins. What you",
-          "link": "https://www.freecodecamp.org/news/schedule-email-in-gmail/",
-          "publishedOn": "2022-11-30T22:23:40.000Z",
-          "wordCount": 1108,
-          "title": "How to Schedule an Email in Gmail – a Step-by-Step Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/email-gd2563c0fc_1280.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-string-to-boolean/",
-          "author": "Joel Olawanle",
-          "description": "When you're manipulating data, receiving values from forms, and dealing with data in other ways, these values may take the incorrect datatype. Assume you want your value to be a boolean with either true or false, but it is stored as a string – \"true\" or \"false.\" It becomes challenging",
-          "link": "https://www.freecodecamp.org/news/javascript-string-to-boolean/",
-          "publishedOn": "2022-11-30T22:14:10.000Z",
-          "wordCount": 1479,
-          "title": "JavaScript String to Boolean – How to Parse a Boolean in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-boris-sopko-2376033.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/web-accessibility-best-practices-and-checklist/",
-          "author": "Ophy Boamah",
-          "description": "The World Health Organization reports [https://www.who.int/teams/noncommunicable-diseases/sensory-functions-disability-and-rehabilitation/world-report-on-disability]  that about 15% (1.2 billion) of the world's population lives with some form of disability.  This means that as developers, our focus on making websites and applications accessible helps more people use these resources.  In this article, I'll point out barriers",
-          "link": "https://www.freecodecamp.org/news/web-accessibility-best-practices-and-checklist/",
-          "publishedOn": "2022-11-30T18:40:47.000Z",
-          "wordCount": 1966,
-          "title": "Web Accessibility – Best Practices and a Checklist for Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/WebAccessibility.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/principle-of-lease-privilege-meaning-cybersecurity/",
-          "author": "Manish Shivanandhan",
-          "description": "Information technology has made a profound impact on our lives over the last three decades. It has helped us create global businesses, transform industries, and build powerful connections. But it has also led to increased risks in security and privacy. Individuals and businesses are vulnerable to cyber attacks now more",
-          "link": "https://www.freecodecamp.org/news/principle-of-lease-privilege-meaning-cybersecurity/",
-          "publishedOn": "2022-11-30T18:23:15.000Z",
-          "wordCount": 1952,
-          "title": "Principle of Least Privilege – Definition and Meaning in Cybersecurity",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-install-wifi-adapter-driver-on-aml-s905x-cc-le-potato/",
-          "author": "Arunachalam B",
-          "description": "If you're a developer, you might be familiar with Raspberry Pi. But you might not know about the Libre Computer AML-S905X-CC – also called Le Potato.  There was a chip shortage during the pandemic that has resulted in increased Raspberry Pi prices. Other world events have also skyrocketed the",
-          "link": "https://www.freecodecamp.org/news/how-to-install-wifi-adapter-driver-on-aml-s905x-cc-le-potato/",
-          "publishedOn": "2022-11-30T17:27:33.000Z",
-          "wordCount": 1780,
-          "title": "How to Install a Wifi Adapter Driver on AML-S905X-CC (Le Potato)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/How-to-install-driver-for-external-wifi-adapter-in-Le-Potato-3.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/write-unit-tests-using-react-testing-library/",
-          "author": "Yogesh Chavan",
-          "description": "In this tutorial, you will learn how to confidently write unit tests using the  Testing Library [https://testing-library.com/]. It is a very popular React testing library for writing unit tests. So let's get started. What We'll Cover:  1. Why Do You Need to Write Unit Tests?  2. What",
-          "link": "https://www.freecodecamp.org/news/write-unit-tests-using-react-testing-library/",
-          "publishedOn": "2022-11-30T16:53:39.000Z",
-          "wordCount": 4560,
-          "title": "React Testing Library Tutorial – How to Write Unit Tests for React Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cover_testing.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-searching-works-under-the-hood/",
-          "author": "Houssein Badra",
-          "description": "Searching is something is something many people do every day. Whether they're word searching in documents and databases, or pattern matching in bioinformatics to detect anomalies in DNA, the applications for search are pretty much endless. And these applications require a lot of computation. Imagine searching for a particular DNA",
-          "link": "https://www.freecodecamp.org/news/how-searching-works-under-the-hood/",
-          "publishedOn": "2022-11-30T16:33:48.000Z",
-          "wordCount": 2686,
-          "title": "How Search Works Under the Hood – Data Structures and Search Algorithms Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/182786404-56a9f6725f9b58b7d00038e0.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-matlab-with-this-crash-course/",
-          "author": "Beau Carnes",
-          "description": "MATLAB is a programming language and software suite used for data analysis, scientific computing, and visualization that is widely used in academia and industry.  We just published a MATLAB crash course on the freeCodeCamp.org YouTube channel that will teach you the fundamentals of MATLAB. Phillip Parisi developed this course.",
-          "link": "https://www.freecodecamp.org/news/learn-matlab-with-this-crash-course/",
-          "publishedOn": "2022-11-30T14:46:10.000Z",
-          "wordCount": 743,
-          "title": "Learn MATLAB With This Crash Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/matlab.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/",
-          "author": "Beau Carnes",
-          "description": "Django REST Framework is a powerful and flexible toolkit for building Web APIs. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use Python and the Django REST Framework (DRF) to build a web API. Bobby Stearman developed this course. Bobby has created",
-          "link": "https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/",
-          "publishedOn": "2022-11-30T14:42:28.000Z",
-          "wordCount": 766,
-          "title": "Use Django REST Framework to Create Web APIs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/djangorest.png"
         }
       ]
     }
