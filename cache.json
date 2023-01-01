@@ -12,6 +12,76 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F4DD524.HighSurfAdvisory.1266300E2EC0CA.LOXCFWLOX.4928f713f457efae90b4d74172851e72",
+          "author": null,
+          "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT FROM 10 PM THIS EVENING TO NOON PST MONDAY... * WHAT...Large breaking waves of 6 to 9 feet with dangerous rip currents. Local sets to 10 feet are possible near Ventura Harbor and other west-facing beaches. * WHERE...Ventura County Beaches, Malibu Coast and Los Angeles",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F4DD524.HighSurfAdvisory.1266300E2EC0CA.LOXCFWLOX.4928f713f457efae90b4d74172851e72",
+          "publishedOn": "2022-12-31T22:41:00.000Z",
+          "wordCount": 213,
+          "title": "High Surf Advisory issued December 31 at 2:41PM PST until January 02 at 12:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F4D3CCC.FlashFloodWatch.12662FFD17C0CA.LOXFFALOX.8b863e4a249a4b62959d1c6a60d01aff",
+          "author": null,
+          "description": "...FLASH FLOOD WATCH FOR THE FISH AND LAKE BURN SCARS REMAINS IN EFFECT FROM 4 PM PST THIS AFTERNOON THROUGH THIS EVENING... * WHAT...Flash flooding and debris flows caused by excessive rainfall continue to be possible over the Fish and Lake Burn Scars. * WHERE...The recent burn areas in Los Angeles County, including the Fish Fire and the Lake Fire.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F4D3CCC.FlashFloodWatch.12662FFD17C0CA.LOXFFALOX.8b863e4a249a4b62959d1c6a60d01aff",
+          "publishedOn": "2022-12-31T18:51:00.000Z",
+          "wordCount": 306,
+          "title": "Flash Flood Watch issued December 31 at 10:51AM PST until January 01 at 12:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F4D13C8.HighWindWarning.12662FFD17C0CA.LOXNPWLOX.720c21059c237b8e13d4b2bc534578c3",
+          "author": null,
+          "description": "...HIGH WIND WARNING REMAINS IN EFFECT UNTIL MIDNIGHT PST TONIGHT... ...HIGH WIND WATCH REMAINS IN EFFECT FROM LATE TONIGHT THROUGH SUNDAY EVENING... * WHAT...For the High Wind Warning, southwest winds 25 to 35 mph with gusts up to 60 mph expected. For the High Wind Watch,",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F4D13C8.HighWindWarning.12662FFD17C0CA.LOXNPWLOX.720c21059c237b8e13d4b2bc534578c3",
+          "publishedOn": "2022-12-31T17:46:00.000Z",
+          "wordCount": 227,
+          "title": "High Wind Warning issued December 31 at 9:46AM PST until January 01 at 12:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F4D13C8.WindAdvisory.12662FFDB400CA.LOXNPWLOX.4435c55bec58b6210fcc5fda4c85cd68",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 4 PM THIS AFTERNOON TO 4 AM PST SUNDAY... * WHAT...Southwest winds 15 to 25 mph with gusts up to 40 mph expected. * WHERE...Santa Clarita Valley and Santa Monica Mountains. * WHEN...From 4 PM this afternoon to 4 AM PST Sunday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F4D13C8.WindAdvisory.12662FFDB400CA.LOXNPWLOX.4435c55bec58b6210fcc5fda4c85cd68",
+          "publishedOn": "2022-12-31T17:46:00.000Z",
+          "wordCount": 168,
+          "title": "Wind Advisory issued December 31 at 9:46AM PST until January 01 at 4:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F4D13C8.WindAdvisory.12662FFDB400CA.LOXNPWLOX.87f5607d8be154425e217278cd31d6f0",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 4 PM THIS AFTERNOON TO 4 AM PST SUNDAY... * WHAT...Southwest winds 15 to 25 mph with gusts up to 35 mph expected. * WHERE...Portions of southwest California. * WHEN...From 4 PM this afternoon to 4 AM PST Sunday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F4D13C8.WindAdvisory.12662FFDB400CA.LOXNPWLOX.87f5607d8be154425e217278cd31d6f0",
+          "publishedOn": "2022-12-31T17:46:00.000Z",
+          "wordCount": 289,
+          "title": "Wind Advisory issued December 31 at 9:46AM PST until January 01 at 4:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F4D13C8.WindAdvisory.12662FFE7750CA.LOXNPWLOX.5ebc9be1f985c99d15ba084341cad717",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 6 PM THIS EVENING TO 9 AM PST SUNDAY... * WHAT...West winds 25 to 35 mph with gusts up to 45 mph expected. * WHERE...Catalina and Santa Barbara Islands. Strongest in the hills.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F4D13C8.WindAdvisory.12662FFE7750CA.LOXNPWLOX.5ebc9be1f985c99d15ba084341cad717",
+          "publishedOn": "2022-12-31T17:46:00.000Z",
+          "wordCount": 164,
+          "title": "Wind Advisory issued December 31 at 9:46AM PST until January 01 at 9:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F4D13C8.HighWindWatch.1266300C0BE0CA.LOXNPWLOX.5978eb906e9fb631b124abb46cd3eeda",
+          "author": null,
+          "description": "...HIGH WIND WARNING REMAINS IN EFFECT UNTIL MIDNIGHT PST TONIGHT... ...HIGH WIND WATCH REMAINS IN EFFECT FROM LATE TONIGHT THROUGH SUNDAY EVENING... * WHAT...For the High Wind Warning, southwest winds 25 to 35 mph with gusts up to 60 mph expected. For the High Wind Watch,",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F4D13C8.HighWindWatch.1266300C0BE0CA.LOXNPWLOX.5978eb906e9fb631b124abb46cd3eeda",
+          "publishedOn": "2022-12-31T17:46:00.000Z",
+          "wordCount": 227,
+          "title": "High Wind Watch issued December 31 at 9:46AM PST until January 01 at 10:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F3E6468.HighWindWarning.12662FFD17C0CA.LOXNPWLOX.720c21059c237b8e13d4b2bc534578c3",
           "author": null,
           "description": "...HIGH WIND WARNING IN EFFECT FROM 10 AM SATURDAY TO MIDNIGHT PST SATURDAY NIGHT... * WHAT...Southwest winds 25 to 35 mph with gusts up to 60 mph expected. * WHERE...Los Angeles County Mountains and Antelope Valley. Strongest in the foothills and mountains.",
@@ -358,6 +428,236 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10077j3/new_year_fireworks_in_hcmc_fizzle/",
+          "author": null,
+          "description": "So, I came down from central VN to Saigon for the weekend with my family. We stayed in an apartment at VinHomes Central Park, largely because it was convenient to get to the NYE fireworks on the river. Like, a ten minute walk. Along with a large crowd, we waited for the midnight fireworks to start. \n And waited... and waited... and waited...\n At 12:20, we gave up and took the kids back to the apartment. When we got back, I turned on the TV and loaded the live stream of the Saigon fireworks. Nothing but streams of people leaving the riverside.\n When I got up this morning, I checked the local news, hoping to find an explanation. One news site, VN Express, had a glowing report of the festivities in HCMC along with photos of the \"fireworks display\":\n Vietnam rings in 2023\n This was the only reference I could find, so I've started the new year off with a mystery.\n    submitted by    /u/PiscadorII  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10077j3/new_year_fireworks_in_hcmc_fizzle/",
+          "publishedOn": "2023-01-01T00:04:48.000Z",
+          "wordCount": 18053,
+          "title": "New Year fireworks in HCMC fizzle?",
+          "imageUrl": "https://external-preview.redd.it/7Sd2bikVSWlmSKEVSbW2epcXx7FcXUEYqjovx9zdyPM.jpg?auto=webp&s=fbbed782555275cb4bb18eb269c6ce6f0c8f32b1"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/100742l/post_your_questions_inquiries_here_rvietnam/",
+          "author": null,
+          "description": "Lưu ý: Đây là thread chủ yếu dành cho người nước ngoài hoặc không nói tiếng Việt đặt câu hỏi. Nếu có thể, hãy trả lời giúp họ nhé.\n Please read the 3rd rule of the sub. Don't post your general questions & inquiries outside of this thread as they will be removed.\n Lots of your questions have been answered already so make sure you do a search before asking (how-to below).\n  \nTo keep this subreddit tidy, we have this monthly thread that is open for random discussions and questions. If you post your basic/general questions outside of this thread they will be removed. Sorry, we want to make this sub friendly but also want it to be clean and organized.\n Some examples of the questions that should be posted here:\n  \nQuestions that can be answered with just Yes/No\n Basic questions like \"Where can I…",
+          "link": "https://www.reddit.com/r/VietNam/comments/100742l/post_your_questions_inquiries_here_rvietnam/",
+          "publishedOn": "2023-01-01T00:00:11.000Z",
+          "wordCount": 18140,
+          "title": "Post your questions & inquiries here! - r/Vietnam monthly random discussion thread - F.A.Q",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10058dq/buying_a_good_quality_honda_win/",
+          "author": null,
+          "description": "Hey forum! How do I make sure that I’m buying a “good quality” Honda win? What should I look out for and what should I avoid?\n    submitted by    /u/leodunz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10058dq/buying_a_good_quality_honda_win/",
+          "publishedOn": "2022-12-31T22:22:47.000Z",
+          "wordCount": 18247,
+          "title": "Buying a “good quality” Honda win?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/100437t/any_ideas_why_the_%C4%91%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_vi%E1%BB%87t_nam_article/",
+          "author": null,
+          "description": "I've been digging around wikipedia APIs for a few weeks (learning project, making a website with trending articles from regional wikipedias) and across 15 different languages a single anomaly stands out:\n Since January 2020, the Đài Tiếng nói Việt Nam article consistently blows out all daily viewership metrics:\n  \nFebruary 2020 -- narrowly beats front page with 32k views.\n \nMarch 2020 -- destroys it with 50k hits over 30k\n \nAugust 2021 -- 3rd after front page and Taliban\n \nApril 2022 -- dwarfs everything else with 81k views. The next non-special article is about a dude named Tô Anh Dũng has measly 11k.\n \nDecember 2022 -- still going strong with a 2nd place after front page\n \n I don't think it ever left top 3 for the past three years, no other article across the entire wikimedia comes even close.\n Is it tradition to read about Voice of Vietnam during breakfast, or did some popular site embed the article into their front page somehow? Any inside would be greatly appreciated 👐\n    submitted by    /u/HolyHamsteR  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/100437t/any_ideas_why_the_%C4%91%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_vi%E1%BB%87t_nam_article/",
+          "publishedOn": "2022-12-31T21:26:12.000Z",
+          "wordCount": 17521,
+          "title": "Any ideas why the \"Đài Tiếng nói Việt Nam\" article has so many views on wikipedia?",
+          "imageUrl": "https://external-preview.redd.it/7grgSfWXtYyQrzn9gROzjmNEy8swMwN_iBo9G1NAfN4.jpg?auto=webp&s=26b846a408476dd916ee7bff0a2ce34ebec67619"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1003zce/honda_win_maintenance_costs/",
+          "author": null,
+          "description": "Hey forum! Happy New Year to whoever’s reading this. What are the estimated reparation/maintenance costs on a Honda Win for every 1,000km?\n    submitted by    /u/leodunz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1003zce/honda_win_maintenance_costs/",
+          "publishedOn": "2022-12-31T21:20:52.000Z",
+          "wordCount": 17793,
+          "title": "Honda Win Maintenance Costs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1003uw0/any_british_people_have_experience_of_multiple/",
+          "author": null,
+          "description": "My wife (Canadian) and I (British) are going on our honeymoon to Vietnam, but intend to visit Thailand for a few days midway, before returning to Vietnam for the last portion before flying home. \n The official guidance for British citizens is that 15 days single entry is allowed without a visa, then you have to wait 30 days till you try to enter again. I've seen claims that the \"30 days untill you re-enter\" rule isn't really enforced and that you can just re-enter again on the 15 day rule, but I'm not sure I want to test that theory based on unsubstantiated claims...\n So my plan currently is to use the 15 days for the first entry, then apply for an E-Visa as soon as I get to Vietnam, print it somewhere, and use it when I re-enter Vietnam the second time from Thailand. \n Do any British people have experience leaving and returning to Vietnam as a tourist in one trip? What did you do?\n    submitted by    /u/zayzz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1003uw0/any_british_people_have_experience_of_multiple/",
+          "publishedOn": "2022-12-31T21:14:43.000Z",
+          "wordCount": 18389,
+          "title": "Any British people have experience of multiple entries?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1003k21/hanoi_new_years_concert_by_lake_who_is_this/",
+          "author": null,
+          "description": "submitted by    /u/aspell23  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1003k21/hanoi_new_years_concert_by_lake_who_is_this/",
+          "publishedOn": "2022-12-31T21:00:30.000Z",
+          "wordCount": 16752,
+          "title": "Hanoi New Years Concert by Lake - who is this artist that performed?",
+          "imageUrl": "https://preview.redd.it/fcw9lbox9c9a1.jpg?blur=40&format=pjpg&auto=webp&s=ccadc1ccf8128f759619dd5af4706ee2302b9673"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzyy5f/da_nang_or_hanoi_for_first_time_visitors/",
+          "author": null,
+          "description": "My wife and I are planning to visit from Feb 7-16 from the US. We are super excited as we have friends who live in Singapore and said Vietnam is the best place to visit in Asia. My wife wants some beach time so they suggested these two locations. Our trip is short so we will only be exploring the area that we stay in. I also want nightlife and culture. Any advice is greatly appreciated :)\n    submitted by    /u/Psychological_Room70  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzyy5f/da_nang_or_hanoi_for_first_time_visitors/",
+          "publishedOn": "2022-12-31T17:22:19.000Z",
+          "wordCount": 18186,
+          "title": "Da Nang or Hanoi for first time visitor’s?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzyo86/track_request_wanted/",
+          "author": null,
+          "description": "Hey folks. Happy New Year!\n I’m looking for a track ID if anyone can help. It’s a song from early 90s. There’s a short rap introduction and then two woman singing. Hip Hop/pop and the video is filmed in HK i think. \n Any ideas?\n    submitted by    /u/spandextim  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzyo86/track_request_wanted/",
+          "publishedOn": "2022-12-31T17:09:49.000Z",
+          "wordCount": 17236,
+          "title": "Track request wanted",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzykvh/happy_new_year/",
+          "author": null,
+          "description": "submitted by    /u/Draw_mylife  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzykvh/happy_new_year/",
+          "publishedOn": "2022-12-31T17:05:27.000Z",
+          "wordCount": 17567,
+          "title": "Happy new year",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzydr6/places_to_avoid_in_northern_vietnam/",
+          "author": null,
+          "description": "I’ll be travelling northern Vietnam on a motorcycle in a couple months, more specifically northwest, north and northeast Vietnam. Are there any “no go” areas or places you wouldn’t recommend I visit/pass through?\n    submitted by    /u/leodunz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzydr6/places_to_avoid_in_northern_vietnam/",
+          "publishedOn": "2022-12-31T16:56:34.000Z",
+          "wordCount": 18720,
+          "title": "Places to avoid in Northern Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzy04j/visiting_a_friends_house_for_the_first_time/",
+          "author": null,
+          "description": "I will be visiting a Vietnamese friends (don’t know them well) family’s house for a party next week. I’m not sure what to bring and whether or not it’s considered rude if I can only stay for 30 minutes. I’m not sure if I should even stop by if I need to leave so soon - I don’t want to make it seem like I’m not enjoying spending time with them. I need to leave early because I have a huge trip the next day.\n Question: What should I bring to their house and should I stop by if I can’t stay for very long?\n    submitted by    /u/Purple-Classic9621  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzy04j/visiting_a_friends_house_for_the_first_time/",
+          "publishedOn": "2022-12-31T16:39:00.000Z",
+          "wordCount": 17471,
+          "title": "Visiting a friends house for the first time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzwxeb/rach_gia_vietnam_celebrating_the_new_year_with_a/",
+          "author": null,
+          "description": "Sorry for the quality-it’s a huge pile of garbage, burning in the middle of the city…\n    submitted by    /u/weird_is_good  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzwxeb/rach_gia_vietnam_celebrating_the_new_year_with_a/",
+          "publishedOn": "2022-12-31T15:49:19.000Z",
+          "wordCount": 17186,
+          "title": "Rach Gia Vietnam celebrating the New Year with a special kind of fireworks..",
+          "imageUrl": "https://external-preview.redd.it/aKleJ46Oiq1nhDlqaYBrzwHcrou9wtGEz0Y1A2ppTVo.png?format=pjpg&auto=webp&s=bdeaaf37a3b80c895096792c7c3024986d0a8131"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzwobr/as_a_vietnamese_personfamily_how_has_your_life/",
+          "author": null,
+          "description": "I was just looking at this:\n https://www.macrotrends.net/countries/VNM/vietnam/gdp-gross-domestic-product\n which suggests GDP per capita has increased 1000% since 1999. So just out of interest, has life got much better for you and/or your family over that time?\n I'm not biased, just interested in hearing inspiring or cynical stories, either is good.\n    submitted by    /u/legatrixx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzwobr/as_a_vietnamese_personfamily_how_has_your_life/",
+          "publishedOn": "2022-12-31T15:37:10.000Z",
+          "wordCount": 18329,
+          "title": "As a Vietnamese person/family, how has your life improved over the past 25 years or so?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzvsq9/after_three_years_of_abandon_the_f1_track_in/",
+          "author": null,
+          "description": "submitted by    /u/nqbao  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzvsq9/after_three_years_of_abandon_the_f1_track_in/",
+          "publishedOn": "2022-12-31T14:55:29.000Z",
+          "wordCount": 18102,
+          "title": "After three years of abandon, the F1 track in Hanoi finally has a use: for Honda's promotional fair for New Year's Eve (and Day).",
+          "imageUrl": "https://preview.redd.it/u71xyb4ai89a1.jpg?auto=webp&s=53f434148f828f29eb8e37b5aef1cd2e732746e2"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzvl86/recommendations_when_visiting_vietnam/",
+          "author": null,
+          "description": "I’m flying into Da Nang, but I may try to fly to other places within the country while I’m there. So feel free to recommend anything! Thanks (:\n    submitted by    /u/costco_execmember  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzvl86/recommendations_when_visiting_vietnam/",
+          "publishedOn": "2022-12-31T14:44:50.000Z",
+          "wordCount": 17804,
+          "title": "Recommendations when visiting Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzuwc3/vietnamese_entrepreneurship_is_fascinating_i_have/",
+          "author": null,
+          "description": "I come from a developing country that can be compared to Vietnam in many ways. But the main difference is the apparent tolerance of the state/authorities to informal businesses, eg street food. Are informal small business tolerated or encouraged ? Is there any form of corruption involved? How does the state collect taxes ? What is the size of the grey economy? How important is a business registration? \n \nMost restaurants, even small and apparently informal ones, have a PoS management software, and many print a receipt. I often see small business managers using calculators and apparently doing their accounting. Similar restaurants/business in my country usually don't even have a logbook (combination of illiteracy and bad management). I know that Vietnam mostly got rid of illiteracy decades ago, but I feel that there's more to this than just knowing how to read and write.\n \nI mostly think of the vietnamese as one of the most industrious people on the planet. But on rare occasions, i meet people that seem even lazier than my countrymen, usually the younger ones. Especially in cafés, waiters seem incredibly slow and unprofessional. What's happening here ? What am I missing?\n \n Sorry if my questions are ingenuous. I just want to better understand the vietnamese society.\n    submitted by    /u/elmirak  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzuwc3/vietnamese_entrepreneurship_is_fascinating_i_have/",
+          "publishedOn": "2022-12-31T14:09:48.000Z",
+          "wordCount": 20530,
+          "title": "Vietnamese entrepreneurship is fascinating. I have a few questions:",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zztg3e/cursed_image_or_sth/",
+          "author": null,
+          "description": "submitted by    /u/hallidayjames11  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zztg3e/cursed_image_or_sth/",
+          "publishedOn": "2022-12-31T12:50:50.000Z",
+          "wordCount": 17993,
+          "title": "cursed image or sth",
+          "imageUrl": "https://preview.redd.it/wh5jw7kku99a1.jpg?auto=webp&s=e73acc1174ef5af686e9aebcaca2c6919591d838"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzsauo/how_is_new_years_even_dec_31_celebrate_in_vietnam/",
+          "author": null,
+          "description": "I understand that Tết is the more traditional New Year celebration, but have any traditions developed around New Year’s Eve? Perhaps there is a special dish people eat, special programming on TV, certain social outings...a particularly popular kind of firework?\n    submitted by    /u/keenonkyrgyzstan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzsauo/how_is_new_years_even_dec_31_celebrate_in_vietnam/",
+          "publishedOn": "2022-12-31T11:41:08.000Z",
+          "wordCount": 19005,
+          "title": "How is New Year's Even (Dec. 31) celebrate in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzqnad/places_for_nightlife_in_hochiminh_city/",
+          "author": null,
+          "description": "We are a group of friends travelling to hochiminh city for 4 days between 15 january to 19 january. We want to know if everything will be opened during this time, will crowd be there? As one of my friend told me that hochiminh will be dull between these dates due to new year. Is it true? Also, we would like to know some happening places e.g pubs, bars in the\n    submitted by    /u/siddharth81286  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzqnad/places_for_nightlife_in_hochiminh_city/",
+          "publishedOn": "2022-12-31T09:56:19.000Z",
+          "wordCount": 17925,
+          "title": "Places for nightlife in Hochiminh city",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzo9bm/survived_another_year/",
+          "author": null,
+          "description": "submitted by    /u/ShadowbanRevenant  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzo9bm/survived_another_year/",
+          "publishedOn": "2022-12-31T07:14:57.000Z",
+          "wordCount": 17365,
+          "title": "Survived another year.",
+          "imageUrl": "https://preview.redd.it/pmur0hhxo69a1.jpg?auto=webp&s=b656a6e99c07540c7f85389ca20b6904269625a2"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzl0cr/vietnamese_boy_names/",
+          "author": null,
+          "description": "We are expecting a boy soon and have a hard time deciding on a Vietnamese name for him. Our family doesn't live in Vietnam but has roots there, so I really want our child to have a little bit of his culture with him.\n Names we have considered are Minh Anh and Tuan Anh. Tho, I find Minh Anh to be more on the feminine side. \n I like the two word names with Anh being the second one if possible (a family thing) , but not necessary. Any other suggestions?\n    submitted by    /u/PixelPicturial  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzl0cr/vietnamese_boy_names/",
+          "publishedOn": "2022-12-31T04:11:37.000Z",
+          "wordCount": 19420,
+          "title": "Vietnamese boy names?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/zzkl44/spring_rolls_in_hanoi/",
+          "author": null,
+          "description": "Hi! Does anyone know a good place where you can make your own fresh springrolls in Hanoi? Like DIY resraurant where they put some ingrediënts on your table and you roll them yourself. Thanks!\n    submitted by    /u/planterfanten  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/zzkl44/spring_rolls_in_hanoi/",
+          "publishedOn": "2022-12-31T03:50:00.000Z",
+          "wordCount": 17679,
+          "title": "Spring rolls in Hanoi",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/zze89f/vietnamese_citizenship_vs_passport/",
           "author": null,
@@ -6167,186 +6467,6 @@
           "wordCount": 18574,
           "title": "11th-graders in public schools in Vietnam are all taught how to disassemble and reassemble military rifles like AK-47",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zajroo/vietnamese_chatting_and_shortforms/",
-          "author": null,
-          "description": "I try to have conversations with vietnamese people via chat, while still learning vietnamese right now. I am mostly able to understand them, but still have some struggles. To name a few examples, which I coudn't find answers for:\n  \nHow do I agree with someone in an informal way and not sound too formal, especially to people who I refer to as \"em\"? Is \"Dạ\" and \"Vâng\" too formal? While \"Ừ\" or \"À\" kinda seems too inappropriate and informal.\n \nWhat does \"nek\" and \"nè\" mean? I read somewhere that these are the same, but I still don't really know what they exactly mean.\n \nWhat is the difference between \"nha\" and \"nhé\"?\n \nWhat is the difference between \"rùi\" and \"rồi\"\n \nIs \"á\", \"ợ\", \"ah\" at the end of the sentence the same as \"ạ\"? Why not just use \"ạ\" if it is the case.\n \nI'd like to know more shortforms which are very common in chatting. It would be great if you guys could name me some.\n \n My goal is to become more natural and fluent in vietnamese. Hope someone can help. Thanks in advance. :)\n    submitted by    /u/BotYurii  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zajroo/vietnamese_chatting_and_shortforms/",
-          "publishedOn": "2022-12-02T11:40:24.000Z",
-          "wordCount": 16347,
-          "title": "Vietnamese chatting and shortforms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zahugh/i_was_moved_and_in_awe_when_fininally_had_a/",
-          "author": null,
-          "description": "submitted by    /u/lanhuevietnam  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zahugh/i_was_moved_and_in_awe_when_fininally_had_a/",
-          "publishedOn": "2022-12-02T10:10:17.000Z",
-          "wordCount": 16029,
-          "title": "I was moved and in awe when fininally had a chance to admire the biggest oil painting in Southeast Asia. It depicts the Điện Biên Phủ Campaign/Battle. It took 200 painters and reseachers to complete this painting in 9 years.",
-          "imageUrl": "https://external-preview.redd.it/usxSFW1SykPVV05MzGbu0Pz4vj1Lvc8II4vJmDa_8F0.png?format=pjpg&auto=webp&s=617b11e3f5ed9c71f649999415bc9003fc3d7afc"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zagu35/anyone_visiting_munich_soon/",
-          "author": null,
-          "description": "Basically the headline. Do you know anybody who is visiting Munich from vietnam within the next months? If so, would this Person maybe be willing to bring back a certain brand of cigarettes (Camel Black Tea)? They are of high sentimental value to me and this person would absolutely make my day/month/even year. Payment could be arranged through your preferred method. Thanks in advance\n    submitted by    /u/Lichtbogenflut  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zagu35/anyone_visiting_munich_soon/",
-          "publishedOn": "2022-12-02T09:14:46.000Z",
-          "wordCount": 15478,
-          "title": "Anyone visiting Munich soon?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zag4mb/can_a_business_charge_me_more_to_use_an/",
-          "author": null,
-          "description": "I have been in Vietnam for two weeks. I pay cash most of the time but I prefer to pay with card for big expenses to don't pay the fees when I use an ATM. I paid with card in supermarkets for small stuff, like 10k for a bottle of water, and this has never been a problem.\n I gave been told today by my hotel that I'll be charged a 3% fee to use my card (big hotel chain, the bill is 1.8M). \n Is this legal and common?I am pretty sure that in my country it would be considered illegal.\n I\n    submitted by    /u/lollo27  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zag4mb/can_a_business_charge_me_more_to_use_an/",
-          "publishedOn": "2022-12-02T08:34:08.000Z",
-          "wordCount": 18149,
-          "title": "Can a business charge me more to use an international card?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zab2g2/%C4%91%C3%A1_ba_ch%E1%BB%93ng_in_%C4%91%E1%BB%93ng_nai/",
-          "author": null,
-          "description": "submitted by    /u/Matthew__19  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zab2g2/%C4%91%C3%A1_ba_ch%E1%BB%93ng_in_%C4%91%E1%BB%93ng_nai/",
-          "publishedOn": "2022-12-02T04:16:09.000Z",
-          "wordCount": 15370,
-          "title": "Đá Ba Chồng in Đồng Nai",
-          "imageUrl": "https://preview.redd.it/52uj7e1bcg3a1.png?auto=webp&s=f0b049640748c8c541ef2c5b36237ed17783eb90"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zab0s6/gifts_for_biological_family/",
-          "author": null,
-          "description": "Hey everyone, \n Long story short, I was put up for adoption to live a better life in America when I was 2 (mistake child, have 2 biological brothers 10+ years older than me). I grew up in a great family in the states, but I’ve always wanted to go find my biological family. Right before COVID I traveled to Vietnam for 30 days to try and find my family. I found them after a few days and lived with them for the remainder of my time there and I’ve gotten very close to them these past couple years.\n I am going to visit them here soon for Tet and want to give them money and gifts. How much money should I give them (enough to be generous, but not enough for them to rely on me)? And what gifts should I bring? My two brothers have 2 kids each and they are all mid-teens, so I bought each family laptops for school / college. I was thinking candy? I had a bunch of candy that I had brought last time and the kids loved it. \n Thanks in advance!\n    submitted by    /u/Icy_Beautiful1683  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zab0s6/gifts_for_biological_family/",
-          "publishedOn": "2022-12-02T04:14:09.000Z",
-          "wordCount": 16870,
-          "title": "Gifts for biological family",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/za9qem/usage_of_h%C3%B4ng_instead_of_kh%C3%B4ng_northsouth_accent/",
-          "author": null,
-          "description": "I was looking up the differences between north and southern accents, and I found a post where someone said that no is không/hông in north/south, but I can’t find anything else referencing this\n But I’ve also heard hông biết used for “I don’t know” and a YT video explained using that for “I don’t know”\n So I’m basically asking is hông ever used (outside of hông biết) ? Is it just an alternative pronunciation of không?\n    submitted by    /u/quasituna  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/za9qem/usage_of_h%C3%B4ng_instead_of_kh%C3%B4ng_northsouth_accent/",
-          "publishedOn": "2022-12-02T03:18:43.000Z",
-          "wordCount": 16845,
-          "title": "Usage of hông (instead of không)? North/South accent difference?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/za7k66/motorbike_lady_cruises_hanoi_with_13_poodles/",
-          "author": null,
-          "description": "submitted by    /u/Sad_Year5694  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/za7k66/motorbike_lady_cruises_hanoi_with_13_poodles/",
-          "publishedOn": "2022-12-02T01:53:14.000Z",
-          "wordCount": 16308,
-          "title": "Motorbike lady cruises Hanoi with 13 poodles. Seventy-one-year-old hairdresser Nguyen Thi Kim Quy is happy, loves, and cares for 13 poodles she drives around Hanoi on her motorbike.",
-          "imageUrl": "https://external-preview.redd.it/Ar8aRsQWR4cMoB0W4eb-N5xbNCAFty4u2f5HLjSnP1I.png?format=pjpg&auto=webp&s=7ec23626f4f8110a053e41e9ffacf6cd6ff4478b"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/za6gu8/resources_about_the_vietnam_war_from_the/",
-          "author": null,
-          "description": "Hello everyone, \n I'm somewhat pretty interested on the conflict called the Vietnam War, I watched/read quite a few things about it and I used to live in HCMC. The documentary of Ken Burns was super interesting but to me it lacks of the Vietnamese people's experience at the time. If you have some ressources to share about it (even in Vietnamese language) I would be grateful :)\n The conflict with the french is interesting too, if you have anything about it please send it my way. Peace.\n    submitted by    /u/SaigonHPNS  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/za6gu8/resources_about_the_vietnam_war_from_the/",
-          "publishedOn": "2022-12-02T01:10:21.000Z",
-          "wordCount": 18563,
-          "title": "Resources about the Vietnam War from the Vietnamese point of view",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z9zmt0/ha_giang_loop_in_december/",
-          "author": null,
-          "description": "I'm planning to go to Vietnam in December and was wondering if its worth doing the Ha Giang loop late December. I am from Canada but still would like the trip to be enjoyable so not sure if it's worth checking out at that time. \n Has anyone here done it in December?\n    submitted by    /u/13cyah  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z9zmt0/ha_giang_loop_in_december/",
-          "publishedOn": "2022-12-01T21:01:28.000Z",
-          "wordCount": 15431,
-          "title": "Ha Giang loop in December",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z9vo0b/how_to_obtain_birth_certificate_for_viet_kieu/",
-          "author": null,
-          "description": "Is there any way to remotely obtain a birth certificate in Vietnam? Wife was born in Saigon and fled as a young child (boat people). They left all documents behind. She was raised in the US and speaks only limited Vietnamese. \n What options are there to obtain a birth certificate from the authorities in HCMC?\n    submitted by    /u/ProblemChild888  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z9vo0b/how_to_obtain_birth_certificate_for_viet_kieu/",
-          "publishedOn": "2022-12-01T18:36:53.000Z",
-          "wordCount": 16432,
-          "title": "How to obtain birth certificate for Viet kieu living in US.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z9rq97/how_to_returnrefund_store_purchase/",
-          "author": null,
-          "description": "I bought some juice at the store today and once I opened it i realized that it must have gone bad. The dates on the package are fine, but the juice smells and tastes really bad. Is it possible to return it to the store? I don't have a receipt and bought it at a corner store.\n    submitted by    /u/sinsamantha  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z9rq97/how_to_returnrefund_store_purchase/",
-          "publishedOn": "2022-12-01T16:09:01.000Z",
-          "wordCount": 15917,
-          "title": "How to return/refund store purchase?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z9r8ya/in_hoi_an_i_have_heard_a_lot_about_velvet/",
-          "author": null,
-          "description": "submitted by    /u/Rassadeck  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z9r8ya/in_hoi_an_i_have_heard_a_lot_about_velvet/",
-          "publishedOn": "2022-12-01T15:50:02.000Z",
-          "wordCount": 15267,
-          "title": "In Hoi An, I have heard a lot about Velvet nightclub. How is it ? And what is the price like? Need honest review of the place.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z9qijt/im_planning_on_going_back_to_vietnam_next_year_on/",
-          "author": null,
-          "description": "So I was born and raised in vietnam and lived there for 11 years until I moved to US. When I was there I didn’t mind the heat as much but I noticed my relative sweating bucket when they came back to visit. Now that I lived in US for majority of my life and finally decide to come back, I figured I’m gonna struggle from the heat, so what can I do about it? \n Also what is the best place in vietnam with the best weather? One of my destination is Hoi An for a wedding but I’m open to suggestion for more places as I haven’t really planned the trip out yet.\n    submitted by    /u/misterasia555  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z9qijt/im_planning_on_going_back_to_vietnam_next_year_on/",
-          "publishedOn": "2022-12-01T15:20:47.000Z",
-          "wordCount": 17313,
-          "title": "I’m planning on going back to vietnam next year on October, what can I do about the heat?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z9p75h/psa_ios_16_finally_has_vietnamese_texttospeech/",
-          "author": null,
-          "description": "I’m happy about this. I’m working on an Anki deck to help learn VN, and iOS’s lack of VN text-to-speech was an obstacle. Thanks, Apple!\n    submitted by    /u/megabulk  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z9p75h/psa_ios_16_finally_has_vietnamese_texttospeech/",
-          "publishedOn": "2022-12-01T14:26:28.000Z",
-          "wordCount": 16140,
-          "title": "PSA: iOS 16 finally has Vietnamese text-to-speech",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z9p2gg/my_apartment_becomes_a_jungle/",
-          "author": null,
-          "description": "I live on the 18th floor, yet all kind of bugs keep appearing at my house. Flies visit me the most, and they are always as big as a bee. I tried closing the windows, but it seems that they've already laid eggs in my house. Recently, I've found more and more little flies and other weird bugs near the kitchen and the trash can. How to get rid of them once and for all? Traps and poison are also good, but I think some of the insects have evolved, the cockroaches wouldn't fall for the classic Japanese capsule poison anymore help\n    submitted by    /u/goodbyechinchin  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z9p2gg/my_apartment_becomes_a_jungle/",
-          "publishedOn": "2022-12-01T14:20:50.000Z",
-          "wordCount": 17957,
-          "title": "My apartment becomes a jungle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z9npqv/again_guys_which_one_do_you_choose_for_my_next/",
-          "author": null,
-          "description": "View Poll\n    submitted by    /u/Baosia  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z9npqv/again_guys_which_one_do_you_choose_for_my_next/",
-          "publishedOn": "2022-12-01T13:20:28.000Z",
-          "wordCount": 16500,
-          "title": "Again guys, which one do you choose for my next next drawing?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/z9nkx6/review_phimblack_swan/",
-          "author": null,
-          "description": "mọi người có ai xem phim\"black swan\" chưa ạ, chi mình xin tí bình luận về mặt huyền bí của phim, nhất là doppelganger, mình chưa hiểu lắm.\n    submitted by    /u/cutejeans_twe  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/z9nkx6/review_phimblack_swan/",
-          "publishedOn": "2022-12-01T13:14:20.000Z",
-          "wordCount": 15160,
-          "title": "review phim\"Black Swan\"",
-          "imageUrl": null
         }
       ]
     },
@@ -7004,46 +7124,6 @@
           "wordCount": 1587,
           "title": "CSS Pseudo-Classes – How the :is Pseudo-Class Works with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/1.-is.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/freecodecamp-2022-usage-statistics/",
-          "author": "Quincy Larson",
-          "description": "That's 8,000 years. That's a lot of learning. 2022 has been a massive year for the freeCodeCamp community. People around the world are using freeCodeCamp to expand their skills and advance their careers. Here's a breakdown of site usage across the four main pillars of the freeCodeCamp community: /learn (the",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-2022-usage-statistics/",
-          "publishedOn": "2022-12-02T00:22:33.000Z",
-          "wordCount": 1117,
-          "title": "People Spent 4 Billion Minutes Learning on freeCodeCamp in 2022",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/freeCodeCamp_historic_usage_-_Google_Sheets.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/",
-          "author": "Quincy Larson",
-          "description": "2022 was a massive year for the freeCodeCamp community:  * The community helped millions of people around the world learn math,    programming, and computer science. We also helped them stay motivated and    moving forward toward their goals.  * We published thousands of",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/",
-          "publishedOn": "2022-12-02T00:21:15.000Z",
-          "wordCount": 2266,
-          "title": "Announcing freeCodeCamp's 2022 Top Contributors",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/thomas-habr-wprOCzLIEYI-unsplash--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use algorithms in programming to solve specific problems through a set of precise instructions or procedures. Dijkstra's algorithm is one of many graph algorithms you'll come across. It is used to find the shortest path from a fixed node to all other nodes in a graph. There are",
-          "link": "https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/",
-          "publishedOn": "2022-12-01T20:57:53.000Z",
-          "wordCount": 2352,
-          "title": "Dijkstra's Algorithm – Explained with a Pseudocode Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/michael-dziedzic-vLmo8kAVVt4-unsplash--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/sql-insert-statement/",
-          "author": "Annoh Karlgusta",
-          "description": "In this tutorial, you'll learn how to use the SQL INSERT statement. We'll discuss the syntax of INSERT, and then we'll use an example to show all the different ways you can use INSERT. We'll also combine it with other helpful clauses to perform more complex operations. Prerequisites  *",
-          "link": "https://www.freecodecamp.org/news/sql-insert-statement/",
-          "publishedOn": "2022-12-01T18:54:21.000Z",
-          "wordCount": 2312,
-          "title": "SQL INSERT Statement – How to Insert Data into a Table in SQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/SQL-Insert-Statement.png"
         }
       ]
     }
