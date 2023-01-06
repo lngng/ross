@@ -12,6 +12,26 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266303C4B0C.HighSurfAdvisory.12663057BAE0CA.LOXCFWLOX.9d0f5f1174037a114de56ed0b08a51e2",
+          "author": null,
+          "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 6 PM PST FRIDAY... * WHAT...Large breaking waves of 9 to 13 feet with local sets to 15 feet and dangerous rip currents. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County Beaches. * WHEN...Until 6 PM PST Friday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266303C4B0C.HighSurfAdvisory.12663057BAE0CA.LOXCFWLOX.9d0f5f1174037a114de56ed0b08a51e2",
+          "publishedOn": "2023-01-05T22:19:00.000Z",
+          "wordCount": 235,
+          "title": "High Surf Advisory issued January 05 at 2:19PM PST until January 06 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266303C4594.WinterWeatherAdvisory.1266304914E0CA.LOXWSWLOX.39bb1dd3dbbaf1e9107637e5169ed994",
+          "author": null,
+          "description": "...WINTER WEATHER ADVISORY IN EFFECT UNTIL 10 PM PST THIS EVENING... ...WINTER STORM WARNING IS CANCELLED... * WHAT...Moderate snow and gusty winds. Additional snow accumulations 2 to 5 inches are expected for elevations above 6,000 feet, and up to 2 inches for elevations down to 5,000",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266303C4594.WinterWeatherAdvisory.1266304914E0CA.LOXWSWLOX.39bb1dd3dbbaf1e9107637e5169ed994",
+          "publishedOn": "2023-01-05T22:05:00.000Z",
+          "wordCount": 225,
+          "title": "Winter Weather Advisory issued January 05 at 2:05PM PST until January 05 at 10:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266302CBEF8.FloodWatch.1266303BA760CA.LOXFFALOX.b4abb92e2b71fca6e172f5a3d13a78fa",
           "author": null,
           "description": "...FLOOD WATCH REMAINS IN EFFECT FROM 10 PM PST THIS EVENING THROUGH THURSDAY AFTERNOON... * WHAT...Flooding caused by excessive rainfall is possible within the entire Watch area. Areas of most concern include the recent burn areas like the Fish and Lake burns, urban roads and freeways, and in creeks and streams.",
@@ -618,6 +638,236 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/104g2mu/i_have_acquired_a_pair_of_mint_condition_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/KillerBlueWaffles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/104g2mu/i_have_acquired_a_pair_of_mint_condition_vietnam/",
+          "publishedOn": "2023-01-06T00:59:37.000Z",
+          "wordCount": 15163,
+          "title": "I have acquired a pair of mint condition Vietnam village radios. Does anybody have any resources on getting them appraised?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/104f8w8/hey_guys_so_i_normally_travel_with_this_duffle/",
+          "author": null,
+          "description": "submitted by    /u/Asian-GeorgeStrait  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/104f8w8/hey_guys_so_i_normally_travel_with_this_duffle/",
+          "publishedOn": "2023-01-06T00:24:06.000Z",
+          "wordCount": 15411,
+          "title": "Hey guys, so I normally travel with this duffle bag and im thinking about bringing it to Vietnam but my Asian mother, brother was like nope you not. She said that i will be a target for different social problems in Vietnam. So what yall think? Bring it or go get a carryon suitcase to be safe?",
+          "imageUrl": "https://preview.redd.it/z9mcx8jtycaa1.jpg?auto=webp&s=867a9193dd978e69eb49979eff3bf5aaf8c8067d"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/104f27b/halfday_hotel/",
+          "author": null,
+          "description": "I have the dreaded midnight flight out of HCMC, and need a place to stow (sp?) luggage and take a nap/ last shower...etc. \n Do Half-Day Hotels exist or am I better off just getting a cheapie budget hotel for a full night's pay? Silly question but you never know what Redditors can offer up.\n    submitted by    /u/MartinMichel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/104f27b/halfday_hotel/",
+          "publishedOn": "2023-01-06T00:16:17.000Z",
+          "wordCount": 15229,
+          "title": "Half-Day Hotel?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/104ehkr/volunteering_in_vietnam/",
+          "author": null,
+          "description": "I'm an ESL teacher and mental health youth worker \n Just wondering if there's any good places to look into volunteering? I'm open to anything, just will have a bit of free time on my hands.\n But don't really want to pay for the experience, prefer somewhere in or near Hanoi.\n    submitted by    /u/beFair8842  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/104ehkr/volunteering_in_vietnam/",
+          "publishedOn": "2023-01-05T23:53:03.000Z",
+          "wordCount": 15221,
+          "title": "Volunteering in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1049c3y/vietnamese_food_is_one_of_the_best/",
+          "author": null,
+          "description": "submitted by    /u/HappyLife-Food  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1049c3y/vietnamese_food_is_one_of_the_best/",
+          "publishedOn": "2023-01-05T20:33:29.000Z",
+          "wordCount": 15459,
+          "title": "Vietnamese food is one of the best",
+          "imageUrl": "https://external-preview.redd.it/_04-IaFpCyoVmhTR-UKP8QH38dlLHtBP9d6lECefoEk.jpg?auto=webp&s=b376736399b4c26bc4ba2aed7d43675602bfc42f"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1048vrg/travelling_to_vietnam_in_the_end_of_january_how/",
+          "author": null,
+          "description": "What kind of clothes(jackets or cardigans)? Is it really cold in Hanoi? \n \nSuggest me some amazing clubs near Halong Bay or Da Nang maybe. \n \nI’ll be 2 days in Ha Long Bat, 2 Days in Hanoi and 3 days in Da Nang, what all should I keep in mind.\n \nSome amazing adventure sports as we are a group of 6 guys travelling.\n \n Thanks!\n    submitted by    /u/muppal88  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1048vrg/travelling_to_vietnam_in_the_end_of_january_how/",
+          "publishedOn": "2023-01-05T20:15:57.000Z",
+          "wordCount": 15988,
+          "title": "Travelling to Vietnam in the end of January. How should I plan?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1048lid/travelling_vietnam_xr150_vs_honda_future_125/",
+          "author": null,
+          "description": "I’d like to hear your opinion on the Future 125 vs the XR150 to travel Vietnam. I won’t be doing any off road trails and plan on travelling the north and venturing into Laos and Cambodia after. 99% of the time I’ll be travelling without a passenger. I’m 185cm(6’0) & 75kg(165lbs); I’ll be carrying around 10kg of luggage. I’m leaning towards the future 125: It’s semi auto, lighter than the 150 and the parts are more widely available. Is the 125 sufficient or would you recommend the 150?\n    submitted by    /u/leodunz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1048lid/travelling_vietnam_xr150_vs_honda_future_125/",
+          "publishedOn": "2023-01-05T20:04:32.000Z",
+          "wordCount": 16695,
+          "title": "Travelling Vietnam: xr150 vs Honda Future 125?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1048ed8/coming_to_vietnam_in_february/",
+          "author": null,
+          "description": "Hi all, me and my partner are coming to vietnam in February and are pretty prepared, but still unsure about what vaccinations are totally necessary as there's so much variation across different sources. We are currently up to date with Hep A, Tetanus, Rabies and Typhoid, as well as the usual vaccines you get as a child in the UK (Mumps, Measles, Rubella, Polio, HPV) Is there anything else that anyone would recommend? We can't currently find anywhere that is offering Japanese Encephalitis vaccinations, so I'm also wondering if we will be safe to travel without this one? Any advice is greatly appreciated!\n    submitted by    /u/lil_holls  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1048ed8/coming_to_vietnam_in_february/",
+          "publishedOn": "2023-01-05T19:56:59.000Z",
+          "wordCount": 18928,
+          "title": "Coming to Vietnam in February",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10487i4/been_hoan_kiemold_quarters_last_3_yrs_and_be_back/",
+          "author": null,
+          "description": "submitted by    /u/Nearby-Local5067  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10487i4/been_hoan_kiemold_quarters_last_3_yrs_and_be_back/",
+          "publishedOn": "2023-01-05T19:49:10.000Z",
+          "wordCount": 15926,
+          "title": "Been Hoan Kiem/Old Quarters last 3 yrs and be back soon. Any good street/area to recommend for family with kids. Best if near to best street food like banh mi, pho etc. Not restaurant or cafe.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1046o9z/i_want_to_live_in_vietnam_for_a_couple_of_years/",
+          "author": null,
+          "description": "I will be graduating this semester (in IT) and long term I would like to do a working holiday in Australia and after it work in Vietnam. The reasons why is that I want to become more fluent in Vietnamese (my skills are okay; I can say basic stuff but they aren't great) and have the experience of living in Viet Nam. I do plan to travel to Viet Nam for a month before all of this. I also want to have experience with living in other countries. \n I am not sure if I am delusional so please tell me if I am. I am taking italki courses as well as a Vietnamese class at my university.\n    submitted by    /u/throwaway_071478  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1046o9z/i_want_to_live_in_vietnam_for_a_couple_of_years/",
+          "publishedOn": "2023-01-05T18:48:30.000Z",
+          "wordCount": 16084,
+          "title": "I want to live in Vietnam for a couple of years, how would I go about that?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1042n9z/hi/",
+          "author": null,
+          "description": "submitted by    /u/Extra_Concert2531  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1042n9z/hi/",
+          "publishedOn": "2023-01-05T16:06:03.000Z",
+          "wordCount": 15090,
+          "title": "hi",
+          "imageUrl": "https://preview.redd.it/8smfnh9yhaaa1.jpg?auto=webp&s=75481c69b6aa479d5ffc2d0e9365c5908effbec9"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10423ud/hello_all/",
+          "author": null,
+          "description": "submitted by    /u/MongVietnam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10423ud/hello_all/",
+          "publishedOn": "2023-01-05T15:43:57.000Z",
+          "wordCount": 15138,
+          "title": "Hello all ☺️",
+          "imageUrl": "https://external-preview.redd.it/ibu9nA277_j_dSUBH6gkcmvtJfD0cZGpt8LwmhWbuUc.png?format=pjpg&auto=webp&s=3260c10827b477e41e9fef861abca15d110a34f3"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10407m0/which_vietnamese_bank_do_you_prefer_and_why/",
+          "author": null,
+          "description": "I wanna open my first bank account in Vietnam but I'm lost inside tons of choices. I've been reading articles and watching YouTube videos but I can't make up my mind yet. I would appreciate it if you can guide me to choose the suitable bank account for me.\n    submitted by    /u/Haunting_Relative_30  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10407m0/which_vietnamese_bank_do_you_prefer_and_why/",
+          "publishedOn": "2023-01-05T14:27:09.000Z",
+          "wordCount": 15676,
+          "title": "which Vietnamese bank do you prefer? and why??",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/103vs2y/barack_obama_and_anthony_bourdain_enjoying_a_6/",
+          "author": null,
+          "description": "submitted by    /u/dementedmaster  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/103vs2y/barack_obama_and_anthony_bourdain_enjoying_a_6/",
+          "publishedOn": "2023-01-05T10:32:18.000Z",
+          "wordCount": 15706,
+          "title": "Barack Obama and Anthony Bourdain enjoying a $6 dollar meal and a beer in Hanoi, Vietnam. The table they ate at was later enclosed in glass and put in display.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/103v8al/is_it_typical_for_men_to_drive_around_with_trucks/",
+          "author": null,
+          "description": "submitted by    /u/Jackjackyack  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/103v8al/is_it_typical_for_men_to_drive_around_with_trucks/",
+          "publishedOn": "2023-01-05T09:58:23.000Z",
+          "wordCount": 16864,
+          "title": "Is it typical for men to drive around with trucks (in Hoi an) and break the locks of bicycles and take them? is there a reasonable explanation for this?",
+          "imageUrl": "https://preview.redd.it/723x8d5do8aa1.jpg?auto=webp&s=e923940f9b893a5fef50db3579110d6d8cd6b18f"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/103ugjh/found_this_bill_in_my_old_wallet_from_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/ApartGlass1198  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/103ugjh/found_this_bill_in_my_old_wallet_from_vietnam/",
+          "publishedOn": "2023-01-05T09:08:18.000Z",
+          "wordCount": 16049,
+          "title": "found this bill in my old wallet from Vietnam trip, what can I buy with this?",
+          "imageUrl": "https://preview.redd.it/8cmftnmff8aa1.jpg?auto=webp&s=4fff9ec83a815aba857b9a031931c63a31cf2afa"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/103u8tq/i_am_surprised_how_hard_it_is_to_find_100_milk_in/",
+          "author": null,
+          "description": "submitted by    /u/immersive-matthew  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/103u8tq/i_am_surprised_how_hard_it_is_to_find_100_milk_in/",
+          "publishedOn": "2023-01-05T08:55:05.000Z",
+          "wordCount": 17204,
+          "title": "I am surprised how hard it is to find 100% milk in Vietnam. You can find it, but this is certainly not it. What is up with Vinamilk saying 100% when not? Is this legal here?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/103u0sq/this_aint_gonna_fly/",
+          "author": null,
+          "description": "submitted by    /u/Beanbaybee1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/103u0sq/this_aint_gonna_fly/",
+          "publishedOn": "2023-01-05T08:40:49.000Z",
+          "wordCount": 15178,
+          "title": "This ain’t gonna fly",
+          "imageUrl": "https://preview.redd.it/z40n6r3ja8aa1.jpg?auto=webp&s=3388b17daee4bf7c883484027bc605cfe77087be"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/103syqn/anyone_know_where_i_can_buy_this_plushie_in_ho/",
+          "author": null,
+          "description": "submitted by    /u/Meemu-Pootis  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/103syqn/anyone_know_where_i_can_buy_this_plushie_in_ho/",
+          "publishedOn": "2023-01-05T07:35:58.000Z",
+          "wordCount": 15270,
+          "title": "Anyone know where I can buy this plushie in Ho Chi Minh City or Da Nang ?",
+          "imageUrl": "https://preview.redd.it/874j3vmyy7aa1.jpg?auto=webp&s=6e0e8261776462be076445d6d4a39e35ee4c4019"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/103snkq/vietjets_extremely_generous_travel_insurance/",
+          "author": null,
+          "description": "For every 6 hours your plane is in a hijack situation, you are entitled to 200,000 VND compensation. [Edited because I missed the *1000 VND, but still don't think 200,000 VND is much compensation for 6 hours of hijacking...]\n https://preview.redd.it/regda25xd6aa1.png?width=939&format=png&auto=webp&s=5a2a9ad3d1747ee2f310b3c3b8e741832a39a7d1\n    submitted by    /u/legatrixx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/103snkq/vietjets_extremely_generous_travel_insurance/",
+          "publishedOn": "2023-01-05T07:17:38.000Z",
+          "wordCount": 17046,
+          "title": "VietJet's extremely generous travel insurance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/103qraq/lots_of_fake_reviews_on_google_maps/",
+          "author": null,
+          "description": "Is this a common thing in Vietnam? I admittedly haven't been travelling a whole lot since the pandemic so haven't been paying much attention to other places. But it seems a lot businesses have what look to be obviously fake 5 star reviews on google maps, far more so than other places (Mostly accounts that have only given 1 review ever). It's hard to gauge what businesses are reliable, as it seems so many businesses do it, even ones that are 'good' or have been around for a long time. I've also seen a few 1 start reviews that seem like smears, which may somewhat explain why businesses try to counter it\n Are there other websites people check to find how reliable a business is?\n    submitted by    /u/bliordi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/103qraq/lots_of_fake_reviews_on_google_maps/",
+          "publishedOn": "2023-01-05T05:32:59.000Z",
+          "wordCount": 15975,
+          "title": "Lots of fake reviews on google maps?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/103q4l9/ive_never_seen_protesters_in_vietnam_before/",
+          "author": null,
+          "description": "submitted by    /u/UsaToVietnam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/103q4l9/ive_never_seen_protesters_in_vietnam_before/",
+          "publishedOn": "2023-01-05T05:00:45.000Z",
+          "wordCount": 18313,
+          "title": "I've never seen protesters in Vietnam before. Anyone have more info?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/103orvh/why_are_there_so_many_coffee_shops_in_vietnam/",
+          "author": null,
+          "description": "View Poll\n    submitted by    /u/Alessio2810  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/103orvh/why_are_there_so_many_coffee_shops_in_vietnam/",
+          "publishedOn": "2023-01-05T03:54:10.000Z",
+          "wordCount": 16433,
+          "title": "Why are there so many coffee shops in Vietnam?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/103k21p/vietnamese_boy_trapped_in_35metre_concrete_pillar/",
           "author": null,
@@ -6387,256 +6637,6 @@
           "wordCount": 17322,
           "title": "Bars open for the World Cup 2am-4am.",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zf07gc/is_there_a_secular_buddhism_group_in_vietnam/",
-          "author": null,
-          "description": "submitted by    /u/sayaxat  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zf07gc/is_there_a_secular_buddhism_group_in_vietnam/",
-          "publishedOn": "2022-12-07T12:41:57.000Z",
-          "wordCount": 17428,
-          "title": "Is there a secular Buddhism group in Vietnam? People who follow Buddhism as a philosophy and not as a religion.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zeyvem/vietnams_first_predator_catcher/",
-          "author": null,
-          "description": "If anyone has ever seen the show \"To Catch A Predator\" then you have an idea what this is about. Adults pose as children on the internet to find if adults still wish to meet them even after knowing the age. Often times, the age does not deter these people and they still come out to meet. Well, I launched the first ever group of its kind in Vietnam. Keeping the community safe and protecting kids is what it is all about.\n    submitted by    /u/SaigonSterling  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zeyvem/vietnams_first_predator_catcher/",
-          "publishedOn": "2022-12-07T11:30:16.000Z",
-          "wordCount": 17634,
-          "title": "Vietnam's First Predator Catcher",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zeyt6n/cho_b%E1%BA%A5t_c%E1%BB%A9_ai_s%E1%BB%91ng_%E1%BB%9F_vi%E1%BB%87t_nam_to_anyone_living_in/",
-          "author": null,
-          "description": "I just returned from a short holiday in VietNam and whilst there absolutely loved the Sting Energy Drink, It is very hard to get this drink in Australia, So I am looking for someone who could buy some Sting Energy Drink and send it to Australia, If interested please send me how much it would cost to send over 20 cans or more what ever amount would be easiest and ill be in contact \n ​\n Tôi vừa trở về sau kỳ nghỉ ngắn ngày ở Việt Nam và ở đó cực kỳ yêu thích Nước tăng lực Sting, Rất khó để mua được loại nước uống này ở Úc, Vì vậy, tôi đang tìm người có thể mua Nước tăng lực Sting và gửi về Úc, Nếu quan tâm vui lòng gửi cho tôi chi phí bao nhiêu để gửi trên 20 lon trở lên số lượng bao nhiêu sẽ dễ dàng nhất và tôi sẽ liên lạc \n    submitted by    /u/TommyTommato  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zeyt6n/cho_b%E1%BA%A5t_c%E1%BB%A9_ai_s%E1%BB%91ng_%E1%BB%9F_vi%E1%BB%87t_nam_to_anyone_living_in/",
-          "publishedOn": "2022-12-07T11:26:44.000Z",
-          "wordCount": 16894,
-          "title": "CHO BẤT CỨ AI SỐNG Ở VIỆT NAM / TO ANYONE LIVING IN VIETNAM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zexglv/mustdos_in_saigonhochiminh/",
-          "author": null,
-          "description": "I’m here with my family for about two weeks and we’ll be in and out of the city. Are there any places we should definitely check out? Food, restaurants, malls, fun places, museums, etc. Thank you! \n Tôi ở đây với gia đình trong khoảng hai tuần và chúng tôi sẽ ra vào thành phố. Có bất kỳ nơi nào chúng ta chắc chắn nên kiểm tra? Thực phẩm, nhà hàng, trung tâm thương mại, địa điểm vui chơi, bảo tàng, v.v. Xin cảm ơn!\n    submitted by    /u/UndyingLocomotive  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zexglv/mustdos_in_saigonhochiminh/",
-          "publishedOn": "2022-12-07T10:08:47.000Z",
-          "wordCount": 17069,
-          "title": "Must-Do’s in Saigon/HoChiMinh?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zex4yk/what_is_the_postcode_for_the_following_address/",
-          "author": null,
-          "description": "Quang Trung Street, Chu Ty Town, Duc Co District, Gia Lai Province\n    submitted by    /u/icypocket  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zex4yk/what_is_the_postcode_for_the_following_address/",
-          "publishedOn": "2022-12-07T09:49:17.000Z",
-          "wordCount": 16554,
-          "title": "What is the postcode for the following address?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zew1xl/socialistcommunist_perspective_tour/",
-          "author": null,
-          "description": "I'm looking for a tour or tour guide in Saigon that is interested in discussing the political history of VietNam and Ho Chi Minh from a socialist/communist perspective.\n I understand that looking for a tour like this in English might be unpopular/lacking because a lot of western opinions on these perspectives are neutral to negative, thus they probably don't want to do these tours. I also feel that most tours and guides around the world play it very safe and conduct their tours in the most uncontroversial or unchallenging ways possible, which can be problematic for someone who wants to hear about a problematic or contested period of history. I've even been on a few tours in Central Europe (ahem Hungary) that went far the other way with very conservative nationalistic and revisionist recollections of historical moments, but I feel it's difficult to find guides or tours with a collectivist mentality.\n Does anyone have any tours or guides they can recommend to me for January? Or am I thinking too hard about this, and maybe the average Vietnamese guide does feel this way and want to share about their country through this lens? I just don't want a guide that gives me a Wikipedia summary of Saigon's political/social history because they think it's what I want to hear.\n Thank you\n    submitted by    /u/Curiotravels  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zew1xl/socialistcommunist_perspective_tour/",
-          "publishedOn": "2022-12-07T08:36:46.000Z",
-          "wordCount": 16144,
-          "title": "Socialist/Communist perspective tour?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zevu4g/indian_here_in_vietnam_for_a_month_looking_to/",
-          "author": null,
-          "description": "Title says it all. I’m an experienced driver, driven over 20k kms in India, 2000 kms in Seychelles, 1500 kms in Thailand (Pattaya/Chiang Mai) but I don’t have an IDP, and never needed one before. Initially wanted to do a road trip from Saigon to Hanoi but dropped that now as I was quoted 85USD a day plus 450 USD extra for not dropping the car back in Saigon. Currently in Saigon till this weekend.\n    submitted by    /u/directionless_force  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zevu4g/indian_here_in_vietnam_for_a_month_looking_to/",
-          "publishedOn": "2022-12-07T08:21:43.000Z",
-          "wordCount": 17914,
-          "title": "Indian here in Vietnam for a month, looking to hire a self drive car in Danang to visit Hue and Hoi An, but receiving conflicting information from rental agencies with no clear communication. Some say self-drive is illegal and others want to charge 80-90 USD per day. Requesting guidance!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zev2fq/my_name_form_was_wrong_for_the_difital_document/",
-          "author": null,
-          "description": "Im in Tokyo and flying to hcmc\n I corrected the form but says takes from 1 to 3 days.\n Could I stay at the airport until the e-document arrives? Or pay extra or something?\n    submitted by    /u/Bigtorigate  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zev2fq/my_name_form_was_wrong_for_the_difital_document/",
-          "publishedOn": "2022-12-07T07:29:58.000Z",
-          "wordCount": 16408,
-          "title": "My name form was wrong for the difital document and my flight is in 15 hours, what can I do",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zeuo1l/m%E1%BB%A9c_%C4%91%E1%BB%99_b%C3%B3c_l%E1%BB%99t/",
-          "author": null,
-          "description": "Anh/ Chị ơi cho em hỏi là thu nhập của những nước tư bản phát triển tăng thì mức độ bóc lột có giảm không ạ ?\n    submitted by    /u/Classic_Statement_58  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zeuo1l/m%E1%BB%A9c_%C4%91%E1%BB%99_b%C3%B3c_l%E1%BB%99t/",
-          "publishedOn": "2022-12-07T07:03:58.000Z",
-          "wordCount": 21600,
-          "title": "Mức độ bóc lột",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zeunwe/remote_working_from_c%C3%B4n_%C4%91%E1%BA%A3o/",
-          "author": null,
-          "description": "Hi\n did someone worked from home there? How good is the electricity and internet over there?\n Is grab available in Côn Đảo\n    submitted by    /u/_dotdat  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zeunwe/remote_working_from_c%C3%B4n_%C4%91%E1%BA%A3o/",
-          "publishedOn": "2022-12-07T07:03:42.000Z",
-          "wordCount": 16700,
-          "title": "Remote working from Côn Đảo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zetpym/eps_7_l%C3%A2m_%C4%91%E1%BB%93ng/",
-          "author": null,
-          "description": "submitted by    /u/Baosia  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zetpym/eps_7_l%C3%A2m_%C4%91%E1%BB%93ng/",
-          "publishedOn": "2022-12-07T06:05:55.000Z",
-          "wordCount": 16497,
-          "title": "Eps 7: Lâm Đồng",
-          "imageUrl": "https://preview.redd.it/cawtzpdgkg4a1.png?auto=webp&s=1a0810fde2a0ab0dcf621b08a9b0242fee9dc59d"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zerz1y/how_popular_is_it_for_girls_to_dye_their_hair_in/",
-          "author": null,
-          "description": "I am curious how popular it is for girls to dye their hair in Vietnam and if the elders were to complain if the girls dye their hair brown, blonde, red, blue, pink, etc?\n In my family (all Vietnamese, living in the US), my 85 year old uncle (aunt's husband) really hates hair dye to the point where if one of his family members dye their hair (ex. my cousin), he would yell at them. My cousin dyed her hair blonde and she ended up being scorned by him. He told her \"you look very ugly with the hair dye. Please un-dye the hair\".\n His daughter had cancer and had to undergo chemo and because she lost her hair, she decided to buy a wig. I think she went with the black hair wig because if she went with blonde, her father would disown her.\n Also, for some of my cousins (part of the uncle and aunt's side), they brainwash their children not to dye their hair. They say that not only does hair dye look ugly (even brown or blonde hair because one part is light and the other is dark), it causes cancer as well. According to them, if their children dye their hair, they will get grounded (maybe even spanked) and they might get disowned by the family because they are seen as 'rebellious'.\n I definitely don't view that way and I view hair dye as a person's identity and personality.\n  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zerz1y/how_popular_is_it_for_girls_to_dye_their_hair_in/",
-          "publishedOn": "2022-12-07T04:28:53.000Z",
-          "wordCount": 19401,
-          "title": "How popular is it for girls to dye their hair in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zerd7o/mui_ne_or_nha_trang/",
-          "author": null,
-          "description": "A family of 5 are looking to holiday in Vietnam in December. \n Main goal is to relax in the beach with less crowd. Which is the best from these two locations for a beach holiday and any recommendations on resorts? \n ​\n Thanks\n    submitted by    /u/girldirkblack  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zerd7o/mui_ne_or_nha_trang/",
-          "publishedOn": "2022-12-07T03:57:33.000Z",
-          "wordCount": 16436,
-          "title": "Mui Ne or Nha Trang",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zen31m/how_to_make_friends_in_vietnam/",
-          "author": null,
-          "description": "What's the best way to make friends in Vietnam? (I will be going there soon. I come from America, and I just turned 30)\n    submitted by    /u/Pollo_Perpetuo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zen31m/how_to_make_friends_in_vietnam/",
-          "publishedOn": "2022-12-07T00:26:26.000Z",
-          "wordCount": 18322,
-          "title": "How to make friends in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zemzua/1_night_cruise_in_bai_tu_long/",
-          "author": null,
-          "description": "Im heading to vietnam and have a quick turnaround time in Hanoi and Ha Long Bay but obviously wanted to visit it even if for a night. Does anyone have any recs for a one night cruise in Ha Long Bay or Bai tu Long?\n    submitted by    /u/jackboyjonny  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zemzua/1_night_cruise_in_bai_tu_long/",
-          "publishedOn": "2022-12-07T00:22:17.000Z",
-          "wordCount": 16819,
-          "title": "1 Night Cruise in Bai tu Long",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zemt83/looking_to_stay_in_ho_chi_minh_for_a_few_days_as/",
-          "author": null,
-          "description": "submitted by    /u/appleipad9090  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zemt83/looking_to_stay_in_ho_chi_minh_for_a_few_days_as/",
-          "publishedOn": "2022-12-07T00:14:14.000Z",
-          "wordCount": 17513,
-          "title": "Looking to stay in Ho Chi Minh for a few days as I’ve never been. Can you pls recommend most central hotel to stay at? Also, from there which is the best beach to visit for a few days?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zemgpf/according_to_the_us_national_security_agencys/",
-          "author": null,
-          "description": "submitted by    /u/Snoo-23852  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zemgpf/according_to_the_us_national_security_agencys/",
-          "publishedOn": "2022-12-07T00:00:05.000Z",
-          "wordCount": 17244,
-          "title": "According to the U.S. National Security Agency's official history of the Vietnam war, the Ho Chi Minh trail was \"one of the great achievements of military engineering of the 20th century\"",
-          "imageUrl": "https://preview.redd.it/25vhcep7qa4a1.jpg?auto=webp&s=fa3916a82f1662c553174371f589179bc355a581"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zel0ql/bringing_adhd_medication_into_vietnam/",
-          "author": null,
-          "description": "I am coming to Vietnam for 3 weeks in jan/feb - one week to travel and two weeks for a university subject. I have adhd and take dexamphetamine for this. I want to know if I can take my prescribed amount into the country in carry on? Does anyone have experience with this? Should I be asking for a script for some ritalin instead to take with me as it's not an amphetamine? I just want to be safe and to have access to the medication that I need while I am studying over there.\n    submitted by    /u/xykcd3368  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zel0ql/bringing_adhd_medication_into_vietnam/",
-          "publishedOn": "2022-12-06T23:01:37.000Z",
-          "wordCount": 16738,
-          "title": "Bringing ADHD medication into vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zej5c2/how_bad_is_the_rain_and_flooding_in_central/",
-          "author": null,
-          "description": "We are planning a Southeast Asia trip and wondering how the weather will be if we want to visit Hue, Da Nang, and Hoi An from about Dec 29th - Jan 6th? THe weather updates we find for the last and next weeks look very wet and we've found a video of flooded streets in Hoi An. I know it is Typhoon season in this area now, but is it expected to get any better by then? We would be planning to do outdoors activities like visiting temples and beaches and possibly snorkeling or scuba diving but none of them seem like good options if the weather is as bad as it is now.\n Would it be better to spend less time in this area and go to Mui Ne, Ho Chi Minh City and the Mekong Delta for 2 weeks instead of one? Maybe spend some time in Dalat?\n    submitted by    /u/ThatGermanDude7  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zej5c2/how_bad_is_the_rain_and_flooding_in_central/",
-          "publishedOn": "2022-12-06T21:48:02.000Z",
-          "wordCount": 17588,
-          "title": "How bad is the rain and flooding in central Vietnam right now?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zegs7s/2nd_trip_coming_up_april_23_what_are_the_biggest/",
-          "author": null,
-          "description": "Visited 6 yrs ago and planning itineray. Wondering if I should plan things like Bui Vin st for weekend, in case it's dead midweek. I don't like to book excursions in advance, but should I? For example is it better to book a Ha Long bay cruise when i fly to Saigon? Or reserve in advance? I went with my wife last time and this time going with my parents, sister, and her husband. Are there a lot of options in typical tourist cities for 3 bedrooms or just book separate rooms? Not sure which would be cheaper and availability.\n    submitted by    /u/Inner_Negotiation66  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zegs7s/2nd_trip_coming_up_april_23_what_are_the_biggest/",
-          "publishedOn": "2022-12-06T20:15:10.000Z",
-          "wordCount": 16961,
-          "title": "2nd trip coming up April '23. What are the biggest changes in tourism post covid?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zeg842/i_want_to_get_my_local_pho_restaurant_usa_a_gift/",
-          "author": null,
-          "description": "submitted by    /u/johnnybagels  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zeg842/i_want_to_get_my_local_pho_restaurant_usa_a_gift/",
-          "publishedOn": "2022-12-06T19:54:30.000Z",
-          "wordCount": 16715,
-          "title": "I want to get my local pho restaurant (USA) a gift around Christmas. Any recommendations?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zeb8gh/v%E1%BA%BD_k%C3%BD_h%E1%BB%8Da_m%C5%A9i_%C4%91%E1%BA%A1i_l%C3%A3nh_t%E1%BB%89nh_ph%C3%BA_y%C3%AAn_vi%E1%BB%87t_nam/",
-          "author": null,
-          "description": "submitted by    /u/QuanArtDrawing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zeb8gh/v%E1%BA%BD_k%C3%BD_h%E1%BB%8Da_m%C5%A9i_%C4%91%E1%BA%A1i_l%C3%A3nh_t%E1%BB%89nh_ph%C3%BA_y%C3%AAn_vi%E1%BB%87t_nam/",
-          "publishedOn": "2022-12-06T16:35:54.000Z",
-          "wordCount": 15939,
-          "title": "Vẽ ký họa Mũi Đại Lãnh tỉnh Phú Yên , Việt Nam - Drawing sketch",
-          "imageUrl": "https://preview.redd.it/7iyilp0z1b4a1.jpg?auto=webp&s=d2fb3e1c848484303439cd751322844e35a7cbee"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zeb2pd/use_usd_or_vnd_in_hcm/",
-          "author": null,
-          "description": "Going to vietnam first time, which is the preferred currency? USD or VND? Changing from THB.\n    submitted by    /u/calphak  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zeb2pd/use_usd_or_vnd_in_hcm/",
-          "publishedOn": "2022-12-06T16:29:30.000Z",
-          "wordCount": 21615,
-          "title": "Use USD or VND in HCM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ze9g1l/weather_in_hcmc_right_now/",
-          "author": null,
-          "description": "We are currently traveling through Vietnam with our 5 year old and 4 month old baby (from UK).\n We have been to Hanoi, Ha Long, Ninh Binh and are currently in Phu Quoc and are really enjoying it so far. \n We are due to go HCMC this weekend for 4 days and are worried that the weather in HCMC looks really hot for the kids (31c). They are ok in Phu Quoc but we are next to the sea in a resort.\n We were wondering what is the weather actually like in HCMC during the day and evening? Bearable or not?\n Also tips for stuff to do would be good taking the weather into account!\n Ps. Say hello if you see us. You wont miss us 😄\n    submitted by    /u/oweeeoweee  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ze9g1l/weather_in_hcmc_right_now/",
-          "publishedOn": "2022-12-06T15:23:01.000Z",
-          "wordCount": 16756,
-          "title": "Weather in HCMC right now?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ze7ryo/where_can_i_buy_sci_ficyberpunk_books_likedo/",
-          "author": null,
-          "description": "submitted by    /u/round-o-boi  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ze7ryo/where_can_i_buy_sci_ficyberpunk_books_likedo/",
-          "publishedOn": "2022-12-06T14:10:58.000Z",
-          "wordCount": 16938,
-          "title": "Where can i buy sci fi/cyberpunk books like,DO ANDROIDS DREAM OF ELECTRIC SHEEP?, or Pale fire like in the recent blade runner movie ?",
-          "imageUrl": null
         }
       ]
     },
@@ -6645,6 +6645,106 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-make-a-file-in-linux-from-the-command-line-create-a-file-in-terminal/",
+          "author": "Zaira Hira",
+          "description": "Managing files from the command line is one of the most common tasks for a Linux user.  Files are created, edited, deleted, and used by many of the background OS processes. Files are also used by regular users to accomplish daily tasks such as taking notes, writing code, or",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-file-in-linux-from-the-command-line-create-a-file-in-terminal/",
+          "publishedOn": "2023-01-05T18:58:23.000Z",
+          "wordCount": 1176,
+          "title": "How to Make a File in Linux from the Command Line – Create a File in the Terminal",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Copy-of-Copy-of-read-write-files-python--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/perfect-html-input/",
+          "author": "Austin Gil",
+          "description": "Today I'm going to show you all the things to consider when building the perfect HTML input. Despite its seemingly simple nature, there's actually a lot that goes into it. How to Make the Control  Well, we need to start somewhere. Might as well start with the control itself.",
+          "link": "https://www.freecodecamp.org/news/perfect-html-input/",
+          "publishedOn": "2023-01-05T17:43:37.000Z",
+          "wordCount": 1915,
+          "title": "How to Build Great HTML Form Controls",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/HTML-Blog-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-check-if-a-file-exists-in-python/",
+          "author": "Dionysia Lemonaki",
+          "description": "When working with files in Python, there may be times when you need to check whether a file exists or not. But why should you check if a file exists in the first place? Confirming the existence of a specific file comes in handy when you want to perform particular",
+          "link": "https://www.freecodecamp.org/news/how-to-check-if-a-file-exists-in-python/",
+          "publishedOn": "2023-01-05T17:23:20.000Z",
+          "wordCount": 1908,
+          "title": "How to Check if a File Exists in Python with isFile() and exists()",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-francis-seura-802412.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-convert-integer-to-string-in-java/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can convert variables from one data type to another in Java using different methods.  In this article, you'll learn how to convert integers to strings in Java in the following ways:  * Using the Integer.toString() method.   * Using the String.valueOf() method.   * Using",
+          "link": "https://www.freecodecamp.org/news/how-to-convert-integer-to-string-in-java/",
+          "publishedOn": "2023-01-05T15:57:29.000Z",
+          "wordCount": 1416,
+          "title": "Int to String in Java – How to Convert an Integer into a String",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/marcel-eberle-rendLSpkDtY-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-set-vs-list/",
+          "author": "Kolade Chris",
+          "description": "In Python, set and list are both data structures for storing and organizing any values. Those values could be numbers, strings, and booleans. In this article, we'll look at the differences between set and list. But before that, let's take a look at what both set and list are. What",
+          "link": "https://www.freecodecamp.org/news/python-set-vs-list/",
+          "publishedOn": "2023-01-05T15:52:53.000Z",
+          "wordCount": 1279,
+          "title": "Python Set VS List – Sets and Lists in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/setvlist.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-produce-music-with-fl-studio/",
+          "author": "Beau Carnes",
+          "description": "FL Studio is a powerful digital audio workstation (DAW) used by music producers all over the world. It has a wide range of features that allow users to create, produce, and mix music with ease. Whether you are a beginner or an experienced producer, this course is designed to help",
+          "link": "https://www.freecodecamp.org/news/how-to-produce-music-with-fl-studio/",
+          "publishedOn": "2023-01-05T15:44:29.000Z",
+          "wordCount": 925,
+          "title": "How to Produce Music with FL Studio",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/flstudio.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-implement-infinite-scroll-in-next-js/",
+          "author": "Divine Orji",
+          "description": "Creators and developers continually come up with new ways to enhance apps and provide value to users.  One feature that's useful for social media and ecommerce apps in particular is infinite scroll. It provides a seamless and intuitive browsing experience by reducing the time it takes to see new",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-infinite-scroll-in-next-js/",
+          "publishedOn": "2023-01-05T15:38:08.000Z",
+          "wordCount": 1624,
+          "title": "How to Implement Infinite Scroll in Next.js with Intersection Observer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-ahmed-aqtai-63572.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-python-for-web-development/",
+          "author": "Beau Carnes",
+          "description": "Python is a popular programming language that is widely used in the development of web applications. It is easy to learn, has a large and active community, and is supported by a wealth of libraries and frameworks. We just published a crash course on the freeCodeCamp.org YouTube channel that will",
+          "link": "https://www.freecodecamp.org/news/how-to-use-python-for-web-development/",
+          "publishedOn": "2023-01-05T15:33:56.000Z",
+          "wordCount": 938,
+          "title": "How to Use Python for Web Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pythonwebdev.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-clear-formatting-in-excel/",
+          "author": "Eamonn Cottrell",
+          "description": "In this article I will show you how to clear formatting from a cell in Excel. If you want the quick and dirty version, it's first up and will require you to simply click a couple times.  If you want to become a spreadsheet speedrunner, read this whole, brief",
+          "link": "https://www.freecodecamp.org/news/how-to-clear-formatting-in-excel/",
+          "publishedOn": "2023-01-05T01:17:19.000Z",
+          "wordCount": 1574,
+          "title": "How to Clear Formatting in Excel – Remove Format From a Cell",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/12.30.22-Clear-Formatting-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-projects-to-improve-your-skills/",
+          "author": "Reed Barger",
+          "description": "If you want to be good at React, building projects is one of the best ways to do it.  I have put together eight different projects that will not only show you what's possible to make with React, but give you some inspiration on what apps to make.",
+          "link": "https://www.freecodecamp.org/news/react-projects-to-improve-your-skills/",
+          "publishedOn": "2023-01-05T00:22:40.000Z",
+          "wordCount": 2827,
+          "title": "8 React Projects to Build in 2023",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/8-react-projects.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
           "author": "Dhawal Shah",
@@ -7314,56 +7414,6 @@
           "wordCount": 825,
           "title": "Python GUI Development Using PySide6 and Qt",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pyside6.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/",
-          "author": "Keyur Paralkar",
-          "description": "Many new React developers combine logic and presentation inside the same React component. And they may not know why it's important to separate these two – they just want to make it work. But later, they'll find that they need to make changes to the file and doing so becomes",
-          "link": "https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/",
-          "publishedOn": "2022-12-06T21:43:19.000Z",
-          "wordCount": 2388,
-          "title": "Separation of Concerns in React –How to Use Container and Presentational Components",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/container-and-presentational-component-pattern-image.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/linux-top/",
-          "author": "Anthony Behery",
-          "description": "You may be used to using the Activity Monitor in MacOS or the Task Manager for Windows to see the current processes running on your system.  But for those running Linux, if that includes a dual boot, virtual box, or even WSL2, you could use a useful Linux command",
-          "link": "https://www.freecodecamp.org/news/linux-top/",
-          "publishedOn": "2022-12-06T21:09:33.000Z",
-          "wordCount": 1367,
-          "title": "How to View Your Linux Processes",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Screenshot-2022-12-05-235534.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-automate-e-commerce-operations-with-python/",
-          "author": "Marco Venturi",
-          "description": "When you work in e-commerce operations, you'll have to perform many tasks daily to implement your company's business strategies.  But these often repetitive tasks can be time-consuming and leave room for errors. Some of these errors can cost your company money, reputation, and time.  Luckily, Python and APIs",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-e-commerce-operations-with-python/",
-          "publishedOn": "2022-12-06T18:11:07.000Z",
-          "wordCount": 1896,
-          "title": "How to Automate Your Business Strategy with Python and APIs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-are-node-modules/",
-          "author": "Benjamin Semah",
-          "description": "Every Node.js application has modules. These modules form part of the building blocks of the application. They help developers work faster and write more structured code. In this tutorial, you will learn what node modules are. You will also learn about the three types of node modules. And we'll go",
-          "link": "https://www.freecodecamp.org/news/what-are-node-modules/",
-          "publishedOn": "2022-12-06T17:54:33.000Z",
-          "wordCount": 1383,
-          "title": "What Are Node Modules and How Do You Use Them?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/stock.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/generate-random-number-within-a-range-in-javascript/",
-          "author": "Dillion Megida",
-          "description": "Let's say you want to generate a random number between 10 and 15 – how do you do that in JavaScript? I'll show you how with examples in this article. In JavaScript, there's the random method of the Math object which returns random numbers. But this has a range limitation.",
-          "link": "https://www.freecodecamp.org/news/generate-random-number-within-a-range-in-javascript/",
-          "publishedOn": "2022-12-06T16:21:25.000Z",
-          "wordCount": 1269,
-          "title": "How to Generate a Random Number within Certain a Range in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/9.-random-number.png"
         }
       ]
     }
