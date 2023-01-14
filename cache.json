@@ -12,6 +12,36 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630B661BC.WindAdvisory.126630D2B740CA.LOXNPWLOX.5e4005bcd3b3f03476bd6815eb25fbd8",
+          "author": null,
+          "description": "...WIND ADVISORY IN EFFECT FROM NOON SATURDAY TO MIDNIGHT PST SATURDAY NIGHT... * WHAT...Southwest winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Antelope Valley. * WHEN...From noon Saturday to midnight PST Saturday night.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630B661BC.WindAdvisory.126630D2B740CA.LOXNPWLOX.5e4005bcd3b3f03476bd6815eb25fbd8",
+          "publishedOn": "2023-01-13T22:31:00.000Z",
+          "wordCount": 149,
+          "title": "Wind Advisory issued January 13 at 2:31PM PST until January 15 at 12:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630B66158.WinterWeatherAdvisory.126630F1B0F0CA.LOXWSWLOX.ef25a4efa312ad237ace3e6e89711834",
+          "author": null,
+          "description": "...WINTER WEATHER ADVISORY IN EFFECT FROM NOON SATURDAY TO 3 AM PST TUESDAY... * WHAT...Moderate snow expected. Snow accumulations through Saturday night up to 3 inches below 7000 feet, except 5 to 10 inches above 7000 feet. Winds gusting as high as 50 mph. For Sunday night through Monday night, snow accumulations 5 to 10",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630B66158.WinterWeatherAdvisory.126630F1B0F0CA.LOXWSWLOX.ef25a4efa312ad237ace3e6e89711834",
+          "publishedOn": "2023-01-13T22:30:00.000Z",
+          "wordCount": 225,
+          "title": "Winter Weather Advisory issued January 13 at 2:30PM PST until January 17 at 3:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630B6440C.HighSurfAdvisory.126630E1AB60CA.LOXCFWLOX.9d0f5f1174037a114de56ed0b08a51e2",
+          "author": null,
+          "description": "...HIGH SURF ADVISORY NOW IN EFFECT UNTIL 10 PM PST SUNDAY... * WHAT...Large breaking waves of 6 to 10 feet with local sets to 12 feet subsiding to 6 to 9 feet by Saturday evening. Dangerous rip currents expected. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County Beaches.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630B6440C.HighSurfAdvisory.126630E1AB60CA.LOXCFWLOX.9d0f5f1174037a114de56ed0b08a51e2",
+          "publishedOn": "2023-01-13T21:55:00.000Z",
+          "wordCount": 219,
+          "title": "High Surf Advisory issued January 13 at 1:55PM PST until January 15 at 10:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630A6DB20.HighSurfAdvisory.126630D26920CA.LOXCFWLOX.9d0f5f1174037a114de56ed0b08a51e2",
           "author": null,
           "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 10 PM PST SATURDAY... * WHAT...Large breaking waves of 4 to 7 feet building to 6 to 10 feet with local sets to 12 feet early Friday. Dangerous rip currents expected. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and",
@@ -790,16 +820,6 @@
           "wordCount": 226,
           "title": "Wind Advisory issued December 15 at 2:12PM PST until December 16 at 2:00PM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E4A38FC.FrostAdvisory.12641E58B6C0CA.LOXNPWLOX.a988d8372b820faf5ba6f3680b723152",
-          "author": null,
-          "description": "...FROST ADVISORY IN EFFECT FROM 1 AM TO 8 AM PST THURSDAY... * WHAT...Temperatures as low as 32 will result in frost formation. Coldest temperatures will be in the far western San Fernando Valley and through the canyons of the Santa Monica Mountains where isolated temperatures down to 28 degrees are possible. * WHERE...Santa Clarita Valley, Lake Casitas, Ojai Valley,",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E4A38FC.FrostAdvisory.12641E58B6C0CA.LOXNPWLOX.a988d8372b820faf5ba6f3680b723152",
-          "publishedOn": "2022-12-14T21:03:00.000Z",
-          "wordCount": 230,
-          "title": "Frost Advisory issued December 14 at 1:03PM PST until December 15 at 8:00AM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -808,6 +828,246 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10batpc/best_hospitals_in_hoi_an_danang_for_foreigners/",
+          "author": null,
+          "description": "I have food poisoning and while I won’t go into details, I’ve been down bad for the last 3 days. Thinking it’s time to go to a clinic. Any places that you’d recommend?\n    submitted by    /u/sacrificejeffbezos  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10batpc/best_hospitals_in_hoi_an_danang_for_foreigners/",
+          "publishedOn": "2023-01-14T00:47:31.000Z",
+          "wordCount": 15475,
+          "title": "Best hospitals in hoi an / danang for foreigners?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10babf8/best_place_to_get_tailored_%C3%A1o_d%C3%A0i_in_h%E1%BB%99i_an/",
+          "author": null,
+          "description": "Driving down there today and my partner wants to get some. Any recommended places?\n    submitted by    /u/yesimforeign  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10babf8/best_place_to_get_tailored_%C3%A1o_d%C3%A0i_in_h%E1%BB%99i_an/",
+          "publishedOn": "2023-01-14T00:24:42.000Z",
+          "wordCount": 15441,
+          "title": "best place to get tailored áo dài in Hội An?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10b9w64/vietnamese_kid_songs/",
+          "author": null,
+          "description": "I have a 1.5 year old who I’m trying to teach some Vietnamese. She currently learns a ton of classic American songs like, “Wheels on the Bus” or “Old Macdonald”. I’ll usually look for the Vietnamese version but it’s just not the same. \n Are there any classic or kids songs that y’all can recommend?\n    submitted by    /u/Planetdosed  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10b9w64/vietnamese_kid_songs/",
+          "publishedOn": "2023-01-14T00:05:58.000Z",
+          "wordCount": 15551,
+          "title": "Vietnamese Kid songs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10b9oz6/im_making_pho_and_i_want_to_add_bok_choy_does/",
+          "author": null,
+          "description": "I’ve never cooked with bok choy before. Should I steam it before adding it as a garnish? Or should I chop it up and add it to the broth? \n Cảm ơn!\n    submitted by    /u/Haunted_Willow  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10b9oz6/im_making_pho_and_i_want_to_add_bok_choy_does/",
+          "publishedOn": "2023-01-13T23:57:47.000Z",
+          "wordCount": 15664,
+          "title": "I’m making pho and I want to add bok choy. Does anyone have advice?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10b6l5s/vinfast_b%C3%AAn_m%E1%BB%B9_sao_r%E1%BB%93i_c%C3%A1c_b%C3%A1c_ng%C6%B0%E1%BB%9Di_vi%E1%BB%87t_b%C3%AAn_%C4%91%C3%B3/",
+          "author": null,
+          "description": "Nghe mấy luồng dư luận về Vinfast bên Mỹ mà ko rõ ntn? Các bác bên Mỹ có ai chạy xe chưa và cảm nhận như thế nào ạ?\n    submitted by    /u/Fit-Spring2853  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10b6l5s/vinfast_b%C3%AAn_m%E1%BB%B9_sao_r%E1%BB%93i_c%C3%A1c_b%C3%A1c_ng%C6%B0%E1%BB%9Di_vi%E1%BB%87t_b%C3%AAn_%C4%91%C3%B3/",
+          "publishedOn": "2023-01-13T21:48:12.000Z",
+          "wordCount": 16125,
+          "title": "Vinfast bên Mỹ sao rồi các bác người Việt bên đó ơi?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10b61wf/importing_used_3d_printer_into_vietnam_should_i/",
+          "author": null,
+          "description": "moving to vietnam, planning on shipping half a dozen resin printers simultaniously. any advice on import process/ shipping companies? \n thanks,\n <3\n    submitted by    /u/Kubrickann  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10b61wf/importing_used_3d_printer_into_vietnam_should_i/",
+          "publishedOn": "2023-01-13T21:26:21.000Z",
+          "wordCount": 16653,
+          "title": "importing used 3d printer into vietnam, should i be worried ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10b5640/ch%C3%A0o_m%E1%BB%ABng_%C4%91%E1%BA%BFn_v%E1%BB%9Bi_m%E1%BB%99t_trong_nh%E1%BB%AFng_l%C3%A0ng_ngh%E1%BB%81/",
+          "author": null,
+          "description": "submitted by    /u/Hoppedyck911  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10b5640/ch%C3%A0o_m%E1%BB%ABng_%C4%91%E1%BA%BFn_v%E1%BB%9Bi_m%E1%BB%99t_trong_nh%E1%BB%AFng_l%C3%A0ng_ngh%E1%BB%81/",
+          "publishedOn": "2023-01-13T20:51:16.000Z",
+          "wordCount": 15495,
+          "title": "Chào mừng đến với một trong những làng nghề truyền thống của Việt Nam ( ͡° ͜ʖ ͡°)",
+          "imageUrl": "https://external-preview.redd.it/6-p_2ORowzzaBbf3TADZUQCeos2UpYs143d8SszoGHw.png?format=pjpg&auto=webp&v=enabled&s=e47a20fd662d571fb75315b2b689bca93d30e47a"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10b3sw9/meme_inpsired_by_umrtao3/",
+          "author": null,
+          "description": "submitted by    /u/kara_Age_n_bacon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10b3sw9/meme_inpsired_by_umrtao3/",
+          "publishedOn": "2023-01-13T19:55:50.000Z",
+          "wordCount": 15416,
+          "title": "meme inpsired by u/MRTAO3",
+          "imageUrl": "https://preview.redd.it/b4dn5ez8qwba1.jpg?auto=webp&v=enabled&s=c085c2112c1b3d65bebca4f3e4d9ca345cd0aba0"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10b34db/ha_giang_loop_via_car_vs_motorbike/",
+          "author": null,
+          "description": "Would it still be worth to do the loop via car instead of motorbike? Anyone have a recommendations for good tour companies? I’ve seen QT and Jasmine mentioned a lot, but after reading reviews, I don’t think they’re the right fit for me. I prefer a small group vs going in a tour with 30 riders\n Side question: are tips expected for tours in Vietnam? I will also be doing son doong cave expedition and wondering if I should tip\n    submitted by    /u/marrymeodell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10b34db/ha_giang_loop_via_car_vs_motorbike/",
+          "publishedOn": "2023-01-13T19:27:53.000Z",
+          "wordCount": 14739,
+          "title": "Ha Giang Loop via car vs motorbike",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10b1w3k/me_visiting_vietnam_this_christmas_i_love_your/",
+          "author": null,
+          "description": "submitted by    /u/OrnaPlayer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10b1w3k/me_visiting_vietnam_this_christmas_i_love_your/",
+          "publishedOn": "2023-01-13T18:37:58.000Z",
+          "wordCount": 17192,
+          "title": "Me visiting Vietnam this Christmas, I love your country but I can barely fit in your buildings ^^U",
+          "imageUrl": "https://preview.redd.it/3m2q6l5puuba1.jpg?auto=webp&v=enabled&s=1ff9bbddb2b8435a4fd7aa1d1d2d3c7383642494"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10b021m/fun_date_ideas_in_hcmc/",
+          "author": null,
+          "description": "Besides restaurant, bar, coffeeshop, what’s a fun activity when going out for a date in Saigon?\n    submitted by    /u/HistoricalSand22  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10b021m/fun_date_ideas_in_hcmc/",
+          "publishedOn": "2023-01-13T17:23:20.000Z",
+          "wordCount": 16477,
+          "title": "Fun date ideas in HCMC?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10azqxb/documentary_on_thich_nhat_hanhpremieres_jan_22/",
+          "author": null,
+          "description": "submitted by    /u/Ph0Mai  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10azqxb/documentary_on_thich_nhat_hanhpremieres_jan_22/",
+          "publishedOn": "2023-01-13T17:10:41.000Z",
+          "wordCount": 16162,
+          "title": "Documentary on thich Nhat Hanh.Premieres Jan 22",
+          "imageUrl": "https://external-preview.redd.it/TRRjCq4ryvon4rkZbrZ64_v3HB0IcMBButm-adzhHF0.jpg?auto=webp&v=enabled&s=00626e9af5eae5a58cc3c77344814f88456bac6a"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10avm87/my_girlfriend_and_i_are_going_to_vietnam_in_just/",
+          "author": null,
+          "description": "submitted by    /u/SimtemOfficial  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10avm87/my_girlfriend_and_i_are_going_to_vietnam_in_just/",
+          "publishedOn": "2023-01-13T14:17:19.000Z",
+          "wordCount": 16253,
+          "title": "My Girlfriend and I are going to Vietnam in just a couple of days and I’m an avid video game collector. Id like to know if anyone knows of any good new or used video game stores or pawn shop type places in Ho Chi Minh City?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10avesc/att_vinfast_tesla_just_lower_their_model_y_price/",
+          "author": null,
+          "description": "submitted by    /u/Actual_Grapefruit717  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10avesc/att_vinfast_tesla_just_lower_their_model_y_price/",
+          "publishedOn": "2023-01-13T14:08:02.000Z",
+          "wordCount": 21580,
+          "title": "Att: Vinfast, Tesla just lower their model Y price by 13k",
+          "imageUrl": "https://preview.redd.it/e1fwg2g60vba1.jpg?auto=webp&v=enabled&s=646183f2f616c92dc0aba9e7bcc87678fd297ea3"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10auecn/lunar_calendar_year_of_the_rabbit_more_like_year/",
+          "author": null,
+          "description": "submitted by    /u/MRTA03  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10auecn/lunar_calendar_year_of_the_rabbit_more_like_year/",
+          "publishedOn": "2023-01-13T13:21:11.000Z",
+          "wordCount": 15937,
+          "title": "lunar calendar? year of the rabbit? More like year of the cat",
+          "imageUrl": "https://preview.redd.it/f1972sv5atba1.png?auto=webp&v=enabled&s=4364973d88033bf7a70b23a0f743d271f1f786b6"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10au6pj/best_apppage_to_see_apartment_rentals_in_ho_chi/",
+          "author": null,
+          "description": "submitted by    /u/Objective-Internal30  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10au6pj/best_apppage_to_see_apartment_rentals_in_ho_chi/",
+          "publishedOn": "2023-01-13T13:10:48.000Z",
+          "wordCount": 16110,
+          "title": "Best app/page to see apartment rentals in Ho Chi Minh? Best neighborhoods for Expats? TIA!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10atgcv/sao_nhi%E1%BB%81u_game_b%E1%BB%8B_c%E1%BA%A5m_%E1%BB%9F_vi%E1%BB%87tnam_v%E1%BA%ADy/",
+          "author": null,
+          "description": "Mấy game như là arkknights fgo,clash of clan,.... Ai biết lí do sao không\n    submitted by    /u/maoonr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10atgcv/sao_nhi%E1%BB%81u_game_b%E1%BB%8B_c%E1%BA%A5m_%E1%BB%9F_vi%E1%BB%87tnam_v%E1%BA%ADy/",
+          "publishedOn": "2023-01-13T12:33:23.000Z",
+          "wordCount": 16816,
+          "title": "sao nhiều game bị cấm ở việtnam vậy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10arr62/can_someone_please_translate_thisgive_context_if/",
+          "author": null,
+          "description": "submitted by    /u/foursoutof5  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10arr62/can_someone_please_translate_thisgive_context_if/",
+          "publishedOn": "2023-01-13T11:00:05.000Z",
+          "wordCount": 16601,
+          "title": "Can someone please translate this/give context if possible?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10arjsk/what_is_this_got_this_from_someone_i_kinda/",
+          "author": null,
+          "description": "submitted by    /u/Rich_Professional525  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10arjsk/what_is_this_got_this_from_someone_i_kinda/",
+          "publishedOn": "2023-01-13T10:47:22.000Z",
+          "wordCount": 16212,
+          "title": "what is this? got this from someone i kinda know(business related)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10arew4/wrong_name_on_vietnam_airlines_booking/",
+          "author": null,
+          "description": "Hello everybody, my wife and I booked a flight from Vientiane to Hanoi for January 15th through 12go.asia. I made a dumb mistake and put in the wrong last name, her birth name instead of the name she has now after the marriage. After being in contact with support from 12go.asia, they informed me that you have to request the change at least 3 days before departure date. I know it was my mistake but I just can't believe that you can't change something like this before the flight. Does anybody have experience with this? Could we just show up at the airport and try to change it there? Would we have to cancel the whole booking or could we just buy a new ticket for her and I could keep my booking, even though I made a booking for 2 people? Thanks in advance in case anybody could give me information on this!\n    submitted by    /u/Waitwhatsmy_username  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10arew4/wrong_name_on_vietnam_airlines_booking/",
+          "publishedOn": "2023-01-13T10:38:45.000Z",
+          "wordCount": 17552,
+          "title": "Wrong name on Vietnam Airlines booking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10aqvmm/how_cold_is_it_in_hanoi/",
+          "author": null,
+          "description": "I’m visiting Hanoi for the first time next week! I’ve heard that it’ll be pretty cold there right now. \n Can I survive with a jacket/ cardigan or do I need a thick coat?\n    submitted by    /u/Spirited_Contact1599  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10aqvmm/how_cold_is_it_in_hanoi/",
+          "publishedOn": "2023-01-13T10:04:47.000Z",
+          "wordCount": 16607,
+          "title": "How cold is it in Hanoi?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10ao1ki/what_are_your_opinions_on_vinfast_after_tesla/",
+          "author": null,
+          "description": "Tesla has recently decreased its Model Y prices from $66,000 to only $53,000 and the Model Y Performance now starts at only $57,000 with a 0-60 time of 3.5 seconds and 303 miles of range as well (down from 330 miles on the Base Model Y). With the Vinfast VF 8 still starting at $59,000 despite having less track record than Tesla, what do you now think of the Vinfast VF 8 and what are your opinions of Vinfast now, given the fact the Tesla Model Y is now cheaper (in fact, the 7-seat interior on the Model Y is only $4000 more than the 5-seat interior)?\n I am also curious who would buy the Vinfast over the Tesla Model Y, if any, outside of Vietnam, and what measures Vinfast would need to address to succeed, or they would fail regardless?\n For me, I do think Vinfast should just halve their price to be competitive:\n The Vinfast VF 8 could be $29k trying to steal market share from the Toyota RAV4, Honda CR-V, Mazda CX-5/CX-50, Hyundai Santa Fe/Tucson, Kia Sorento/Sportage, Nissan Rogue, Mitsubishi Outlander, Subaru Forester, etc.\n The Vinfast VF 9 could be $42k trying to steal market share from the Toyota Highlander, Honda Pilot, Mazda CX-9, Hyundai Palisade, Kia Telluride, Nissan Pathfinder, Subaru Ascent, Chevy Traverse, Ford Explorer, etc.\n I am actually Vietnamese by the way, born in Vietnam and currently living in the US and after seeing Tesla prices drop, if I had to choose between the Tesla Model Y and the Vinfast VF 8, I would choose the Tesla Model Y Long Range. Also, a review of the 'quirks and features' of the Vinfast VF 8 will be coming soon as I am heading to Montreal this weekend to film a video over at the Vinfast store. \n    submitted by    /u/MussleGeeYem  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10ao1ki/what_are_your_opinions_on_vinfast_after_tesla/",
+          "publishedOn": "2023-01-13T07:05:14.000Z",
+          "wordCount": 18907,
+          "title": "What Are Your Opinions On Vinfast After Tesla Prices Decrease?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10ajggj/im_your_father/",
+          "author": null,
+          "description": "I heard this Vietnamese insult it literally translates to 'I'm your father' in English. Of course, it has the figurative meaning of 'I slept with your mother'.\n Does anyone know what the expression is?\n    submitted by    /u/Adorable_Future9038  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10ajggj/im_your_father/",
+          "publishedOn": "2023-01-13T03:09:14.000Z",
+          "wordCount": 17145,
+          "title": "I'm your father....",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10aisij/hey_neat_a_snake_visited_my_home/",
+          "author": null,
+          "description": "submitted by    /u/Saigonauticon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10aisij/hey_neat_a_snake_visited_my_home/",
+          "publishedOn": "2023-01-13T02:38:31.000Z",
+          "wordCount": 16492,
+          "title": "Hey neat, a snake visited my home",
+          "imageUrl": "https://preview.redd.it/xqwc30sl3qba1.jpg?auto=webp&v=enabled&s=e05cd38bcd32d9c0025782accd6dfa97e59ae0f3"
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/10af845/looking_for_aff_mitsubishi_cup_tickets/",
           "author": null,
@@ -6727,186 +6987,6 @@
           "wordCount": 18168,
           "title": "VinFast VF8 Is Simply Not Ready for America",
           "imageUrl": "https://external-preview.redd.it/zreMJUSsM46loUk073wb6nOjWkRIRGWwBTVU8gWJrAE.jpg?auto=webp&s=e3b966b6dd30f33669d6105a015afbf69288b8f2"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zmjpsn/animal_in_b%C3%ACnh_d%C6%B0%C6%A1ng/",
-          "author": null,
-          "description": "submitted by    /u/erika_the_fox  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zmjpsn/animal_in_b%C3%ACnh_d%C6%B0%C6%A1ng/",
-          "publishedOn": "2022-12-15T12:18:04.000Z",
-          "wordCount": 15468,
-          "title": "animal in bình dương",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zmjb00/is_ice_ielts_a_legit_company/",
-          "author": null,
-          "description": "I got an offer to be an English teacher there, this is their website: https://ieltsice.com/\n Thank you!\n    submitted by    /u/ZealousidealCause720  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zmjb00/is_ice_ielts_a_legit_company/",
-          "publishedOn": "2022-12-15T11:55:19.000Z",
-          "wordCount": 15727,
-          "title": "Is ICE IELTS a legit company?",
-          "imageUrl": "https://external-preview.redd.it/g-0AUyQU2QpJgIZd_xsb3u0ifOqvcAidXHUf_WKVcQM.jpg?auto=webp&s=8395f16edd2a4d379ebb8db49d5ec5af93d4e25d"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zmh7vp/buying_art_in_hoi_an/",
-          "author": null,
-          "description": "Hi I’m looking to buy some art from old town hoi an but the owner of the gallery isn’t familiar with posting or money transfer, if anyone has any recommendations on how to be able to buy and have the art shipped that would be appreciated. Thanks\n    submitted by    /u/Unixus89  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zmh7vp/buying_art_in_hoi_an/",
-          "publishedOn": "2022-12-15T09:43:01.000Z",
-          "wordCount": 15339,
-          "title": "Buying art in hoi an",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zmg8b6/what_does_my_name_mean/",
-          "author": null,
-          "description": "My name in Viet ( I’m biracial, half Viet, half Australian) is Thảo, and is the name I normally go by. I’m not sure what it means.\n I’m told it’s after a flower, it’s a herbal, or it means to respectful to parents, courteous, or something like that.\n I still don’t know what it means. Can anyone tell me?\n    submitted by    /u/saturn_thao  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zmg8b6/what_does_my_name_mean/",
-          "publishedOn": "2022-12-15T08:36:41.000Z",
-          "wordCount": 16114,
-          "title": "What does my name mean?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zmeyjf/ba_trieu_vietnamese_folk_heroine_art_by_me/",
-          "author": null,
-          "description": "submitted by    /u/Leadjockey  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zmeyjf/ba_trieu_vietnamese_folk_heroine_art_by_me/",
-          "publishedOn": "2022-12-15T07:13:04.000Z",
-          "wordCount": 16190,
-          "title": "“Ba Trieu, Vietnamese Folk Heroine” Art by me. Loosely based on the folk art on her Wikipedia page.(I'm from India)",
-          "imageUrl": "https://preview.redd.it/giy4b7a0i06a1.jpg?auto=webp&s=f03ff9679cbd863c1fc69f3ef0da7ebf2ce9c9b4"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zmd50w/i_love_vietnam/",
-          "author": null,
-          "description": "I just want to say I love Ho Chi Minh, Vietnam! The people and culture in Vietnam are so awesome! I will be back again! 🇻🇳\n    submitted by    /u/gyozabean  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zmd50w/i_love_vietnam/",
-          "publishedOn": "2022-12-15T05:27:22.000Z",
-          "wordCount": 15337,
-          "title": "I Love Vietnam! 😊",
-          "imageUrl": "https://preview.redd.it/uvpspzesg16a1.jpg?auto=webp&s=974139ff11201fc07ef45527eb6272d6f276c0f7"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zmai5b/is_it_possible_to_do_a_road_trip_like_this_one/",
-          "author": null,
-          "description": "submitted by    /u/Gamer_Rink_3141  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zmai5b/is_it_possible_to_do_a_road_trip_like_this_one/",
-          "publishedOn": "2022-12-15T03:08:28.000Z",
-          "wordCount": 18418,
-          "title": "Is it possible to do a road trip like this one?",
-          "imageUrl": "https://preview.redd.it/s1cmeb83s06a1.jpg?auto=webp&s=938fe66da7ed41a0a4d9531c7fb91a9b5fb64d34"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zm7nar/holiday_in_hanoi/",
-          "author": null,
-          "description": "Hi everyone! How much would it roughly cost for a tourist per day in Hanoi (excluding accomodation)? Thanks in advance!\n    submitted by    /u/Lyy25  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zm7nar/holiday_in_hanoi/",
-          "publishedOn": "2022-12-15T00:54:09.000Z",
-          "wordCount": 15469,
-          "title": "Holiday in Hanoi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zm6g5a/is_it_true_this_flag_of_nguyen_dynasty_was_fake/",
-          "author": null,
-          "description": "submitted by    /u/Duytune  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zm6g5a/is_it_true_this_flag_of_nguyen_dynasty_was_fake/",
-          "publishedOn": "2022-12-15T00:00:46.000Z",
-          "wordCount": 15947,
-          "title": "Is it true this flag of Nguyen Dynasty was fake?",
-          "imageUrl": "https://preview.redd.it/g9rqqfl1dy5a1.png?auto=webp&v=enabled&s=f1fe32df6798529827864ad0731a91af00604239"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zm2g94/travelling_from_hanoi_to_da_nang_early_february/",
-          "author": null,
-          "description": "I lived in Da Nang for a couple of years but since I was working I didn't get the chance to travel all that much. I'll be returning with my partner for the month of February and we're wondering if there's a unique/fun way to travel from Hanoi to Da Nang that involves seeing some sights along the way. Or, alternatively, if it's worth just flying instead to cut the duration of the trip. We'd like to see Ninh Binh but my understanding is that we could do that in a day or two from Hanoi and then return and fly out to Da Nang. \n Any insight appreciated! Thanks very much.\n    submitted by    /u/Number8  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zm2g94/travelling_from_hanoi_to_da_nang_early_february/",
-          "publishedOn": "2022-12-14T21:16:06.000Z",
-          "wordCount": 15988,
-          "title": "Travelling from Hanoi to Da Nang early February - is there a fun/unique way to do this journey or should we fly?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zm1l7l/vietnam_holiday/",
-          "author": null,
-          "description": "Looking to go to Vietnam with my wife for 8 days early January. We'd like to stay somewhere luxe, ie, villa with private pool or apartment in 5star hotel. I think south would be better as it looks warmer at that time. Any recommendations?\n    submitted by    /u/Maleficent_Court_441  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zm1l7l/vietnam_holiday/",
-          "publishedOn": "2022-12-14T20:40:00.000Z",
-          "wordCount": 15568,
-          "title": "Vietnam holiday",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zm1kmw/mua_%C4%91%E1%BB%93_ch%E1%BA%BF_juice_vape_%E1%BB%9F_hn/",
-          "author": null,
-          "description": "Ae nào có nguồn mua VG, PG, đặc biệt là nicotine dạng lỏng để pha juice vape cho tôi xin với, google mãi chẳng ra đc j mà mua juice tốn tiền vl 😓\n    submitted by    /u/Retr0_611  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zm1kmw/mua_%C4%91%E1%BB%93_ch%E1%BA%BF_juice_vape_%E1%BB%9F_hn/",
-          "publishedOn": "2022-12-14T20:39:17.000Z",
-          "wordCount": 15944,
-          "title": "mua đồ chế juice vape ở HN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zm09sr/best_coffee_and_best_value/",
-          "author": null,
-          "description": "So, I reside in Thanh Xuan, and there is this Circle K on Vu Trong Phung. It’s at the intersection of the big Cay Da. I buy my coffee everyday on my way to work. And I order it with no ice, no sugar. Why?\n For a couple of reasons, it’s faster for the employees to make, and I like my coffee black. Anywho, the coffee only cost 12k. I noticed, that the first few times I had ordered my coffee, some of the clerks would fill it a little less than half of the cup. Now! That I have consistently go there everyday, I get the best coffee around town. O don’t even need to tell them my order, instead the clerk would automatically ask me, “black? No ice, no sugar?” I love it! Plus, this time comes around there’s this clerk that just doesn’t care about the amount he gives me. The dude fills it to the brink. Kudos to him! Let me know if this hack works for you.\n    submitted by    /u/uniquelyurs2386  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zm09sr/best_coffee_and_best_value/",
-          "publishedOn": "2022-12-14T19:45:23.000Z",
-          "wordCount": 16515,
-          "title": "Best coffee and best value",
-          "imageUrl": "https://preview.redd.it/4qh8jad1ly5a1.jpg?auto=webp&v=enabled&s=ac401f544747a2d951b33ffa539b89963345c13b"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zlw07d/how_many_visits_per_year/",
-          "author": null,
-          "description": "Hi, how frequently can a person visit per year? Is there a cap per year? Every 6 months? Thanks!\n    submitted by    /u/username5471234712  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zlw07d/how_many_visits_per_year/",
-          "publishedOn": "2022-12-14T16:53:30.000Z",
-          "wordCount": 15651,
-          "title": "How many visits per year",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zlufu1/vietnamese_dad_builds_his_daughter_a_fully/",
-          "author": null,
-          "description": "submitted by    /u/Mr_X_90s  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zlufu1/vietnamese_dad_builds_his_daughter_a_fully/",
-          "publishedOn": "2022-12-14T15:50:05.000Z",
-          "wordCount": 15502,
-          "title": "Vietnamese dad builds his daughter a fully operational car.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zltq81/does_anyone_know_the_vietnamese_version_of_teresa/",
-          "author": null,
-          "description": "I recently came across that song and remembered hearing that in Vietnamese way back, sang buy a guy\n https://youtu.be/6-3ng-f_aJM?t=57\n    submitted by    /u/MA-Q-T  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zltq81/does_anyone_know_the_vietnamese_version_of_teresa/",
-          "publishedOn": "2022-12-14T15:20:55.000Z",
-          "wordCount": 15535,
-          "title": "Does anyone know the Vietnamese version of Teresa Teng - Scandal?",
-          "imageUrl": "https://external-preview.redd.it/4yDdho5jPkaSjvfv6dN6hXUVZ7KXuRzk7DTuVSr-Quk.jpg?auto=webp&v=enabled&s=9961722713a2a8e282e7794ab4f584b1b53e1276"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zlru1d/vietnamese_coworkers_only_refer_to_me_by_title_is/",
-          "author": null,
-          "description": "Hello all, I've been living in Vietnam for a while now, and this is something that's started to grate on me a bit.\n Most of the vietnamese teachers that I have gone out to eat with, have invited to my house, sang karaoke with, and thought I'd gotten friendlier with, still call me just \"teacher\" even though I've long since told them they can just call me by my name unless in front of students in which case they can call me \"Teacher _____\". I also always call them by their name or nickname, unless it's someone I'm not that familiar with.\n ​\n It's kind of like insisting on calling someone \"Doctor\" or \"Sir\" after they've already allowed you to call them by name, like they want to keep the relationship distant to less than acquaintances, which is fine if that's what they want, I won't have to join their drinking sessions anymore haha.\n ​\n Is this normal in vietnam? I have a vietnamese friend that says in their language they just call each other by name, but when I discuss it with the teachers they say they are just being \"polite\" in their culture. I even told them I prefer to be called by my name and they still say, \"hello Teacher.\"\n    submitted by    /u/Vivoras  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zlru1d/vietnamese_coworkers_only_refer_to_me_by_title_is/",
-          "publishedOn": "2022-12-14T14:06:27.000Z",
-          "wordCount": 17997,
-          "title": "Vietnamese coworkers only refer to me by title, is it a culture thing?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zlr8l3/vietnamese_dad_built_her_daughter_a_fully/",
-          "author": null,
-          "description": "submitted by    /u/Chillax420x  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zlr8l3/vietnamese_dad_built_her_daughter_a_fully/",
-          "publishedOn": "2022-12-14T13:41:27.000Z",
-          "wordCount": 15694,
-          "title": "Vietnamese dad built her daughter a fully operational car for 1 year bday",
-          "imageUrl": null
         }
       ]
     },
@@ -6915,6 +6995,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-search-to-ruby-on-rails-app/",
+          "author": "Sampurna Chapagain",
+          "description": "Nowadays, most web applications have a search feature. Users can use the search feature in order to navigate websites more easily. Implementing a search feature in Ruby on Rails is very easy. By using only a few lines of code you can set it up. This tutorial assumes that you",
+          "link": "https://www.freecodecamp.org/news/how-to-add-search-to-ruby-on-rails-app/",
+          "publishedOn": "2023-01-13T18:22:33.000Z",
+          "wordCount": 1443,
+          "title": "How to Add Search Functionality to a Ruby on Rails Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/markus-winkler-afW1hht0NSs-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-rename-a-column-in-pandas/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "A Pandas Dataframe is a 2-dimensional data structure that displays data in tables with rows and columns.  In this article, you'll learn how to rename columns in a Pandas Dataframe by using:   * The rename() function.  * A List.  * The set_axis() function. How to",
+          "link": "https://www.freecodecamp.org/news/how-to-rename-a-column-in-pandas/",
+          "publishedOn": "2023-01-13T18:18:13.000Z",
+          "wordCount": 1301,
+          "title": "How to Rename a Column in Pandas – Python Pandas Dataframe Renaming Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/how-to-rename-column-in-pandas.svg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/coalesce-sql-example-postgresql-and-sql-server-functions/",
+          "author": "Kolade Chris",
+          "description": "In SQL, the COALESCE() function returns the first non-null value in an entry. It evaluates the values of the entries one by one, ignores the null values, then returns the first value that is not null. It works in PostgreSQL, SQL server, and MySQL. In this article, I will show",
+          "link": "https://www.freecodecamp.org/news/coalesce-sql-example-postgresql-and-sql-server-functions/",
+          "publishedOn": "2023-01-13T18:14:20.000Z",
+          "wordCount": 1199,
+          "title": "Coalesce SQL – Example PostgreSQL and SQL Server Functions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/coalesce.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/coding-best-practices-in-c-sharp/",
+          "author": "Edeh Israel Chidera",
+          "description": "Coding conventions ensure that your code is consistent, readable, understandable, and maintainable.  When it comes to writing clean and quality code, there are conventions developers should follow to make this possible.  There are a few things you should keep in mind while writing your code. In this article,",
+          "link": "https://www.freecodecamp.org/news/coding-best-practices-in-c-sharp/",
+          "publishedOn": "2023-01-13T16:31:30.000Z",
+          "wordCount": 1800,
+          "title": "C# Coding Best Practices – Coding Conventions with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/file-permissions-in-linux-how-to-use-the-chown-chgrp-command-s/",
+          "author": "Arunachalam B",
+          "description": "When it comes to large organizations, Users and Groups in Linux play an important role in helping keep systems secure and properly functioning.  There can be different levels of users in an organization with different roles and permissions. And you'll need a good understanding Linux permissions to manage and/or",
+          "link": "https://www.freecodecamp.org/news/file-permissions-in-linux-how-to-use-the-chown-chgrp-command-s/",
+          "publishedOn": "2023-01-13T16:25:20.000Z",
+          "wordCount": 2544,
+          "title": "File Permissions in Linux – How to Use the chown and chgrp Commands",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/BB---Manage-Users-and-Groups-in-Linux.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/",
           "author": "Joel Olawanle",
@@ -7824,56 +7954,6 @@
           "wordCount": 1461,
           "title": "What is the Difference Between an Independent Variable and a Dependent Variable?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/snowy-4689675_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-range-create-an-array-of-numbers-with-the-from-method/",
-          "author": "Joel Olawanle",
-          "description": "The .from() method is a static method of the Array object in JavaScript ES6. It creates a new, shallow-copied Array instance from an array-like or iterable object like map and set. This method returns an array from any object with a length property. You can use it to create an",
-          "link": "https://www.freecodecamp.org/news/javascript-range-create-an-array-of-numbers-with-the-from-method/",
-          "publishedOn": "2022-12-14T21:15:06.000Z",
-          "wordCount": 1466,
-          "title": "JavaScript Range – How to Create an Array of Numbers with .from() in JS ES6",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/",
-          "author": "Beau Carnes",
-          "description": "Building projects is a great way to improve your programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a digital card game with JavaScirpt, HTML, and CSS. This tutorial not only covers creating a basic card game using JavaScript but",
-          "link": "https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/",
-          "publishedOn": "2022-12-14T18:56:08.000Z",
-          "wordCount": 759,
-          "title": "Improve Your JavaScript Skills by Coding a Card Game",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/jsgavin.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-next-js-tutorial/",
-          "author": "Beau Carnes",
-          "description": "Next.js is a popular framework for building server-rendered JavaScript applications. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn how to use Next.js. Next.js is built on top of React, which is a popular JavaScript library for building user interfaces. Next.js makes it",
-          "link": "https://www.freecodecamp.org/news/learn-next-js-tutorial/",
-          "publishedOn": "2022-12-14T18:35:12.000Z",
-          "wordCount": 811,
-          "title": "Learn Next.js for Scalable Web Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Next.js-Course.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-read-a-file-line-by-line-in-python/",
-          "author": "Dionysia Lemonaki",
-          "description": "When coding in Python, there may be times when you need to open and read the contents of a text file. Luckily enough, there are several ways to do this in Python. The language has many built-in functions, methods, and keywords that you can use to create, write, read and",
-          "link": "https://www.freecodecamp.org/news/how-to-read-a-file-line-by-line-in-python/",
-          "publishedOn": "2022-12-14T17:58:48.000Z",
-          "wordCount": 1795,
-          "title": "How to Read a File Line by Line in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-mateusz-dach-450035.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-solidity-handbook/",
-          "author": "Zubin Pratap",
-          "description": "When I changed careers from lawyer to software engineer [/news/from-lawyer-to-google-engineer/] in 2018, I never imagined that I’d enjoy being a developer as much as I do. I also never thought I'd end up working for amazing organizations like Google [/news/coding-interview-prep-for-big-tech/]  and Chainlink labs.  After 15 years in law",
-          "link": "https://www.freecodecamp.org/news/learn-solidity-handbook/",
-          "publishedOn": "2022-12-14T15:45:30.000Z",
-          "wordCount": 19072,
-          "title": "Learn Solidity – A Handbook for Smart Contract Development",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-pixabay-417173--2-.jpg"
         }
       ]
     }
