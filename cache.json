@@ -12,6 +12,36 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630FF4BC0.HighSurfAdvisory.126631002FE0CA.LOXCFWLOX.9d0f5f1174037a114de56ed0b08a51e2",
+          "author": null,
+          "description": "...COASTAL FLOOD ADVISORY REMAINS IN EFFECT UNTIL 10 PM PST WEDNESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 10 PM PST THIS EVENING... * WHAT...For the Coastal Flood Advisory, minor coastal flooding. For the High Surf Advisory, large breaking waves of 8 to 12",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630FF4BC0.HighSurfAdvisory.126631002FE0CA.LOXCFWLOX.9d0f5f1174037a114de56ed0b08a51e2",
+          "publishedOn": "2023-01-18T00:16:00.000Z",
+          "wordCount": 388,
+          "title": "High Surf Advisory issued January 17 at 4:16PM PST until January 17 at 10:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630FF4BC0.CoastalFloodAdvisory.1266310F7220CA.LOXCFWLOX.6bfc7200108e6e98187180c6a1c842a6",
+          "author": null,
+          "description": "...COASTAL FLOOD ADVISORY REMAINS IN EFFECT UNTIL 10 PM PST WEDNESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 10 PM PST THIS EVENING... * WHAT...For the Coastal Flood Advisory, minor coastal flooding. For the High Surf Advisory, large breaking waves of 8 to 12",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630FF4BC0.CoastalFloodAdvisory.1266310F7220CA.LOXCFWLOX.6bfc7200108e6e98187180c6a1c842a6",
+          "publishedOn": "2023-01-18T00:16:00.000Z",
+          "wordCount": 388,
+          "title": "Coastal Flood Advisory issued January 17 at 4:16PM PST until January 18 at 10:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630F34AB4.FrostAdvisory.12663101DD90CA.LOXNPWLOX.3fae489bf2729a616938d9eb3a5dda06",
+          "author": null,
+          "description": "...FROST ADVISORY IN EFFECT FROM MIDNIGHT TONIGHT TO 9 AM PST WEDNESDAY... * WHAT...Temperatures as low as 33 will result in frost formation. * WHERE...Santa Clarita Valley and Ojai Valley. * WHEN...From midnight tonight to 9 AM PST Wednesday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630F34AB4.FrostAdvisory.12663101DD90CA.LOXNPWLOX.3fae489bf2729a616938d9eb3a5dda06",
+          "publishedOn": "2023-01-17T21:49:00.000Z",
+          "wordCount": 134,
+          "title": "Frost Advisory issued January 17 at 1:49PM PST until January 18 at 9:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630E422A0.HighSurfAdvisory.126631002FE0CA.LOXCFWLOX.9d0f5f1174037a114de56ed0b08a51e2",
           "author": null,
           "description": "...COASTAL FLOOD ADVISORY NOW IN EFFECT UNTIL 10 PM PST WEDNESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 10 PM PST TUESDAY... * WHAT...For the Coastal Flood Advisory, minor coastal flooding. For the High Surf Advisory, large breaking waves of 5 to 8 feet with local sets to 10 feet and dangerous rip currents.",
@@ -890,16 +920,6 @@
           "wordCount": 337,
           "title": "Air Quality Alert issued December 19 at 1:05PM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E8730CC.AirQualityAlert.12641EA3C980CA.LOXAQALOX.769a578d49bd0ff8460b965372be6ac9",
-          "author": null,
-          "description": "...AIR QUALITY ALERT: MANDATORY WOOD-BURNING BAN IN EFFECT... The South Coast AQMD has extended a mandatory wood-burning ban for residents in the South Coast Air Basin for Sunday, December 18 to Monday, December 19. No-Burn days are declared to protect public health when levels of fine particulate air pollution in the region are forecast to be high.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641E8730CC.AirQualityAlert.12641EA3C980CA.LOXAQALOX.769a578d49bd0ff8460b965372be6ac9",
-          "publishedOn": "2022-12-18T20:59:00.000Z",
-          "wordCount": 337,
-          "title": "Air Quality Alert issued December 18 at 12:59PM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -908,6 +928,236 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10es5iq/sunrise/",
+          "author": null,
+          "description": "submitted by    /u/DragonVN-1212  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10es5iq/sunrise/",
+          "publishedOn": "2023-01-18T00:07:40.000Z",
+          "wordCount": 15563,
+          "title": "Sunrise",
+          "imageUrl": "https://preview.redd.it/8svi7zitiqca1.jpg?auto=webp&v=enabled&s=8300cd08272e8328063376363ac1adfe2a90ffae"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10erj7c/is_it_a_good_idea_to_buy_sovenier_items_and_other/",
+          "author": null,
+          "description": "submitted by    /u/siddharth81286  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10erj7c/is_it_a_good_idea_to_buy_sovenier_items_and_other/",
+          "publishedOn": "2023-01-17T23:42:48.000Z",
+          "wordCount": 16857,
+          "title": "Is it a good idea to buy sovenier items and other shopping from hanoi or we can also get to see same kind of market in ho chi minh also? which one is cheaper and authentic. please suggest.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10eridk/are_magic_mushroom_shakes_a_thing_in_vietnam_like/",
+          "author": null,
+          "description": "I’ll be visiting later this year and travelling through Hanoi/halong/Nimh binh, hoi an, HCM, phu quoc etc. a shake with a nice sunset would be cool.\n    submitted by    /u/EmployeeAlternative3  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10eridk/are_magic_mushroom_shakes_a_thing_in_vietnam_like/",
+          "publishedOn": "2023-01-17T23:41:51.000Z",
+          "wordCount": 15673,
+          "title": "Are magic mushroom shakes a thing in Vietnam like they are in other SE Asia countries?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10eresk/best_place_for_a_remote_beachside_retreat_for/",
+          "author": null,
+          "description": "Hi everyone - I've spent the last few days combing through all your posts on traveling Vietnam, lots of helpful stuff so thanks to everyone. Currently planning on flying to Hanoi mid Sept, spending a couple days there and bussing to Ha Giang, doing the loop on motorbike then coming back. \n My bday is at the end of the trip and I'd like to splurge a little at a luxury-ish resort or something where I can really chill out and be taken care of. From what I've read so far, current top of the list is Da Nang, but just wanted to see if anyone has any other good recs. \n Wants\n -Remote-ish, not overly touristy but still some kind of town action we can walk to for food, beers, etc.\n -Resort with a pool, preferably overlooking the beach\n -Proximity to other towns/beaches so we can rent scooters and go on little day trips\n Recommendations on Towns or actual resorts would be amazing!\n    submitted by    /u/konantheronan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10eresk/best_place_for_a_remote_beachside_retreat_for/",
+          "publishedOn": "2023-01-17T23:37:51.000Z",
+          "wordCount": 15905,
+          "title": "Best place for a remote beachside retreat for birthday",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10eqz76/if_you_had_100000_and_wanted_to_start_a_business/",
+          "author": null,
+          "description": "What kind of business would you start with that kind of upfront investment?\n    submitted by    /u/RawOystersOnIce  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10eqz76/if_you_had_100000_and_wanted_to_start_a_business/",
+          "publishedOn": "2023-01-17T23:20:22.000Z",
+          "wordCount": 15647,
+          "title": "If you had $100,000 and wanted to start a business in Vietnam, what would you do?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10eoh61/beaches_in_vietnam/",
+          "author": null,
+          "description": "Hey people, I’ll be in Vietnam around February and march and would love to end my holidays with a nice beach. I read about Con Sao, Mui Ne, Phu Quoc and so on.. what would you guys recommend ? Which beach is the most beautiful of them? I hope somebody can help me out..\n Thank you !\n    submitted by    /u/xFawwaz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10eoh61/beaches_in_vietnam/",
+          "publishedOn": "2023-01-17T21:42:21.000Z",
+          "wordCount": 15681,
+          "title": "BEACHES IN VIETNAM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10efzb4/what_do_you_dislike_about_vietnam_complaining/",
+          "author": null,
+          "description": "Hey. I’m since 1 month here and will stay 2 more months. in summer i’ll come back for a month to hike in ha hiang and sapa.\n maybe i’ll stay forever. i’m really in love with this country. i realllllyyyyy love vietnam. the people the food the culture, nature, everything.\n but yea everything has it’s bad side, so: please complain about vietnam in this thread. no matter if it’s school health care politics whatever. i want to hear all bad sides do get a bigger picture\n    submitted by    /u/pizzavegano  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10efzb4/what_do_you_dislike_about_vietnam_complaining/",
+          "publishedOn": "2023-01-17T16:09:35.000Z",
+          "wordCount": 16915,
+          "title": "What do you dislike about Vietnam? Complaining thread",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10ef4bn/visiting_vietnam_soon_many_questions/",
+          "author": null,
+          "description": "Hello! I am an Australian travelling to Vietnam for my first time at the end of the month; I have a few questions I thought there is no one better than to ask the local people for an honest or real world answer. Bare with me I have quite bad OCD so some of my questions may seem a bit pedantic, especially when it comes to health. 23, travelling with family and friends a group of 6. \n For some context as I know things my differ place to place I'm visiting these places in this order.\n Ho Chi Minh > Da Lat > Nha Trang > Hoi An > Da Nang > Hue > Ninh Binh (Tam Coc) > Halong Bay > Hanoi. \n My first question would be about pre requisite medication and or vaccination for Vietnam; The Australian government recommends a lot to go. I only have 2 weeks left so, I have travelled to Indonesia, South Eas…",
+          "link": "https://www.reddit.com/r/VietNam/comments/10ef4bn/visiting_vietnam_soon_many_questions/",
+          "publishedOn": "2023-01-17T15:33:47.000Z",
+          "wordCount": 18768,
+          "title": "Visiting Vietnam soon; many questions.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10edyqn/ch%C3%BAc_m%E1%BB%ABng_n%C4%83m_m%E1%BB%9Bi/",
+          "author": null,
+          "description": "submitted by    /u/OrnaPlayer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10edyqn/ch%C3%BAc_m%E1%BB%ABng_n%C4%83m_m%E1%BB%9Bi/",
+          "publishedOn": "2023-01-17T14:44:56.000Z",
+          "wordCount": 15766,
+          "title": "Chúc mừng năm mới",
+          "imageUrl": "https://preview.redd.it/oy6je1sq8mca1.png?auto=webp&v=enabled&s=71d041424c139ae24a75e70a6ba3994e491e1002"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10edmug/had_an_awesome_opportunity_to_participate_as_an/",
+          "author": null,
+          "description": "submitted by    /u/niohdaily  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10edmug/had_an_awesome_opportunity_to_participate_as_an/",
+          "publishedOn": "2023-01-17T14:30:21.000Z",
+          "wordCount": 15751,
+          "title": "Had an awesome opportunity to participate as an actor in a movie in HCM!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10ebl9s/one_and_only/",
+          "author": null,
+          "description": "submitted by    /u/ApprehensiveDaikon80  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10ebl9s/one_and_only/",
+          "publishedOn": "2023-01-17T12:55:05.000Z",
+          "wordCount": 16148,
+          "title": "one and only",
+          "imageUrl": "https://preview.redd.it/r2f8guwt6nca1.jpg?auto=webp&v=enabled&s=88f623676d26b00c32906f99b81413ab6e7c3a1b"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10eb1h0/people_selling_peach_apricot_and_yellow_apricot/",
+          "author": null,
+          "description": "submitted by    /u/KitsugaiSese  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10eb1h0/people_selling_peach_apricot_and_yellow_apricot/",
+          "publishedOn": "2023-01-17T12:26:38.000Z",
+          "wordCount": 15951,
+          "title": "People selling peach, apricot and yellow apricot for Tết",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10ea0mn/vietnam_irl/",
+          "author": null,
+          "description": "submitted by    /u/UsaToVietnam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10ea0mn/vietnam_irl/",
+          "publishedOn": "2023-01-17T11:29:27.000Z",
+          "wordCount": 15473,
+          "title": "Vietnam irl",
+          "imageUrl": "https://external-preview.redd.it/Ukwkn6NcUxADb8TtnDAx67MMxzA8_hc8BtjOyPntUhI.png?auto=webp&v=enabled&s=ab74f71bda11fe5fba93d06476dc4ec9efa8a9a3"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10e9mj5/vietnam_president_ousted_from_politburo_in_rare/",
+          "author": null,
+          "description": "submitted by    /u/leprotelariat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10e9mj5/vietnam_president_ousted_from_politburo_in_rare/",
+          "publishedOn": "2023-01-17T11:05:50.000Z",
+          "wordCount": 17761,
+          "title": "Vietnam President Ousted From Politburo in Rare Shakeup",
+          "imageUrl": "https://external-preview.redd.it/qgtVUckIevxN_7pu1kcPY_83k_S-PaHmKhYIx7P_Tgk.jpg?auto=webp&v=enabled&s=9dd04dfdbd41dc4eaa06f942ebf82d6a908d431f"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10e8rrc/president_nguyen_xuan_phuc_to_step_down/",
+          "author": null,
+          "description": "submitted by    /u/majungo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10e8rrc/president_nguyen_xuan_phuc_to_step_down/",
+          "publishedOn": "2023-01-17T10:13:32.000Z",
+          "wordCount": 18153,
+          "title": "President Nguyen Xuan Phuc to step down",
+          "imageUrl": "https://external-preview.redd.it/c3fFogSeYMqEOoWBkDz2ThekCirv2enuIWx8xNAQy5Q.jpg?auto=webp&v=enabled&s=3c52ac7d7aa47a1ef6878e2c25e5b0025138e17a"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10e80bj/just_want_to_share_my_bike_hcm/",
+          "author": null,
+          "description": "submitted by    /u/niohdaily  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10e80bj/just_want_to_share_my_bike_hcm/",
+          "publishedOn": "2023-01-17T09:26:01.000Z",
+          "wordCount": 17548,
+          "title": "Just want to share my bike! (HCM)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10e7ipx/simply_hanoi/",
+          "author": null,
+          "description": "I'll be moving back AGAIN in a few days and I was just flicking through some nice pics and thought this sub would appreciate them!\n Swipe for the wonder of healgh and safety in this amazing country 👌\n    submitted by    /u/TheBlockFighter  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10e7ipx/simply_hanoi/",
+          "publishedOn": "2023-01-17T08:56:30.000Z",
+          "wordCount": 15639,
+          "title": "Simply Hanoi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10e6tmf/true_love/",
+          "author": null,
+          "description": "submitted by    /u/LatteSkull  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10e6tmf/true_love/",
+          "publishedOn": "2023-01-17T08:12:16.000Z",
+          "wordCount": 15574,
+          "title": "True love ❤️",
+          "imageUrl": "https://preview.redd.it/uhwpp0gdslca1.jpg?auto=webp&v=enabled&s=85e5e42c41954a5584ba904a2a53e1c091616dc0"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10e6r73/if_you_live_in_saigon_and_enjoy_a_bit_of_fun/",
+          "author": null,
+          "description": "submitted by    /u/Giant_Homunculus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10e6r73/if_you_live_in_saigon_and_enjoy_a_bit_of_fun/",
+          "publishedOn": "2023-01-17T08:08:06.000Z",
+          "wordCount": 21004,
+          "title": "If you live in Saigon and enjoy a bit of fun competition consider signing up for the Saigon International Darts League",
+          "imageUrl": "https://preview.redd.it/lo5eb3jmrlca1.jpg?auto=webp&v=enabled&s=08a2fe917eeaf6f80788295c157560d59d6149e2"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10e3u84/help_me_understand_which_vaccine_quin_vo_xom_is/",
+          "author": null,
+          "description": "Thanks heaps!\n    submitted by    /u/xidada2022  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10e3u84/help_me_understand_which_vaccine_quin_vo_xom_is/",
+          "publishedOn": "2023-01-17T05:21:04.000Z",
+          "wordCount": 17394,
+          "title": "Help me understand which vaccine Quin Vo Xom is?",
+          "imageUrl": "https://preview.redd.it/ggqc2mhsxkca1.jpg?auto=webp&v=enabled&s=d09bb2912536446bb49c3fc53116c2a63c3b23e2"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10e2p0r/hold_up_let_him_cook/",
+          "author": null,
+          "description": "submitted by    /u/thenoobtanker  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10e2p0r/hold_up_let_him_cook/",
+          "publishedOn": "2023-01-17T04:23:28.000Z",
+          "wordCount": 16096,
+          "title": "Hold up, let him cook.",
+          "imageUrl": "https://preview.redd.it/qzdkq0vjnkca1.jpg?auto=webp&v=enabled&s=25a52c44e73f94cd0c04202a64ea99bf3da57582"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10dzwt7/my_morning_meal_in_vietnam_homemade_pasta/",
+          "author": null,
+          "description": "submitted by    /u/Fortune-Former  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10dzwt7/my_morning_meal_in_vietnam_homemade_pasta/",
+          "publishedOn": "2023-01-17T02:12:20.000Z",
+          "wordCount": 16071,
+          "title": "My morning meal in Vietnam. Homemade pasta",
+          "imageUrl": "https://preview.redd.it/jhnfn7f50kca1.jpg?auto=webp&v=enabled&s=e3e483b05c6d25ab0e8c54fb04dfc6df35565981"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10dz0dc/why_is_vietnamese_culture_more_chill_than_other/",
+          "author": null,
+          "description": "When compared to other Sinosphere nations like China, South Korea, and Japan, Vietnamese culture seems more chill. Education is efficient and not stressful while work culture isn't as intense. Vietnamese students have more extracurricular activities to do such as football compared to Chinese students who study day and night from the start of life to prepare for the gaokao. Vietnamese suicide rates are much lower than Japan's or South Korea's.\n What cultural/social/political developments led to Vietnamese culture being more chill?\n    submitted by    /u/MaxMaxMax_05  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10dz0dc/why_is_vietnamese_culture_more_chill_than_other/",
+          "publishedOn": "2023-01-17T01:32:33.000Z",
+          "wordCount": 21136,
+          "title": "Why is Vietnamese culture more chill than other Sinosphere nations?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/10du76s/3d_printer_vendor_options_in_hcm/",
           "author": null,
@@ -6857,206 +7107,6 @@
           "wordCount": 15116,
           "title": "Santa in Vietnam",
           "imageUrl": "https://external-preview.redd.it/ce4MPFomVpo-gRY-MQfTPHWqiRieyptot9eKuMx5ngc.png?format=pjpg&auto=webp&s=e673fa526b0b7cf29b7aa1784520bb491747514e"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zpq250/cursed_vietnam_image/",
-          "author": null,
-          "description": "submitted by    /u/EdseAnotherAccount  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zpq250/cursed_vietnam_image/",
-          "publishedOn": "2022-12-19T12:17:54.000Z",
-          "wordCount": 15419,
-          "title": "Cursed Vietnam image",
-          "imageUrl": "https://preview.redd.it/0h28ps8r1w6a1.jpg?auto=webp&s=3982236302aa70ce7c1404e58c7f374d5e18ba37"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zppzzr/old_money/",
-          "author": null,
-          "description": "submitted by    /u/axa88  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zppzzr/old_money/",
-          "publishedOn": "2022-12-19T12:15:01.000Z",
-          "wordCount": 16400,
-          "title": "old money",
-          "imageUrl": "https://preview.redd.it/vtl3rty81w6a1.jpg?auto=webp&s=65f11ba1ddf27a3c1d30ae64dd606247bcb814df"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zpouzt/is_vietnam_still_communist/",
-          "author": null,
-          "description": "Is Communism still relevant in the Vietnamese government and everyday lives? Or is it more a thing of the past?\n    submitted by    /u/Safe-Raspberry-343  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zpouzt/is_vietnam_still_communist/",
-          "publishedOn": "2022-12-19T11:15:52.000Z",
-          "wordCount": 16162,
-          "title": "Is Vietnam still communist?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zpoorn/sesame_seeded_banh_mi/",
-          "author": null,
-          "description": "submitted by    /u/Chubby2000  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zpoorn/sesame_seeded_banh_mi/",
-          "publishedOn": "2022-12-19T11:06:57.000Z",
-          "wordCount": 15092,
-          "title": "sesame seeded banh mi",
-          "imageUrl": "https://preview.redd.it/81wjsym3pv6a1.jpg?auto=webp&s=cc947db04d826e008c0120d25999e7843e53cd78"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zpmjib/this_shirt_goes_hard/",
-          "author": null,
-          "description": "submitted by    /u/vung20019  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zpmjib/this_shirt_goes_hard/",
-          "publishedOn": "2022-12-19T08:57:18.000Z",
-          "wordCount": 16075,
-          "title": "this shirt goes hard",
-          "imageUrl": "https://preview.redd.it/ra74fawy1v6a1.jpg?auto=webp&s=3f40437354460e0e345c1d93607c31f617f61434"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zpk7m1/oc_h%C3%A0_giang_ngay_l%C3%BAc_n%C3%A0y_6c/",
-          "author": null,
-          "description": "submitted by    /u/glass_broken  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zpk7m1/oc_h%C3%A0_giang_ngay_l%C3%BAc_n%C3%A0y_6c/",
-          "publishedOn": "2022-12-19T06:34:01.000Z",
-          "wordCount": 14997,
-          "title": "[oc] hà giang ngay lúc này (6°c)",
-          "imageUrl": "https://external-preview.redd.it/FCVRL90Ojm-3fjXecw8oVjOy1vpMUgWTUxQYtA9wjtU.png?format=pjpg&auto=webp&s=8a87c00f7889c16577cbaa73730021dc6fb9ad2e"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zpju3q/opinions_on_vinfast_and_whether_it_would_succeed/",
-          "author": null,
-          "description": "Several days ago, I have read two articles that are critical about Vinfast.\n VinFast VF8 Is Simply Not Ready for America (jalopnik.com) \n 180 Miles for $55k: Can the 2023 VinFast VF 8 SUV Break Into America? (motortrend.com) \n From what I have found out, the Vinfast VF 8 would cost at least $55k (Eco starts at $59k according to their site), and that the City Edition would only have 180 miles of range, which is a joke considering that most EVs have between 200-350 miles of range. The fact that the Vinfast name is weak compared to other brands like Tesla, Polestar, Rivian, Lucid, Hyundai, Kia, Ford, GM, Mercedes Benz, BMW, VW/Audi/Porsche, etc. won't do it any favours either.\n In the US, with other EVs that are more competitive like the Hyundai Ioniq 5, Hyundai Ioniq 6, Hyundai Kona EV, Kia EV6, Kia Niro EV, Ford Mustang Mach-E, Polestar 2, BMW i4, Mercedes Benz EQB, Audi Q4 E-tron, VW ID.4, Chevy Bolt, Nissan Leaf, and the Tesla Model 3 (even its starting price now at $47k puts it at a better position than the VF 8, and that is after massive price hikes as the April 2021 price of the Model 3 Rear Wheel Drive sits below $40k), would Vinfast succeed or would they end up failing like Yugo (at least Yugos are cheap)?\n Also, how was the experience of Vinfast cars and EVs in Vietnam? Were they good or were they bad?\n    submitted by    /u/MussleGeeYem  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zpju3q/opinions_on_vinfast_and_whether_it_would_succeed/",
-          "publishedOn": "2022-12-19T06:12:35.000Z",
-          "wordCount": 22014,
-          "title": "Opinions On Vinfast And Whether It Would Succeed Or Fail In The US",
-          "imageUrl": "https://external-preview.redd.it/zreMJUSsM46loUk073wb6nOjWkRIRGWwBTVU8gWJrAE.jpg?auto=webp&s=e3b966b6dd30f33669d6105a015afbf69288b8f2"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zpjoho/view_for_days_ba_na_hills_hoi_an/",
-          "author": null,
-          "description": "submitted by    /u/SnooCapers4885  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zpjoho/view_for_days_ba_na_hills_hoi_an/",
-          "publishedOn": "2022-12-19T06:04:03.000Z",
-          "wordCount": 15115,
-          "title": "View for days! Ba Na Hills, Hoi An",
-          "imageUrl": "https://preview.redd.it/twh4fz227u6a1.jpg?auto=webp&s=d6896c528c8aefdd72cff77e902cf77d75bc5832"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zpfhzo/this_made_me_laugh_for_a_few_mins_straight_when_i/",
-          "author": null,
-          "description": "submitted by    /u/Rocmue  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zpfhzo/this_made_me_laugh_for_a_few_mins_straight_when_i/",
-          "publishedOn": "2022-12-19T02:31:50.000Z",
-          "wordCount": 15362,
-          "title": "This made me laugh for a few mins straight when I received lol massive Banh Mi for breakfast. This is awesome",
-          "imageUrl": "https://preview.redd.it/pcjw1c075t6a1.jpg?auto=webp&s=ac20694de06a4146a293bb2676a69061aeee2205"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zpcbee/today_is_the_76_anniversary_of_the_battle_of_h%C3%A0/",
-          "author": null,
-          "description": "submitted by    /u/Snoo-23852  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zpcbee/today_is_the_76_anniversary_of_the_battle_of_h%C3%A0/",
-          "publishedOn": "2022-12-19T00:00:13.000Z",
-          "wordCount": 16061,
-          "title": "Today is the 76 anniversary of the “Battle of Hà nội” when a small and poorly armed Vietminh force mostly composed of civilians was able to hold off French forces for 60 days and bought enough time for the Viet-Minh to evacuate most of their main forces to the mountainous region",
-          "imageUrl": "https://preview.redd.it/g180lb06lo6a1.jpg?auto=webp&s=b23cdfd816546a12377556ceba2b9959c7cd98e8"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zpbhtq/questions_about_vietnamese_slangs_borrowed_from/",
-          "author": null,
-          "description": "Xin chào tất cả mọi người! Chinese guy coming in peace here.\n I was just killing some time being stuck in a Wikipedia/Wiktionary rabbit hole. By chance I found a few Vietnamese slangs/neologisms borrowed from Chinese, such as cao phú soái (高富帥) and cẩu huyết (狗血). \n How commonly used are these phrases? Are there any controversies about borrowing phrases from Chinese?\n Are these phrases borrowed via TV shows from mainland China / Taiwan? How popular is Chinese-language entertainment in Vietnam?\n Thank you so much!\n    submitted by    /u/RottenBanana412  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zpbhtq/questions_about_vietnamese_slangs_borrowed_from/",
-          "publishedOn": "2022-12-18T23:22:13.000Z",
-          "wordCount": 15686,
-          "title": "Questions about Vietnamese slangs borrowed from the Chinese language",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zpbbbo/vietnams_cursed_images_74/",
-          "author": null,
-          "description": "submitted by    /u/GodBlessHentai  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zpbbbo/vietnams_cursed_images_74/",
-          "publishedOn": "2022-12-18T23:14:09.000Z",
-          "wordCount": 15437,
-          "title": "Vietnam's cursed images #74",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zpadj9/can_i_leave_con_from_this_sentence_t%C3%B4i_c%C3%B3_nh%E1%BB%AFng/",
-          "author": null,
-          "description": "I'm doing the Vietnamese Duolingo course, and it forces me to put the con there, but based on the languages I know it sounds very unnatural. Am I wrong?\n Thanks in advance😀\n    submitted by    /u/DeLannoy04  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zpadj9/can_i_leave_con_from_this_sentence_t%C3%B4i_c%C3%B3_nh%E1%BB%AFng/",
-          "publishedOn": "2022-12-18T22:32:38.000Z",
-          "wordCount": 15853,
-          "title": "Can I leave \"con\" from this sentence? \"Tôi có những con heo\" (I have pigs)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zp8zcf/kpop_show_last_night_in_old_quarter_then_when_the/",
-          "author": null,
-          "description": "submitted by    /u/RonJohnsonStereo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zp8zcf/kpop_show_last_night_in_old_quarter_then_when_the/",
-          "publishedOn": "2022-12-18T21:31:03.000Z",
-          "wordCount": 15449,
-          "title": "K-Pop show last night in Old Quarter. Then when the WC Final started at 22:00, the Quarter emptied out",
-          "imageUrl": "https://preview.redd.it/qwdu22djnr6a1.jpg?auto=webp&s=ade54317478dcb26b151d8374a7c330ebb88cfe7"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zp82hi/r%E1%BA%A1ch_gi%C3%A1/",
-          "author": null,
-          "description": "submitted by    /u/robokai  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zp82hi/r%E1%BA%A1ch_gi%C3%A1/",
-          "publishedOn": "2022-12-18T20:51:47.000Z",
-          "wordCount": 15305,
-          "title": "Rạch Giá",
-          "imageUrl": "https://preview.redd.it/3mbwpw7jgr6a1.jpg?auto=webp&s=6302fcb75a27ed0c38ce0f4b95d1beb7a982a922"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zp80j4/what_are_the_requirements_for_getting_vietnamese/",
-          "author": null,
-          "description": "Both my parents were born in Vietnam and are Vietnamese citizens (AFAIK). I want to be able to become a Vietnamese citizen and get a dual citizenship (US/Viet). My parents moved to the US in the 90s and have become US citizens in the mid 2010s. Some sources say you can get dual citizenship and some others say you must renounce foreign nationality. I'm very confused on which one is the most accurate and up to date fact. I am not willing to lose US citizenship over this.\n ​\n I do not want to go down the route of getting a business or work visa or doing the visa renewal trips every month or 3 months. I have a gf in Vietnam that I may end up marrying but in my opinion, that is not the safest route for myself because I don't want to be deported if we ever seperate. I want to be independent and not have to rely on others for me to legally stay in vietnam. \n I do have some family members in Sagion/Bao Loc but I am not very close to them. I can also speak basic vietnamese, as in I can navigate daily life but when it comes to reading gov't documents and speaking on important matters I am not at that level yet. Basically at a 5th grade level.\n ​\n What are my options? I found this line in a website that gives me hope that I can apply for it easily or without too much restrictions or requirements. \n ​\n \"BY DESCENT: Child, both of whose parents are citizens of Vietnam, regardless of the child's country of birth. Child, one of whose parents is a citizen of Vietnam and the other is stateless, regardless of the child's country of birth. \"\n -Source\n    submitted by    /u/Lemonbear63  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zp80j4/what_are_the_requirements_for_getting_vietnamese/",
-          "publishedOn": "2022-12-18T20:49:28.000Z",
-          "wordCount": 17594,
-          "title": "What are the requirements for getting Vietnamese citizenship?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zp5rq5/is_electric_battery_a_viable_alternative_to/",
-          "author": null,
-          "description": "I live in a small town and every other Sunday they cut our power from 7AM to 5PM (but it's almost guaranteed to be a few hours after). Today they didn't turn the power back until 9PM. I am looking for a solution for power during those cuts. Many of my neighbors have generators. It's a bit noisy and honestly I don't like storing fuel in my house.\n I tried looking up for batteries. I am not installing solar panels, just batteries that are charged by electricity when available. \"Pin tích điện\" is the Vietnamese keyword I can use without being pointed to \"ắc quy\" or \"pin sạc\" (which won't have enough wattage). Can you please recommend a good source? What is the general price for my requirements below? In the long run is it cheaper than a generator? Is there a reason most people just use generators that I am not aware of?\n We won't be cooking but an aircon is required for at least 3-4 hours for our toddler (also one reason I prefer battery over generator is due to the noise). I would like to run a fan, watch TV or use my laptop if possible. There is a fridge, would be nice if I can keep it running but we always keep it cold the day before anyway so maybe running it for an hour only mid-day won't hurt.\n    submitted by    /u/datvm  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zp5rq5/is_electric_battery_a_viable_alternative_to/",
-          "publishedOn": "2022-12-18T19:10:45.000Z",
-          "wordCount": 16867,
-          "title": "Is electric battery a viable alternative to generators in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zp57uv/congratulations_leo_messi_and_argentina/",
-          "author": null,
-          "description": "submitted by    /u/QuanArtDrawing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zp57uv/congratulations_leo_messi_and_argentina/",
-          "publishedOn": "2022-12-18T18:46:03.000Z",
-          "wordCount": 15347,
-          "title": "Congratulations Leo Messi and Argentina",
-          "imageUrl": "https://preview.redd.it/0vn85qk3uq6a1.jpg?auto=webp&s=e3b2522952e066d5da7abf297290cd1d08952490"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zp2lhg/sleeper_bus_recommendation/",
-          "author": null,
-          "description": "We are heading to Vietnam in February. We are looking for a sleeper bus with lie flat beds to travel in. Does anyone have recommendations for sites to use?\n    submitted by    /u/the_trees_talk  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zp2lhg/sleeper_bus_recommendation/",
-          "publishedOn": "2022-12-18T16:39:54.000Z",
-          "wordCount": 15897,
-          "title": "Sleeper bus recommendation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zozyb6/if_you_are_suicidal_read_the_words_of_someone_who/",
-          "author": null,
-          "description": "I've read a lot about people who've jumped from the Golden Gate Bridge (one of the world's most frequent suicide locations) and one quote has stuck with me:\n Ken Baldwin jumped from the bridge many years ago, in 1985 (a two-hundred-foot fall that statistically leads to death 97% of the time), but the instant he did so, in midair, he was hit by a horrifying realization: \"I instantly realized that everything in my life that I'd thought was unfixable was in fact totally fixable - except for having just jumped.\"\n With that sudden desire to live, Baldwin managed to change his body posture just before impact so that he hit the water feet-first rather than head-first (which would have meant certain death.) Even hitting feet-first, the only possible survivable posture, he still suffered numerous, severe injuries to his body. But he did survive, and went on to tell the tale and live a transformed life.\n If you are ever suicidal, for whatever reason, please take his words to heart - whatever you may feel in your life is \"unfixable\", may in fact be totally fixable or something that can be lived with. Don't wait until you're in mid-air after having leapt from a building or bridge to come to that realization.\n ​\n https://preview.redd.it/rs66fz3j3o6a1.jpg?width=840&format=pjpg&auto=webp&s=943e3b1449852d757d909e621044ca4a3720971e\n    submitted by    /u/chudayroi  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zozyb6/if_you_are_suicidal_read_the_words_of_someone_who/",
-          "publishedOn": "2022-12-18T14:33:53.000Z",
-          "wordCount": 23373,
-          "title": "If you are suicidal, read the words of someone who jumped from the Golden Gate Bridge in the 1980s",
-          "imageUrl": null
         }
       ]
     },
@@ -7065,6 +7115,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/",
+          "author": "Zaira Hira",
+          "description": "Grep is a useful command to search for matching patterns in a file. grep is short for \"global regular expression print\".  If you are a system admin who needs to scrape through log files or a developer trying to find certain occurrences in the code file, then grep is",
+          "link": "https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/",
+          "publishedOn": "2023-01-17T22:40:13.000Z",
+          "wordCount": 1637,
+          "title": "Grep Command in Linux – Usage, Options, and Syntax Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Copy-of-Copy-of-Cast-a-Function-in-SQL---Convert-Char-to-Int-SQL-Server-Example.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/basics-of-data-analysis-with-javascript/",
+          "author": "Zubair Idris Aweda",
+          "description": "Data analysis involves taking data you have and extracting useful information from them. During the process, you need to clean the data, present them in a useful way, and draw conclusions that can help companies make important decisions. Data analysis is commonly done with languages like Python and R. Very",
+          "link": "https://www.freecodecamp.org/news/basics-of-data-analysis-with-javascript/",
+          "publishedOn": "2023-01-17T21:59:00.000Z",
+          "wordCount": 1884,
+          "title": "How to Use JavaScript for Data Analysis – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-burak-the-weekender-186461.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-use-rem-to-set-font-size-in-css/",
+          "author": "Vinod Mathew Sebastian",
+          "description": "Setting font sizes is something you'll do often as a web developer. But sometimes, especially for beginners, this can get a bit tricky.  In this article, I'll explain why I think you should always use rem over em for setting the font-size of an element. What are Relative",
+          "link": "https://www.freecodecamp.org/news/why-use-rem-to-set-font-size-in-css/",
+          "publishedOn": "2023-01-17T21:33:17.000Z",
+          "wordCount": 1364,
+          "title": "Why You Should Use rem to Set Font Size in CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/em_vs_rem.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/user-authentication-methods-explained/",
+          "author": "Hillary Nyakundi",
+          "description": "In today's digital world, user authentication is essential in ensuring secure access to online accounts and resources. With the rise of cyber-threats, companies need to ensure that their users are authenticated before accessing any sensitive information. This helps protect the online safety of both parties. In the past, the most",
+          "link": "https://www.freecodecamp.org/news/user-authentication-methods-explained/",
+          "publishedOn": "2023-01-17T18:05:56.000Z",
+          "wordCount": 2272,
+          "title": "Secure User Authentication Methods – 2FA, Biometric, and Passwordless Login Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/OOP.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-a-ternary-operator-is-not-a-conditional-operator-in-js/",
+          "author": "Dillion Megida",
+          "description": "Until recently, I called a ternary operator a conditional operator in JavaScript. But I just learned that this isn't correct. In this tutorial, I will explain how I learned this, and hopefully it teaches you something new. I have a video version on this topic [https://youtu.be/vcNlFKzZTq4] you can watch as",
+          "link": "https://www.freecodecamp.org/news/why-a-ternary-operator-is-not-a-conditional-operator-in-js/",
+          "publishedOn": "2023-01-17T17:17:44.000Z",
+          "wordCount": 1246,
+          "title": "Why a Ternary Operator is not a Conditional Operator in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/17.-ternary-not-conditional.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/unary-binary-ternary-operators-javascript/",
+          "author": "Dillion Megida",
+          "description": "There are many operators in JavaScript that let you carry out different operations. These operators can be categorized based on the number of operands they require, and I'll be using examples to explain these categories in this tutorial. The three categories of operators based on the number of operands they",
+          "link": "https://www.freecodecamp.org/news/unary-binary-ternary-operators-javascript/",
+          "publishedOn": "2023-01-17T16:58:24.000Z",
+          "wordCount": 1668,
+          "title": "Unary, Binary, and Ternary Operators in JavaScript – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/16.-unary-binary-ternary.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-2d-arrays/",
+          "author": "Joel Olawanle",
+          "description": "In JavaScript programming, we are all used to creating and working with one-dimensional arrays. These are arrays that contain elements (elements of similar data types or multiple data types). But it’s also good to know that two-dimensional arrays (2D arrays) exist in JS. In this article, you will learn what",
+          "link": "https://www.freecodecamp.org/news/javascript-2d-arrays/",
+          "publishedOn": "2023-01-17T16:47:25.000Z",
+          "wordCount": 3255,
+          "title": "JavaScript 2D Array – Two Dimensional Arrays in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--9-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-audit-web-apps-with-burpsuite/",
+          "author": "Manish Shivanandhan",
+          "description": "What is Burp Suite? Burp Suite is a powerful and widely-used web application testing platform. It helps security engineers identify potential risks in web applications. Burp Suite is also widely used by bug-bounty hunters. Since Burp Suite is a fully featured web-auditing platform, it comes with many tools to help",
+          "link": "https://www.freecodecamp.org/news/how-to-audit-web-apps-with-burpsuite/",
+          "publishedOn": "2023-01-17T14:00:00.000Z",
+          "wordCount": 1538,
+          "title": "How to Use Burp Suite to Audit Web Applications – Pentesting and Bug Bounty Tool Overview",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/burpsuite-article-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/full-guide-to-react-hooks/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! Hooks are one of the main features of modern React code and one of the first concepts you should get comfortable with when learning about this library.  In this article I'm going to explain some of the most useful hooks React provides us with, how they work,",
+          "link": "https://www.freecodecamp.org/news/full-guide-to-react-hooks/",
+          "publishedOn": "2023-01-17T01:04:42.000Z",
+          "wordCount": 5133,
+          "title": "How to Use React Hooks – Full Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/steve-johnson-6sB8gMRlEAU-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/formatting-output-to-the-console/",
           "author": "Jennifer Bland",
