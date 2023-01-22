@@ -12,6 +12,66 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314BDEE0CA.LOXNPWLOX.b0fdda1775f3ff86383d45394b96eaee",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 8 AM TO 6 PM PST SUNDAY... ...HIGH WIND WARNING REMAINS IN EFFECT FROM 6 PM SUNDAY TO 2 PM PST MONDAY... * WHAT...For the High Wind Warning, northeast winds 35 to 45 mph with gusts up to 70 mph expected. For the Wind Advisory, north winds 20 to 30 mph with gusts up to 50 mph expected.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314BDEE0CA.LOXNPWLOX.b0fdda1775f3ff86383d45394b96eaee",
+          "publishedOn": "2023-01-21T22:22:00.000Z",
+          "wordCount": 226,
+          "title": "Wind Advisory issued January 21 at 2:22PM PST until January 22 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.HighWindWarning.1266314EEC20CA.LOXNPWLOX.3d7b7ab7f0cd197fac5353fd66521893",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 8 AM TO 6 PM PST SUNDAY... ...HIGH WIND WARNING REMAINS IN EFFECT FROM 6 PM SUNDAY TO 2 PM PST MONDAY... * WHAT...For the High Wind Warning, northeast winds 35 to 45 mph with gusts up to 70 mph expected. For the Wind Advisory, north winds 20 to 30 mph with gusts up to 50 mph expected.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.HighWindWarning.1266314EEC20CA.LOXNPWLOX.3d7b7ab7f0cd197fac5353fd66521893",
+          "publishedOn": "2023-01-21T22:22:00.000Z",
+          "wordCount": 229,
+          "title": "High Wind Warning issued January 21 at 2:22PM PST until January 23 at 2:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314EEC20CA.LOXNPWLOX.dbe28af3c26bcaf36b5c061e689cd333",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 8 AM SUNDAY TO 2 PM PST MONDAY... * WHAT...North winds 25 to 35 mph with gusts up to 50 mph expected. * WHERE...Santa Clarita Valley. * WHEN...From 8 AM Sunday to 2 PM PST Monday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314EEC20CA.LOXNPWLOX.dbe28af3c26bcaf36b5c061e689cd333",
+          "publishedOn": "2023-01-21T22:22:00.000Z",
+          "wordCount": 152,
+          "title": "Wind Advisory issued January 21 at 2:22PM PST until January 23 at 2:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314EEC20CA.LOXNPWLOX.127d9d8c35b99ff71b316bee648b6b7d",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 6 PM SUNDAY TO 2 PM PST MONDAY... * WHAT...North to northeast winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Central Ventura County Valleys, Southeastern Ventura County Valleys, Santa Monica Mountains, Los Angeles County San",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314EEC20CA.LOXNPWLOX.127d9d8c35b99ff71b316bee648b6b7d",
+          "publishedOn": "2023-01-21T22:22:00.000Z",
+          "wordCount": 225,
+          "title": "Wind Advisory issued January 21 at 2:22PM PST until January 23 at 2:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314EEC20CA.LOXNPWLOX.0564c0ce23d59f806dffe0ca83ea837b",
+          "author": null,
+          "description": "...WIND ADVISORY IN EFFECT FROM 6 PM SUNDAY TO 2 PM PST MONDAY... * WHAT...Northeast winds 20 to 30 mph with gusts up to 45 mph expected. * WHERE...Malibu Coast. * WHEN...From 6 PM Sunday to 2 PM PST Monday. * IMPACTS...Gusty winds will blow around unsecured objects and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314EEC20CA.LOXNPWLOX.0564c0ce23d59f806dffe0ca83ea837b",
+          "publishedOn": "2023-01-21T22:22:00.000Z",
+          "wordCount": 148,
+          "title": "Wind Advisory issued January 21 at 2:22PM PST until January 23 at 2:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631304860.BeachHazardsStatement.1266314CC940CA.LOXCFWLOX.50f8b6f984a09a8f016a19b84f5a20d4",
+          "author": null,
+          "description": "...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH SUNDAY EVENING... * WHAT...Minor beach erosion and minor tidal overflow. * WHERE...Catalina and Santa Barbara Islands, Santa Barbara County Southwestern Coast, Santa Barbara County Southeastern Coast, Malibu Coast and Los Angeles County Beaches.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631304860.BeachHazardsStatement.1266314CC940CA.LOXCFWLOX.50f8b6f984a09a8f016a19b84f5a20d4",
+          "publishedOn": "2023-01-21T21:20:00.000Z",
+          "wordCount": 247,
+          "title": "Beach Hazards Statement issued January 21 at 1:20PM PST until January 23 at 12:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663120B418.BeachHazardsStatement.1266314CC940CA.LOXCFWLOX.f33f75f440b14957b91f854708029d5c",
           "author": null,
           "description": "...BEACH HAZARDS STATEMENT IN EFFECT THROUGH SUNDAY EVENING... ...COASTAL FLOOD ADVISORY IS CANCELLED... * WHAT...Minor beach erosion and minor tidal overflow. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County Beaches. * WHEN...Through Sunday evening.",
@@ -900,16 +960,6 @@
           "wordCount": 327,
           "title": "Air Quality Alert issued December 23 at 10:51AM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641EC39D28.BeachHazardsStatement.12641EE2A740CA.LOXCFWLOX.2379cdd0ba2f89cd6fc7c0bc75ea2012",
-          "author": null,
-          "description": "...HIGHEST TIDES OF THE YEAR...OR KING TIDES...WILL CAUSE PERIODS OF MINOR TIDAL OVERFLOWS AND INCREASED RIP CURRENT ACTIVITY EARLY FRIDAY THROUGH MIDDAY SATURDAY... .The highest astronomical tides of the year, or King Tides, will affect areas beaches and coastlines the next several mornings when high tide is forecast to occur. King tides have historically",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641EC39D28.BeachHazardsStatement.12641EE2A740CA.LOXCFWLOX.2379cdd0ba2f89cd6fc7c0bc75ea2012",
-          "publishedOn": "2022-12-22T16:58:00.000Z",
-          "wordCount": 389,
-          "title": "Beach Hazards Statement issued December 22 at 8:58AM PST until December 24 at 12:00PM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -918,6 +968,266 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10i6u79/2_weeks_in_vietnam_in_march_sapa_ha_giang_loop/",
+          "author": null,
+          "description": "Wow... this is probably an impossible question to answer, but we're planning our 2 week trip to Vietnam March 7-21 and after accounting for Hanoi (3ish days), Hoi An (3ish days), Ninh Binh (2ish days), I feel like we can only include 1 of these 'adventure' places to not feel rushed. If you HAD to pick 1 (maaaybe 2) of these experiences, what's your pick?\n 3ish days to trek in Sapa\n 4 days motorbiking the Ha Giang Loop\n 3 days with a guided cave expedition in Phong Nha\n 3 days motorbiking/trekking in Dalat\n Some background info: my wife and I are in our late 20's and love combining city life, food, culture, and nature/adventure on our trips. If anything, it's hard for us to 'chill' and slow down while traveling, but we're certainly trying to embody that on this trip more than others :)\n    submitted by    /u/human_raisedbyhumans  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10i6u79/2_weeks_in_vietnam_in_march_sapa_ha_giang_loop/",
+          "publishedOn": "2023-01-22T00:58:00.000Z",
+          "wordCount": 14371,
+          "title": "2 weeks in Vietnam in March: Sapa, Ha Giang Loop, Phong Nha, or Dalat?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10i6ebu/happy_lunar_new_year_ch%C3%BAc_gia_%C4%91%C3%ACnh_rvietnam_n%C4%83m/",
+          "author": null,
+          "description": "submitted by    /u/minhdang2107  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10i6ebu/happy_lunar_new_year_ch%C3%BAc_gia_%C4%91%C3%ACnh_rvietnam_n%C4%83m/",
+          "publishedOn": "2023-01-22T00:36:45.000Z",
+          "wordCount": 14124,
+          "title": "Happy Lunar New Year 🧧Chúc gia đình r/VietNam năm mới vạn sự như ý",
+          "imageUrl": "https://preview.redd.it/yor1nrym7jda1.jpg?auto=webp&v=enabled&s=e80c4fb74d9d1df5680037c2faad9568d575f341"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10i61fj/flying_with_cat_to_vietnam_from_canada/",
+          "author": null,
+          "description": "I plan to live in Vietnam for 6 months later this year, and hope to bring my cat with me. I will be flying from Canada to Vietnam. With a brief google search I've found that as long as my cat fits in a carry on bag under my seat, has her rabies shot, documents with her history of vaccines, and a vet approved letter she should be able to fly and enter the country with me. \n I'd love to know if anyone can share their experience travelling with a pet to Vietnam and if I am missing any information. Thank you!\n    submitted by    /u/Fine_Visit5264  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10i61fj/flying_with_cat_to_vietnam_from_canada/",
+          "publishedOn": "2023-01-22T00:19:45.000Z",
+          "wordCount": 14296,
+          "title": "Flying with cat to Vietnam from Canada",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10i5js4/cha_da/",
+          "author": null,
+          "description": "Hello,\n Does anyone know where I can find similar tea to make Hanoi style cha da in Canada?\n    submitted by    /u/hackindarts9  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10i5js4/cha_da/",
+          "publishedOn": "2023-01-21T23:57:21.000Z",
+          "wordCount": 14187,
+          "title": "Cha da",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10i56t9/nha_trang_travel_suggestions/",
+          "author": null,
+          "description": "I will be traveling to Nha Trang for the first time in October. What are some things that are a must know? (things to do, travel suggestions for first-timers, things to avoid) \n I am from the USA, so I am nervous about culturally offending locals from my ignorance, so I want to study up on some basic things to do or not to do. Thank you!\n    submitted by    /u/Illustrious-Visual53  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10i56t9/nha_trang_travel_suggestions/",
+          "publishedOn": "2023-01-21T23:40:39.000Z",
+          "wordCount": 14203,
+          "title": "Nha Trang Travel Suggestions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10i56ij/ly_thi_ninh_on_youtube_does_anyone_know_about_her/",
+          "author": null,
+          "description": "submitted by    /u/Icy-Accountant-312  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10i56ij/ly_thi_ninh_on_youtube_does_anyone_know_about_her/",
+          "publishedOn": "2023-01-21T23:40:17.000Z",
+          "wordCount": 14129,
+          "title": "Ly Thi Ninh on YouTube does anyone know about her? I’m American 🇺🇸 and find her content Absolutely Fantastic https://youtube.com/@lythininh9664 thanks 🙏🏻",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10i4n6i/tet_culture/",
+          "author": null,
+          "description": "Just wanted to have a bit of historical and cultural knowledge regarding tet. What sort of cuisine do you make? What is the history of it? Any help would be greatly appreciated!!\n    submitted by    /u/Alice8Ft  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10i4n6i/tet_culture/",
+          "publishedOn": "2023-01-21T23:15:45.000Z",
+          "wordCount": 14133,
+          "title": "tet culture?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hyskt/would_you_retire_in_vietnam/",
+          "author": null,
+          "description": "Obviously if the government allowed expats, foreigners, Viet Kieus, etc. to have a retirement visa blah blah blah.\n Would you retire in Vietnam and why?\n View Poll\n    submitted by    /u/Independent-Claim195  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hyskt/would_you_retire_in_vietnam/",
+          "publishedOn": "2023-01-21T19:05:18.000Z",
+          "wordCount": 14530,
+          "title": "Would you retire in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hy3kd/from_uk_to_vi%E1%BB%87t_nam_ch%C3%BAc_m%E1%BB%ABng_n%C4%83m_m%E1%BB%9Bi/",
+          "author": null,
+          "description": "submitted by    /u/TeHNeutral  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hy3kd/from_uk_to_vi%E1%BB%87t_nam_ch%C3%BAc_m%E1%BB%ABng_n%C4%83m_m%E1%BB%9Bi/",
+          "publishedOn": "2023-01-21T18:36:49.000Z",
+          "wordCount": 14088,
+          "title": "From UK to Việt Nam... Chúc mừng năm mới!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hxvr9/what_is_this_dish_called_and_what_are_the/",
+          "author": null,
+          "description": "submitted by    /u/oswander  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hxvr9/what_is_this_dish_called_and_what_are_the/",
+          "publishedOn": "2023-01-21T18:27:37.000Z",
+          "wordCount": 14407,
+          "title": "What is this dish called and what are the ingredients?",
+          "imageUrl": "https://preview.redd.it/h4zjnqrsdhda1.jpg?auto=webp&v=enabled&s=4e4620f1652d56405b455e5d0b57d15306f2b445"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hxh80/n%C4%83m_m%E1%BB%9Bi_ch%C3%BAc_mn_b%E1%BA%A7u_tr%E1%BB%9Di_s%E1%BB%A9c_kh%E1%BB%8Fe_bi%E1%BB%83n_c%E1%BA%A3_t%C3%ACnh/",
+          "author": null,
+          "description": "submitted by    /u/Wikier2Wikious  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hxh80/n%C4%83m_m%E1%BB%9Bi_ch%C3%BAc_mn_b%E1%BA%A7u_tr%E1%BB%9Di_s%E1%BB%A9c_kh%E1%BB%8Fe_bi%E1%BB%83n_c%E1%BA%A3_t%C3%ACnh/",
+          "publishedOn": "2023-01-21T18:10:22.000Z",
+          "wordCount": 14135,
+          "title": "Năm mới chúc mn bầu trời sức khỏe, biển cả tình thương, đại dương tình bạn, sự nghiệp sáng ngời, gia đình thịnh vượng nhoaaa:3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hwvei/tree/",
+          "author": null,
+          "description": "submitted by    /u/ISwearIWontUseZalgo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hwvei/tree/",
+          "publishedOn": "2023-01-21T17:45:39.000Z",
+          "wordCount": 14077,
+          "title": "Tree :)",
+          "imageUrl": "https://preview.redd.it/9g3siq8qofda1.jpg?auto=webp&v=enabled&s=78f621062ce33a939f38d0bde27ce6df169aeb95"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hw86v/please_help_me_an_ignorant_canadian_do_something/",
+          "author": null,
+          "description": "Hello! Please help me (39F and Canadian) do something kind for my Vietnamese immigrant neighbours (late 20s M/F and 3F) for Lunar New Year tomorrow.\n They are such good neighbours! They made me pho when I had surgery and they feed my children homemade spring rolls. One time the Ba Noi was visiting from Vietnam and she made me shrimp in banana leaves but I didn’t know how to eat it. I tried to ask the Ba Noi but she doesn’t speak English so I just tried to take a bite out of the banana leaf. The Ba Noi laughed and laughed and showed me how to unwrap them and eat the shrimp.\n Their little 3F comes over to play with my kids almost every day and we just love her so much. Her parents work so hard — six days a week and long hours. They are such good people and I’m so happy to know them. \n Anyhow, tomorrow is Lunar New Year and I know they usually have a big party with their Vietnamese friends and set off fireworks. \n I read that usually you give gifts of money in red envelopes for Lunar New Year. Would that be appropriate for me, their white Canadian neighbour, to bring over tomorrow?\n My two concerns are that I don’t want them to feel that they have to invite me to their party, reciprocate the gift or make them uncomfortable. Also I don’t want to accidentally do something unlucky.\n Thank you Reddit for any advice you can give me!\n    submitted by    /u/CABJames  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hw86v/please_help_me_an_ignorant_canadian_do_something/",
+          "publishedOn": "2023-01-21T17:17:58.000Z",
+          "wordCount": 15107,
+          "title": "Please help me, an ignorant Canadian, do something kind for my Vietnamese neighbours",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hw6gp/mildly_infuriating/",
+          "author": null,
+          "description": "submitted by    /u/AmateurLord  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hw6gp/mildly_infuriating/",
+          "publishedOn": "2023-01-21T17:15:56.000Z",
+          "wordCount": 14082,
+          "title": "Mildly Infuriating",
+          "imageUrl": "https://preview.redd.it/7vmmmnky0hda1.jpg?auto=webp&v=enabled&s=af8ef0dacddf6016b0c95630e79ea55355dedcc1"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hvt93/happy_lunar_new_year_of_the_cat/",
+          "author": null,
+          "description": "On behalf of the mod team of r/Vietnam, I would like to send you greetings for the Luna New Year, the year of the Cat! Wishing you a year fully loaded with happiness, good health, wealth and luck.\n Thank you for participating in r/Vietnam and keep the sub going daily. \n I would also like to send special thanks to the members who have volunteered to spend their time and effort answering a lot of questions in the sub every day, whether it's easy or difficult. You are the heroes who don't wear capes, and I'm really, really grateful for having you guys here!\n Thay mặt cho mod team của r/Vietnam, mình xin gửi lời chúc mừng năm mới tới tất cả các thành viên của sub! Chúc mọi người một năm Quý Mão ngập tràn hạnh phúc, tài lộc, và may mắn!\n Cảm ơn các bạn đã tham gia vào sub và giữ cho nó hoạt động hàng ngày.\n Mình cũng rất biết ơn những thành viên đã tình nguyện bỏ thời gian công sức của các bạn ra để trả lời vô số câu hỏi được gửi vào sub mỗi ngày. Cảm ơn rất nhiều những đóng góp thầm lặng của các bạn.\n P/S: Sorry if the sub seems a bit messy these days. Like other Vietnamese, I also have to prepare for Tet and enjoy the holiday with my family. Will come back to clean up the sub after a few days :P\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hvt93/happy_lunar_new_year_of_the_cat/",
+          "publishedOn": "2023-01-21T17:00:17.000Z",
+          "wordCount": 14583,
+          "title": "Happy Lunar New Year, of the Cat!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hvstv/ch%C3%BAc_m%E1%BB%ABng_xu%C3%A2n_n%C4%83m_m%E1%BB%9Bi_n%C4%83m_qu%C3%BD_m%C3%A3o_2023/",
+          "author": null,
+          "description": "submitted by    /u/GodBlessHentai  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hvstv/ch%C3%BAc_m%E1%BB%ABng_xu%C3%A2n_n%C4%83m_m%E1%BB%9Bi_n%C4%83m_qu%C3%BD_m%C3%A3o_2023/",
+          "publishedOn": "2023-01-21T17:00:07.000Z",
+          "wordCount": 14124,
+          "title": "CHÚC MỪNG XUÂN NĂM MỚI NĂM QUÝ MÃO 2023!",
+          "imageUrl": "https://preview.redd.it/wbmly7t6ygda1.jpg?auto=webp&v=enabled&s=9331638db80a8df1d83afb33d0e9597615eea352"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10humor/ch%C3%BAc_m%E1%BB%ABng_n%C4%83m_meow/",
+          "author": null,
+          "description": "submitted by    /u/Danny1905  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10humor/ch%C3%BAc_m%E1%BB%ABng_n%C4%83m_meow/",
+          "publishedOn": "2023-01-21T16:09:03.000Z",
+          "wordCount": 14082,
+          "title": "Chúc mừng năm meow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10htipn/your_turn/",
+          "author": null,
+          "description": "submitted by    /u/antuan_ha  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10htipn/your_turn/",
+          "publishedOn": "2023-01-21T15:19:21.000Z",
+          "wordCount": 14852,
+          "title": "Your turn.",
+          "imageUrl": "https://preview.redd.it/ng2buukmyeda1.png?auto=webp&v=enabled&s=ad60ee6fb342b312a259f7aea94456ca75c42a4d"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hrw8a/ch%C3%BAc_m%E1%BB%ABng_n%C4%83m_m%E1%BB%9Bi/",
+          "author": null,
+          "description": "Chúc tất cả mọi người 1 năm mới vui vẻ\n    submitted by    /u/glass_broken  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hrw8a/ch%C3%BAc_m%E1%BB%ABng_n%C4%83m_m%E1%BB%9Bi/",
+          "publishedOn": "2023-01-21T14:00:47.000Z",
+          "wordCount": 14111,
+          "title": "Chúc mừng năm mới",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hr9sx/random_shitposts_from_wikipedia_1/",
+          "author": null,
+          "description": "submitted by    /u/SnooAvocados9888  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hr9sx/random_shitposts_from_wikipedia_1/",
+          "publishedOn": "2023-01-21T13:29:49.000Z",
+          "wordCount": 14074,
+          "title": "random shitposts from wikipedia 1",
+          "imageUrl": "https://preview.redd.it/qmkgyep4feda1.png?auto=webp&v=enabled&s=6de4efd1e7049249f6a8a38c495bcbe03595f8fb"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hqqz6/whats_wrong_with_the_aluminum_foil_in_vietnam_i/",
+          "author": null,
+          "description": "submitted by    /u/Knee___Jerk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hqqz6/whats_wrong_with_the_aluminum_foil_in_vietnam_i/",
+          "publishedOn": "2023-01-21T13:02:11.000Z",
+          "wordCount": 15046,
+          "title": "What's wrong with the aluminum foil in Vietnam? I have lived here 12 years and always wondered why some brands of foil always come out like this... And if it's safe to use. It doesn't look too good.",
+          "imageUrl": "https://preview.redd.it/4ty499zprfda1.jpg?auto=webp&v=enabled&s=032fcf9fdf69262bc87d44d8dabc916883be96d4"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hnrh3/posted_a_photo_yesterday_which_gathered_a_fair/",
+          "author": null,
+          "description": "submitted by    /u/shahoust  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hnrh3/posted_a_photo_yesterday_which_gathered_a_fair/",
+          "publishedOn": "2023-01-21T09:54:56.000Z",
+          "wordCount": 14235,
+          "title": "Posted a photo yesterday which gathered a fair bit of (no) helmet hate. Here you go 🤗 I’ll post some of my favourite pics of the trip over the next few days if people care 😊",
+          "imageUrl": "https://preview.redd.it/shumsj6cueda1.jpg?auto=webp&v=enabled&s=aa7b0a9f1b2fdb7c7a26780bca72d791c87069f7"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hlrlg/frozen_meatball_or_m%E1%BB%8Dc_and_pork_hog_by_my_mom/",
+          "author": null,
+          "description": "submitted by    /u/Cuonghap420  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hlrlg/frozen_meatball_or_m%E1%BB%8Dc_and_pork_hog_by_my_mom/",
+          "publishedOn": "2023-01-21T07:37:26.000Z",
+          "wordCount": 14240,
+          "title": "Frozen meatball or mọc and pork hog by my mom (that nuke over there is not my mom tho)",
+          "imageUrl": "https://preview.redd.it/jrahuuv9ocda1.jpg?auto=webp&v=enabled&s=d69a0be5f76d4ac4f1f0051f2b54ab6912baf7f9"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hkxj7/my_school_just_finished_a_cooking_contest_and_now/",
+          "author": null,
+          "description": "submitted by    /u/HedwigQuan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hkxj7/my_school_just_finished_a_cooking_contest_and_now/",
+          "publishedOn": "2023-01-21T06:42:46.000Z",
+          "wordCount": 14347,
+          "title": "My school just finished a cooking contest, and now im left with 20 banh tet and 8 banh chung to watch.",
+          "imageUrl": "https://preview.redd.it/nwwb6u01wdda1.jpg?auto=webp&v=enabled&s=b7b214a88841c6ed997b1f12b49bf0cbe2e36ed7"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hjzbw/what_can_a_foreigner_do_on_t%C3%AAt_eve_or_t%C3%AAt_day/",
+          "author": null,
+          "description": "Hi all, would there be anything to do tonight (têt eve) in HCMC? Any fun celebration to watch? Also any recommendations on what to do on têt day? Thanks in advance!\n    submitted by    /u/katisalwayshungry  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hjzbw/what_can_a_foreigner_do_on_t%C3%AAt_eve_or_t%C3%AAt_day/",
+          "publishedOn": "2023-01-21T05:46:23.000Z",
+          "wordCount": 14802,
+          "title": "what can a foreigner do on têt eve or têt day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10hhtit/classic/",
+          "author": null,
+          "description": "submitted by    /u/MinimalistSketcher  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10hhtit/classic/",
+          "publishedOn": "2023-01-21T03:45:03.000Z",
+          "wordCount": 14181,
+          "title": "Classic",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/10hecmr/how_to_find_a_good_driver_for_family_trip_we/",
           "author": null,
@@ -6947,206 +7257,6 @@
           "wordCount": 21174,
           "title": "I feel bad because I have trouble speaking my mother tongue",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/ztbpz1/what_kind_of_christmas_things_can_i_do_in_saigon/",
-          "author": null,
-          "description": "ice skating for example \n is there something else to do or to see\n    submitted by    /u/pizzavegano  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/ztbpz1/what_kind_of_christmas_things_can_i_do_in_saigon/",
-          "publishedOn": "2022-12-23T10:04:09.000Z",
-          "wordCount": 16376,
-          "title": "What kind of christmas things can I do in saigon?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zta7nz/songs_recommendations_2022/",
-          "author": null,
-          "description": "Can anyone recommend me songs like \"Xem Như Em Chẳng May\"? Something lofi-ish, and has the same atmosphere. I am trying to learn Vietnamese and these songs would help me alot. I really liked this song ever since I heard it, especially the beat and melody. TYIA!\n    submitted by    /u/Vileina  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zta7nz/songs_recommendations_2022/",
-          "publishedOn": "2022-12-23T08:25:27.000Z",
-          "wordCount": 16981,
-          "title": "Songs recommendations 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zt9ygy/free_flight_from_ho_chi_minh_to_chicago_saturday/",
-          "author": null,
-          "description": "My brother-in-law is getting out of Cho Ray hospital and taking a 20-hour flight back to the United States. Since he is still very weak, his family would like to find someone to accompany him and help get him in and out of wheelchairs and through a connecting flight in Tokyo. We will pay for your ONE-WAY ticket ($750 more or less), economy class, from Ho Chi Minh to Chicago. You must be able to enter the US without a visa (i.e., American citizen or greencard holder), since we don't have time to procure a visa. The flight leaves Ho Chi Minh City on Saturday Dec 24 at 11:45pm. \n If anyone has basic medical or nursing experience, that would be ideal, but we're not expecting it.\n If you're interested, please direct message me and I'll respond with a Zoom link to give you a rundown on his condition and what to expect. I am in San Francisco and there is a 15-hour time difference so I won't be able to check messages until 8 hours from now during my morning time.\n My brother-in-law is a pleasant 50-year old and his illness relates to his internal organs (he's not contagious).\n    submitted by    /u/zaphine  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zt9ygy/free_flight_from_ho_chi_minh_to_chicago_saturday/",
-          "publishedOn": "2022-12-23T08:09:11.000Z",
-          "wordCount": 18398,
-          "title": "FREE flight from Ho Chi Minh to Chicago Saturday at 11:45pm to accompany convalescent -- American citizens only",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zt8olh/avatar_ha_noi/",
-          "author": null,
-          "description": "submitted by    /u/Grutto2018  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zt8olh/avatar_ha_noi/",
-          "publishedOn": "2022-12-23T06:46:10.000Z",
-          "wordCount": 16369,
-          "title": "Avatar Ha Noi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zt7bzb/help_writing_vietnamese/",
-          "author": null,
-          "description": "Hi! I am an ESL teacher and one of my students is returning to Vietnam. I would like to write “I will miss you” in Vietnamese in a card for her. She is younger than me but I would like to be respectful (if that makes a difference). I have translated “I will miss you” but I don’t trust the automatic translation. I really want to make sure it is right! Thank you 😌💕\n    submitted by    /u/hannahmercury  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zt7bzb/help_writing_vietnamese/",
-          "publishedOn": "2022-12-23T05:24:57.000Z",
-          "wordCount": 19296,
-          "title": "Help writing Vietnamese",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zt6ymx/finding_someone_to_learn_vietnamese/",
-          "author": null,
-          "description": "Hey Fellas,\n I am looking for someone to learn the vietnamese language. I have tried it alone, but the pronunciation is as too big of a problem. Even apps did not really help. Is there anyone, or certain pages, on which you can learn reliably Vietnamese? I come from Germany and in my entire environment there is no real way to learn the language.\n    submitted by    /u/MightyIgel  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zt6ymx/finding_someone_to_learn_vietnamese/",
-          "publishedOn": "2022-12-23T05:03:31.000Z",
-          "wordCount": 17558,
-          "title": "Finding someone to learn vietnamese?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zt6ath/ch%C3%BA_m%C6%B0%E1%BB%9Di_r%C3%A1ng_my_second_lamp_creation/",
-          "author": null,
-          "description": "submitted by    /u/ChuMuoiRang  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zt6ath/ch%C3%BA_m%C6%B0%E1%BB%9Di_r%C3%A1ng_my_second_lamp_creation/",
-          "publishedOn": "2022-12-23T04:26:03.000Z",
-          "wordCount": 16611,
-          "title": "Chú Mười Ráng - my second lamp creation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zt5at4/what_a_great_way_to_start_the_day/",
-          "author": null,
-          "description": "submitted by    /u/lajonquillebleu  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zt5at4/what_a_great_way_to_start_the_day/",
-          "publishedOn": "2022-12-23T03:32:00.000Z",
-          "wordCount": 15714,
-          "title": "What a great way to start the day",
-          "imageUrl": "https://preview.redd.it/9zu6l2pkzl7a1.jpg?auto=webp&s=6a4fc5f90dc1b1442809e42a08ae92c959f08b0a"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zt3jjy/whats%C3%BAp_man/",
-          "author": null,
-          "description": "submitted by    /u/vung20019  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zt3jjy/whats%C3%BAp_man/",
-          "publishedOn": "2022-12-23T01:59:15.000Z",
-          "wordCount": 16469,
-          "title": "whatsúp man",
-          "imageUrl": "https://preview.redd.it/5h7lru51jl7a1.jpg?auto=webp&s=88e4258c1ab29411808d4e042d010902e8c094b7"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zt2xbm/chillw_pinky_sky_it_rate_to_see_this/",
-          "author": null,
-          "description": "submitted by    /u/erika_the_fox  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zt2xbm/chillw_pinky_sky_it_rate_to_see_this/",
-          "publishedOn": "2022-12-23T01:28:13.000Z",
-          "wordCount": 16735,
-          "title": "chill/w pinky sky it rate to see this",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zt2188/best_daytimehourly_hotels_in_saigon/",
-          "author": null,
-          "description": "Any suggestions for the best daytime/hourly hotels in Saigon or how to search for them?\n I’ve got a flight that leaves in the evening so I’m looking for a clean place to chill for a few hours after checking out of my accommodation.\n    submitted by    /u/kujikuji283  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zt2188/best_daytimehourly_hotels_in_saigon/",
-          "publishedOn": "2022-12-23T00:44:05.000Z",
-          "wordCount": 16342,
-          "title": "Best daytime/hourly hotels in Saigon?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zt20gs/come_here_for_all_your_chatgpt_questions_free/",
-          "author": null,
-          "description": "I saw that SMSPool was being mentioned here regarding registering an account for ChatGPT in Vietnam; SMSPool offers you SMS verifications using US phone numbers that let you register on ChatGPT without issue, although you'll need one of your VPNs before you can register.\n We've written a guide here:\n https://www.smspool.net/article/how-to-bypass-openai-sms-verification\n And lastly, send me a private message with your SMSPool username, and I'll credit you 60 cents for free, which you can use to register on OpenAI.\n    submitted by    /u/smspool  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zt20gs/come_here_for_all_your_chatgpt_questions_free/",
-          "publishedOn": "2022-12-23T00:42:57.000Z",
-          "wordCount": 16423,
-          "title": "Come here for all your ChatGPT questions & free balance",
-          "imageUrl": "https://external-preview.redd.it/J7rHoagEKuxzdZ50QeVPQbtY5-g-GQwo6KAwD_CCxAQ.jpg?auto=webp&s=77b1ae902be2d0a9168f7f79df54e47784e3ecb4"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zt1gva/does_anyone_know_any_way_to_get_something_shipped/",
-          "author": null,
-          "description": "submitted by    /u/BubbersBompton  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zt1gva/does_anyone_know_any_way_to_get_something_shipped/",
-          "publishedOn": "2022-12-23T00:16:45.000Z",
-          "wordCount": 16293,
-          "title": "Does anyone know any way to get something shipped from shoppee.vn to the us?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zt19jc/thought_you_all_would_get_a_kick_out_of_this/",
-          "author": null,
-          "description": "submitted by    /u/Octoblerone  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zt19jc/thought_you_all_would_get_a_kick_out_of_this/",
-          "publishedOn": "2022-12-23T00:07:24.000Z",
-          "wordCount": 16299,
-          "title": "Thought you all would get a kick out of this",
-          "imageUrl": "https://preview.redd.it/egsn5fr8si7a1.png?auto=webp&s=b4530b08b7149d51e8fc8ac0b60d6de9b02d2fc7"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zsw1qw/just_created_this_for_fun_using_ridgelines_just/",
-          "author": null,
-          "description": "submitted by    /u/space-wanderer27  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zsw1qw/just_created_this_for_fun_using_ridgelines_just/",
-          "publishedOn": "2022-12-22T20:31:54.000Z",
-          "wordCount": 16487,
-          "title": "Just created this for fun using ridgelines. Just wanting to share it.",
-          "imageUrl": "https://preview.redd.it/snerc2pyei7a1.png?auto=webp&s=a7ae46e47feb7ca20e0723c13050a40fcba593bc"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zssejk/what_height_is_considered_short_for_men_in_vietnam/",
-          "author": null,
-          "description": "I would like to know if my height, which is 1.71m, would be short in Vietnam as a male person.\n    submitted by    /u/SanaTwice04  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zssejk/what_height_is_considered_short_for_men_in_vietnam/",
-          "publishedOn": "2022-12-22T17:58:08.000Z",
-          "wordCount": 17344,
-          "title": "What height is considered short for men in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zsn1na/do_people_in_hanoi_not_care_about_being_sick/",
-          "author": null,
-          "description": "I’ve been traveling Vietnam for two weeks and had a wonderful time. The country is beautiful, the food and culture are amazing, and I’ve found the people to be the best part of all - extremely gracious, respectful, and hospitable.\n But then I came to Hanoi. And I’m baffled. We had a bus driver sneezing and coughing up phlegm, spitting it into a cup, for the entirety of a three hour bus ride, there and back, without a mask. This morning, we were in a lovely coffee shop. But the girl sitting across from us, working on her laptop, was sneezing uncontrollably and coughing terribly. She was clearly not just under the weather, but very sick. Again, she was not wearing a mask. I made eye contact with a perplexed look on my face and she looked back as though I was the one in the wrong. \n And then a cab just now. The driver coughing every 10 seconds for a 20 minute ride. No mask. \n I know people here wear masks. More than half of the people on motorbikes have them on. What are they for? Do people in Hanoi use them just for pollution? When we were in other cities (Saigon, Hoi An, Ninh Binh, Mai Chau) I saw plenty of people wearing masks inside, and none of the kind of blantant illness that is in Hanoi.\n I’m terribly sorry if this comes off as culturally insensitive. I promise I don’t intend it to be. But coming from the West and other parts of Vietnam, and particularly in a post-Covid world, I’m really perplexed - what is going on in Hanoi?\n    submitted by    /u/goaliebloak  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zsn1na/do_people_in_hanoi_not_care_about_being_sick/",
-          "publishedOn": "2022-12-22T14:14:37.000Z",
-          "wordCount": 19853,
-          "title": "Do people in Hanoi not care about being sick?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zsm75f/speak_english_or_vietnamese/",
-          "author": null,
-          "description": "Hi everyone! I was wondering if my Vietnamese is not good, should I only try to speak English with people? Or would people be offended and think I'm some entitled American guy assuming everyone speaks English, or something like that?\n Would local people be more offended if I try to speak to them in English, or use my very beginner level Vietnamese? I've heard that if you try to use Vietnamese, people seem very happy that you are making an effort and will be nice to you, but I've also read posts about people who addressed somebody using the wrong pronoun and got scolded in Vietnamese by that person.\n    submitted by    /u/Pollo_Perpetuo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zsm75f/speak_english_or_vietnamese/",
-          "publishedOn": "2022-12-22T13:34:04.000Z",
-          "wordCount": 17294,
-          "title": "Speak English or Vietnamese?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zslwyo/vietnamese_citizenship_for_vietnamese_born_abroad/",
-          "author": null,
-          "description": "hello, is there anyone on this thread who is 1) Vietnamese, but 2) born abroad, with 3) only one parent that is a Vietnamese citizen? This is my situation and I am trying to get Vietnamese citizenship, or at the very least, residency card that allows me to work (not VEC), based on my mother being Vietnamese. However, it's been very challenging for me. \n If anyone in this situation has managed to sort out their papers, can you please DM me or share your experience in the comments? Thank you. \n There are many posts like this on this sub, but mostly for people who have 2 vietnamese parents, or who were born in vietnam. these are different cases and do not apply to my case!\n    submitted by    /u/theruire  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zslwyo/vietnamese_citizenship_for_vietnamese_born_abroad/",
-          "publishedOn": "2022-12-22T13:19:13.000Z",
-          "wordCount": 16898,
-          "title": "Vietnamese Citizenship for Vietnamese Born Abroad",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zslsnl/anyone_flew_with_vietravel_airlines_recently/",
-          "author": null,
-          "description": "I flew with them this morning from Da Nang to HCMC and the experience was good (I mean they were on time)\n I purchased the ticket for 1.25 million with 20kg of check in luggage around 1 week in advance.\n Hopefully they can be on time and be better than Vietjet Air.\n    submitted by    /u/livingisagift1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zslsnl/anyone_flew_with_vietravel_airlines_recently/",
-          "publishedOn": "2022-12-22T13:12:50.000Z",
-          "wordCount": 17791,
-          "title": "Anyone flew with Vietravel Airlines recently?",
-          "imageUrl": null
         }
       ]
     },
@@ -8174,66 +8284,6 @@
           "wordCount": 1328,
           "title": "Learn CSS by Building the Figma Logo in Pure CSS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Learn-CSS-Create-The-Figma-Logo-3.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/",
-          "author": "Lynn Zheng",
-          "description": "Hello from the Learn to Code RPG dev team! We are Lynn, KayLa, and Nielda. And we've been hard at work building out new adventures for our characters. I'm excited to announce the launch of Learn to Code RPG v1.5, a year after the launch of Learn to Code RPG",
-          "link": "https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/",
-          "publishedOn": "2022-12-23T02:43:43.000Z",
-          "wordCount": 2134,
-          "title": "Learn to Code RPG Version 1.5 is Now Playable with Hours of New Gameplay",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/splash-2-lowres-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/serverless-caching-for-your-web-applications/",
-          "author": "Andrew Brown",
-          "description": "When to Use a Cache When you are building a web-application, you'll need to fetch data from a database. As your traffic and the size of your database grows, you will find that querying your database gets slower and slower. In order to return requests to users quickly, a cache",
-          "link": "https://www.freecodecamp.org/news/serverless-caching-for-your-web-applications/",
-          "publishedOn": "2022-12-22T20:45:05.000Z",
-          "wordCount": 1830,
-          "title": "How to Cache Expensive Database Queries Using the Momento Serverless Cache",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-tiger-lily-4483610.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/string-equality-in-javascript-how-to-compare-strings-in-js/",
-          "author": "Joel Olawanle",
-          "description": "When writing code or building a solution, you might need to compare two strings to see if they are the same before proceeding with an operation. For example, when a user signs in, you'll want to compare the username the provide to the one in your database to see if",
-          "link": "https://www.freecodecamp.org/news/string-equality-in-javascript-how-to-compare-strings-in-js/",
-          "publishedOn": "2022-12-22T18:57:16.000Z",
-          "wordCount": 1396,
-          "title": "String Equality in JavaScript – How to Compare Strings in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template--3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/adding-to-a-dict-in-python-how-to-add-to-a-dictionary/",
-          "author": "Kolade Chris",
-          "description": "A Python dictionary is like a JavaScript object – it’s a sequence of key:value  pairs. So, you can create them like this: stack_dict = {     \"frontend\": \"JavaScript\",     \"backend\": \"Node JS\",     \"markup\": \"HTML and JSX\", } To access",
-          "link": "https://www.freecodecamp.org/news/adding-to-a-dict-in-python-how-to-add-to-a-dictionary/",
-          "publishedOn": "2022-12-22T18:04:49.000Z",
-          "wordCount": 1315,
-          "title": "Adding to a Dict in Python – How to Add to a Dictionary",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/addToDict.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/",
-          "author": "Rwitesh Bera",
-          "description": "Have you ever wondered how JavaScript works behind the scenes? It's actually quite fascinating! And that's what you'll learn about here. JavaScript is a single-threaded interpreted language. Every browser has its own JavaScript engine. Google Chrome has the V8 engine, Mozilla Firefox has SpiderMonkey, and so on. They all are",
-          "link": "https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/",
-          "publishedOn": "2022-12-22T17:50:05.000Z",
-          "wordCount": 1733,
-          "title": "JavaScript Execution Context – How JS Works Behind the Scenes",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Dark-Blue-Illustrated-Techno-Daily-Smore-Header--1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-enumerate-in-python/",
-          "author": "Suchandra Datta",
-          "description": "The enumerate() function is one of the built-in functions in Python. It provides a handy way to access each item in an iterable, along with a count value that specifies the order in which the item was accessed.  In this article you will learn all that you need to",
-          "link": "https://www.freecodecamp.org/news/what-is-enumerate-in-python/",
-          "publishedOn": "2022-12-22T15:56:07.000Z",
-          "wordCount": 2336,
-          "title": "What is enumerate() in Python? Enumeration Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-yan-krukov-8612931.jpg"
         }
       ]
     }
