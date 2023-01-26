@@ -12,6 +12,66 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266316D5BEC.BeachHazardsStatement.12663179A5A0CA.LOXCFWLOX.19444b32faba7210f92b222f302d0dbc",
+          "author": null,
+          "description": "...BEACH HAZARDS STATEMENT REMAINS IN EFFECT UNTIL 6 PM PST THIS EVENING... * WHAT...Dangerous rip currents and breaking waves due to elevated surf of 3 to 6 feet expected. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County Beaches.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266316D5BEC.BeachHazardsStatement.12663179A5A0CA.LOXCFWLOX.19444b32faba7210f92b222f302d0dbc",
+          "publishedOn": "2023-01-25T21:47:00.000Z",
+          "wordCount": 196,
+          "title": "Beach Hazards Statement issued January 25 at 1:47PM PST until January 25 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266316C8ED8.WindAdvisory.1266317CB2E0CA.LOXNPWLOX.33de9ddeccedd5eca9baebf30df00726",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO 2 PM PST THURSDAY... * WHAT...Northeast winds 25 to 30 mph with gusts up to 45 mph expected. * WHERE...Catalina and Santa Barbara Islands, Ventura County Beaches, Ventura County Inland Coast and Malibu Coast.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266316C8ED8.WindAdvisory.1266317CB2E0CA.LOXNPWLOX.33de9ddeccedd5eca9baebf30df00726",
+          "publishedOn": "2023-01-25T16:22:00.000Z",
+          "wordCount": 176,
+          "title": "Wind Advisory issued January 25 at 8:22AM PST until January 26 at 2:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266316C8ED8.HighWindWarning.12663188E7E0CA.LOXNPWLOX.d101c7a6c603bf9c8513c2faa9b4ec20",
+          "author": null,
+          "description": "...HIGH WIND WARNING REMAINS IN EFFECT FROM 7 PM THIS EVENING TO 6 PM PST THURSDAY... * WHAT...Northeast winds 25 to 35 mph with gusts up to 60 mph expected. * WHERE...Ventura County Mountains and Santa Clarita Valley. * WHEN...From 7 PM this evening to 6 PM PST Thursday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266316C8ED8.HighWindWarning.12663188E7E0CA.LOXNPWLOX.d101c7a6c603bf9c8513c2faa9b4ec20",
+          "publishedOn": "2023-01-25T16:22:00.000Z",
+          "wordCount": 189,
+          "title": "High Wind Warning issued January 25 at 8:22AM PST until January 26 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266316C8ED8.WindAdvisory.12663188E7E0CA.LOXNPWLOX.34981f80c9c9dae0578e10ed94973a11",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 7 PM THIS EVENING TO 6 PM PST THURSDAY... * WHAT...Northeast winds 20 to 30 mph with gusts up to 45 mph expected. Strongest in the foothills. * WHERE...Antelope Valley. * WHEN...From 7 PM this evening to 6 PM PST Thursday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266316C8ED8.WindAdvisory.12663188E7E0CA.LOXNPWLOX.34981f80c9c9dae0578e10ed94973a11",
+          "publishedOn": "2023-01-25T16:22:00.000Z",
+          "wordCount": 155,
+          "title": "Wind Advisory issued January 25 at 8:22AM PST until January 26 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266316C8ED8.WindAdvisory.12663188E7E0CA.LOXNPWLOX.12803a0593ceabf4f4d81bb5b1a25a89",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 7 PM THIS EVENING TO 6 PM PST THURSDAY... * WHAT...Northeast winds 25 to 35 mph with gusts up to 50 mph expected. * WHERE...Central Ventura County Valleys, Southeastern Ventura County Valleys and Los Angeles County San Fernando Valley.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266316C8ED8.WindAdvisory.12663188E7E0CA.LOXNPWLOX.12803a0593ceabf4f4d81bb5b1a25a89",
+          "publishedOn": "2023-01-25T16:22:00.000Z",
+          "wordCount": 194,
+          "title": "Wind Advisory issued January 25 at 8:22AM PST until January 26 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266316C8ED8.HighWindWarning.126631898420CA.LOXNPWLOX.2a36841afd5c3910f57b4126be640cb2",
+          "author": null,
+          "description": "...HIGH WIND WARNING REMAINS IN EFFECT FROM 7 PM THIS EVENING TO 10 PM PST THURSDAY... * WHAT...Northeast winds 35 to 45 mph with gusts up to 70 mph expected. * WHERE...Los Angeles County Mountains and Santa Monica Mountains.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266316C8ED8.HighWindWarning.126631898420CA.LOXNPWLOX.2a36841afd5c3910f57b4126be640cb2",
+          "publishedOn": "2023-01-25T16:22:00.000Z",
+          "wordCount": 192,
+          "title": "High Wind Warning issued January 25 at 8:22AM PST until January 26 at 10:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266315E3888.WindAdvisory.1266317CB2E0CA.LOXNPWLOX.5ac9eaf2ebe4e432cecd85e003d3c42e",
           "author": null,
           "description": "...WIND ADVISORY IN EFFECT FROM 2 AM TO 2 PM PST THURSDAY... * WHAT...Northeast winds 25 to 35 mph with gusts up to 50 mph expected. * WHERE...Ventura County Beaches, Ventura County Inland Coast and Malibu Coast. * WHEN...From 2 AM to 2 PM PST Thursday.",
@@ -1000,36 +1060,6 @@
           "wordCount": 201,
           "title": "High Surf Advisory issued December 27 at 11:53AM PST until December 29 at 3:00AM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F0E13A8.AirQualityAlert.12641F1DB470CA.LOXAQALOX.769a578d49bd0ff8460b965372be6ac9",
-          "author": null,
-          "description": "...AIR QUALITY ALERT IN EFFECT UNTIL 11 PM PST TUESDAY... The South Coast Air Quality Management District has issued an Air Quality Alert due to mandatory wood burning ban. This Air Quality Alert is in effect until 11 PM PST Tuesday. For the additional information, call the South Coast Air Quality Management District.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F0E13A8.AirQualityAlert.12641F1DB470CA.LOXAQALOX.769a578d49bd0ff8460b965372be6ac9",
-          "publishedOn": "2022-12-27T04:58:00.000Z",
-          "wordCount": 199,
-          "title": "Air Quality Alert issued December 26 at 8:58PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F015A3C.HighSurfAdvisory.12641F2D92F0CA.LOXCFWLOX.b3c79ad73b5b4c4189e6496941b84da9",
-          "author": null,
-          "description": "...HIGH SURF ADVISORY IN EFFECT UNTIL 3 AM PST THURSDAY... * WHAT...Large breaking waves of 5 to 8 feet with dangerous rip currents. Local max sets to 9 feet are possible Wednesday. Highest surf on west-facing beaches. * WHERE...Malibu Coast and Los Angeles County Beaches. * WHEN...Until 3 AM PST Thursday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F015A3C.HighSurfAdvisory.12641F2D92F0CA.LOXCFWLOX.b3c79ad73b5b4c4189e6496941b84da9",
-          "publishedOn": "2022-12-26T21:19:00.000Z",
-          "wordCount": 191,
-          "title": "High Surf Advisory issued December 26 at 1:19PM PST until December 29 at 3:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F013A34.AirQualityAlert.12641F10E90CCA.LOXAQALOX.769a578d49bd0ff8460b965372be6ac9",
-          "author": null,
-          "description": "...AIR QUALITY ALERT: MANDATORY WOOD-BURNING BAN IN EFFECT UNTIL 11 PM PST TUESDAY... The South Coast AQMD has extended a mandatory wood-burning ban for residents in the South Coast Air Basin for Monday December 26th and Tuesday December 27th. No-Burn days are declared to protect public health when levels of",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F013A34.AirQualityAlert.12641F10E90CCA.LOXAQALOX.769a578d49bd0ff8460b965372be6ac9",
-          "publishedOn": "2022-12-26T20:37:00.000Z",
-          "wordCount": 342,
-          "title": "Air Quality Alert issued December 26 at 12:37PM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -1038,6 +1068,236 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10lezw9/my_first_attempt_eel_at_cooking_vietnamese/",
+          "author": null,
+          "description": "I figured I'd put this here as it is more of a specialist recipe compared to the scope of a more generalist subreddit like r/cooking, and the Vietnamese food subs are not exactly what could be called active or even semi active. \n So I have seen various Vietnamese style grilled eel recipes (example: Chargrilled eel in lemongrass and turmeric (luon nuong xa) recipe : SBS Food) that are very much tickling my fancy. I've thought up a cooking method that sounds to me like it would give good results, but it's not something I have ever seen suggested anywhere else so I have no idea whether it would work.\n Specifically, what I am thinking about is pre-cooking the eel before grilling it by poaching in nuoc cham, and then finishing on the grill. What I hope to accomplish with this is: \n -Getting flavor throughout the eel without having to worry about prematurely denaturing the proteins by using the nuoc cham as the poaching liquid. The lime juice in nuoc cham would do that if the eel was raw, but would not if it was just the cooking liquid because the eel would be cooked before denaturing could happen.\n I also intend to pierce the eel with a fork to get even more flavor throughout, if need be.\n -Setting the stage for a caramelized, crispy finish. The sugars in nuoc cham would be all over the meat and allow for good caramelization.\n As I said though I've never seen this suggested before, so I have troubleshooting questions. Specifically:\n -My primary question: will poaching in nuoc cham make the eel TOO strongly flavored? I like my food a bit more strongly seasoned than most, but as nuoc cham is so strong, I would be cautious about overflavoring here.\n -Would the sugar content end up to more rapid burning than expected when finishing on the grill? I absolutely abhor burnt food so a heads up warning if it is a fine line would be much appreciated.\n Thank you so much and I can't wait to branch out to this area of Vietnam's cuisine!\n    submitted by    /u/CulinaryLightbulb  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10lezw9/my_first_attempt_eel_at_cooking_vietnamese/",
+          "publishedOn": "2023-01-26T00:49:31.000Z",
+          "wordCount": 14909,
+          "title": "My first attempt (eel) at cooking Vietnamese cuisine beyond vermicelli bowls. How's this for preparation?",
+          "imageUrl": "https://external-preview.redd.it/1fdysh5Gad2MN7FTt_MZ4Ahmvs1qDwIxVU5T5rnhOnA.jpg?auto=webp&v=enabled&s=36c8282adcb8271cfe290a2334c6103cc5a8919c"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10lep0q/what_is_the_given_name_format_on_a_passport/",
+          "author": null,
+          "description": "Is given name a combination of First Name + middle name? Or is it backwards, middle + first?\n For example: my spouses passport given name says Thi Dan Tam, so does that mean that her first name is actually Thi, and middle name is Dan Tam?\n She goes by Tam so I’m not sure if the vietnamese passport just had a different given name format from the usual American passport\n My US Passports given name format is First + Middle.. so this is why I’m a little confused.\n Thanks!\n    submitted by    /u/vswizz99  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10lep0q/what_is_the_given_name_format_on_a_passport/",
+          "publishedOn": "2023-01-26T00:35:20.000Z",
+          "wordCount": 14385,
+          "title": "What is the given name format on a passport?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10lcne2/rental_recommendations_d7_with_some_weird_caveats/",
+          "author": null,
+          "description": "Hi everyone, \n Looking for low rise apartments or houses etc in D7. I am claustrophobic and can’t go in elevators so the place needs to be accessible by stairs. Also small dog friendly. Any thoughts? Thank you!\n    submitted by    /u/Personal_Carrot_339  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10lcne2/rental_recommendations_d7_with_some_weird_caveats/",
+          "publishedOn": "2023-01-25T23:06:41.000Z",
+          "wordCount": 14283,
+          "title": "Rental recommendations D7 with some weird caveats",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10lc89s/need_help_planning_trip/",
+          "author": null,
+          "description": "Hi all, a friend and I are flying into Ho chi minh at the end of March. We've roughly planned to spend 10 - 14 days in Vietnam before heading to phuket (probably flying out of Hanoi). It's only my second ever overseas trip, I just have no idea how to go about it. Out of convenience (we will have suitcases) I've planned to stay roughly a week in Ho Chi Minh, explore the surroundings then fly to Hanoi and stay there roughly a week and explore surroundings. I'm just not sure if this is the right way to go about it, I feel like we would be missing out on a lot of stuff if we are just sticking around the main cities. Would it be better to just spend a few days in Ho Chi Minh then head north a few hours each day by car and stay somewhere new every night or every couple of nights? I'd love any suggestions on some good accomodation, sights to see and just any must do activities while in Vietnam. We love all natural wonders such as mountains, national parks, rivers ect but also want to have some time just exploring and hanging out in the cities and experiencing some night life. Taking all suggestions into consideration and any rough itineraries are greatly appreciated. Thanks in advance!\n    submitted by    /u/Organic-Young-5702  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10lc89s/need_help_planning_trip/",
+          "publishedOn": "2023-01-25T22:49:14.000Z",
+          "wordCount": 15044,
+          "title": "Need help planning trip.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10l6yse/c%C3%A1i_t%E1%BA%BFt_c%E1%BB%A7a_m%C3%A8o_con_kittys_new_year/",
+          "author": null,
+          "description": "https://thegioicotich.vn/cai-tet-cua-meo-con\n Reminder that a new adaptation of the story is on VTV3 today (8pm Thursday). I thought people learning Vietnamese might be interested. For many others, reading this brings back sweet childhood memory.\n    submitted by    /u/One_Pollution_7263  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10l6yse/c%C3%A1i_t%E1%BA%BFt_c%E1%BB%A7a_m%C3%A8o_con_kittys_new_year/",
+          "publishedOn": "2023-01-25T19:16:51.000Z",
+          "wordCount": 14277,
+          "title": "Cái Tết của mèo con (Kitty's new year)",
+          "imageUrl": "https://external-preview.redd.it/tHZywThRtiHqa8Ih3y61rvfyOIumgC4wJh2m82SyipQ.jpg?auto=webp&v=enabled&s=fb2045967d882d2b32a2866a34b47fb94f35b8c4"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10l6vm4/finally_visiting_in_may/",
+          "author": null,
+          "description": "Hello everyone! I'm going to finally visit Vietnam right in the beginning of May. I'm planning to spend about 2 weeks in the country, starting from the north and making my way down to Ho Chi Min city and than flying back home. \n I was wondering how bad would the weather be? I understand it's the wet season and not the optimal time to visit but that's my only option, unfortunately. Is it still a viable option at that time of the year?\n Thank you all very much!\n    submitted by    /u/8tan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10l6vm4/finally_visiting_in_may/",
+          "publishedOn": "2023-01-25T19:13:26.000Z",
+          "wordCount": 14377,
+          "title": "Finally Visiting in May",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10l6fg7/need_help_with_parting_gift_vendor/",
+          "author": null,
+          "description": "Anyone know if there a place I can go to make parting gifts for a wedding? I’m trying to make a magnet, in the shape of a heart, with our names on it.\n Thanks guys\n    submitted by    /u/tly95111  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10l6fg7/need_help_with_parting_gift_vendor/",
+          "publishedOn": "2023-01-25T18:56:15.000Z",
+          "wordCount": 14277,
+          "title": "Need help with Parting Gift Vendor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10l4wfc/cat_ba_lan_ha_bay/",
+          "author": null,
+          "description": "Hey reddit Vietnam! I'm visiting Vietnam in February and I'm searching for a boat trip for one night starting in Cat ba going to lan ha bay. I only find trips from Hanoi or haiphong... Do you have any recommendations? Is it even possible? Because I want to stay at cat ba itself aswell. Thank you in advance!\n    submitted by    /u/kaeseleberkaese13  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10l4wfc/cat_ba_lan_ha_bay/",
+          "publishedOn": "2023-01-25T17:57:00.000Z",
+          "wordCount": 14805,
+          "title": "cat ba - lan ha bay",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10l4my3/need_recommendations_for_a_good_wills_trust/",
+          "author": null,
+          "description": "As title says, I may need to hire an attorney and an appraiser to work out my inheritance. I recently posted about assessing the value of a house but after some initial negotiations with the family in Vietnam, I might need legal representation to get the the proper amount that I’m owed by law. \n My Vietnamese isn’t good so I can’t do a very good job finding and talking to one. Plus I don’t know if there’s an bar association I can use to verify accreditation. \n Would love to get your thoughts and suggestions. \n Thank you!\n    submitted by    /u/Informal-Fig-7116  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10l4my3/need_recommendations_for_a_good_wills_trust/",
+          "publishedOn": "2023-01-25T17:46:19.000Z",
+          "wordCount": 14421,
+          "title": "Need recommendations for a good wills & trust lawyer and a real estate appraisers in Ho Chi Minh City",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10l2z3y/h%E1%BA%A3i_v%C3%A2n_pass/",
+          "author": null,
+          "description": "submitted by    /u/NeedForReed  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10l2z3y/h%E1%BA%A3i_v%C3%A2n_pass/",
+          "publishedOn": "2023-01-25T16:39:02.000Z",
+          "wordCount": 14288,
+          "title": "Hải Vân Pass",
+          "imageUrl": "https://preview.redd.it/fls93p3ew7ea1.jpg?auto=webp&v=enabled&s=fe7ed2a93ee197eee083433fbbeb9162259946e2"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10l1etp/advice_staying_in_vietnam/",
+          "author": null,
+          "description": "Hi, i will be going to Vietnam in February and will be staying staying in can tho for a few months as an intern. I will have 1 week to travel across the country (thinking about the north of Vietnam). I would like some advice about things to visit in the south while i am staying in the mekong Delta and what places I should visit when I travel across the country. As this is my first time going to Vietnam, some general advice is also appreciated.\n    submitted by    /u/Aggravating_Bit_1113  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10l1etp/advice_staying_in_vietnam/",
+          "publishedOn": "2023-01-25T15:34:58.000Z",
+          "wordCount": 14523,
+          "title": "advice staying in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10l0xb2/taxi_service_question/",
+          "author": null,
+          "description": "I need to travel tomorrow from Nha Trang to Ho Chi Minh, but there are no busses or trains available. I’m thinking of going by taxi, but I do not know what service I can trust. Because it is a lot of money I don’t want to be scammed. Any help with this?\n Any tips and help will be greatly appreciated.\n    submitted by    /u/iEatCheddar  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10l0xb2/taxi_service_question/",
+          "publishedOn": "2023-01-25T15:14:44.000Z",
+          "wordCount": 14564,
+          "title": "Taxi service question",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10l0v4k/v%E1%BA%BD_tranh_k%C3%BD_h%E1%BB%8Da_ch%E1%BB%A3_b%C3%ACnh_t%C3%A2y_ch%E1%BB%A3_l%E1%BB%9Bn_s%C3%A0i_g%C3%B2n_vi%E1%BB%87t/",
+          "author": null,
+          "description": "submitted by    /u/QuanArtDrawing  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10l0v4k/v%E1%BA%BD_tranh_k%C3%BD_h%E1%BB%8Da_ch%E1%BB%A3_b%C3%ACnh_t%C3%A2y_ch%E1%BB%A3_l%E1%BB%9Bn_s%C3%A0i_g%C3%B2n_vi%E1%BB%87t/",
+          "publishedOn": "2023-01-25T15:12:05.000Z",
+          "wordCount": 14270,
+          "title": "Vẽ tranh ký họa Chợ Bình Tây - Chợ Lớn Sài Gòn , Việt Nam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10kyvv8/nguyen_hue_flower_street_for_lunar_new_year_2023/",
+          "author": null,
+          "description": "submitted by    /u/Relative_Pickle_6517  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10kyvv8/nguyen_hue_flower_street_for_lunar_new_year_2023/",
+          "publishedOn": "2023-01-25T13:41:53.000Z",
+          "wordCount": 14235,
+          "title": "Nguyen Hue Flower Street for Lunar New Year 2023",
+          "imageUrl": "https://external-preview.redd.it/qiycWG-sfzZzFlcaS0iS-E1qxw__NydJPCo2aJ2yf9M.jpg?auto=webp&v=enabled&s=1334f86ba728c4beab7dbf07b40451a2d3603e3a"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10kxncq/meaning_of_the_v_sign/",
+          "author": null,
+          "description": "Some Vietnamese make the V sign when I take photos.\n It probably has nothing to do with Winston Churchill.\n So does it mean V for Vietnam?\n Or 2 pronounced like hi as some online sources say?\n    submitted by    /u/Silent_Lifeguard_710  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10kxncq/meaning_of_the_v_sign/",
+          "publishedOn": "2023-01-25T12:36:34.000Z",
+          "wordCount": 15205,
+          "title": "Meaning of the V sign",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10ku6j0/bit_late_but_happy_year_of_the_cat/",
+          "author": null,
+          "description": "submitted by    /u/Viroraptor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10ku6j0/bit_late_but_happy_year_of_the_cat/",
+          "publishedOn": "2023-01-25T08:46:19.000Z",
+          "wordCount": 14249,
+          "title": "bit late but happy year of the cat!",
+          "imageUrl": "https://preview.redd.it/nx5btvjq17ea1.jpg?auto=webp&v=enabled&s=8ced7325f777b455569798507acc00e87b6a1f9c"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10ku0jo/nhon_hai_defence_wall_is_the_wall_was_built_by/",
+          "author": null,
+          "description": "submitted by    /u/minhzero5  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10ku0jo/nhon_hai_defence_wall_is_the_wall_was_built_by/",
+          "publishedOn": "2023-01-25T08:34:24.000Z",
+          "wordCount": 14985,
+          "title": "Nhon Hai defence Wall is The wall was built by the champa kingdom to against the malay pirates.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10kttkt/hi_folks_i_played_eastward_and_saw_this/",
+          "author": null,
+          "description": "submitted by    /u/magicrayz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10kttkt/hi_folks_i_played_eastward_and_saw_this/",
+          "publishedOn": "2023-01-25T08:21:04.000Z",
+          "wordCount": 14260,
+          "title": "Hi folks, I played Eastward and saw this.",
+          "imageUrl": "https://preview.redd.it/aur1g9raf5ea1.png?auto=webp&v=enabled&s=ccb9afbcf2ae28264bbbdcea3b0c084e32e3eb39"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10krvok/cursed_hotpot_place/",
+          "author": null,
+          "description": "submitted by    /u/Routine_Storm_9597  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10krvok/cursed_hotpot_place/",
+          "publishedOn": "2023-01-25T06:13:40.000Z",
+          "wordCount": 14456,
+          "title": "Cursed hotpot place",
+          "imageUrl": "https://preview.redd.it/iepssm2ia6ea1.png?auto=webp&v=enabled&s=9e97b580a0c400cfe2366e6514a7b7b539ce3d20"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10krazf/happy_kitty_new_year_repost/",
+          "author": null,
+          "description": "submitted by    /u/pinponpen  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10krazf/happy_kitty_new_year_repost/",
+          "publishedOn": "2023-01-25T05:40:23.000Z",
+          "wordCount": 14250,
+          "title": "Happy kitty new year (repost)",
+          "imageUrl": "https://preview.redd.it/13xc1kp7n5ea1.jpg?auto=webp&v=enabled&s=026f32caf40495adf2dc1bb5f318dd14d5769b7c"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10kq66k/found_this_graffiti_in_a_starbucks_bathroom_in/",
+          "author": null,
+          "description": "submitted by    /u/popotastic  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10kq66k/found_this_graffiti_in_a_starbucks_bathroom_in/",
+          "publishedOn": "2023-01-25T04:36:32.000Z",
+          "wordCount": 14460,
+          "title": "Found this graffiti in a Starbucks bathroom in Seattle. Can anyone translate?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10kpk32/my_neighbor_cannot_stop_playing_rasputin_on_their/",
+          "author": null,
+          "description": "submitted by    /u/Giang2k10  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10kpk32/my_neighbor_cannot_stop_playing_rasputin_on_their/",
+          "publishedOn": "2023-01-25T04:03:41.000Z",
+          "wordCount": 15935,
+          "title": "My neighbor cannot stop playing rasputin on their new speaker.What can I do?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10koe8b/job_search_is_hard/",
+          "author": null,
+          "description": "Chào các bạn /Hello everyone. I’m a US citizen who has recently moved to Vietnam to be with my wife. We met years ago and have been dating for a few years before we got married, and I have finally just dropped everything and moved to Vietnam to be with her. I’m still working on my bachelors degree, but I have a couple years of experience as a professional Vietnamese-English interpreter. I desperately need a job and it has been hard to find something so far. If anyone knows a local job that would work, or even a US based job that I can do remotely, I’d really appreciate it!\n    submitted by    /u/Known-Invite-4717  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10koe8b/job_search_is_hard/",
+          "publishedOn": "2023-01-25T03:05:19.000Z",
+          "wordCount": 15445,
+          "title": "Job search is hard!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/10klheb/saigon_to_usa_shipping/",
           "author": null,
@@ -7397,186 +7657,6 @@
           "wordCount": 15701,
           "title": "Looking for friends!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwd0j4/what_can_i_do_about_a_very_abusive_neighbor/",
-          "author": null,
-          "description": "I live in a smallish town in the South, I am a foreigner and my wife is Vietnamese. I'm pretty embedded in my family and local community and I know that people prefer to handle things \"in house\" or without the police a lot, but I'm just at a loss.\n The house directly behind ours (their back wall forms the wall of our yard) has a woman who is an absolutely insane and abusive nutcase to her very small child, or maybe children I'm not sure. She screams like a lunatic and hits the poor child, which makes it wail this horrific wail I can't take anymore. It's honestly shameful I haven't done anything yet but I just haven't known what to do and everyone here has a very \"mind your own business\" attitude so I don't know who to turn to.\n Last week I was afraid that I was listening to her actually killing her child. There was a pained screaming that only comes from death, and then it suddenly cut off to total silence. I remember though that lately I'd heard a puppy, I think she killed the puppy in front of the child. I heard the child sobbing.\n Who do I contact, what branch of government handles investigations like this? Besides the absolutely over the top regular abuse, I feel like if she really did kill that puppy in front of the kid(s) she may one day kill them too. I don't know, I think maybe she has some really intense post-partum psychosis. Due to the layout of the neighborhood I've never actually seen any of them and I don't know what the front of their house looks like.\n I'm very worried and I am at the point that I can't let my moral cowardice get in the way any longer, something needs to be done.\n Can any Vietnamese people here help me? My wife doesn't hear it because she's rarely in the back yard and while she's normally a very lovely person, I don't think she's taking it seriously and may be worried about social blowback.\n Thank you.\n    submitted by    /u/Dung_Buffalo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwd0j4/what_can_i_do_about_a_very_abusive_neighbor/",
-          "publishedOn": "2022-12-27T10:55:21.000Z",
-          "wordCount": 20523,
-          "title": "What can I do about a very abusive neighbor?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwctm2/where_to_buy_bed_sheets_and_pillow/",
-          "author": null,
-          "description": "Is there a market or street where I can buy inexpensive bed sheets made of 100% cotton? And inexpensive pillows with goose feather? (I will only use it for 1 month- so don't want to pay much. But needs to be 100% cotton)\n Can I trust the label/seller if it says 100% cotton? If not- how can I be sure?\n    submitted by    /u/ediesantie  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwctm2/where_to_buy_bed_sheets_and_pillow/",
-          "publishedOn": "2022-12-27T10:42:35.000Z",
-          "wordCount": 15621,
-          "title": "Where to buy bed sheets and pillow?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zw9kwn/i_found_this_old_10000_vnd_in_my_dads_wallet_is/",
-          "author": null,
-          "description": "submitted by    /u/ken505000  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zw9kwn/i_found_this_old_10000_vnd_in_my_dads_wallet_is/",
-          "publishedOn": "2022-12-27T07:11:54.000Z",
-          "wordCount": 16255,
-          "title": "i found this old 10.000 VND in my dad's wallet, is it rare?",
-          "imageUrl": "https://preview.redd.it/88lmuoggmf8a1.png?auto=webp&s=97c56c6acb56319a72ab6316e9ac6e5d64fb87e1"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zw3xiy/vietnam_has_the_third_lowest_immigration_rate_in/",
-          "author": null,
-          "description": "submitted by    /u/hanoian  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zw3xiy/vietnam_has_the_third_lowest_immigration_rate_in/",
-          "publishedOn": "2022-12-27T02:17:30.000Z",
-          "wordCount": 21680,
-          "title": "Vietnam has the third lowest immigration rate in the world, at 0.08%. Thailand is at 5.2%. Why does the country act like it has an immigrant problem, by constantly making both tourist visas and work permits / temporary residency cards more difficult? 0.08% is tiny but seems to cause so much angst.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zw3ihw/i_was_raised_with_northern_cuisine_but_i_will_die/",
-          "author": null,
-          "description": "submitted by    /u/neverphoget  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zw3ihw/i_was_raised_with_northern_cuisine_but_i_will_die/",
-          "publishedOn": "2022-12-27T01:57:52.000Z",
-          "wordCount": 18942,
-          "title": "I was raised with Northern cuisine but I will die on this hill",
-          "imageUrl": "https://preview.redd.it/g3xmw0jf2e8a1.jpg?auto=webp&s=61c896c07609e441dd74fadb1d2bc31f1a1d2f97"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zw3339/long_shot_but_does_anyone_know_who_this_singer_is/",
-          "author": null,
-          "description": "submitted by    /u/yudentes  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zw3339/long_shot_but_does_anyone_know_who_this_singer_is/",
-          "publishedOn": "2022-12-27T01:37:38.000Z",
-          "wordCount": 15518,
-          "title": "Long shot, but does anyone know who this singer is? (More details in comments)",
-          "imageUrl": "https://external-preview.redd.it/CSdEBzp-auh3yzyyOQJ09VaHXYR4vRYM4PyzyxJP3NM.png?format=pjpg&auto=webp&s=effc5f33a4505820d7fec503a25037e0df1df6cc"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zw2aje/can_you_get_used_to_the_heat_in_saigon/",
-          "author": null,
-          "description": "Hello everyone, I just visited Saigon in November for the first time. The city was amazing but I felt like I was not able to enjoy a majority of what HCMC has to offer because of the heat. \n My question is…. Is it possible to get “used” to the heat biologically ? I don’t want tips on how to stay cool… I just want to know if it is possible for my body to get used to the heat if I stay for a certain amount of time. I tend to sweat easily and it seems like stepping outside of my hotel would trigger the sweats. Any advice here? On my trip I just ended up going to Da Lat and other cooler parts of VN.\n Thanks!\n    submitted by    /u/RatePopular4004  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zw2aje/can_you_get_used_to_the_heat_in_saigon/",
-          "publishedOn": "2022-12-27T01:00:57.000Z",
-          "wordCount": 18334,
-          "title": "Can you get “used” to the heat in Saigon?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zw226i/going_to_vietnam_in_mid_february/",
-          "author": null,
-          "description": "Any recommendation on how many days to stay in dalat? These are the cities im hitting in a 8 day period. Any suggestions which one to take out? Havent been to the homeland since 2006 ty!!\n -dalat -nha trang -danang -hue -hoi an -halong bay -hanoi\n    submitted by    /u/jackaaydang  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zw226i/going_to_vietnam_in_mid_february/",
-          "publishedOn": "2022-12-27T00:50:22.000Z",
-          "wordCount": 16268,
-          "title": "going to vietnam in mid February",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zw0amg/fave_places_to_eat_and_drink_in_hcm/",
-          "author": null,
-          "description": "In HCM from 27-31st! I do have a list of some spots but curious to know if anyone has a must-go place! Just 1 place that blew your mind and would make Anthony Bordain happy.\n    submitted by    /u/bugbiyte  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zw0amg/fave_places_to_eat_and_drink_in_hcm/",
-          "publishedOn": "2022-12-26T23:31:50.000Z",
-          "wordCount": 16256,
-          "title": "Fave places to eat and drink in HCM?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zvz5za/a_beautiful_viewpoint_among_many_others_in_ha/",
-          "author": null,
-          "description": "submitted by    /u/richardfernando  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zvz5za/a_beautiful_viewpoint_among_many_others_in_ha/",
-          "publishedOn": "2022-12-26T22:43:02.000Z",
-          "wordCount": 16204,
-          "title": "A beautiful viewpoint among many others in Ha Giang Loop bike trip",
-          "imageUrl": "https://external-preview.redd.it/QZrbAginhvzwQSf1Xng2ghcZqZoefodnzd5T7ojW5I8.jpg?auto=webp&s=81baf19950fdb76bf76c9876a87a951b1b2c6a94"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zvyado/first_time_visiting_vietnam_3_vs_4_day_ha_giang/",
-          "author": null,
-          "description": "First time visiting Vietnam in March and we will be doing 10 days in the north and trying get some ideas for how we can plan the trip. We want to fit in Ha Giang/Sapa, Ninh Binh, Halong Bay, and Hanoi in but the issue is 10 days is a little tight.\n What do you guys think about the 4 day/3 night option vs 3 day/2 nights for Ha Giang Loop? Is it too rushed to do the 3 day option on QT's website? It allows us to fit Ninh Binh and Halong Bay in a bit easier but I'm a little worried that it'll be too rushed to enjoy the loop.\n The other option is to do Sapa instead of the Ha Giang loop which will definitely make the itinerary easier since I think you can definitely fit Sapa in 3 day/2 nights in very easily.\n Thoughts? Are there any other places you think I should consider and bump one of the options I listed out?\n    submitted by    /u/IevaFT  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zvyado/first_time_visiting_vietnam_3_vs_4_day_ha_giang/",
-          "publishedOn": "2022-12-26T22:05:34.000Z",
-          "wordCount": 16629,
-          "title": "First time visiting Vietnam, 3 vs 4 day Ha Giang loop or Sapa?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zvro43/hello_guys_please_fill_this_questionnaire_on/",
-          "author": null,
-          "description": "submitted by    /u/Frog-2021  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zvro43/hello_guys_please_fill_this_questionnaire_on/",
-          "publishedOn": "2022-12-26T17:13:01.000Z",
-          "wordCount": 15082,
-          "title": "Hello guys. Please fill this questionnaire on Unconventional Professions. Have a nice day.",
-          "imageUrl": "https://external-preview.redd.it/fzDb9OOI4EG9xy478IBhus1fwcpu75fazmDlxc3jSXQ.jpg?auto=webp&s=81dd7e6ac5251eada45153488db409d487b00636"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zvr18i/best_night_club_in_nha_trang/",
-          "author": null,
-          "description": "Hey I have 10 days in Vietnam and I d like to leave the hotel and start exploring the Night live, and that d be good if I could get there with public transportation\n    submitted by    /u/deniswerd  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zvr18i/best_night_club_in_nha_trang/",
-          "publishedOn": "2022-12-26T16:43:24.000Z",
-          "wordCount": 15239,
-          "title": "best night club in Nha Trang ?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zvqcut/msu_vietnam_group_archive/",
-          "author": null,
-          "description": "submitted by    /u/overflow_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zvqcut/msu_vietnam_group_archive/",
-          "publishedOn": "2022-12-26T16:11:26.000Z",
-          "wordCount": 16705,
-          "title": "MSU Vietnam Group Archive",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zvq863/if_you_have_a_chase_account_in_us_can_you/",
-          "author": null,
-          "description": "I am a viet kieu and my cousin is currently in vietnam now. He has a chase account and was wondering if he could just go to a chase in vietnam (there is one apparently in hcm) and withdraw from his us account. Would they allow this and are theree fees?\n    submitted by    /u/spitfire9107  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zvq863/if_you_have_a_chase_account_in_us_can_you/",
-          "publishedOn": "2022-12-26T16:05:26.000Z",
-          "wordCount": 16168,
-          "title": "If you have a chase account in us can you withdraw from chase in vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zvp3tb/i_need_a_little_help_you_guys/",
-          "author": null,
-          "description": "What is vanilla powder? And how much would 2 tubes be in grams? I have vanilla coffee creamer, will that work?\n    submitted by    /u/gfa22  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zvp3tb/i_need_a_little_help_you_guys/",
-          "publishedOn": "2022-12-26T15:11:25.000Z",
-          "wordCount": 16077,
-          "title": "I need a little help you guys...",
-          "imageUrl": "https://external-preview.redd.it/L3PYQX1plcgia45n8en-7Nrc1gErgLrNHXXzD9BG-DM.jpg?auto=webp&s=c7a7634e6817336c42d8db766dde8eab4cf29e4d"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zvo553/sharks_ate_vietnams_undersea_internet_cable_again/",
-          "author": null,
-          "description": "Well, it's that time of the year again and Vietnamese Sharks are hungry hungry for some internet cable, so don't be suprised if your internet is slowwwwwwwwwwwwwwwwwwww.\n    submitted by    /u/GrapeJam-44-1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zvo553/sharks_ate_vietnams_undersea_internet_cable_again/",
-          "publishedOn": "2022-12-26T14:22:58.000Z",
-          "wordCount": 15280,
-          "title": "\"Sharks\" ate Vietnam's undersea internet cable again.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zvo2vs/flying_to_nha_trang_with_a_surfboard_via_vietnam/",
-          "author": null,
-          "description": "I'm planning to go on a surf trip in Nha Trang in January (coming from the Philippines) and I can't find any clear guidelines on whether or not Vietnam Airlines (or other airlines) will accept baggage as big as a 9ft surfboard. Has anyone tried this? if it's possible, how was your experience? thanks in advance!\n    submitted by    /u/Forsaken-Spirit2974  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zvo2vs/flying_to_nha_trang_with_a_surfboard_via_vietnam/",
-          "publishedOn": "2022-12-26T14:19:43.000Z",
-          "wordCount": 16879,
-          "title": "Flying to Nha Trang with a surfboard via Vietnam Airlines - is it doable?",
-          "imageUrl": null
         }
       ]
     },
@@ -7585,6 +7665,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/pandas-dataframe-groupby-method/",
+          "author": "Faith Oyama",
+          "description": "Pandas is a fast and approachable open-source library in Python built for analyzing and manipulating data.  This library has a lot of functions and methods to expedite the data analysis process. One of my favorites is the groupby method, mainly because it lets you get quick insights into your",
+          "link": "https://www.freecodecamp.org/news/pandas-dataframe-groupby-method/",
+          "publishedOn": "2023-01-25T21:32:38.000Z",
+          "wordCount": 1656,
+          "title": "How to Use the Pandas DataFrame Groupby Method",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Pandas-Groupby---1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-comparison-operators-how-to-compare-objects-for-equality-in-js/",
+          "author": "Dionysia Lemonaki",
+          "description": "While coding in JavaScript, there may be times when you need to compare objects for equality. The thing is, comparing objects in JavaScript is not that straightforward. In this article, you learn three ways to compare objects for equality in JavaScript. Let's get into it! What's the Difference Between Comparing",
+          "link": "https://www.freecodecamp.org/news/javascript-comparison-operators-how-to-compare-objects-for-equality-in-js/",
+          "publishedOn": "2023-01-25T18:47:40.000Z",
+          "wordCount": 1697,
+          "title": "JavaScript Comparison Operators – How to Compare Objects for Equality in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-christina-morillo-1181675.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/integrate-paypal-into-html-css-js-product-pages/",
+          "author": "Shane Duggan",
+          "description": "Imagine if you had an amazing product landing page, with customers lined up to make a purchase. But your manual JavaScript payment processing with server-side scripts, Authorize.net, or 2Checkout failed you. Frustrated by being unable to make the purchase, your customer leaves to go to your competitors. I imagine that",
+          "link": "https://www.freecodecamp.org/news/integrate-paypal-into-html-css-js-product-pages/",
+          "publishedOn": "2023-01-25T17:35:10.000Z",
+          "wordCount": 3867,
+          "title": "How to Integrate PayPal into Your HTML, CSS, and JS Product Pages",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/PayPalHTMLCSSJSCoverImage.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/mysql-date-functions/",
+          "author": "Zubair Idris Aweda",
+          "description": "SQL is a programming language we use to interact with relational databases. SQL databases contain tables, which contain rows of data. These tables can contain a wide range of data types. In this article, you'll learn how MySQL functions help make date management very easy.  These functions help perform",
+          "link": "https://www.freecodecamp.org/news/mysql-date-functions/",
+          "publishedOn": "2023-01-25T17:15:13.000Z",
+          "wordCount": 1793,
+          "title": "MySQL Date Functions – Explained with Example Queries",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/image-162-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/code-a-reddit-clone-with-react-and-firebase/",
+          "author": "Beau Carnes",
+          "description": "Coding a Reddit clone is a great project to help you learn a bunch of different programming skills and technologies. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a Reddit clone using React, Firebase, Next.js, Chakra UI, and TypeScript. Shadee Merhi",
+          "link": "https://www.freecodecamp.org/news/code-a-reddit-clone-with-react-and-firebase/",
+          "publishedOn": "2023-01-25T15:18:14.000Z",
+          "wordCount": 936,
+          "title": "Code a Reddit Clone with React and Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/redditclone.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/k-nearest-neighbors-algorithm-classifiers-and-model-example/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "The K-Nearest Neighbors (K-NN) algorithm is a popular Machine Learning algorithm used mostly for solving classification problems.  In this article, you'll learn how the K-NN algorithm works with practical examples. We'll use diagrams, as well sample data to show how you can classify data using the K-NN algorithm. We'll",
+          "link": "https://www.freecodecamp.org/news/k-nearest-neighbors-algorithm-classifiers-and-model-example/",
+          "publishedOn": "2023-01-25T15:17:54.000Z",
+          "wordCount": 1860,
+          "title": "KNN Algorithm – K-Nearest Neighbors Classifiers and Model Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/tim-mossholder-8R-mXppeakM-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-open-policy-agent-and-apache-apisix-opa-plugin/",
           "author": "Njoku Samson Ebere",
