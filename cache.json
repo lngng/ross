@@ -12,6 +12,36 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266317CB600.WindAdvisory.12663188E7E0CA.LOXNPWLOX.dd3ba06ef1bd880a61a9d290a2f42cc1",
+          "author": null,
+          "description": "...WIND ADVISORY IN EFFECT UNTIL 6 PM PST THIS EVENING... ...HIGH WIND WARNING IS CANCELLED... * WHAT...Northeast winds 20 to 30 mph with gusts up to 45 mph. * WHERE...Santa Clarita Valley. * WHEN...Until 6 PM PST this evening. * IMPACTS...Gusty winds will blow around unsecured objects and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266317CB600.WindAdvisory.12663188E7E0CA.LOXNPWLOX.dd3ba06ef1bd880a61a9d290a2f42cc1",
+          "publishedOn": "2023-01-26T22:08:00.000Z",
+          "wordCount": 150,
+          "title": "Wind Advisory issued January 26 at 2:08PM PST until January 26 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266317CB600.WindAdvisory.12663188E7E0CA.LOXNPWLOX.12803a0593ceabf4f4d81bb5b1a25a89",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 6 PM PST THIS EVENING... * WHAT...Northeast winds 25 to 35 mph with gusts up to 50 mph expected. * WHERE...Central Ventura County Valleys, Southeastern Ventura County Valleys and Los Angeles County San Fernando Valley. * WHEN...Until 6 PM PST this evening.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266317CB600.WindAdvisory.12663188E7E0CA.LOXNPWLOX.12803a0593ceabf4f4d81bb5b1a25a89",
+          "publishedOn": "2023-01-26T22:08:00.000Z",
+          "wordCount": 186,
+          "title": "Wind Advisory issued January 26 at 2:08PM PST until January 26 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266317CB600.HighWindWarning.126631898420CA.LOXNPWLOX.2a36841afd5c3910f57b4126be640cb2",
+          "author": null,
+          "description": "...HIGH WIND WARNING REMAINS IN EFFECT UNTIL 10 PM PST THIS EVENING... * WHAT...Northeast winds 35 to 45 mph with gusts up to 70 mph expected. * WHERE...Los Angeles County Mountains and Santa Monica Mountains.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266317CB600.HighWindWarning.126631898420CA.LOXNPWLOX.2a36841afd5c3910f57b4126be640cb2",
+          "publishedOn": "2023-01-26T22:08:00.000Z",
+          "wordCount": 184,
+          "title": "High Wind Warning issued January 26 at 2:08PM PST until January 26 at 10:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266316D5BEC.BeachHazardsStatement.12663179A5A0CA.LOXCFWLOX.19444b32faba7210f92b222f302d0dbc",
           "author": null,
           "description": "...BEACH HAZARDS STATEMENT REMAINS IN EFFECT UNTIL 6 PM PST THIS EVENING... * WHAT...Dangerous rip currents and breaking waves due to elevated surf of 3 to 6 feet expected. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County Beaches.",
@@ -1050,16 +1080,6 @@
           "wordCount": 193,
           "title": "High Surf Advisory issued December 28 at 10:00AM PST until December 29 at 3:00AM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F105BA4.HighSurfAdvisory.12641F2D92F0CA.LOXCFWLOX.897e4d5ebce5764e1a7b6082c3200290",
-          "author": null,
-          "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 3 AM PST THURSDAY... * WHAT...Large breaking waves of 5 to 8 feet with dangerous rip currents. Local waves of 10 feet around Ventura Harbor. * WHERE...Los Angeles and Ventura County Beaches. Highest surf on west facing beaches. * WHEN...Until 3 AM PST Thursday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12641F105BA4.HighSurfAdvisory.12641F2D92F0CA.LOXCFWLOX.897e4d5ebce5764e1a7b6082c3200290",
-          "publishedOn": "2022-12-27T19:53:00.000Z",
-          "wordCount": 201,
-          "title": "High Surf Advisory issued December 27 at 11:53AM PST until December 29 at 3:00AM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -1068,6 +1088,216 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10m7tre/renew_vietnamese_passport_in_the_us/",
+          "author": null,
+          "description": "My vietnam passport is about to expire and I would need to renew it. The problem is that I don’t live in SF, NY, pr Houston, and their website doesn’t really say enough information of the fees and other papers needed (if any). I tried to call them but they never picked up. Has anyone renewed their passport recently? Or know how to do it? Thank you\n    submitted by    /u/justaman219  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10m7tre/renew_vietnamese_passport_in_the_us/",
+          "publishedOn": "2023-01-27T00:56:44.000Z",
+          "wordCount": 14366,
+          "title": "Renew Vietnamese passport in the U.S?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10m7o4f/just_use_a_vpn_in_vietnam_it_would_make_the/",
+          "author": null,
+          "description": "I am not sure of the reason, but my internet connection is currently running at a very high speed since I connected to a VPN. \n x5 normal rate at least\n    submitted by    /u/noobgolang  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10m7o4f/just_use_a_vpn_in_vietnam_it_would_make_the/",
+          "publishedOn": "2023-01-27T00:49:09.000Z",
+          "wordCount": 14302,
+          "title": "Just use a VPN in Vietnam, it would make the internet faster",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10m48ce/summer_travel/",
+          "author": null,
+          "description": "Hello! My family are thinking of traveling to Ho Chi Minh in June from Los Angelos... When is the best time to buy the plane tickets? We are thinking of traveling through Eva Air. As of right now, the tickets are $1.4 roundtrip with a stop at Teipei, Taiwan. Any suggestions? Thank you!\n    submitted by    /u/hellokitty4lyfer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10m48ce/summer_travel/",
+          "publishedOn": "2023-01-26T22:16:53.000Z",
+          "wordCount": 14327,
+          "title": "Summer Travel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10m3ll5/vietnamese_martial_arts/",
+          "author": null,
+          "description": "Hi! Is there any martial arts that are native to Vietnam, like Muay Thai is to Thailand? I haven't heard of any and I would love to learn more about them if they exist.\n Also, is martial arts just not very popular in Vietnam? It seems there aren't many pro boxers who come from Vietnam. Is martial arts not as deeply rooted in Vietnamese culture as places like Thailand, China, and Japan?\n    submitted by    /u/Pollo_Perpetuo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10m3ll5/vietnamese_martial_arts/",
+          "publishedOn": "2023-01-26T21:50:53.000Z",
+          "wordCount": 14852,
+          "title": "Vietnamese Martial Arts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10m0zax/vietjetair_flight_date_change/",
+          "author": null,
+          "description": "I need help. I booked two flights on odopo in Vietnam. Problem is that the months are switched, one is in February and the other one in March. Idk how this happened, maybe a mistake by the booking company idk.\n But odopo redirects me to change the date on the vietjetair site. How do I do this, I have the flight id but no account, does someone know how to change it?\n Thanks in advance:)\n    submitted by    /u/slava64  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10m0zax/vietjetair_flight_date_change/",
+          "publishedOn": "2023-01-26T20:01:57.000Z",
+          "wordCount": 14371,
+          "title": "Vietjetair flight date change",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10lzz1a/cost_of_complete_dentures/",
+          "author": null,
+          "description": "Hey All - I was just wondering what the cost of complete (upper and lower) dentures would cost. My parents are heading back to visit and I just wanted to gauge the avg price for them (her friend said 3k-4k for premium dentures). Thanks!\n    submitted by    /u/Elegant_Resist_3167  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10lzz1a/cost_of_complete_dentures/",
+          "publishedOn": "2023-01-26T19:20:04.000Z",
+          "wordCount": 14313,
+          "title": "Cost of complete dentures",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10lzt9n/vietnam_places_to_see/",
+          "author": null,
+          "description": "submitted by    /u/Polmeetsworld  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10lzt9n/vietnam_places_to_see/",
+          "publishedOn": "2023-01-26T19:13:31.000Z",
+          "wordCount": 14235,
+          "title": "Vietnam places to see",
+          "imageUrl": "https://external-preview.redd.it/VnZdvaQGDBvv5xu5xmS-9zZ_G4pW8RibqDSwienFsDU.jpg?auto=webp&v=enabled&s=aa5403cfd9b69ebd964d2448a99fdc49937c57e9"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10lwwit/hello_i_am_traveling_to_vietnam_with_a_nut/",
+          "author": null,
+          "description": "submitted by    /u/EffectiveReference84  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10lwwit/hello_i_am_traveling_to_vietnam_with_a_nut/",
+          "publishedOn": "2023-01-26T17:11:50.000Z",
+          "wordCount": 18123,
+          "title": "Hello, I am traveling to vietnam with a nut allergy. I have made these translations that should say: “I have a life threatening allergic reaction to all nuts, peanuts and nut oils. If I eat this food or food cooked with it I may die. Does this food contain nuts.” Can someone check the translation?",
+          "imageUrl": "https://preview.redd.it/lvb849ctogea1.jpg?auto=webp&v=enabled&s=858d511f37293f75dded2a7f33a07412874e0017"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10luxt7/_/",
+          "author": null,
+          "description": "submitted by    /u/Milk122001  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10luxt7/_/",
+          "publishedOn": "2023-01-26T15:51:04.000Z",
+          "wordCount": 14223,
+          "title": "🇻🇳",
+          "imageUrl": "https://external-preview.redd.it/-i6JK62B9BntVJ1rcMty7tOva4veZ3ETw_MRHZRke1M.png?format=pjpg&auto=webp&v=enabled&s=bab4b46ca11403a9bbc4448651fdc73b1fb162d5"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10luudv/vietnam_history_book_reccomendations/",
+          "author": null,
+          "description": "I'm looking for recommendations on the history of Vietnam from a Vietnamese perspective. In particular books covering 19th and 20th century (both, or either!) Must be available in English.\n Finding it very difficult to find books that are not memoirs of American soldiers! Very much want to read from a Vietnamese perspective.\n    submitted by    /u/kermithall  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10luudv/vietnam_history_book_reccomendations/",
+          "publishedOn": "2023-01-26T15:47:12.000Z",
+          "wordCount": 15414,
+          "title": "Vietnam History Book Reccomendations?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10luh8s/a_clever_way_of_roadside_refreshment_bar_owners/",
+          "author": null,
+          "description": "submitted by    /u/freewaytogo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10luh8s/a_clever_way_of_roadside_refreshment_bar_owners/",
+          "publishedOn": "2023-01-26T15:31:46.000Z",
+          "wordCount": 14468,
+          "title": "A clever way of roadside refreshment bar owners to prevent losing lighters",
+          "imageUrl": "https://preview.redd.it/891ka0tcpeea1.png?auto=webp&v=enabled&s=af0896d71ad10b76b75da5d6972863b2e1f4e769"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10ltb44/the_temples_at_my_son_sanctuary_are_fascinating/",
+          "author": null,
+          "description": "submitted by    /u/DropTop340  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10ltb44/the_temples_at_my_son_sanctuary_are_fascinating/",
+          "publishedOn": "2023-01-26T14:41:03.000Z",
+          "wordCount": 14274,
+          "title": "The temples at My Son Sanctuary are fascinating. Definitely worth a visit if you’re in Central Vietnam!",
+          "imageUrl": "https://external-preview.redd.it/Wm19j2MKafEIVcTKEOVqsUpME6qgg9thu_QceQSb-TM.jpg?auto=webp&v=enabled&s=39e871eb625964c6eef1b6c92ddc5edd37cc1ef9"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10lsic6/there_are_people_who_do_not_like_the_tao_quan/",
+          "author": null,
+          "description": "So the last time I actually watched it was 2020 but even before that I did not even pay attention to the show at all. There were way too many ads and the contents were not that good. I understand what they tried to refer to but I don't appreciate them much (mostly because the way they make jokes about events of the year do not solve anything and for me, normalizes all that shits); and yah, I do not find their jokes or \"deep\".\n BUT, I understand why some like it and that's great for them.\n What I am quite puzzled about is that some would go all the ways to look down on all those who don't like the show. Some would even make remarks and insults others over this.\n So please educate me, is there any thing else about the show that makes it \"sacred\"? or is it just some people being too close-minded?\n    submitted by    /u/Quiet-Damage5522  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10lsic6/there_are_people_who_do_not_like_the_tao_quan/",
+          "publishedOn": "2023-01-26T14:03:19.000Z",
+          "wordCount": 15099,
+          "title": "There are people who do not like the Tao Quan show anymore and Idk why some people made a big deal about it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10lsfb8/karaoke_bars_in_ha_noi_with_english_songs/",
+          "author": null,
+          "description": "Ha Noi locals kindly recommend Karaoke bars with a rich English song collection. We’re really keen to explore some on our visit. Thanks!\n    submitted by    /u/Traditional_Dig_1446  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10lsfb8/karaoke_bars_in_ha_noi_with_english_songs/",
+          "publishedOn": "2023-01-26T13:59:44.000Z",
+          "wordCount": 14396,
+          "title": "Karaoke bars in Ha Noi with English songs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10lsb8z/minoxidil_in_vietnam/",
+          "author": null,
+          "description": "Hey guys, I’ll be going to Vietnam regularly starting from next month. I was wondering if any of you is currently treating hair loss using oral minoxidil. If you do, could you recommend me where to buy it? I’d like to know hoping that it would be cheaper compared to where I live now. Thanks!\n    submitted by    /u/Bet3lgeus3  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10lsb8z/minoxidil_in_vietnam/",
+          "publishedOn": "2023-01-26T13:54:10.000Z",
+          "wordCount": 14336,
+          "title": "Minoxidil in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10lpcah/corporateemployment_attorney/",
+          "author": null,
+          "description": "Recieved a term sheet from a local startup. I'm looking to negotiate/restructure the offer the deal to focus on ownership and future initial offering options. But this would be way over my head. I've been given good advice so far, to look for the equivalent corporate/employment attorney in vn. But when I inquire with the international business foundation they seen to be oblivious. I have a call in to my council back home but, there's certainly no guarantees they know what's best here.\n Any business owners might be able to perhaps give me the correct term for such a lawyer in vnmese?\n    submitted by    /u/axa88  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10lpcah/corporateemployment_attorney/",
+          "publishedOn": "2023-01-26T11:04:36.000Z",
+          "wordCount": 14462,
+          "title": "corporate/employment attorney",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10lnkl6/this_story_just_got_worse_and_worse_and_ive_been/",
+          "author": null,
+          "description": "submitted by    /u/GeForce_GTX_1050Ti  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10lnkl6/this_story_just_got_worse_and_worse_and_ive_been/",
+          "publishedOn": "2023-01-26T08:55:20.000Z",
+          "wordCount": 14325,
+          "title": "This story just got worse and worse, and i've been following it for 2 days.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10lnd5c/ha_giang_loop_solo_vs_guided/",
+          "author": null,
+          "description": "Hey everything, I'm thinking of doing the Ha Giang loop on a motorbike in north Vietnam in the next couple of weeks. Originally I was thinking of doing it without a guide, because I want the freedom to explore and maybe do some hiking. However, talking to a few people has made me think it might be better to do it guided, most likely with Jasmine Hostel. Does anyone here have experience with the pros and cons of each? \n Personally I like the idea of doing it without a guide because I have more freedom to stop and take pictures, explore off the beaten path, do some hiking, and stay longer than 3 nights if I want to. The pros of doing it guided is the social aspect, staying at the best homestays, and the guides knowing the best views and all that. \n Any feedback or ideas would be appreciated. Thanks I'm advance!\n    submitted by    /u/makeshiftswift  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10lnd5c/ha_giang_loop_solo_vs_guided/",
+          "publishedOn": "2023-01-26T08:39:40.000Z",
+          "wordCount": 15439,
+          "title": "Ha Giang loop solo vs guided",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10lls6e/whats_your_favourite_littleknown_fact_about_hanoi/",
+          "author": null,
+          "description": "Whether it's cultural, historical or food related, what's something interesting about the city you always like to share with visitors?\n    submitted by    /u/amoderndaypeasant  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10lls6e/whats_your_favourite_littleknown_fact_about_hanoi/",
+          "publishedOn": "2023-01-26T06:48:11.000Z",
+          "wordCount": 16819,
+          "title": "What's your favourite little-known fact about Hanoi that you like to share with travelers?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10lkkym/best_nostalgic_filmshow/",
+          "author": null,
+          "description": "I'm trying to understand more Vietnamese and Vietnamese culture and I wonder what films and TV shows feel like touchstones of the culture. Not necessarily \"best films or shows\" in terms of production or even storytelling, but the things that would make you feel more connected to Vietnam or Vietnamese culture if you were abroad.\n    submitted by    /u/thequeenofallargyll  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10lkkym/best_nostalgic_filmshow/",
+          "publishedOn": "2023-01-26T05:34:15.000Z",
+          "wordCount": 14799,
+          "title": "Best Nostalgic Film/Show?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10li63t/street_food_tour/",
+          "author": null,
+          "description": "Hey I am off to Vietnam again in June. I have previously done a street food tour in Hanoi and Ho Chi Minh. This time I am focusing on Hoi an/Danang and Nha Trang. Which would be the best town to have a street food tour. We aren't really into seafood. We have already done the Red Bridge cooking class twice. Are there any other companies that do this. Nha Trang or Danang/Hoi an.\n    submitted by    /u/plantbasedlifter  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10li63t/street_food_tour/",
+          "publishedOn": "2023-01-26T03:23:32.000Z",
+          "wordCount": 14741,
+          "title": "Street food tour",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/10lezw9/my_first_attempt_eel_at_cooking_vietnamese/",
           "author": null,
@@ -7417,246 +7647,6 @@
           "wordCount": 15627,
           "title": "What is the best arcade hall in HCMC?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zx7f3f/vietnamese_pop_folk_indie_songs/",
-          "author": null,
-          "description": "I recently came across the song một đêm say. Fell in love with the song and immediately learned it. I like playing open mics and busking sometimes and would love to find some more gems to play when I’m in Saigon or working in California (in garden grove and San Jose a lot). I mostly listen to singer songwriter acoustic stuff, American folk, indie, and pop. If you can point me to some of your fav Vietnamese artists and songs I would appreciate it :).\n    submitted by    /u/Le_90s_Kid_XD  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zx7f3f/vietnamese_pop_folk_indie_songs/",
-          "publishedOn": "2022-12-28T11:36:12.000Z",
-          "wordCount": 15806,
-          "title": "Vietnamese pop, folk, indie songs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zx6zuh/hcm_trying_to_find_the_bar_i_visited_it_in_2018/",
-          "author": null,
-          "description": "submitted by    /u/Novel_Structure8833  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zx6zuh/hcm_trying_to_find_the_bar_i_visited_it_in_2018/",
-          "publishedOn": "2022-12-28T11:10:32.000Z",
-          "wordCount": 15623,
-          "title": "HCM: Trying to find the bar I visited it in 2018. It is on a corner, near the city hall, there was pictures of the CIA helicopter leaving HCM, overlooks a square and I think it is in a hotel.",
-          "imageUrl": "https://preview.redd.it/zb6csl3yxn8a1.jpg?auto=webp&s=8741a0827f503e2f00d22835b443e1f3de941e37"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zx6l6w/weather_forecast_in_vietnam/",
-          "author": null,
-          "description": "Hi all,\n We (my wife and I) are currently in Vietnam, enjoying the country thorougly and planning our next steps. In a few days, we’ll head to the middle of Vietnam, and after that likely to the South. \n However, it seems the weather won’t be that good for the middle & the south, especially in the region of Da Nang and Nha Trang.\n Also, Phu Quoc seems to get pretty rainy, which was basically our ‘end of holiday’ getaway. \n Do we need to consider going abroad (say Thailand, Phuket - looking more stable over the course of 2 weeks), or are weather forecasts in Vietnam generally wrong? Would love to hear from you!\n    submitted by    /u/dinhuss  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zx6l6w/weather_forecast_in_vietnam/",
-          "publishedOn": "2022-12-28T10:45:52.000Z",
-          "wordCount": 17251,
-          "title": "Weather forecast in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zx5hi5/allergies/",
-          "author": null,
-          "description": "Hi all! I’m traveling to Vietnam and have a severe shellfish allergy. Can anyone confirm if the following is accurate? I plan to show it to wait staff… I’m looking for it to say “I have a severe allergy. I can't eat shrimp, crab, lobster, oysters, squid, octopus and shellfish. I can't eat food cooked in the same oil as shellfish. I can't eat sauces made with shellfish (like oyster sauce) or fish sauce with shellfish”\n Tôi bị dị ứng nặng. Tôi không thể ăn tôm, cua, tôm hùm, hàu, mực, bạch tuộc và động vật có vỏ. Tôi không thể ăn thức ăn nấu trong dầu như động vật có vỏ. Tôi không thể ăn nước sốt làm từ động vật có vỏ (như dầu hào) hoặc nước mắm với động vật có vỏ\n    submitted by    /u/darface13  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zx5hi5/allergies/",
-          "publishedOn": "2022-12-28T09:35:53.000Z",
-          "wordCount": 15713,
-          "title": "Allergies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zx4i8x/whats_the_best_place_for_new_years_eve_in/",
-          "author": null,
-          "description": "submitted by    /u/pizzavegano  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zx4i8x/whats_the_best_place_for_new_years_eve_in/",
-          "publishedOn": "2022-12-28T08:32:20.000Z",
-          "wordCount": 15717,
-          "title": "What’s the best place for new years eve in Saigon/HCMC?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zx4cbu/eye_clinic_in_saigon_that_can_perform_a/",
-          "author": null,
-          "description": "submitted by    /u/Consistent_Motor_232  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zx4cbu/eye_clinic_in_saigon_that_can_perform_a/",
-          "publishedOn": "2022-12-28T08:21:43.000Z",
-          "wordCount": 15984,
-          "title": "Eye clinic in Saigon that can perform a fluoroescein angiography (scan to analyze blood flow to the eye)?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwyhcf/hmmm/",
-          "author": null,
-          "description": "submitted by    /u/vung20019  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwyhcf/hmmm/",
-          "publishedOn": "2022-12-28T03:02:22.000Z",
-          "wordCount": 15110,
-          "title": "Hmmm...",
-          "imageUrl": "https://preview.redd.it/9253hzmuil8a1.jpg?auto=webp&s=a2e89bc132d9dcb3f3e058efe903c0b245acef9e"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwtpra/finally_got_to_visit_vietnam_after_2_years_of/",
-          "author": null,
-          "description": "submitted by    /u/maccharliedennisdee  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwtpra/finally_got_to_visit_vietnam_after_2_years_of/",
-          "publishedOn": "2022-12-27T23:27:08.000Z",
-          "wordCount": 15308,
-          "title": "Finally got to visit Vietnam, after 2 years of covid postponements. What a gorgeous country!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwsfhj/renew_vietnamese_passport_in_us/",
-          "author": null,
-          "description": "Hi everyone!\n I am currently a student studying in US. My passport is expired soon and I would like to renew it. Can’t come home just yet. I have a few questions 1. Has anyone applied recently could let me know the exact fee to renew? Can’t find that info on the consulate website?\n  \nI swear I found an online link to upload my paperwork a few month ago. Does anyone know how can I find the link to apply online instead of mailing because I can’t find it anywhere now.\n  \nThank you so much!\n    submitted by    /u/Amazegeographer98  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwsfhj/renew_vietnamese_passport_in_us/",
-          "publishedOn": "2022-12-27T22:35:41.000Z",
-          "wordCount": 15567,
-          "title": "Renew Vietnamese passport in US",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwscte/vietnamese_family_drama/",
-          "author": null,
-          "description": "I am Vietnamese on my moms side and there is a lot of drama between my family in my home country and my family in Vietnam over inheritances and what not. It has reached the point that both sides refuse to talk to each other. \n However, much to my annoyance, my generation (those born outside of Vietnam) are purposely being kept out of the loop. It doesn't help that I don't speak the language and that my family just blatantly discussess all of this right in front of me, knowing that I can't follow the conversation. The only tidbits of info I get are from eavesdropping on my mother when she is trying to explain the mess to my father.\n When I communicated my chagrin concerning me being kept clueless, my mom explained to me that in Vietnam fights are being kept isolated within the generation and that none of this will affect me, because I am from the next generation.\n Is this a thing in Vietnam or am i being told a bunch of nonsense? Personally, I would prefer to remain on friendly terms with my family in Vietnam.\n    submitted by    /u/Deep-Philosopher-959  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwscte/vietnamese_family_drama/",
-          "publishedOn": "2022-12-27T22:32:46.000Z",
-          "wordCount": 15497,
-          "title": "Vietnamese family drama",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwrh0g/any_website_to_buy_things_for_a_vietnamese/",
-          "author": null,
-          "description": "My sister is vietnamese and getting married and my parents want to make it a tradiontinal vietnamese wedding. We live in nyc and theres not a large vietnamese population here nor is there a store dedicated to items related to vietnamese weddings. Anyone know a site that sells vietnamese wedding decorations that ship to nyc?\n    submitted by    /u/spitfire9107  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwrh0g/any_website_to_buy_things_for_a_vietnamese/",
-          "publishedOn": "2022-12-27T21:57:57.000Z",
-          "wordCount": 15219,
-          "title": "any website to buy things for a vietnamese wedding (im in usa)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwqzj0/how_would_you_spend_3_weeks_in_vietnam_in_march/",
-          "author": null,
-          "description": "Hello!\n A friend and I want to go out of Romania, where we live, on a 3 weeks long trip, and Vietnam will probably be our destination.\n My simple plan is to fly to Hanoi and rent an apartment in the city center. After that, we could split our time between discovering Hanoi at a very relaxed pace and going on daytrips such as these: https://www.tripadvisor.com/Attractions-g293924-Activities-c63-Hanoi.html\n We are open to splitting our times between multiple places in Vietnam, or maybe cutting our time here short and spending a week in Kuala Lumpur or Tokyo, but it seems like a hassle.\n What would you do?\n    submitted by    /u/r4zv  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwqzj0/how_would_you_spend_3_weeks_in_vietnam_in_march/",
-          "publishedOn": "2022-12-27T21:38:18.000Z",
-          "wordCount": 16086,
-          "title": "How would you spend 3 weeks in Vietnam, in March or April 2023",
-          "imageUrl": "https://external-preview.redd.it/jEhEeZKDPYwU3_CWrxNI_wxS23Xoocr7-sYLYmf9gPE.jpg?auto=webp&s=03c445f58b7c4cdf52700c49dd34e5e01f6b95f7"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwqdz7/vietnam_advice_for_march/",
-          "author": null,
-          "description": "Hello\n My husband and I are travelling to Vietnam for two weeks in march as our honeymoon. We are flying into hcm and flying out of Hanoi. 6-21 march I was just wondering if there were any suggestions of a beach destination at this time of year that we could spend a few days relaxing?\n    submitted by    /u/cksw8888  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwqdz7/vietnam_advice_for_march/",
-          "publishedOn": "2022-12-27T21:14:15.000Z",
-          "wordCount": 15460,
-          "title": "Vietnam advice for march",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwoqrg/need_recommendations_where_to_go_next/",
-          "author": null,
-          "description": "Hi guys,\n I have about 1.5 weeks left in Vietnam until I have to go back home. I'm looking for some recommendations on where I should visit this time of the year, or just in general! I'm currently staying with family in HCM, so anywhere drivable is fine but I also don't mind flying somewhere a bit further. So far I have been to: HCM, Sapa, Can Tho, Ha Long, and Ha Noi\n In the past I have also been to Nha Trang and Dalat. \n I am considering Hoi An. Also would love recommendations for good night markets in the HCM area, or areas with great street food in general! Thanks in advance.\n    submitted by    /u/Peanut_ButterPenguin  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwoqrg/need_recommendations_where_to_go_next/",
-          "publishedOn": "2022-12-27T20:08:31.000Z",
-          "wordCount": 16630,
-          "title": "Need recommendations, where to go next?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwohv8/questions_about_traveldrivertranslator_and_airbnb/",
-          "author": null,
-          "description": "Hello,\n I will be traveling with my wife and 3 kids (18,16,13) for 2 weeks in March. First time for my wife to come back to Vietnam after she left when she was 6 months old in 1972.\n I am hoping to find a driver for the whole 2 weeks who is willing to travel with us. It would be ideal if they spoke English but that may be a lot to ask? Any thoughts on the best way to find someone?\n Also, because there are 5 of us, AirBnb can sometimes be a good solution. Any reason not to try this route (for example, first 3 nights in Saigon we could get an apartment in District 1). Cost isn't a big issue as I want to make this a memorable trip for everyone. \n thanks in advance for any and all thoughts.\n    submitted by    /u/eno_durham  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwohv8/questions_about_traveldrivertranslator_and_airbnb/",
-          "publishedOn": "2022-12-27T19:58:31.000Z",
-          "wordCount": 17768,
-          "title": "Questions about travel-Driver/translator and AirBnB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwmz13/how_large_and_ppwerful_was_the_champa_navy/",
-          "author": null,
-          "description": "What kinds of ships and naval tactics did the Chams use against the Khmer and Dai Viet?\n    submitted by    /u/manse10000  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwmz13/how_large_and_ppwerful_was_the_champa_navy/",
-          "publishedOn": "2022-12-27T18:54:35.000Z",
-          "wordCount": 16569,
-          "title": "How large and ppwerful was the Champa Navy?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwlubg/question_about_entering_vietnam_and_staying/",
-          "author": null,
-          "description": "I have a USA passport and a 5 year Vietnam visa. Are there any other documents or anything I need to get before coming to Vietnam?\n Just scared for some random reason when I get there I get denied entry. I never traveled outside the USA before.\n    submitted by    /u/Lazy_Mechanic558  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwlubg/question_about_entering_vietnam_and_staying/",
-          "publishedOn": "2022-12-27T18:06:20.000Z",
-          "wordCount": 14840,
-          "title": "Question about entering Vietnam and staying",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwiy6d/kham_thien_street_in_central_hanoi_was_turned_to/",
-          "author": null,
-          "description": "submitted by    /u/Sad_Year5694  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwiy6d/kham_thien_street_in_central_hanoi_was_turned_to/",
-          "publishedOn": "2022-12-27T16:02:25.000Z",
-          "wordCount": 16405,
-          "title": "Kham Thien street in central Hanoi was turned to rubble by an American bombing raid on December 27, 1972. (Sovfoto/Universal Images Group via Getty Images) [1200x800]",
-          "imageUrl": "https://preview.redd.it/9iscy9bc6e8a1.png?auto=webp&s=79fec77c9cdf38a98ed127e4cec2fd8455524ab9"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwiu2v/pink_pig_balloon/",
-          "author": null,
-          "description": "My Vietnamese wife notices of late ( 1 years + ) there start to have vendor selling pink pig Balloon in ball shape every where in Vietnam?\n We are both curious about the meaning... This is tiger year and next is cat year... Why pink pig?\n    submitted by    /u/gav1n_n6  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwiu2v/pink_pig_balloon/",
-          "publishedOn": "2022-12-27T15:57:45.000Z",
-          "wordCount": 15426,
-          "title": "Pink Pig Balloon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwhzf9/why_just_why/",
-          "author": null,
-          "description": "Why are Vietnamese people like that? And then they enjoy their seafood from the same sea… And before you say it floated from somewhere else or some other bs.. Every day I see kids, families, couples sitting right at the edge of the park, eating foods from those styrofoam boxes and drinking their bubble teas. No one is taking their garbage with them to dispose of it.\n    submitted by    /u/weird_is_good  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwhzf9/why_just_why/",
-          "publishedOn": "2022-12-27T15:20:08.000Z",
-          "wordCount": 17477,
-          "title": "Why, just why?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwhi4n/asking_about_rvietnam_age_just_asking_freely/",
-          "author": null,
-          "description": "I wanted to know how old are you guys have been in this subreddit, I know that a lot of you guys have been here must have been at youth or so, btw I’m 17\n    submitted by    /u/Fortune-Former  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwhi4n/asking_about_rvietnam_age_just_asking_freely/",
-          "publishedOn": "2022-12-27T14:59:37.000Z",
-          "wordCount": 15942,
-          "title": "Asking about r/Vietnam age ( just asking freely)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwg1dt/d%C3%AA_n%C3%BAi_mountain_goat_or_just_goat_raised_in_the/",
-          "author": null,
-          "description": "submitted by    /u/RanyDaze2  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwg1dt/d%C3%AA_n%C3%BAi_mountain_goat_or_just_goat_raised_in_the/",
-          "publishedOn": "2022-12-27T13:48:04.000Z",
-          "wordCount": 15568,
-          "title": "Dê núi. Mountain goat or just goat raised in the mountains?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwfuqm/so_what_province_should_i_draw_next_in_my_drawing/",
-          "author": null,
-          "description": "So here i got 6 provinces for you guys to vote, feel free to share your province idea too\n View Poll\n    submitted by    /u/Baosia  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwfuqm/so_what_province_should_i_draw_next_in_my_drawing/",
-          "publishedOn": "2022-12-27T13:38:40.000Z",
-          "wordCount": 15605,
-          "title": "So, what province should i draw next in my drawing series?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/zwf86v/looking_for_friends/",
-          "author": null,
-          "description": "Hi! So myself and my partner are moving to Ho Chi Minh from the UK tomorrow and we are equal parts excited and nervous! I was hoping to make some friends whilst we are living in Vietnam so thought I'd post in here. We are 30 and 28 years old and we both love music, going to the gym and bouldering. I love gaming and can also play the bass guitar (would love to start a band actually!). We also both love food and going for a few drinks now and then. \n Please message me if any of our interests align and you would also love to make some new friends! Would be nice to know we aren't alone in the amazing country that is Vietnam!\n    submitted by    /u/tumblejamie  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/zwf86v/looking_for_friends/",
-          "publishedOn": "2022-12-27T13:06:00.000Z",
-          "wordCount": 15701,
-          "title": "Looking for friends!",
-          "imageUrl": null
         }
       ]
     },
@@ -7665,6 +7655,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/polymorphic-association-ruby-on-rails/",
+          "author": "Sampurna Chapagain",
+          "description": "Polymorphic association in Ruby on Rails refers to the type of active record association. From the Rails Guide [https://guides.rubyonrails.org/association_basics.html#polymorphic-associations] , it allows a single model to belong to more than one other model on a single association. This tutorial assumes that you have some knowledge of a few associations in",
+          "link": "https://www.freecodecamp.org/news/polymorphic-association-ruby-on-rails/",
+          "publishedOn": "2023-01-26T18:40:39.000Z",
+          "wordCount": 1320,
+          "title": "How to Use Polymorphic Associations in Ruby on Rails",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Add-a-subheading--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/",
+          "author": "Dhawal Shah",
+          "description": "The 8 Ivy League schools [https://en.wikipedia.org/wiki/Ivy_League] are among the most prestigious universities in the world. They consist of Harvard, Yale, Princeton, Columbia, Cornell, Dartmouth, Brown, and the University of Pennsylvania. In 2023, all 8 Ivy League schools are ranked in the top-20 of the U.S. News & World Report national",
+          "link": "https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/",
+          "publishedOn": "2023-01-26T03:51:00.000Z",
+          "wordCount": 10304,
+          "title": "Here are 850+ Ivy League Courses You Can Take Right Now for Free",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/01/collection-ivy-league-moocs-social-2.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/pandas-dataframe-groupby-method/",
           "author": "Faith Oyama",
