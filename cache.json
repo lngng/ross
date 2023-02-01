@@ -12,6 +12,46 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631C900DC.HighWindWarning.126635F20E60CA.LOXNPWLOX.051dce807aceee616788ea6fb1b76b75",
+          "author": null,
+          "description": "...HIGH WIND WARNING REMAINS IN EFFECT UNTIL 6 PM PST THIS EVENING... * WHAT...Northeast winds 30 to 40 mph with gusts up to 60 mph. * WHERE...Los Angeles County Mountains. * WHEN...Until 6 PM PST this evening. * IMPACTS...Damaging winds will blow down large objects such as",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631C900DC.HighWindWarning.126635F20E60CA.LOXNPWLOX.051dce807aceee616788ea6fb1b76b75",
+          "publishedOn": "2023-01-31T22:07:00.000Z",
+          "wordCount": 169,
+          "title": "High Wind Warning issued January 31 at 2:07PM PST until January 31 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631C900DC.WindAdvisory.126635F20E60CA.LOXNPWLOX.02fa0f1c7160ed68f6efea476360d817",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 6 PM PST THIS EVENING... * WHAT...Northeast winds 20 to 35 mph with gusts to 55 mph expected. Strongest in the hills. * WHERE...Ventura County Mountains, Santa Clarita Valley, Central Ventura County Valleys, Southeastern Ventura County Valleys, Santa Monica Mountains and Los Angeles County San",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631C900DC.WindAdvisory.126635F20E60CA.LOXNPWLOX.02fa0f1c7160ed68f6efea476360d817",
+          "publishedOn": "2023-01-31T22:07:00.000Z",
+          "wordCount": 231,
+          "title": "Wind Advisory issued January 31 at 2:07PM PST until January 31 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631C900DC.WindAdvisory.126635F20E60CA.LOXNPWLOX.aa0fd0a5bf2e38204c4d9012d737cf40",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 6 PM PST THIS EVENING... * WHAT...Northeast winds 20 to 30 mph with gusts to 45 mph expected. * WHERE...Ventura County Beaches, Ventura County Inland Coast and Malibu Coast. * WHEN...Until 6 PM PST this evening.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631C900DC.WindAdvisory.126635F20E60CA.LOXNPWLOX.aa0fd0a5bf2e38204c4d9012d737cf40",
+          "publishedOn": "2023-01-31T22:07:00.000Z",
+          "wordCount": 170,
+          "title": "Wind Advisory issued January 31 at 2:07PM PST until January 31 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631C900DC.HardFreezeWarning.126635F43140CA.LOXNPWLOX.889dd2270b56fd081cc292918e6dad0f",
+          "author": null,
+          "description": "...HARD FREEZE WARNING IN EFFECT FROM 1 AM TO 8 AM PST WEDNESDAY... * WHAT...Sub-freezing temperatures as low as 20 expected. * WHERE...Antelope Valley. * WHEN...From 1 AM to 8 AM PST Wednesday. * IMPACTS...Damage to outdoor plumbing possible. Expect severe",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631C900DC.HardFreezeWarning.126635F43140CA.LOXNPWLOX.889dd2270b56fd081cc292918e6dad0f",
+          "publishedOn": "2023-01-31T22:07:00.000Z",
+          "wordCount": 169,
+          "title": "Hard Freeze Warning issued January 31 at 2:07PM PST until February 01 at 8:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631B9BC44.WinterWeatherAdvisory.126631C63F00CA.LOXWSWLOX.c1695b647636d6443411b5c1e718446d",
           "author": null,
           "description": "...WINTER WEATHER ADVISORY NOW IN EFFECT UNTIL 8 PM PST THIS EVENING... * WHAT...Scattered snow showers are expected. Additional snowfall up to 2 to 4 inches is expected, mainly confined to the San Gabriel Mountains. * WHERE...Los Angeles County Mountains.",
@@ -1020,46 +1060,6 @@
           "wordCount": 35,
           "title": "There are no active watches, warnings or advisories",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12662FFEF770.WindAdvisory.1266300B96B0CA.LOXNPWLOX.5ebc9be1f985c99d15ba084341cad717",
-          "author": null,
-          "description": "...WIND ADVISORY NOW IN EFFECT UNTIL 7 PM PST THIS EVENING... * WHAT...West winds 25 to 35 mph with gusts up to 50 mph expected. * WHERE...Catalina and Santa Barbara Islands. * WHEN...Until 7 PM PST this evening. * IMPACTS...Gusty winds will blow around unsecured objects and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12662FFEF770.WindAdvisory.1266300B96B0CA.LOXNPWLOX.5ebc9be1f985c99d15ba084341cad717",
-          "publishedOn": "2023-01-01T20:28:00.000Z",
-          "wordCount": 152,
-          "title": "Wind Advisory issued January 01 at 12:28PM PST until January 01 at 7:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12662FFEF770.WindAdvisory.1266300B96B0CA.LOXNPWLOX.c44920ccd39f7266e84d6d3703b5c308",
-          "author": null,
-          "description": "...WIND ADVISORY NOW IN EFFECT UNTIL 7 PM PST THIS EVENING... * WHAT...Southwest winds 20 to 30 mph with gusts up to 45 mph expected. * WHERE...Ventura County Beaches, Ventura County Inland Coast, Malibu Coast and Los Angeles County Beaches. * WHEN...Until 7 PM PST this evening.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12662FFEF770.WindAdvisory.1266300B96B0CA.LOXNPWLOX.c44920ccd39f7266e84d6d3703b5c308",
-          "publishedOn": "2023-01-01T20:28:00.000Z",
-          "wordCount": 185,
-          "title": "Wind Advisory issued January 01 at 12:28PM PST until January 01 at 7:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12662FFEF770.WindAdvisory.1266300C0BE0CA.LOXNPWLOX.d2643f15fa922a327f335c2f0f3952d4",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 10 PM PST THIS EVENING... * WHAT...Northwest winds 20 to 30 mph with gusts up to 50 mph. * WHERE...Ventura County Mountains, Los Angeles County Mountains and Antelope Valley. * WHEN...Until 10 PM PST this evening. * IMPACTS...Gusty winds will blow around unsecured objects and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12662FFEF770.WindAdvisory.1266300C0BE0CA.LOXNPWLOX.d2643f15fa922a327f335c2f0f3952d4",
-          "publishedOn": "2023-01-01T20:28:00.000Z",
-          "wordCount": 170,
-          "title": "Wind Advisory issued January 01 at 12:28PM PST until January 01 at 10:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12662FFECCDC.HighSurfAdvisory.1266300E2EC0CA.LOXCFWLOX.4928f713f457efae90b4d74172851e72",
-          "author": null,
-          "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL NOON PST MONDAY... * WHAT...Large breaking waves of 6 to 10 feet with dangerous rip currents. Local sets to 13 feet are possible near Ventura Harbor and other west-facing beaches. * WHERE...Ventura County Beaches, Malibu Coast and Los Angeles County Beaches.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12662FFECCDC.HighSurfAdvisory.1266300E2EC0CA.LOXCFWLOX.4928f713f457efae90b4d74172851e72",
-          "publishedOn": "2023-01-01T19:19:00.000Z",
-          "wordCount": 203,
-          "title": "High Surf Advisory issued January 01 at 11:19AM PST until January 02 at 12:00PM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -1068,6 +1068,236 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10qeqad/post_your_questions_inquiries_here_rvietnam/",
+          "author": null,
+          "description": "Lưu ý: Đây là thread chủ yếu dành cho người nước ngoài hoặc không nói tiếng Việt đặt câu hỏi. Nếu có thể, hãy trả lời giúp họ nhé.\n Please read the 3rd rule of the sub. Don't post your general questions & inquiries outside of this thread as they will be removed.\n Lots of your questions have been answered already so make sure you do a search before asking (how-to below).\n  \nTo keep this subreddit tidy, we have this monthly thread that is open for random discussions and questions. If you post your basic/general questions outside of this thread they will be removed. Sorry, we want to make this sub friendly but also want it to be clean and organized.\n Some examples of the questions that should be posted here:\n  \nQuestions that can be answered with just Yes/No\n Basic questions like \"Where can I…",
+          "link": "https://www.reddit.com/r/VietNam/comments/10qeqad/post_your_questions_inquiries_here_rvietnam/",
+          "publishedOn": "2023-02-01T00:00:11.000Z",
+          "wordCount": 15233,
+          "title": "Post your questions & inquiries here! - r/Vietnam monthly random discussion thread - F.A.Q",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10qehqn/framed_some_postcards_i_got_when_i_was_in_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/lecithinxantham  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10qehqn/framed_some_postcards_i_got_when_i_was_in_vietnam/",
+          "publishedOn": "2023-01-31T23:49:47.000Z",
+          "wordCount": 14316,
+          "title": "Framed some postcards I got when I was in Vietnam 🇻🇳 now I wish I bought more.",
+          "imageUrl": "https://preview.redd.it/srh31odecifa1.jpg?auto=webp&v=enabled&s=743d77756f117b2b76f6a79176c38ef94fd04eaf"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10qcdqk/cooking_classes/",
+          "author": null,
+          "description": "Hey everyone! \n A friend and I are travelling to Vietnam in two weeks. We also planned to attend a Vietnamese cooking class. How can we find/book such one half day/a few hours classes?\n Preferably in English and in HCMC (Saigon) or also Hanoi\n    submitted by    /u/ro0kie94  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10qcdqk/cooking_classes/",
+          "publishedOn": "2023-01-31T22:21:49.000Z",
+          "wordCount": 14340,
+          "title": "Cooking classes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10qa8zp/phu_quoc_island/",
+          "author": null,
+          "description": "Headed to phu quoc island in 3 weeks for 5 days. Does anyone have recommendations or suggestions for beaches, things to do, services to use? We want to island hop for sure and snorkel. Also wouldn’t mind some quiet beach locations!\n    submitted by    /u/the_trees_talk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10qa8zp/phu_quoc_island/",
+          "publishedOn": "2023-01-31T20:57:19.000Z",
+          "wordCount": 14788,
+          "title": "Phu Quoc Island",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10q8nre/ate_this_somewhere_in_hoi_an_and_it_was/",
+          "author": null,
+          "description": "submitted by    /u/shahoust  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10q8nre/ate_this_somewhere_in_hoi_an_and_it_was/",
+          "publishedOn": "2023-01-31T19:54:04.000Z",
+          "wordCount": 14426,
+          "title": "Ate this somewhere in Hoi An and it was incredible. Can somebody help me out with the name of the dish? 🙏",
+          "imageUrl": "https://preview.redd.it/m0fuqvcc6hfa1.jpg?auto=webp&v=enabled&s=98f4d0774ef4df88e0ab551e3ecfcdd35a29d825"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10q75l1/is_an_expat_getting_a_government_job_realistic/",
+          "author": null,
+          "description": "I am 23 and I am planning on moving to Vietnam, while doing research it is abundantly apparent that the most common job for expats is to teach English. I have no problem teaching. However, my passion is in public policy (of which I am getting a degree for it now). Unfortunately when I look for job opportunities for expats working in the government I can’t see anything. Does anyone know anything more about this? \n Btw, I am planning to move when I finish my degree in the next few years or so.\n Edit: not looking to be an elected representative or anything. More like administrative work ie: assisting with permits/ regulations.\n    submitted by    /u/Captain_armor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10q75l1/is_an_expat_getting_a_government_job_realistic/",
+          "publishedOn": "2023-01-31T18:53:20.000Z",
+          "wordCount": 15796,
+          "title": "Is an Expat getting a Government job realistic?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10q5w5m/indian_food_in_vn/",
+          "author": null,
+          "description": "Is Indian food popular in VN? Particularly butter chicken and Naan? Also is it as cheap as VN food or is it super expensive?\n    submitted by    /u/Pollo_Perpetuo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10q5w5m/indian_food_in_vn/",
+          "publishedOn": "2023-01-31T18:04:40.000Z",
+          "wordCount": 14763,
+          "title": "Indian food in VN",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10q4pqi/got_this_text_from_my_phone_company_when_visiting/",
+          "author": null,
+          "description": "submitted by    /u/random_nincompoop  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10q4pqi/got_this_text_from_my_phone_company_when_visiting/",
+          "publishedOn": "2023-01-31T17:19:09.000Z",
+          "wordCount": 14439,
+          "title": "Got this text from my phone company when visiting Vietnam. What does it mean?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10q3luy/best_advice_with_learning_ti%E1%BA%BFng_vi%E1%BB%87t_wanted/",
+          "author": null,
+          "description": "I understand some words here and there, can say some basic sentences and create my own basic sentences from some pronouns, verbs, nouns.\n But has anyone got any advice they found useful to learn Vietnamese?\n For me, I've been trying more to really understand and hear the tones, then get the pronunciation right. But it's hard, of course.\n    submitted by    /u/Kaloggin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10q3luy/best_advice_with_learning_ti%E1%BA%BFng_vi%E1%BB%87t_wanted/",
+          "publishedOn": "2023-01-31T16:36:22.000Z",
+          "wordCount": 14465,
+          "title": "Best Advice with Learning Tiếng Việt Wanted",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10q33sj/30_day_accommodation_in_hoi_an_for_300_with_a_pool/",
+          "author": null,
+          "description": "Hey everyone, \n Im planning to take my dad to hoi an for a month in march. I was wondering if anyone could recommend a homestay/BnB with a private room for around 300$ a month in the general old town area. would love a pool included if possible, but its not necessary. \n THanks for your time. :)\n    submitted by    /u/Tyler_Miles_Lockett  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10q33sj/30_day_accommodation_in_hoi_an_for_300_with_a_pool/",
+          "publishedOn": "2023-01-31T16:16:39.000Z",
+          "wordCount": 14509,
+          "title": "30 day accommodation in Hoi An for 300$ with a pool?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10q05kr/50_years_after_paris_peace_accords_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/Mud_666  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10q05kr/50_years_after_paris_peace_accords_vietnam/",
+          "publishedOn": "2023-01-31T14:16:35.000Z",
+          "wordCount": 14798,
+          "title": "50 years after Paris Peace Accords, Vietnam remembers victory over U.S. imperialism",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10pz4q4/are_trains_in_vietnam_always_delayed/",
+          "author": null,
+          "description": "Three times in a row i got an hour delay or more. Is this normal? If so, i'll just come right on time instead of being early the next time\n    submitted by    /u/SilentAd369  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10pz4q4/are_trains_in_vietnam_always_delayed/",
+          "publishedOn": "2023-01-31T13:32:28.000Z",
+          "wordCount": 14467,
+          "title": "Are trains in vietnam always delayed?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10pyd3c/hanoi_google_map_shows_so_many_temporarily_closed/",
+          "author": null,
+          "description": "I just booked my first trip to Hanoi, so I’m now planning my trip and looking up places to stay and shop. Is it true that so many places are still closed?! For instance around this area where I was hoping to do some shoe shopping, I see dozens of buildings listed as such.\n 8 P. Hàng Dầu, Ly Thai To, Hoàn Kiếm, Hà Nội\n I tried viewing from Google maps but seems they haven’t updated since 2014 lol I hope I haven’t picked a bad time to visit!\n    submitted by    /u/desTROYer74  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10pyd3c/hanoi_google_map_shows_so_many_temporarily_closed/",
+          "publishedOn": "2023-01-31T12:57:27.000Z",
+          "wordCount": 14981,
+          "title": "Hanoi - Google map shows so many “temporarily closed”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10pwvn9/hu%E1%BA%BF/",
+          "author": null,
+          "description": "submitted by    /u/lanhuevietnam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10pwvn9/hu%E1%BA%BF/",
+          "publishedOn": "2023-01-31T11:40:01.000Z",
+          "wordCount": 14269,
+          "title": "Huế",
+          "imageUrl": "https://preview.redd.it/q34i3nb7qefa1.jpg?auto=webp&v=enabled&s=ed11330d420ae56df2381e3490861fa6dcac2d4c"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10pvh8j/totally_normal_behavior_i_guess/",
+          "author": null,
+          "description": "submitted by    /u/Sad_Year5694  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10pvh8j/totally_normal_behavior_i_guess/",
+          "publishedOn": "2023-01-31T10:13:25.000Z",
+          "wordCount": 14268,
+          "title": "Totally Normal Behavior, I guess?",
+          "imageUrl": "https://preview.redd.it/x4p1y731tcfa1.png?auto=webp&v=enabled&s=ea69d094b831c29b1b6a9af643750b75df65cdd7"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10pv86k/damn_what_the_heck/",
+          "author": null,
+          "description": "submitted by    /u/Exiso100  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10pv86k/damn_what_the_heck/",
+          "publishedOn": "2023-01-31T09:59:03.000Z",
+          "wordCount": 14895,
+          "title": "damn what the HECK ?",
+          "imageUrl": "https://preview.redd.it/w2twsqvt79fa1.jpg?auto=webp&v=enabled&s=215dd9a9e82e01bf983c03360f2f908ebe04c772"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10puzz1/cheap_diy_tour_ha_long_baycat_ba_for_one_day/",
+          "author": null,
+          "description": "Hello, I booked a round trip to Bai Chay/ Ha Long bay for one day (10.30AM- 18.30 PM) and I wanted to simply enjoy a nice view and possibly hike in a quiet place (hence the idea to spend most of the time in Cat Ba). Would I miss much by only doing that? I would be happy to do a 1/2 hrs boat tour in the bay, but all I see are expensive cruises taking a lot of time-or you know some? Any advice/link appreciated!\n    submitted by    /u/listja  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10puzz1/cheap_diy_tour_ha_long_baycat_ba_for_one_day/",
+          "publishedOn": "2023-01-31T09:46:56.000Z",
+          "wordCount": 14569,
+          "title": "Cheap DIY tour Ha Long Bay(/Cat Ba?) for one day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10ptcjc/many_vietnamese_spend_more_on_drinks_than_main/",
+          "author": null,
+          "description": "​\n  People drink at a Highlands Coffee shop in District 1, Ho Chi Minh City. \n Y'all can check out more number here: Many Vietnamese spend more on drinks than main meals: report - VnExpress International \n Another 33% of respondents are willing to spend VND20,000-40,000 on drinks, according to the survey of 3,940 consumers conducted by food and beverage market solutions firm iPOS.\n Only 14% said they would splurge more than VND70,000 for a drink, the equivalent of the price of a drink at high-end coffee shops such as Starbucks and Runam Bistro, it added.\n Nearly 54% of respondents said they visit coffee shops once to twice a month.\n I believe that the avg. hour rate in Vietnam is less than 25,000 VNĐ. How could they spend over 3 hours of working daily for a coffee?\n    submitted by    /u/Inevitable_Attorney5  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10ptcjc/many_vietnamese_spend_more_on_drinks_than_main/",
+          "publishedOn": "2023-01-31T08:44:43.000Z",
+          "wordCount": 16385,
+          "title": "Many Vietnamese spend more on drinks than main meals - What y'all think about this?",
+          "imageUrl": "https://external-preview.redd.it/-o6pLu1Qi7-P1DLuiNJ1-m7DcPAeDqjq9xdA62BRq3g.jpg?auto=webp&v=enabled&s=24036e40e7b22a708d7bc044e4821d31975e9a03"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10ps3zi/how_asianvietnamese_people_fix_things/",
+          "author": null,
+          "description": "Just a Vietnamese boy doing Vietnamese thing\n    submitted by    /u/RealPZew  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10ps3zi/how_asianvietnamese_people_fix_things/",
+          "publishedOn": "2023-01-31T07:47:46.000Z",
+          "wordCount": 14347,
+          "title": "How Asian/Vietnamese people fix things",
+          "imageUrl": "https://external-preview.redd.it/ylSKq7eaKBRx_JPuKNoayd4JUzz8qPyLw79CpYkPfHA.png?format=pjpg&auto=webp&v=enabled&s=30f3e81a90e81a2c2cdb1762e7d1db733eabb94b"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10pqqme/a_vietnamese_friend_once_told_me_anything_that/",
+          "author": null,
+          "description": "submitted by    /u/freewaytogo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10pqqme/a_vietnamese_friend_once_told_me_anything_that/",
+          "publishedOn": "2023-01-31T06:23:21.000Z",
+          "wordCount": 15074,
+          "title": "A Vietnamese friend once told me: \"Anything that exists in this universe, you will find a Vietnamese carrying it on the back of his motorbike.\" LOL",
+          "imageUrl": "https://preview.redd.it/kyom3b2vnbfa1.png?auto=webp&v=enabled&s=8ccbe591e0c3e90047c270f409e40ae411e93a9f"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10pq1n5/first_time_in_vietnam_and_i_am_fascinated_by/",
+          "author": null,
+          "description": "submitted by    /u/littleYipon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10pq1n5/first_time_in_vietnam_and_i_am_fascinated_by/",
+          "publishedOn": "2023-01-31T05:44:43.000Z",
+          "wordCount": 16518,
+          "title": "First time in Vietnam and I am fascinated by these posters and government run farms look like monuments? Could someone help explain? I have never been to a place so proud of their country. It’s nice to see! Flags everywhere! Even in the mountain villages!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10pq05f/how_much_do_these_boats_cost/",
+          "author": null,
+          "description": "submitted by    /u/bigcocksyndrome  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10pq05f/how_much_do_these_boats_cost/",
+          "publishedOn": "2023-01-31T05:42:20.000Z",
+          "wordCount": 14356,
+          "title": "How much do these boats cost ?",
+          "imageUrl": "https://preview.redd.it/vsw6hmodycfa1.jpg?auto=webp&v=enabled&s=5c4ced4f61c9dfe1752db03fd1880c17768e7efb"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10pjzi0/ho_chi_minh_international_airport_lounges_and/",
+          "author": null,
+          "description": "Wondering which is the best lounge in Ho Chi Minh international airport with showers at the moment? Also, if you have a long layover (14 ish hours) can you leave the airport? And do you need a visa? Will my luggage be checked through to my final destination? From what I have read it can be a bit hit-and-miss. Thank you!\n    submitted by    /u/CuriousCrusa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10pjzi0/ho_chi_minh_international_airport_lounges_and/",
+          "publishedOn": "2023-01-31T01:11:29.000Z",
+          "wordCount": 14782,
+          "title": "Ho Chi Minh international airport lounges and layovers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/10pg2l3/job_opportunities_after_grad/",
           "author": null,
@@ -7467,216 +7697,6 @@
           "wordCount": 18081,
           "title": "ATMs & Currency",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/101bsx9/average_t%E1%BA%BFt_enjoyer/",
-          "author": null,
-          "description": "submitted by    /u/candycane_snowman  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/101bsx9/average_t%E1%BA%BFt_enjoyer/",
-          "publishedOn": "2023-01-02T12:46:28.000Z",
-          "wordCount": 17057,
-          "title": "average tết enjoyer",
-          "imageUrl": "https://external-preview.redd.it/kMiF4daTM3S4xjrFMsAJao9el0_h3LAAkOpLx4LenyQ.png?format=pjpg&auto=webp&s=3a30e05958bfae9d5a2e70fc4affeaf0e27d1acd"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/101bpdp/how_will_the_weather_be_in_the_last_week_of/",
-          "author": null,
-          "description": "Hi everyone\n Me and my friends are planning to visit the following cities in the last week of January \n Da Nang Hanoi and Ha Long Bay Ho Chi Minh\n I wanted to know what kind of weather can we expect? Is it a more jacket/jeans weather or can we bring along dresses, shorts etc?\n Thanks!\n    submitted by    /u/sadoceannoises  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/101bpdp/how_will_the_weather_be_in_the_last_week_of/",
-          "publishedOn": "2023-01-02T12:41:14.000Z",
-          "wordCount": 17108,
-          "title": "How will the weather be in the last week of January in these cities?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/101a6jq/hi_im_a_guy_from_spain_and_i_would_love_to_learn/",
-          "author": null,
-          "description": "submitted by    /u/Pinakun_13  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/101a6jq/hi_im_a_guy_from_spain_and_i_would_love_to_learn/",
-          "publishedOn": "2023-01-02T11:14:01.000Z",
-          "wordCount": 17748,
-          "title": "Hi, I'm a guy from Spain and I would love to learn your language, but I don't know how to start, how could I start?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1019x7w/drawing_saigon_vietnam_v%E1%BA%BD_k%C3%BD_h%E1%BB%8Da_s%C3%A0i_g%C3%B2n_vi%E1%BB%87t_nam/",
-          "author": null,
-          "description": "submitted by    /u/QuanArtDrawing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1019x7w/drawing_saigon_vietnam_v%E1%BA%BD_k%C3%BD_h%E1%BB%8Da_s%C3%A0i_g%C3%B2n_vi%E1%BB%87t_nam/",
-          "publishedOn": "2023-01-02T10:59:00.000Z",
-          "wordCount": 17105,
-          "title": "Drawing Saigon Vietnam - Vẽ ký họa Sài Gòn Việt Nam",
-          "imageUrl": "https://external-preview.redd.it/Ghy4FvH9i8W8Fw0IgoBUvYWLZrMxfmXrmHCXGktggMY.jpg?auto=webp&s=7a548d166cf1be2c2b5e5b12fbd398a107ba33f2"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1017t1l/guess_which_city_is_used_in_the_background_of_our/",
-          "author": null,
-          "description": "This is a group project we made together for our school in hopes to inform people more about smoking. This video also goes in depth about the correlation between smoking and socioeconomic status.\n    submitted by    /u/IwantneedHelp  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1017t1l/guess_which_city_is_used_in_the_background_of_our/",
-          "publishedOn": "2023-01-02T08:46:21.000Z",
-          "wordCount": 17524,
-          "title": "Guess which city is used in the background of our team project about the correlation between smoking and socioeconomic status",
-          "imageUrl": "https://external-preview.redd.it/woZmWZbgKTXSh8Akbtd6VUKpbzFIQagU0DkXPCETfoU.jpg?auto=webp&s=fd1c0e63dac20fdb60c5b93fdae4601783cb6a85"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/101783r/starfish_beach_phu_quoc/",
-          "author": null,
-          "description": "Just wondering if anyone knows why/how all the starfish end up at the coast? Thanks!\n    submitted by    /u/Intrepid-Constant376  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/101783r/starfish_beach_phu_quoc/",
-          "publishedOn": "2023-01-02T08:09:30.000Z",
-          "wordCount": 16992,
-          "title": "Starfish beach Phu Quoc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/101395k/china_reopening_will_give_vietnam_gdp_2pts_boost/",
-          "author": null,
-          "description": "submitted by    /u/DefamedPrawn  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/101395k/china_reopening_will_give_vietnam_gdp_2pts_boost/",
-          "publishedOn": "2023-01-02T04:29:25.000Z",
-          "wordCount": 18688,
-          "title": "China reopening will give Vietnam GDP 2%pts boost in 2023: Vinacapital economist",
-          "imageUrl": "https://external-preview.redd.it/H1FArntUhaYuzmfm3TjNuUgn5L2_TRu88cME6ZWvCAg.jpg?auto=webp&s=04734a1a672b6db1b50fb848caa74f1166fe48fe"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1011tlw/i_think_this_correctly_summarizes_department/",
-          "author": null,
-          "description": "submitted by    /u/Saigonauticon  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1011tlw/i_think_this_correctly_summarizes_department/",
-          "publishedOn": "2023-01-02T03:17:58.000Z",
-          "wordCount": 17472,
-          "title": "I think this correctly summarizes department store sales in VN",
-          "imageUrl": "https://preview.redd.it/s65cbfnlsj9a1.jpg?auto=webp&s=6794a7bed4a3751d02d7d13f658d808927935f07"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10116mi/c%C3%B3_ai_bi%E1%BA%BFt_t%C3%B4i_c%C3%B3_th%E1%BB%83_mua_c%C3%A1i_n%C3%A0y_%E1%BB%9F_%C4%91%C3%A2u_ko/",
-          "author": null,
-          "description": "submitted by    /u/ken505000  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10116mi/c%C3%B3_ai_bi%E1%BA%BFt_t%C3%B4i_c%C3%B3_th%E1%BB%83_mua_c%C3%A1i_n%C3%A0y_%E1%BB%9F_%C4%91%C3%A2u_ko/",
-          "publishedOn": "2023-01-02T02:46:21.000Z",
-          "wordCount": 16272,
-          "title": "Có ai biết tôi có thể mua cái này ở đâu ko?",
-          "imageUrl": "https://preview.redd.it/gwrl28zj4l9a1.jpg?auto=webp&s=8cb3c0355161f875a3bda9a561300960ae8fdf39"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/100xq6r/vietnams_cursed_images_76/",
-          "author": null,
-          "description": "submitted by    /u/GodBlessHentai  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/100xq6r/vietnams_cursed_images_76/",
-          "publishedOn": "2023-01-02T00:07:05.000Z",
-          "wordCount": 17435,
-          "title": "Vietnam's cursed images #76",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/100vgua/travel_questions/",
-          "author": null,
-          "description": "Hello all! I’m headed to Vietnam in a couple days. My relative plan is to rent a motorcycle for a week or two and stay at hostels and or hotels. If am to rent a motorcycle, do most hotels or hostels have a safe places to keep the bike? Just wondering have to prevent theft of a motorcycle in Vietnam. Thanks\n    submitted by    /u/neptuneccat  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/100vgua/travel_questions/",
-          "publishedOn": "2023-01-01T22:30:14.000Z",
-          "wordCount": 17579,
-          "title": "Travel Questions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/100tlpt/best_shoes_for_2week_trip_to_vietnam/",
-          "author": null,
-          "description": "We are coming in March and will be visiting Hanoi, DaNang, & HCMC. I was going to bring two pairs of shoes: Vejas (walking shoes) for tourism activities and Tory Burch sandals (dress up for going out in the evening). Will this be enough or should I pack something different or additional? I am packing light and only bringing a carryon because of all of the travel.\n    submitted by    /u/LouisVuittonFanGirl  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/100tlpt/best_shoes_for_2week_trip_to_vietnam/",
-          "publishedOn": "2023-01-01T21:12:58.000Z",
-          "wordCount": 18902,
-          "title": "Best shoes for 2-week trip to Vietnam?",
-          "imageUrl": "https://preview.redd.it/2uauvpi2hj9a1.jpg?auto=webp&s=9fcbe04fb309289de89fa57de971d3f79370c4a1"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/100rllm/what_are_the_best_motorcycle_models_to_drive/",
-          "author": null,
-          "description": "Hi I will drive from hanoi to saigon. i will drive through mountains etc. \n which models should i look out for? honda wave? honda xr150? honda click?\n i think i may need much suspension because the roads can be bad. right?\n which models are a NOGO?\n i will buy now a motorcycle in hanoi and mannnnn there’s so much variety in models to look out for\n    submitted by    /u/pizzavegano  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/100rllm/what_are_the_best_motorcycle_models_to_drive/",
-          "publishedOn": "2023-01-01T19:46:41.000Z",
-          "wordCount": 17839,
-          "title": "What are the best motorcycle models to drive across the whole landscape in vietnam, and which ones should I AVOID?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/100q42i/vietnamcoracle/",
-          "author": null,
-          "description": "This is pretty good site for anyone looking to plan or travel to vietnam. A lot of good info - https://www.vietnamcoracle.com\n    submitted by    /u/smallfeetpetss  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/100q42i/vietnamcoracle/",
-          "publishedOn": "2023-01-01T18:42:34.000Z",
-          "wordCount": 17390,
-          "title": "vietnamcoracle",
-          "imageUrl": "https://external-preview.redd.it/MKaT7FqP4-2VXJ5rp0viI0Lq0jIO92jexFkeQxwrPU8.jpg?auto=webp&s=54d65c880d9d8989db7a1ea92e44164c44985e8a"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/100odmh/efforts_to_save_a_10_year_old_child_falling_down/",
-          "author": null,
-          "description": "submitted by    /u/AlinesReinhard  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/100odmh/efforts_to_save_a_10_year_old_child_falling_down/",
-          "publishedOn": "2023-01-01T17:26:12.000Z",
-          "wordCount": 17590,
-          "title": "Efforts to save a 10 year old child falling down the pillar is underway",
-          "imageUrl": "https://external-preview.redd.it/udqdV96RhmfbPcgI2zvEzHyg4uD-nG8H9r2dTqD9ZT4.jpg?auto=webp&s=7617f8071b9c58708ac8524c112edc8256c5a549"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/100lxvy/what_is_the_conditions_in_sapa_right_now/",
-          "author": null,
-          "description": "I am in Ho Chi Minh right now om holiday and I have been wanting to go to Sapa for a few days because if looks so beautiful. However I have heard that it is monsoon right now so it's not worth it I am leaving in less than 12 hours but I can cancel because I only just booked \n TLDR is Sapa worth visiting right now\n    submitted by    /u/Most_Grade_8739  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/100lxvy/what_is_the_conditions_in_sapa_right_now/",
-          "publishedOn": "2023-01-01T15:30:24.000Z",
-          "wordCount": 17553,
-          "title": "what is the conditions in Sapa right now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/100ltrs/gamedev_in_ho_chi_minh/",
-          "author": null,
-          "description": "Hey guys,\n just meet here the other day - a game developer from Saigon.\n Was wondering - if there are indie game dev developers or companies here?\n Any gamedev meetings?\n On other note - I used to promote game development / indie game development. Maybe some universities would like to talk about gamedev with the students? Any way to contact Unis?\n    submitted by    /u/mrBadim  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/100ltrs/gamedev_in_ho_chi_minh/",
-          "publishedOn": "2023-01-01T15:24:25.000Z",
-          "wordCount": 17929,
-          "title": "Gamedev in Ho Chi Minh",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/100lrou/do_you_guys_know_of_any_volleyball_groups_in_hcmc/",
-          "author": null,
-          "description": "Hey guys, i wanted to join a volleyball team to learn basics and play with them. Do you guys know any teams or are you yourselves in one of those teams. Thanks in advance.\n    submitted by    /u/papupapu1822  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/100lrou/do_you_guys_know_of_any_volleyball_groups_in_hcmc/",
-          "publishedOn": "2023-01-01T15:21:24.000Z",
-          "wordCount": 17702,
-          "title": "Do you guys know of any volleyball groups in HCMC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/100kyux/who_rule_the_b%C3%B9n_girls/",
-          "author": null,
-          "description": "Hello! Sorry in advance for my geniune remarks that might be stupid or rude, my intention is just to understand Vietnam better. As a foodie, I'm fascinated with all the food shops, restaurants, stalls in Hanoi. I noticed that most of the restaurants are generally 100% women-lead from cooking to servicing and to billing. Why? The rare exception I noticed so far are restaurants 100% ruled and managed by men, and these are thai-ish food related and generally by stylish men. Is there any sort of explanation? Thanks :)\n    submitted by    /u/Consistent-Can-716  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/100kyux/who_rule_the_b%C3%B9n_girls/",
-          "publishedOn": "2023-01-01T14:39:11.000Z",
-          "wordCount": 18057,
-          "title": "who rule the Bùn? Girls!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/100k53k/best_way_to_buy_motorcycle_as_a_foreigner_in_hanoi/",
-          "author": null,
-          "description": "Hi\n i want to buy one and scoot for 2 months from hanoi to saigon. \n I heard i should give some grab driver 500k dong to help me\n i really got 0 clue how to buy one\n are there trusted shops or something?\n therr are Facebook groups but they are all dead af\n a friend just bought a good honda from another tourist for 200€. he had luck to meet him in a hostel\n edit: facebook marketplace is also dead af\n    submitted by    /u/pizzavegano  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/100k53k/best_way_to_buy_motorcycle_as_a_foreigner_in_hanoi/",
-          "publishedOn": "2023-01-01T13:52:28.000Z",
-          "wordCount": 18573,
-          "title": "best way to buy motorcycle as a foreigner in hanoi?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/100jvcd/cant_have_shit_in_b%C3%ACnh_d%C6%B0%C6%A1ng/",
-          "author": null,
-          "description": "submitted by    /u/Designer_Walrus_4283  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/100jvcd/cant_have_shit_in_b%C3%ACnh_d%C6%B0%C6%A1ng/",
-          "publishedOn": "2023-01-01T13:37:41.000Z",
-          "wordCount": 17883,
-          "title": "Can’t have shit in Bình Dương",
-          "imageUrl": "https://preview.redd.it/u4ecj6fu7h9a1.jpg?auto=webp&s=9203b5c2cf5256001dcf9b97a186ae7818dbcb6f"
         }
       ]
     },
@@ -7685,6 +7705,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/the-this-keyword-in-javascript/",
+          "author": "Germán Cocca",
+          "description": "Hey everyone! In this article we're going to talk about the THIS keyword in Javascript.  This used to be a concept that confused me a little bit, so I'll try to break it down for you so you can understand its uses and in what situations can it be",
+          "link": "https://www.freecodecamp.org/news/the-this-keyword-in-javascript/",
+          "publishedOn": "2023-01-31T23:40:14.000Z",
+          "wordCount": 1869,
+          "title": "How to Use the \"this\" Keyword in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/brad-_Js9c6w_FDk-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/",
+          "author": "Dickson Boateng",
+          "description": "To understand what asynchronous programming means, think about multiple people working on a project simultaneously, each on a different task. In traditional (synchronous) programming, each person would have to wait for the person before them to finish their task before starting their own.  But with asynchronous programming, everyone can",
+          "link": "https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/",
+          "publishedOn": "2023-01-31T23:17:27.000Z",
+          "wordCount": 3925,
+          "title": "Asynchronous Programming in JavaScript – Guide for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Asynchronous-programming.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/",
+          "author": "Kolade Chris",
+          "description": "The first time I heard about “Visual Studio”, I thought it was the same as “Visual Studio Code”. I don’t know why Microsoft decided to confuse everyone with the names of those two development tools. But that’s a story for another day. “Visual Studio” and “Visual Studio Code” are not",
+          "link": "https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/",
+          "publishedOn": "2023-01-31T19:17:31.000Z",
+          "wordCount": 1676,
+          "title": "Visual Studio vs Visual Studio Code – What's The Difference Between These IDE Code Editors?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/VSvVSC.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-make-pie-and-doughnut-charts-using-chartjs-in-angular/",
+          "author": "Swatej Patil",
+          "description": "In this tutorial we will learn how to create a simple pie and doughnut chart using the Chart.js library in an Angular application. What is Chart.js? Chart.js is a JavaScript library for building charts. It's designed to be intuitive and simple, but it's powerful enough to build complex visualizations.",
+          "link": "https://www.freecodecamp.org/news/how-to-make-pie-and-doughnut-charts-using-chartjs-in-angular/",
+          "publishedOn": "2023-01-31T17:03:23.000Z",
+          "wordCount": 1730,
+          "title": "Chart.js Tutorial – How to Make Pie and Doughnut Charts in Angular",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/piechart-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-length-of-list-how-to-find-the-size-of-a-list/",
+          "author": "Dillion Megida",
+          "description": "A list is a data structure in Python that contains multiple elements in a particular order. And sometimes you might need to get the size of a list. I'll show you how to do that in this article. How to Create a List in Python You can create lists in",
+          "link": "https://www.freecodecamp.org/news/python-length-of-list-how-to-find-the-size-of-a-list/",
+          "publishedOn": "2023-01-31T16:56:55.000Z",
+          "wordCount": 1163,
+          "title": "Python Length of List – How to Find the Size of a List",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/18.-length-of-list.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/",
+          "author": "Gaël Thomas",
+          "description": "Welcome to the world of web scraping! Have you ever needed data from a website but found it hard to access it in a structured format? This is where web scraping comes in. Using scripts, we can extract the data we need from a website for various purposes, such as",
+          "link": "https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/",
+          "publishedOn": "2023-01-31T15:26:55.000Z",
+          "wordCount": 3239,
+          "title": "Web Scraping in JavaScript – How to Use Puppeteer to Scrape Web Pages",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/web-scraping-in-javascript-with-puppeteer.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/",
+          "author": "Bala Priya C",
+          "description": "This tutorial will teach you how to write unit tests for instance methods in Python. In a previous tutorial [/news/how-to-write-unit-tests-for-python-functions/], we covered how to write unit tests for Python functions. While unit testing for instance methods works similarly, you may have some challenges creating and managing objects (instances of a",
+          "link": "https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/",
+          "publishedOn": "2023-01-31T00:13:54.000Z",
+          "wordCount": 1705,
+          "title": "How to Write Unit Tests for Instance Methods in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/instance-methods-python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/",
+          "author": "Joel Olawanle",
+          "description": "In JavaScript, modules refer to a file that holds JavaScript code which performs a specific purpose. Modules are self-contained, making it easy to add, remove, and update functionalities without affecting your entire code because they are decoupled from other pieces of code. When you have these modules in separate JavaScript",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/",
+          "publishedOn": "2023-01-31T00:07:43.000Z",
+          "wordCount": 1239,
+          "title": "JavaScript Require – How to Use the require() Function in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--11-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-dockerize-an-adonisjs-application/",
           "author": "Solomon Eseme",
