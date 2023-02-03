@@ -12,6 +12,16 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
+          "author": null,
+          "description": "",
+          "link": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
+          "publishedOn": "2023-02-03T01:02:45.000Z",
+          "wordCount": 35,
+          "title": "There are no active watches, warnings or advisories",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631C900DC.HighWindWarning.126635F20E60CA.LOXNPWLOX.051dce807aceee616788ea6fb1b76b75",
           "author": null,
           "description": "...HIGH WIND WARNING REMAINS IN EFFECT UNTIL 6 PM PST THIS EVENING... * WHAT...Northeast winds 30 to 40 mph with gusts up to 60 mph. * WHERE...Los Angeles County Mountains. * WHEN...Until 6 PM PST this evening. * IMPACTS...Damaging winds will blow down large objects such as",
@@ -990,66 +1000,6 @@
           "wordCount": 234,
           "title": "Winter Storm Warning issued January 04 at 9:35AM PST until January 05 at 10:00PM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266301D880C.HighSurfAdvisory.1266304AE9A0CA.LOXCFWLOX.9d0f5f1174037a114de56ed0b08a51e2",
-          "author": null,
-          "description": "...HIGH SURF ADVISORY IN EFFECT FROM 6 AM THURSDAY TO 10 AM PST FRIDAY... * WHAT...Large breaking waves of 8 to 12 feet with dangerous rip currents. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County Beaches.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266301D880C.HighSurfAdvisory.1266304AE9A0CA.LOXCFWLOX.9d0f5f1174037a114de56ed0b08a51e2",
-          "publishedOn": "2023-01-03T20:59:00.000Z",
-          "wordCount": 218,
-          "title": "High Surf Advisory issued January 03 at 12:59PM PST until January 06 at 10:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266301D77A4.FloodWatch.126630398480CA.LOXFFALOX.39b18acae4c1d0f52c881d9164d70bbf",
-          "author": null,
-          "description": "...FLOOD WATCH IN EFFECT FROM WEDNESDAY EVENING THROUGH THURSDAY AFTERNOON... * WHAT...Flooding caused by excessive rainfall is possible. * WHERE...Los Angeles and Ventura Counties. * WHEN...From Wednesday evening through Thursday afternoon. * IMPACTS...Significant flash flooding and debris flows are",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266301D77A4.FloodWatch.126630398480CA.LOXFFALOX.39b18acae4c1d0f52c881d9164d70bbf",
-          "publishedOn": "2023-01-03T20:17:00.000Z",
-          "wordCount": 247,
-          "title": "Flood Watch issued January 03 at 12:17PM PST until January 04 at 8:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266301D77A4.FloodWatch.1266303A95F0CA.LOXFFALOX.7b807c2608e1bff592102d59188709fb",
-          "author": null,
-          "description": "...FLOOD WATCH IN EFFECT FROM WEDNESDAY EVENING THROUGH THURSDAY AFTERNOON... * WHAT...Flooding caused by excessive rainfall is possible. * WHERE...Los Angeles and Ventura Counties. * WHEN...From Wednesday evening through Thursday afternoon. * IMPACTS...Significant flash flooding and debris flows are",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266301D77A4.FloodWatch.1266303A95F0CA.LOXFFALOX.7b807c2608e1bff592102d59188709fb",
-          "publishedOn": "2023-01-03T20:17:00.000Z",
-          "wordCount": 245,
-          "title": "Flood Watch issued January 03 at 12:17PM PST until January 05 at 3:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266301D77A4.FloodWatch.1266303BA760CA.LOXFFALOX.b437a8ac41e8da48fad6ed188eaff133",
-          "author": null,
-          "description": "...FLOOD WATCH IN EFFECT FROM WEDNESDAY EVENING THROUGH THURSDAY AFTERNOON... * WHAT...Flooding caused by excessive rainfall is possible. * WHERE...Los Angeles and Ventura Counties. * WHEN...From Wednesday evening through Thursday afternoon. * IMPACTS...Significant flash flooding and debris flows are",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266301D77A4.FloodWatch.1266303BA760CA.LOXFFALOX.b437a8ac41e8da48fad6ed188eaff133",
-          "publishedOn": "2023-01-03T20:17:00.000Z",
-          "wordCount": 263,
-          "title": "Flood Watch issued January 03 at 12:17PM PST until January 05 at 10:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266301D77A4.FloodWatch.126630482A80CA.LOXFFALOX.fda8889771d2a03a6cff8ddc275b0d17",
-          "author": null,
-          "description": "...FLOOD WATCH IN EFFECT FROM WEDNESDAY EVENING THROUGH THURSDAY AFTERNOON... * WHAT...Flooding caused by excessive rainfall is possible. * WHERE...Los Angeles and Ventura Counties. * WHEN...From Wednesday evening through Thursday afternoon. * IMPACTS...Significant flash flooding and debris flows are",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266301D77A4.FloodWatch.126630482A80CA.LOXFFALOX.fda8889771d2a03a6cff8ddc275b0d17",
-          "publishedOn": "2023-01-03T20:17:00.000Z",
-          "wordCount": 251,
-          "title": "Flood Watch issued January 03 at 12:17PM PST until January 05 at 4:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266301D77A4.FloodWatch.1266304AE9A0CA.LOXFFALOX.06c43474fd070525122fd7ab183ae5e9",
-          "author": null,
-          "description": "...FLOOD WATCH IN EFFECT FROM WEDNESDAY EVENING THROUGH THURSDAY AFTERNOON... * WHAT...Flooding caused by excessive rainfall is possible. * WHERE...Los Angeles and Ventura Counties. * WHEN...From Wednesday evening through Thursday afternoon. * IMPACTS...Significant flash flooding and debris flows are",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266301D77A4.FloodWatch.1266304AE9A0CA.LOXFFALOX.06c43474fd070525122fd7ab183ae5e9",
-          "publishedOn": "2023-01-03T20:17:00.000Z",
-          "wordCount": 331,
-          "title": "Flood Watch issued January 03 at 12:17PM PST until January 06 at 10:00AM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -1058,6 +1008,226 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10s6ly5/best_map_app_for_directions_to_places_is_there/",
+          "author": null,
+          "description": "I know Google maps is supported, but I was wondering if there’s another one that’s better out there? I’m visiting again after so many years away, but I’ll be on my own this time.\n    submitted by    /u/mooshucow  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10s6ly5/best_map_app_for_directions_to_places_is_there/",
+          "publishedOn": "2023-02-03T01:00:46.000Z",
+          "wordCount": 14372,
+          "title": "Best map app for directions to places? Is there also one to book rides?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10s6dhb/how_long_will_opened_ch%E1%BA%A3_l%E1%BB%A5a_last_in_the/",
+          "author": null,
+          "description": "submitted by    /u/hobbitfancier55  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10s6dhb/how_long_will_opened_ch%E1%BA%A3_l%E1%BB%A5a_last_in_the/",
+          "publishedOn": "2023-02-03T00:50:25.000Z",
+          "wordCount": 14397,
+          "title": "How long will opened Chả lụa last in the refrigerator?",
+          "imageUrl": "https://preview.redd.it/wi8ddla1xwfa1.jpg?auto=webp&v=enabled&s=173de25bb08db1f9b4295a5bca16b9eae4689d5c"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10s13qw/im_learning_vietnamese_and_i_was_wondering_which/",
+          "author": null,
+          "description": "submitted by    /u/OrnaPlayer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10s13qw/im_learning_vietnamese_and_i_was_wondering_which/",
+          "publishedOn": "2023-02-02T21:15:07.000Z",
+          "wordCount": 15298,
+          "title": "I'm learning Vietnamese and I was wondering which was the longest word in this language, so I asked Chat GPT: độtphátviệttạothànhcông. Is this true?",
+          "imageUrl": "https://preview.redd.it/jqsh3mszcufa1.png?auto=webp&v=enabled&s=72780a7b1ed6d9867ed7e1118191f197b9dd8e95"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rsz1i/interesting_bit_of_history_on_vns_coffee_industry/",
+          "author": null,
+          "description": "submitted by    /u/perldawg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rsz1i/interesting_bit_of_history_on_vns_coffee_industry/",
+          "publishedOn": "2023-02-02T15:48:24.000Z",
+          "wordCount": 14870,
+          "title": "interesting bit of history on VN’s coffee industry",
+          "imageUrl": "https://external-preview.redd.it/SV-r898Yudwf4iyx_ScSPWPg5uqgGy0YvT1Ts5C9_6o.jpg?auto=webp&v=enabled&s=2149156e8771d67637365b7fd768d03656006cd6"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rsxgc/advice_for_document_legalisation_at_the/",
+          "author": null,
+          "description": "I'm from the UK and have an offer of employment in Vietnam, and before I leave I will needs to get my documents legalised by the Vietnam Embassy in London. On the embassy website it states that you will need an appointment to be seen, but I have heard that it is also possible to be seen as a walk-in. Does anyone have any experience of this? An alternative option for me would be to send my documents to the embassy by post, but I would prefer to do the process in person if possible.\n    submitted by    /u/Significant_Air_7272  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rsxgc/advice_for_document_legalisation_at_the/",
+          "publishedOn": "2023-02-02T15:46:35.000Z",
+          "wordCount": 14877,
+          "title": "Advice for Document Legalisation at the Vietnamese Embassy in London",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rsetz/how_can_anyone_breathe_in_hanoi/",
+          "author": null,
+          "description": "Rant: I'm out today and the air quality is just so bad, literally afraid to inhale. It gets worse over the year and I see no sign of the government trying to do anything about it. In a decade I can only imagine what devastating public health disaster it will cause.\n    submitted by    /u/saltmurai  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rsetz/how_can_anyone_breathe_in_hanoi/",
+          "publishedOn": "2023-02-02T15:24:39.000Z",
+          "wordCount": 14875,
+          "title": "How can anyone breathe in Hanoi?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rs6as/need_help_looking_for_good_apartment_or_room/",
+          "author": null,
+          "description": "Like title said, my gf was recently accepted to ILA and will fly to saigon in May. Her employer said she will be assigned which center to work at based on where she lives. So im looking for an apartment or room (with her own kitchen and good enough privacy) in the southern half of the city. If the location is near centers in Phú Lâm, Bình Tân, Hùng Vương, Him Lam, Nguyễn Cư Trinh or Phú Mỹ Hưng thatd be ideal. Her budget is 12 million per month and that hopefully covers everything she needs to worry about rent-wise.\n    submitted by    /u/LeSolari  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rs6as/need_help_looking_for_good_apartment_or_room/",
+          "publishedOn": "2023-02-02T15:15:01.000Z",
+          "wordCount": 14760,
+          "title": "Need help looking for good apartment or room within budget in saigon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rrpa2/can_anyone_identify_this_condiment_it_was_in_a/",
+          "author": null,
+          "description": "submitted by    /u/Hungry-Ambition3914  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rrpa2/can_anyone_identify_this_condiment_it_was_in_a/",
+          "publishedOn": "2023-02-02T14:55:09.000Z",
+          "wordCount": 14610,
+          "title": "Can anyone identify this condiment? It was in a Quan Chay in Da Dang, tasted EXTREMELY fermented, any ideas?",
+          "imageUrl": "https://preview.redd.it/cjh4kb9pytfa1.jpg?auto=webp&v=enabled&s=d3b4226a94ac9aa84db17c2f6ca44a43980a3532"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rrbo8/has_anyone_used_water_filter_like_karofi_or/",
+          "author": null,
+          "description": "Are they worth it for the money and having decent drinking water?\n    submitted by    /u/Psychological_Bad459  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rrbo8/has_anyone_used_water_filter_like_karofi_or/",
+          "publishedOn": "2023-02-02T14:37:38.000Z",
+          "wordCount": 14380,
+          "title": "Has Anyone used water filter like Karofi or Kangaroo?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rqv4q/bargaining_in_hanoi/",
+          "author": null,
+          "description": "I’ve read that you’re expected to haggle the prices down, which could get you around 40% of the advertised cost, is that true? Also, is there places and things where you just pay the advertised price, like for food and drinks? It’s my first time in Vietnam, and will be staying around Old Quarter area. Any do’s and dont’s I should be aware of when shopping?🤔\n    submitted by    /u/desTROYer74  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rqv4q/bargaining_in_hanoi/",
+          "publishedOn": "2023-02-02T14:17:03.000Z",
+          "wordCount": 14826,
+          "title": "Bargaining in Hanoi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rplj6/l%C3%A0m_sao_v%E1%BA%ADy_m%E1%BB%8Di_ng%C6%B0%E1%BB%9Di/",
+          "author": null,
+          "description": "Làm sao để root điện thoại Oppo A53 bằng điện thoại?\n    submitted by    /u/Expensive_Novel_7288  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rplj6/l%C3%A0m_sao_v%E1%BA%ADy_m%E1%BB%8Di_ng%C6%B0%E1%BB%9Di/",
+          "publishedOn": "2023-02-02T13:16:59.000Z",
+          "wordCount": 14308,
+          "title": "Làm sao vậy mọi người?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rphbj/con_dao_islands_december_2014/",
+          "author": null,
+          "description": "submitted by    /u/thg011093  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rphbj/con_dao_islands_december_2014/",
+          "publishedOn": "2023-02-02T13:11:08.000Z",
+          "wordCount": 14620,
+          "title": "Con Dao Islands (December 2014)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rpdhp/who_remember_this_song_when_they_were_little/",
+          "author": null,
+          "description": "submitted by    /u/kjiag  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rpdhp/who_remember_this_song_when_they_were_little/",
+          "publishedOn": "2023-02-02T13:05:33.000Z",
+          "wordCount": 14349,
+          "title": "Who remember this song when they were little",
+          "imageUrl": "https://external-preview.redd.it/9kHwb8pRZu94NLSYRsM7nY-f5P6J8_8Q9suOBUvOKPc.jpg?auto=webp&v=enabled&s=88052e86f55b2e59b58f6527398dec4c225d5371"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rohcd/learning_southern_vietnamese/",
+          "author": null,
+          "description": "Hi 👋 So I'm English and my partner and his family are originally from South Vietnam. I'd love to try and learn the language but not sure where to start 🤔 Does anyone known of any good learning resources online? I seem to just get Northern Vietnamese come up. Thank you 😊 💓\n    submitted by    /u/PixiFlick86  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rohcd/learning_southern_vietnamese/",
+          "publishedOn": "2023-02-02T12:17:28.000Z",
+          "wordCount": 14886,
+          "title": "Learning Southern Vietnamese",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rmm35/michelin_guide_coming_to_vietnam/",
+          "author": null,
+          "description": "I do not think the news was already posted here, but the Michelin Guide is coming in Vietnam. First edition of the guide will be released in June.\n I think it’s a great think for Vietnam – It will help a lot the restaurants aiming to offer fine dining especially Vietnamese ones.\n What are your prognostics about the potential decorated restaurant in Vietnam?\n My opinion:\n - No 3 Stars Restaurants. I really do not think any venue in Vietnam is there yet. Bangkok does not have any 3 Stars Restaurants.\n - Anan Saigon: I really see them decorated. I tried them few years ago it was great, but it seems what they offer now is more elaborated. It’s the only restaurant in Vietnam that made to Asia’s Top 50 + their food relates a lot to Vietnam\n - I also think that the Guide will give one Star to a good Street food stall / place either in Ha Noi or HCMC. The guide did that both in Thailand (Jay bee) and Singapore. It’s a way for them to not appear too snobbish and it’s good PR…\n - Maybe one or two high end French Restaurants from Ho Chi Minh City: I have tried 3 Gourmands / La Villa / P’tit Saigon / Le Corto. All of them are great but I guess inspectors of the guide have been eating a lot in “similar” restaurants. I am just not sure if they will be \"good enough\" to get one Stars with French Cuisine. I could also add La Badiane in Ha Noi to this list.\n - One or more Japanese Restaurant? Likely – There is so many great Japanese Restaurant both in Hanoi et HCMC. I have just not tried enough of them to have an any name in mind.\n For the locals not familiar with how the Guide works ( I have seen many mistakes both on Facebook and local news sites) we wrote this article: https://amthuchiendai.vn/tat-ca-nhung-gi-can-biet-ve-cam-nang-michelin/\n    submitted by    /u/mebetyoufold  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rmm35/michelin_guide_coming_to_vietnam/",
+          "publishedOn": "2023-02-02T10:21:04.000Z",
+          "wordCount": 15493,
+          "title": "Michelin Guide coming to Vietnam",
+          "imageUrl": "https://external-preview.redd.it/pW397ajLbkm76wSG8J1yAzbkH3FjoCY_0z_MwACol4Y.jpg?auto=webp&v=enabled&s=edd2a0854152de3e5e988046e694ff67d620b499"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rmghh/ive_sell_some_goods_and_get_this_note_is_it/",
+          "author": null,
+          "description": "submitted by    /u/Historycally_Nerd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rmghh/ive_sell_some_goods_and_get_this_note_is_it/",
+          "publishedOn": "2023-02-02T10:10:39.000Z",
+          "wordCount": 14904,
+          "title": "I've sell some goods and get this note. Is it consider as \"số đẹp\"?",
+          "imageUrl": "https://preview.redd.it/6w5ln0q2ksfa1.jpg?auto=webp&v=enabled&s=fec805ac69286c8c5b215e39e2f345e1b11032b4"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rlvb6/45_cables_need_to_be_repaired_on_jan_30_vnexpress/",
+          "author": null,
+          "description": "This seems to be the worst internet speed in Vietnam in many many years. It wasn't even close to this during the previous numerous shark attacks or the Covid lockdown. \n ​\n https://e.vnexpress.net/news/trend/slow-internet-speed-leaves-people-frustrated-4565811.html\n    submitted by    /u/_Sweet_Cake_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rlvb6/45_cables_need_to_be_repaired_on_jan_30_vnexpress/",
+          "publishedOn": "2023-02-02T09:31:27.000Z",
+          "wordCount": 15488,
+          "title": "4/5 cables need to be repaired: On Jan. 30, VnExpress polled more than 5,500 users and found that 93% of respondents had slower Internet speeds, while 5% experienced no change and 2% experienced faster speeds.",
+          "imageUrl": "https://external-preview.redd.it/t9gHGm_AdUdnohnnPeWetJN1jbRau5QTm_YWwNxLjes.jpg?auto=webp&v=enabled&s=7d3a900e29ec031e61fbb94ccba3da858fc6c725"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rkwi2/custom_luggage_cover_in_hcmc/",
+          "author": null,
+          "description": "Hey, does any of you know of a place in Ho Chi Minh City that sell custom luggage cover? One that I can provide a picture and it would make it as a luggage cover.\n Couldn't find on Shopee/Lazada unfortunately. Thanks!\n (if not Hcmc, any othet city is as good as well)\n    submitted by    /u/erez_bugi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rkwi2/custom_luggage_cover_in_hcmc/",
+          "publishedOn": "2023-02-02T08:28:18.000Z",
+          "wordCount": 14585,
+          "title": "Custom luggage cover in Hcmc?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rkib4/i_had_found_this_picture_with_my_mothers/",
+          "author": null,
+          "description": "submitted by    /u/doublejj49  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rkib4/i_had_found_this_picture_with_my_mothers/",
+          "publishedOn": "2023-02-02T08:02:06.000Z",
+          "wordCount": 14555,
+          "title": "I had found this picture with my mothers belongings and was curious who this beautiful woman is and am wondering if anybody here recognizes her. Thanks for looking.",
+          "imageUrl": "https://preview.redd.it/02pvgzfteqfa1.jpg?auto=webp&v=enabled&s=b6de97252b9f6a2aa9585d20596ccff3b9903034"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rjuwo/what_is_your_perspective_on_air_pollution_in_hcmc/",
+          "author": null,
+          "description": "Hey guys! I'm a high school student doing an essay about the opinions of all HCMC residents on air pollution here. As a HCMC native, we acknowledge that air pollution do exist in HCMC. However, the opinions of each and one of us varies, more so for the opinions of different generations. My essay aims to find the relationship between age and perspective on air pollution.\n Please help a student out and fill out this survey! It only takes a few minutes at most. Thank you!\n Thesis statement: An investigation into the relationship between age and their perspective on air pollution in Ho Chi Minh City.\n https://docs.google.com/forms/d/e/1FAIpQLScUSAK-O4iFfV_Lw5WqXaf-_e2oQHcZ5RIdJUHKd9ukq1n1JQ/viewform\n Edit: If you guys have any feedback for my survey, please please please feel free to give them! \n    submitted by    /u/meetpie  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rjuwo/what_is_your_perspective_on_air_pollution_in_hcmc/",
+          "publishedOn": "2023-02-02T07:21:50.000Z",
+          "wordCount": 15457,
+          "title": "What is your perspective on air pollution in HCMC? (A survey)",
+          "imageUrl": "https://external-preview.redd.it/U6Owl0tW9rovT9Qh9xRk_pAqNx62jHuZHuolLIylP5U.jpg?auto=webp&v=enabled&s=29bf2e91ec26c1b895ad08bb86975b8f4254608a"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rjbg0/do_you_like_ridgebacks/",
+          "author": null,
+          "description": "submitted by    /u/TuTran26  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rjbg0/do_you_like_ridgebacks/",
+          "publishedOn": "2023-02-02T06:49:20.000Z",
+          "wordCount": 14332,
+          "title": "Do you like ridgebacks?",
+          "imageUrl": "https://external-preview.redd.it/HEN83kMmrY7LJwlzgeZ1P9E4RNt-YASQFponfHnDdr0.png?format=pjpg&auto=webp&v=enabled&s=eeeaa9fd9fd808a17a84ddbf5693a2563e21a682"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10rewfx/difference_between_saigon_and_hanoi/",
+          "author": null,
+          "description": "submitted by    /u/freewaytogo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10rewfx/difference_between_saigon_and_hanoi/",
+          "publishedOn": "2023-02-02T03:04:00.000Z",
+          "wordCount": 15320,
+          "title": "Difference between Saigon and Hanoi",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/10rc1jw/hoi_an_lunar_festival/",
           "author": null,
@@ -7477,256 +7647,6 @@
           "wordCount": 16398,
           "title": "I’m sorry for another question about Tet (with something else)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1032igz/why_are_there_so_many_owl_souvenirs_in_vietnam/",
-          "author": null,
-          "description": "Currently in Vietnam, and I've been seeing a lot of owl-themed cloth bags and wallets in the markets and souvenir shops in HCMC, Hoi An, and Hue.\n A quick google and subreddit search says owls and owl hoots are signs of misfortune/death... so why are they everywhere?\n I keep forgetting to ask the tour guides, so hoping someone here knows!\n    submitted by    /u/melectrum  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1032igz/why_are_there_so_many_owl_souvenirs_in_vietnam/",
-          "publishedOn": "2023-01-04T12:29:54.000Z",
-          "wordCount": 16987,
-          "title": "Why are there so many owl souvenirs in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102yg6t/is_this_even_legal/",
-          "author": null,
-          "description": "Hi. (throwaway account for privacy purposes). I'm seeking legal advice. My company just dropped this on us (foreign workers) on New Year. I suppose they're trying to cut budget (or encourage us to work more??). What's your take on this? Is this even legal according to the labour laws for foreigners in VN?\n Please note: I'm not naming and shaming, I just want to have a better understanding of this so I can weight my options (either to stay or leave).\n Thank you in advance.\n https://preview.redd.it/ac2op212oz9a1.jpg?width=842&format=pjpg&auto=webp&s=0a5d0b4a02d40224ddc86612e7596c80ed2dfdc6\n    submitted by    /u/thrownaway__employee  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102yg6t/is_this_even_legal/",
-          "publishedOn": "2023-01-04T08:42:38.000Z",
-          "wordCount": 16758,
-          "title": "Is this even legal?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102yedm/starbucks_set_to_open_100th_store_in_vietnam/",
-          "author": null,
-          "description": "submitted by    /u/trangtrangxyz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102yedm/starbucks_set_to_open_100th_store_in_vietnam/",
-          "publishedOn": "2023-01-04T08:39:24.000Z",
-          "wordCount": 18487,
-          "title": "Starbucks set to open 100th store in Vietnam",
-          "imageUrl": "https://external-preview.redd.it/ZjMe37sQ1msogfGvMcQhMHB-0AqhOZtmJcWiQi_DG-s.jpg?auto=webp&s=4c54ee9a365796b6b24ff9dda947cf041c305851"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102y0ir/what_are_the_yellow_license_plates/",
-          "author": null,
-          "description": "I just returned home after 3-ish years in a god forsaken frozen corn field and noticed that there are now these yellow license plates everywhere. They're on buses, taxis, ubers/grabs, trucks, etc. I also noticed that some of the yellow plates also have \"contract vehicle\" (xe hợp đồng) stickered somewhere on the frame or windows.\n ​\n What do these yellow plates mean? Are they like company/corporate vehicles or something? The one commonality I can find is that they are all work/commercial vics of some sort (as opposed to private/personal transport).\n ​\n I could have sworn that there weren't these yellow plates back before I left. I'm almost certain that back then all the taxis, busses, and grabs still used the normal white plates. Did something change while I was away freezing my ass off?\n    submitted by    /u/MassiveFire  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102y0ir/what_are_the_yellow_license_plates/",
-          "publishedOn": "2023-01-04T08:15:00.000Z",
-          "wordCount": 16571,
-          "title": "What are the yellow license plates?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102x4a5/how_do_i_contact_vietnam_airlines_about/",
-          "author": null,
-          "description": "Hi everyone As the title suggests, I am loving my time in Vietnam, except for the bureaucratic headache of dealing with my lost luggage. \n Simply put, on 26 December 2022, my luggage did not arrive, and I followed all the usual steps of filling out a lost luggage form, and notifying my original airline, JetStar. Of course, JetStar is blaming Vietnam airlines, who connected my flight from Saigon to Hanoi. I am now trying to submit a compensation claim with Vietnam Airlines, but all the resources point me to the general information and the form, which I have already filled out. My question is simply what email address do I contact/who do I send my claim to at Vietnam Airlines?\n I’m already past the 7 day notification period but given my deadlings with tracing and that I’ve been out of reception for much of my time here I’m hopeful I can shake them down. \n Thanks so much.\n    submitted by    /u/BePseudoEverything  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102x4a5/how_do_i_contact_vietnam_airlines_about/",
-          "publishedOn": "2023-01-04T07:21:25.000Z",
-          "wordCount": 17790,
-          "title": "How do I contact Vietnam Airlines about compensation for lost luggage?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102wps8/t%E1%BA%BFt_is_in_the_air_at_emperor_kh%E1%BA%A3i_%C4%91%E1%BB%8Bnhs_tomb/",
-          "author": null,
-          "description": "submitted by    /u/lanhuevietnam  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102wps8/t%E1%BA%BFt_is_in_the_air_at_emperor_kh%E1%BA%A3i_%C4%91%E1%BB%8Bnhs_tomb/",
-          "publishedOn": "2023-01-04T06:59:06.000Z",
-          "wordCount": 17062,
-          "title": "Tết is in the air at Emperor Khải Định's tomb.",
-          "imageUrl": "https://preview.redd.it/tffka9lgn0aa1.jpg?auto=webp&s=07dd044736578bab48795c18442d40c757052ee6"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102veed/is_ben_tre_a_nice_place_to_live_as_a_foreigner/",
-          "author": null,
-          "description": "I’m currently living in HCMC and is not long time I moved to Vietnam so I’m still trynna figure out things here and there. However I have a really good job offer in Ben Tre and I would like to hear some opinions about living in Ben Tre as a foreigner who for now doesn’t speak Vietnamese (I want to learn but it will take some time tho)\n I’m aware it is a beautiful area of Vietnam but I wonder how foreigner-friendly is a not as big city as Saigon is and if the cost of living is higher/lower and some other aspects to take in consideration that you can think of.\n Any help is welcome! Thanks a lot!\n    submitted by    /u/TusMortis  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102veed/is_ben_tre_a_nice_place_to_live_as_a_foreigner/",
-          "publishedOn": "2023-01-04T05:45:58.000Z",
-          "wordCount": 18784,
-          "title": "Is Ben Tre a nice place to live as a foreigner?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102sj87/42_enslaved_employees_of_cambodian_casino_broke/",
-          "author": null,
-          "description": "submitted by    /u/MedinainMiami  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102sj87/42_enslaved_employees_of_cambodian_casino_broke/",
-          "publishedOn": "2023-01-04T03:23:52.000Z",
-          "wordCount": 16697,
-          "title": "42 enslaved employees of Cambodian casino broke out and swam back to Vietnam last year. One drowned. Slave-camp casinos run by Chinese kingpins are common in Cambodia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102m593/how_can_i_impress_my_vietnamese_girlfriends/",
-          "author": null,
-          "description": "Hi, I live in Canada and I will be meeting my girlfriend's parents in a week and I need some gift ideas for a present. Unfortunately, I anticipate that me being black will cause some issues so I need something to alleviate that, thanks. Price is not an issue.\n    submitted by    /u/jus_allah  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102m593/how_can_i_impress_my_vietnamese_girlfriends/",
-          "publishedOn": "2023-01-03T22:49:26.000Z",
-          "wordCount": 17711,
-          "title": "How can I impress my Vietnamese girlfriend's parents?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102m4ek/bo_sate_recie/",
-          "author": null,
-          "description": "Some time ago I had dinner at a restaurant in NYC called Le Colonial. It was a high-end Viet-French Fusion kind of place. The dish I had was called Bo Sate. It was beyond good and I've not been able to forget about it. I want so badly to be able to make it at home.\n It was made with beef tenderloin (Bo), and had a sauce (Sate?) which included sweet potatoes and green string beans. My search for Bo Sate recipes only turns up Thai sate recipes, which is not the same.\n I really appreciate any hints or suggestions you can offer.\n    submitted by    /u/thanksegon  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102m4ek/bo_sate_recie/",
-          "publishedOn": "2023-01-03T22:48:30.000Z",
-          "wordCount": 18500,
-          "title": "Bo Sate recie",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102kspx/crossing_borders_on_a_motorcycle_purchased_in/",
-          "author": null,
-          "description": "To those of you in the know or who have recently crossed into Laos or Cambodia from Vietnam on a motorcycle you purchased in Vietnam: \n How was the experience? \n What problems did you encounter? \n What advice would you give someone who intends on doing this?\n    submitted by    /u/leodunz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102kspx/crossing_borders_on_a_motorcycle_purchased_in/",
-          "publishedOn": "2023-01-03T21:58:24.000Z",
-          "wordCount": 18041,
-          "title": "Crossing borders on a Motorcycle purchased in Vietnam 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102kln4/motorcycle_rental_for_foreigners/",
-          "author": null,
-          "description": "Can I rent a moped or motorcycle in Vietnam without a license?\n    submitted by    /u/Substantial_Shape700  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102kln4/motorcycle_rental_for_foreigners/",
-          "publishedOn": "2023-01-03T21:50:52.000Z",
-          "wordCount": 17159,
-          "title": "motorcycle rental for foreigners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102isft/less_honking_in_the_traffic/",
-          "author": null,
-          "description": "I just arrived to Ho Chi Minh and notice that there seems to be less honking in the traffic compared to my last trip in 2018. I was just wondering how come there are less honking in the traffic? Are there any new laws regarding this or what triggered the change? Just curious!\n    submitted by    /u/Juiice6  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102isft/less_honking_in_the_traffic/",
-          "publishedOn": "2023-01-03T20:41:27.000Z",
-          "wordCount": 16850,
-          "title": "Less honking in the traffic?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102io9l/question_id_like_to_create_a_year_of_the_cat/",
-          "author": null,
-          "description": "submitted by    /u/joyousjoyness  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102io9l/question_id_like_to_create_a_year_of_the_cat/",
-          "publishedOn": "2023-01-03T20:36:47.000Z",
-          "wordCount": 17552,
-          "title": "Question: I'd like to create a Year of the Cat print for Tet, but can't figure out what names are used for the animals. Someone told me Sino Vietnamese characters are used. I also saw two different versions of the names. Can someone help with what I should put for the animal label at the bottom?",
-          "imageUrl": "https://external-preview.redd.it/19HsFOxhY9JZgh58NO_P62jcU51YLkYD-T7gXQGEaJY.png?format=pjpg&auto=webp&s=4e73e9911f1d48cad399447b05c5374414ebb283"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102huxc/phu_quoc_sunset_town_ghost_town_more_in_the/",
-          "author": null,
-          "description": "submitted by    /u/fatcatbiohaz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102huxc/phu_quoc_sunset_town_ghost_town_more_in_the/",
-          "publishedOn": "2023-01-03T20:04:20.000Z",
-          "wordCount": 17814,
-          "title": "Phu Quoc Sunset Town (Ghost Town? more in the comments)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102hm5k/looking_to_move_to_vietnam_maybe_need_some_advice/",
-          "author": null,
-          "description": "Hi,\n I’m looking to move somewhere else in Asia after having lived in Thailand for 4 years. I wonder how it’s like to live in Vietnam in terms of access to international food like imported beef and other groceries, can they be found in the supermarkets there? How long does the visa on arrival last? Are the prices on food and living generally low compared to in western countries? What about transportation, is it advisable to rent a motorbike? Are the hospitals and healthcare up to the same or similar standards as in Thailand? Are fitness centres well equipped with modern machines?\n Thanks!\n    submitted by    /u/Bigbeardybob  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102hm5k/looking_to_move_to_vietnam_maybe_need_some_advice/",
-          "publishedOn": "2023-01-03T19:54:53.000Z",
-          "wordCount": 18175,
-          "title": "Looking to move to Vietnam maybe need some advice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102e4bc/best_chicken_pho_in_hcmhanoi/",
-          "author": null,
-          "description": "I have a few days in each city next month. I don’t eat beef, but would love to hear locals recommendations for the best places to hit for phở gà?\n    submitted by    /u/Silent_Candidate  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102e4bc/best_chicken_pho_in_hcmhanoi/",
-          "publishedOn": "2023-01-03T17:38:38.000Z",
-          "wordCount": 17917,
-          "title": "Best chicken pho in HCM/Hanoi?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102dx69/you_know_i_wonder_if_wed_have_ever_gotten_this/",
-          "author": null,
-          "description": "submitted by    /u/1oftheoutcast  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102dx69/you_know_i_wonder_if_wed_have_ever_gotten_this/",
-          "publishedOn": "2023-01-03T17:30:40.000Z",
-          "wordCount": 18540,
-          "title": "You know I wonder if we’d have ever gotten this much success in soccer without this man?",
-          "imageUrl": "https://preview.redd.it/fm39c7j8nw9a1.jpg?auto=webp&s=4affb06325191103a05d28bdc85e50a4529334a7"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102duyx/anyone_been_here_or_know_what_it_is/",
-          "author": null,
-          "description": "Cơ Sở Điêu Khắc Đá Minh Quân - 'Exhibit'\n 964R+JV5, Liên Chiểu, Đà Nẵng, Vietnam\n    submitted by    /u/R4ndyM4r5h420  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102duyx/anyone_been_here_or_know_what_it_is/",
-          "publishedOn": "2023-01-03T17:28:19.000Z",
-          "wordCount": 16854,
-          "title": "Anyone been here or know what it is?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102d42k/a_little_too_many_dongs/",
-          "author": null,
-          "description": "submitted by    /u/theveryacme  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102d42k/a_little_too_many_dongs/",
-          "publishedOn": "2023-01-03T16:58:29.000Z",
-          "wordCount": 17044,
-          "title": "A little too many dongs",
-          "imageUrl": "https://preview.redd.it/tnnf0hisut9a1.gif?format=png8&s=aa07abd0194a6ab2f819e8827607e1053bb0d937"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102bknu/shot_w_an_iphone_6_plus/",
-          "author": null,
-          "description": "submitted by    /u/uniquelyurs2386  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102bknu/shot_w_an_iphone_6_plus/",
-          "publishedOn": "2023-01-03T15:56:19.000Z",
-          "wordCount": 17310,
-          "title": "Shot w/ an iPhone 6 Plus",
-          "imageUrl": "https://preview.redd.it/tr9w3q5e6w9a1.jpg?auto=webp&s=e226e4a66ccc8c26e267fea49bf550ec9aa22e1a"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102bjlg/mortgage_interest_jumps_by_35_to_154_is_this/",
-          "author": null,
-          "description": "I have a mortgage for an apartment that started at 9.1%. every year they increased by about 1 or 2% which I wasn't so happy but it was in my tolerant level so I didn't complain. Tonight I just received a message that this year it would be 15.4%, up from 12.9 from last year. I don't have the contract right now but I will check later to see if this is even legal. I remember there maybe some thing like maximum increment of 2% a year. The bank is TPB btw.\n Is this a normal thing? Is the rate too high for current market? Is there anything I should do?\n Update: thank you everyone, this looks like a market thing. I hope everyone is doing well financially. These rates really suck.\n    submitted by    /u/datvm  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102bjlg/mortgage_interest_jumps_by_35_to_154_is_this/",
-          "publishedOn": "2023-01-03T15:55:04.000Z",
-          "wordCount": 18765,
-          "title": "Mortgage interest jumps by 3.5% to 15.4%. is this normal?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102baud/a_rare_vietnamesepalestinian_solidarity_poster/",
-          "author": null,
-          "description": "submitted by    /u/MedinainMiami  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102baud/a_rare_vietnamesepalestinian_solidarity_poster/",
-          "publishedOn": "2023-01-03T15:44:38.000Z",
-          "wordCount": 17788,
-          "title": "🇵🇸🇻🇳 - A rare Vietnamese-Palestinian solidarity poster, date unknown.",
-          "imageUrl": "https://preview.redd.it/zaoqyy9pwp9a1.jpg?auto=webp&s=e63908e802ab6b372f10658f0020361f41044c78"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/102ar64/th%E1%BA%A3o_lu%E1%BA%ADn_%C4%91%C3%B4i_ch%C3%BAt/",
-          "author": null,
-          "description": "mọi mọi người ơi\n hiện tại tôi có 10 triệu thì tôi có nên mua con tablet xiaomi pad 5 ko? (tôi muốn có bút và bàn phím)\n nếu ko thì mọi người gợi ý cho tôi được ko? \n    submitted by    /u/accold_side  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/102ar64/th%E1%BA%A3o_lu%E1%BA%ADn_%C4%91%C3%B4i_ch%C3%BAt/",
-          "publishedOn": "2023-01-03T15:21:13.000Z",
-          "wordCount": 17122,
-          "title": "thảo luận đôi chút",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1029z7i/what_does_this_emoji_mean_to_you_since_it_is/",
-          "author": null,
-          "description": "submitted by    /u/Professional-Fig-211  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1029z7i/what_does_this_emoji_mean_to_you_since_it_is/",
-          "publishedOn": "2023-01-03T14:47:05.000Z",
-          "wordCount": 17321,
-          "title": "What does this emoji mean to you? since it is popular for young people in Vietnam to perceive this emoji as a negative expression.",
-          "imageUrl": "https://preview.redd.it/d8pufls1uv9a1.jpg?auto=webp&s=368d2f11130e7d0ac3cc3ee28b7c55e438468e64"
         }
       ]
     },
@@ -7735,6 +7655,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/",
+          "author": "Kolade Chris",
+          "description": "Data structures and algorithms (DSA) are an important aspect of any programming language. Every language has its own data structures and its way of handling different types of algorithms. So, as a programmer, no matter what programming language you are working with, data structures and algorithms have to be an",
+          "link": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/",
+          "publishedOn": "2023-02-02T23:51:50.000Z",
+          "wordCount": 2224,
+          "title": "Learn Data Structures and Algorithms – Introduction and Learning Resources",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-david-gallie-15128598.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/responsive-layout-react-native/",
+          "author": "Kingsley Ubah",
+          "description": "Having a responsive layout is an important component of user interface (UI) design. It enables a website or application to automatically adjust its size and layout based on the size of the user's device and screen. This provides an optimal viewing experience.  Responsive layouts also give the user a",
+          "link": "https://www.freecodecamp.org/news/responsive-layout-react-native/",
+          "publishedOn": "2023-02-02T23:50:26.000Z",
+          "wordCount": 1514,
+          "title": "React Native Tutorial – How to Create a Simple Responsive Layout for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-luna-lovegood-4087468.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-calculator-app-using-react-native-a-step-by-step-tutorial/",
+          "author": "Muhammad Adam",
+          "description": "A calculator application is a simple application that is always available on every Android, iOS, and desktop device.  In this article, we will build a calculator application using React Native and Expo. So why are we using these tools?  React Native is a JavaScript-based framework you can use",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-calculator-app-using-react-native-a-step-by-step-tutorial/",
+          "publishedOn": "2023-02-02T19:29:15.000Z",
+          "wordCount": 2248,
+          "title": "How to Build a Calculator App Using React Native – A Step-by-Step Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/banner---how-to-build-calculator-app-using-react-native-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-django-by-building-a-marketplace/",
+          "author": "Beau Carnes",
+          "description": "Django is a powerful and popular web framework for Python. It is used to build robust and scalable web applications with ease. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn Django through building your own online marketplace. Stein from Code with Stein teaches",
+          "link": "https://www.freecodecamp.org/news/learn-django-by-building-a-marketplace/",
+          "publishedOn": "2023-02-02T19:28:19.000Z",
+          "wordCount": 972,
+          "title": "Learn Django by Building a Marketplace",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/vue-django.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/computer-basics-beginners/",
+          "author": "Beau Carnes",
+          "description": "You have to start somewhere when learning about computers. We just published a comprehensive video course on the freeCodeCamp.org channel designed to help you develop a solid foundation in computer and technology skills. This course is for anyone who is brand new to working with computers or for those who",
+          "link": "https://www.freecodecamp.org/news/computer-basics-beginners/",
+          "publishedOn": "2023-02-02T19:21:25.000Z",
+          "wordCount": 945,
+          "title": "Computer Basics for Absolute Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/maxresdefault.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-escape-strings-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "In JavaScript, a string is a data type representing a sequence of characters that may consist of letters, numbers, symbols, words, or sentences. Strings are used to represent text-based data and are mostly defined using either single quotes (') or double quotes (\"). let name1 = 'John Doe'; let name2",
+          "link": "https://www.freecodecamp.org/news/how-to-escape-strings-in-javascript/",
+          "publishedOn": "2023-02-02T19:05:19.000Z",
+          "wordCount": 1176,
+          "title": "How to Escape a String in JavaScript – JS Escaping Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover-template.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/",
+          "author": "Dillion Megida",
+          "description": "Switch statements in JavaScript have a behavior called fall-through which can cause unexpected results. I will explain what this behavior is, how to avoid it, and use cases for it. Switch statements allow you to create conditional statements in JavaScript. You have a conditional expression, and depending on the returned",
+          "link": "https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/",
+          "publishedOn": "2023-02-02T17:42:59.000Z",
+          "wordCount": 2184,
+          "title": "Fall-Through in JavaScript Switch Statements – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/14.-fall-through-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-string-to-datetime-how-to-convert-an-str-to-a-date-time-with-strptime/",
+          "author": "Dionysia Lemonaki",
+          "description": "Python offers a variety of built-in modules that you can include in your program. A module is a Python file containing the necessary code to execute an individual functionality. This file is imported into your application to help you perform a specific task. One of those modules is the datetime",
+          "link": "https://www.freecodecamp.org/news/python-string-to-datetime-how-to-convert-an-str-to-a-date-time-with-strptime/",
+          "publishedOn": "2023-02-02T15:57:55.000Z",
+          "wordCount": 1826,
+          "title": "Python String to Datetime – How to Convert an Str to a Date Time with Strptime",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-marko-klaric-6408282.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/",
+          "author": "Aviator Ifeanyichukwu",
+          "description": "Apache Airflow is a tool that helps you manage and schedule data pipelines. According to the documentation [https://airflow.apache.org/], it lets you \"programmatically author, schedule, and monitor workflows.\"  Airflow is a crucial tool for data engineers and scientists. In this article, I'll show you how to install it on Windows",
+          "link": "https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/",
+          "publishedOn": "2023-02-02T00:18:32.000Z",
+          "wordCount": 1328,
+          "title": "How to Install Apache Airflow on Windows without Docker",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/post-image-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/ai-assistants-for-productivity/",
           "author": "Ijeoma Igboagu",
@@ -9064,76 +9074,6 @@
           "wordCount": 5486,
           "title": "How to Build a Custom Ghost CMS Theme",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/ghost-theme-development-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-automate-call-graph-creation/",
-          "author": "Daniel García Solla",
-          "description": "Have you ever found yourself staring at lines of code, trying to wrap your head around how all the different functions fit together and interact with each other?  It can be a daunting task, especially in larger, more complex programs.  But fear not! There is a way to",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-call-graph-creation/",
-          "publishedOn": "2023-01-03T23:58:02.000Z",
-          "wordCount": 4065,
-          "title": "What is a Call Graph? And How to Generate them Automatically",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Untitled2-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/higher-order-functions-in-javascript-explained/",
-          "author": "Sobit Prasad",
-          "description": "As a web developer, you should always strive to learn new techniques and discover ways to work smarter with JavaScript.  One such technique is using higher order functions. Higher order functions are functions that take one or more functions as arguments, or return a function as their result. In",
-          "link": "https://www.freecodecamp.org/news/higher-order-functions-in-javascript-explained/",
-          "publishedOn": "2023-01-03T22:11:58.000Z",
-          "wordCount": 3489,
-          "title": "Higher Order Functions in JavaScript – Explained with Practical Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/higher-order-functions-in-javascript-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/format-dates-with-ordinal-number-suffixes-javascript/",
-          "author": "Joel Olawanle",
-          "description": "Many online resources teach you how to format dates. But it's hard to find any that explain how to format dates with an ordinal number suffix (like 1st) in JavaScript – without using a library. In this short article, you will learn how to format dates in JavaScript with ordinal",
-          "link": "https://www.freecodecamp.org/news/format-dates-with-ordinal-number-suffixes-javascript/",
-          "publishedOn": "2023-01-03T21:57:47.000Z",
-          "wordCount": 1207,
-          "title": "How to Format Dates with Ordinal Number Suffixes (-st, -nd, -rd, -th) in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template--4-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-join-how-to-combine-a-list-into-a-string-in-python/",
-          "author": "Suchandra Datta",
-          "description": "join() is one of the built-in string functions in Python that lets us create a new string from a list of string elements with a user-defined separator.  Today we'll explore join() and learn about:  * join() syntax  * how to use join() to combine a list into",
-          "link": "https://www.freecodecamp.org/news/python-join-how-to-combine-a-list-into-a-string-in-python/",
-          "publishedOn": "2023-01-03T20:11:53.000Z",
-          "wordCount": 1493,
-          "title": "Python join() – How to Combine a List into a String in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-francesco-ungaro-96081.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-react-app-with-a-dot-net-backend/",
-          "author": "Beau Carnes",
-          "description": "ASP.NET Core can work well as a backend for your React apps. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to to create a basic React application that leverages a .NET Web API Component written in C#. In order to integrate React with",
-          "link": "https://www.freecodecamp.org/news/create-a-react-app-with-a-dot-net-backend/",
-          "publishedOn": "2023-01-03T19:57:42.000Z",
-          "wordCount": 911,
-          "title": "Create a React App With a .NET Core Backend",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/webapi.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-protect-against-dom-xss-attacks/",
-          "author": "Andrej Kovacevic",
-          "description": "Website security issues and vulnerabilities are a global problem as cyber security vulnerabilities are increasing. We have seen a major rise in the average number of these cases in the past few years, and 2021 saw an all-time high. So in this tutorial, we are going to talk about DOM",
-          "link": "https://www.freecodecamp.org/news/how-to-protect-against-dom-xss-attacks/",
-          "publishedOn": "2023-01-03T19:51:56.000Z",
-          "wordCount": 2339,
-          "title": "What is XSS? How to Protect Your Website from DOM Cross-Site Scripting Attacks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/xss-code-case.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/",
-          "author": "Ashutosh Krishna",
-          "description": "User authentication is important for protecting sensitive information and resources from unauthorized access. It helps ensure that only authorized users can access and make changes to data, and helps prevent unauthorized users from gaining access to sensitive information. There are different methods for implementing user authentication, including password-based authentication, token-based",
-          "link": "https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/",
-          "publishedOn": "2023-01-03T14:57:06.000Z",
-          "wordCount": 5996,
-          "title": "How to Set Up Basic User Authentication in a Flask App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/basic-auth.png"
         }
       ]
     }
