@@ -12,6 +12,16 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266368D17D4.HighSurfAdvisory.1266369D1B70CA.LOXCFWLOX.bbc9c0e94c50f159fd72291d50c370b2",
+          "author": null,
+          "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 3 PM PST SUNDAY... * WHAT...Large breaking waves of 5 to 7 feet with dangerous rip currents. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County Beaches. * WHEN...Until 3 PM PST Sunday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266368D17D4.HighSurfAdvisory.1266369D1B70CA.LOXCFWLOX.bbc9c0e94c50f159fd72291d50c370b2",
+          "publishedOn": "2023-02-11T18:05:00.000Z",
+          "wordCount": 226,
+          "title": "High Surf Advisory issued February 11 at 10:05AM PST until February 12 at 3:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266367E5870.HighSurfAdvisory.1266369D1B70CA.LOXCFWLOX.bbc9c0e94c50f159fd72291d50c370b2",
           "author": null,
           "description": "...HIGH SURF ADVISORY IN EFFECT FROM 9 AM SATURDAY TO 3 PM PST SUNDAY... * WHAT...Large breaking waves of 4 to 7 feet with dangerous rip currents. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County Beaches.",
@@ -710,16 +720,6 @@
           "wordCount": 219,
           "title": "High Surf Advisory issued January 13 at 1:55PM PST until January 15 at 10:00PM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630A6DB20.HighSurfAdvisory.126630D26920CA.LOXCFWLOX.9d0f5f1174037a114de56ed0b08a51e2",
-          "author": null,
-          "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 10 PM PST SATURDAY... * WHAT...Large breaking waves of 4 to 7 feet building to 6 to 10 feet with local sets to 12 feet early Friday. Dangerous rip currents expected. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126630A6DB20.HighSurfAdvisory.126630D26920CA.LOXCFWLOX.9d0f5f1174037a114de56ed0b08a51e2",
-          "publishedOn": "2023-01-12T20:56:00.000Z",
-          "wordCount": 218,
-          "title": "High Surf Advisory issued January 12 at 12:56PM PST until January 14 at 10:00PM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -728,6 +728,236 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1100x8j/vietnam_hcmct%C3%A2n_ch%C3%A2u_tea_shopsgifts/",
+          "author": null,
+          "description": "I'm travelling to Vietnam soon, 2-3 days in HCMC, a few days on Phu Quoc island, a lot of time in Tan Chau.\n I'm very into tea and was hoping to find some tea shops that sell good quality loose leaf teas in HCMC and/or Tan Chau. As far as HCMC goes, I'll be in District 1 and District 3, with my tight schedule I won't be able to leave these areas in HCMC. \n Any tips? I've found a few on google that look potentially promising (such as Trà Việt), but I wanted to know if there were better shops that I'm probably missing since I don't speak the language, or just some place that's a hidden gem. \n Second, would tea be an appropriate gift for someone's family in Vietnam? We have other gifts we're bringing (Family member is getting married), but I thought I might add to it with a set of nicely presented teas as a thank you for hosting us.\n ​\n Thanks for any help!\n    submitted by    /u/Dramtastic  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1100x8j/vietnam_hcmct%C3%A2n_ch%C3%A2u_tea_shopsgifts/",
+          "publishedOn": "2023-02-11T23:19:16.000Z",
+          "wordCount": 14612,
+          "title": "Vietnam (HCMC/Tân Châu) tea shops/gifts?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zyfgh/is_this_fr_wife_and_daughter_of_french/",
+          "author": null,
+          "description": "submitted by    /u/Informal-Fig-7116  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zyfgh/is_this_fr_wife_and_daughter_of_french/",
+          "publishedOn": "2023-02-11T21:27:29.000Z",
+          "wordCount": 15251,
+          "title": "[is this fr???] Wife and daughter of French Governer-General Paul Doumer throwing small coins and grains in front of children in French Indochina (today Vietnam), filmed in 1900 by Gabriel Veyre (AI enhanced)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zvceq/greetings_from_czech_republic/",
+          "author": null,
+          "description": "submitted by    /u/vocodee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zvceq/greetings_from_czech_republic/",
+          "publishedOn": "2023-02-11T19:13:16.000Z",
+          "wordCount": 14376,
+          "title": "Greetings from Czech Republic 🫶",
+          "imageUrl": "https://preview.redd.it/h3xrgxx2hnha1.jpg?auto=webp&v=enabled&s=44fab2eeeef6bfd5f8490188b6110e25a6406f95"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zudaz/hcm_%C4%91i_xem_ko_c%E1%BA%ADu_t_l%C3%A0_ctrai/",
+          "author": null,
+          "description": "submitted by    /u/viay7274  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zudaz/hcm_%C4%91i_xem_ko_c%E1%BA%ADu_t_l%C3%A0_ctrai/",
+          "publishedOn": "2023-02-11T18:31:16.000Z",
+          "wordCount": 14344,
+          "title": "HCM, đi xem ko cậu? t là ctrai",
+          "imageUrl": "https://preview.redd.it/27sj4cgl9nha1.jpg?auto=webp&v=enabled&s=a54ace4c88ad821a54945354218fc3a258b3797d"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10ztqvo/warning_reddit_was_hackedc%E1%BA%A3nh_b%C3%A1o_reddit_b%E1%BB%8B_t%E1%BA%A5n/",
+          "author": null,
+          "description": "Reddit recently has confirmed that it has been hacked. The hacker was able to gained access to some internal documents, code and systems at the social media company. To the user side, currently there are no evidence that the attack revealed any non-public data. However, I recommend people changing their reddit password immediately and setting up 2FA if not.\n ​\n Reddit gần đây đã xác nhận rằng họ đã bị hacker tấn công. Kẻ tấn công đã có quyền truy cập một số tài liệu, code và hệ thống của công ty. Về phía người dùng, hiện tại chưa có bằng chứng nào về việc rò rỉ dữ liệu cá nhân của người dùng nhưng mình vẫn khuyến khích các bạn thay đổi mật khẩu tài khoản và lập mã xác thực 2 bước cho tài khoản nếu chưa.\n    submitted by    /u/Former-Froyo3656  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10ztqvo/warning_reddit_was_hackedc%E1%BA%A3nh_b%C3%A1o_reddit_b%E1%BB%8B_t%E1%BA%A5n/",
+          "publishedOn": "2023-02-11T18:04:54.000Z",
+          "wordCount": 15089,
+          "title": "WARNING: REDDIT WAS HACKED/CẢNH BÁO: REDDIT BỊ TẤN CÔNG",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zt9gk/vietnamese_crash_course/",
+          "author": null,
+          "description": "Visiting Vietnam soon. What phrases should I learn to interact with the locals? Thanks!\n    submitted by    /u/Lucky_Tuck  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zt9gk/vietnamese_crash_course/",
+          "publishedOn": "2023-02-11T17:43:59.000Z",
+          "wordCount": 14353,
+          "title": "Vietnamese Crash Course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zt1y2/vietnam_lion_guardian/",
+          "author": null,
+          "description": "submitted by    /u/minhzero5  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zt1y2/vietnam_lion_guardian/",
+          "publishedOn": "2023-02-11T17:35:03.000Z",
+          "wordCount": 14740,
+          "title": "vietnam lion guardian.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zsvdt/chatgpt_scam_in_vietnamv%E1%BA%A5n_n%E1%BA%A1n_l%E1%BB%ABa_%C4%91%E1%BA%A3o_chatgpt_%E1%BB%9F/",
+          "author": null,
+          "description": "Recently, ChatGPT is becoming a hot topic in Vietnam because of how accessible it is to normal users and follow that trend is a booming scam market regarding to create a ChatGPT account. Because of that, I decided to make a post to guide you how to create your own legitimate ChatGPT account.\n Dạo gần đây, ChatGPT đã trở thành chủ đề nóng được quan tâm ở Việt Nam vì dịch vụ dễ dàng tiếp cận đối với người dùng bình thường, chính vì sự bùng nổ đó kéo theo vấn nạn lừa đảo liên quan đến việc tạo tài khoản ChatGPT. Chính vì thế mình quyết định viết bài post hướng dẫn tạo tài khoản ChatGPT chính gốc của bạn.\n ​\n  \nBecause ChatGPT is not supported in Vietnam, you need a VPN to change your IP to another country. In case you don't have a VPN, vn-z forum provided a lot of vpn account for you to choose. Bởi vì ChatGPT không hỗ trợ ở Việt Nam, bạn sẽ cần VPN để chuyển địa chỉ IP của bạn sang nước khác. Trong trường hợp bạn không có VPN, diễn đàn vn-z có cung cấp tài khoản VPN cho các bạn thoải mái sử dụng.\n You need a foreign phone number for verification, I recommended smspool because it is reliable, cheap (depends on the country, most likely cost less than 1$) and I used it for my ChatGPT account myself. Các bạn cũng sẽ cần đến số điện thoại nước ngoài để xác minh danh tính, mình khuyến khích các bạn dùng smspool vì nó ổn định, rẻ (tuỳ đất nước bạn chọn, giá thành sẽ thấp hơn 20,000đ).\n  \nGood luck/Chúc may mắn\n Edit: ChatGPT is now supporting in Vietnam (11/2/2023), however you will need ChatGPT Plus for 20$. Depends on your need, my guide will be cheaper for you. Để tạo tài khoản ChatGPT ở Việt Nam tại thời điểm hiện tại, bạn cần đăng kí ChatGPT Plus với giá 20$ (470,000đ). Tuỳ nhu cầu sử dụng mỗi người, người dùng phổ thông không có 400,000đ dư giả để tiêu thì cách trên mình hướng dẫn rẻ hơn.\n    submitted by    /u/Former-Froyo3656  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zsvdt/chatgpt_scam_in_vietnamv%E1%BA%A5n_n%E1%BA%A1n_l%E1%BB%ABa_%C4%91%E1%BA%A3o_chatgpt_%E1%BB%9F/",
+          "publishedOn": "2023-02-11T17:27:16.000Z",
+          "wordCount": 2251,
+          "title": "ChatGPT Scam In Vietnam/Vấn Nạn Lừa Đảo ChatGPT Ở Việt Nam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zs1ul/best_place_to_watch_a_man_utd_match_in_saigon/",
+          "author": null,
+          "description": "Thinking of watching the Leeds match tomorrow at a pub/cafe but not so sure where. Please let me know if any suggestions! Cảm ơn!\n    submitted by    /u/krat0skal  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zs1ul/best_place_to_watch_a_man_utd_match_in_saigon/",
+          "publishedOn": "2023-02-11T16:52:01.000Z",
+          "wordCount": 14371,
+          "title": "Best place to watch a man UTD match in Saigon?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zqm0x/pig_hill_vung_tau_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/Shurikenja  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zqm0x/pig_hill_vung_tau_vietnam/",
+          "publishedOn": "2023-02-11T15:52:34.000Z",
+          "wordCount": 14462,
+          "title": "Pig Hill, Vung Tau, Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zqk6i/my_fave_cocktail_this_season/",
+          "author": null,
+          "description": "submitted by    /u/broken_hummingbird  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zqk6i/my_fave_cocktail_this_season/",
+          "publishedOn": "2023-02-11T15:50:31.000Z",
+          "wordCount": 14298,
+          "title": "My fave cocktail this season",
+          "imageUrl": "https://external-preview.redd.it/DufkKtuXYWwd5iuQGcxkXzZZheob7mqsnwCcIghuqMM.png?format=pjpg&auto=webp&v=enabled&s=9202ff5e218d1f2cfe34aa49ac47da4bc652dbbe"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zqcgj/what_are_these_things_and_where_can_i_find_them/",
+          "author": null,
+          "description": "submitted by    /u/tuanale  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zqcgj/what_are_these_things_and_where_can_i_find_them/",
+          "publishedOn": "2023-02-11T15:44:00.000Z",
+          "wordCount": 15017,
+          "title": "What are these things and where can I find them in Houston, Texas?",
+          "imageUrl": "https://preview.redd.it/jj5erxxdemha1.png?auto=webp&v=enabled&s=053f5cb50737167368b7e059ab699dd015347b3d"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zo2hd/weather_in_hanoi_feb_to_apr/",
+          "author": null,
+          "description": "Hello!\n In two weeks I will be accompanying my wife and our daughter on a short term business trip to Hanoi. Probably three months with short side trips to HCMC.\n What kind of weather can I expect?\n Is it jeans and hoodie or shorts and t-shirt?\n I've been to Vietnam a few times, but never in the north in winter/spring. So I usually pack t-shirts, shorts, light trekking pants and light trekking shirts.\n I'm a pretty big guy from the Netherlands and have no problems with cold, but heat gets to me quickly.\n Thanks a lot!\n    submitted by    /u/cmd_rikers_brother  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zo2hd/weather_in_hanoi_feb_to_apr/",
+          "publishedOn": "2023-02-11T13:49:39.000Z",
+          "wordCount": 14585,
+          "title": "Weather in Hanoi (Feb to Apr)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10znche/visiting_nha_trang_any_tips/",
+          "author": null,
+          "description": "My girlfriend and I are visiting Nha Trang in April for 10 days and are looking for any helpful travel tips / good recommendations for restaurants/ visits to do in the area. Thanks!\n    submitted by    /u/Weak_Ad2391  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10znche/visiting_nha_trang_any_tips/",
+          "publishedOn": "2023-02-11T13:13:15.000Z",
+          "wordCount": 15191,
+          "title": "Visiting Nha Trang any tips?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zm5vx/bia_hoi_vs_bottledcanned_beer/",
+          "author": null,
+          "description": "Tonight is my last night in Vietnam, and I never got a chance to try Bia Hoi. Is it worth seeking it out and rushing back to catch my airport shuttle, or is it nothing special compared to, say, Huda, Tiger, and Halong Sapphire?\n    submitted by    /u/Sensitive_Lettuce  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zm5vx/bia_hoi_vs_bottledcanned_beer/",
+          "publishedOn": "2023-02-11T12:08:24.000Z",
+          "wordCount": 14822,
+          "title": "Bia hoi vs bottled/canned beer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zlk22/as_a_foreigner_what_are_gifts_that_a_vietnamese/",
+          "author": null,
+          "description": "My friend and I were welcomed warmly by our friend's family in Vietnam. We stayed for about 4 weeks with them and they are refusing money. \n We are thinking of going around Hanoi to get everyone small gifts, our friend, her mom, dad and even the cats haha.\n What are some small gift ideas that would be appreciated? :)\n    submitted by    /u/Lankaner  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zlk22/as_a_foreigner_what_are_gifts_that_a_vietnamese/",
+          "publishedOn": "2023-02-11T11:33:04.000Z",
+          "wordCount": 15845,
+          "title": "As a foreigner, what are gifts that a Vietnamese family would appreciate?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zkcyy/banh_mi_and_ice_coffee/",
+          "author": null,
+          "description": "submitted by    /u/jack_hudson2001  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zkcyy/banh_mi_and_ice_coffee/",
+          "publishedOn": "2023-02-11T11:09:45.000Z",
+          "wordCount": 14776,
+          "title": "banh mi and ice coffee",
+          "imageUrl": "https://preview.redd.it/nb5ugdaaljha1.jpg?auto=webp&v=enabled&s=79b24ebde728ae00bf23f94867bbf61b393ee341"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zhm5v/how_much_do_you_guys_spend_monthly_on_gas_me_i/",
+          "author": null,
+          "description": "submitted by    /u/SuperRichBytch  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zhm5v/how_much_do_you_guys_spend_monthly_on_gas_me_i/",
+          "publishedOn": "2023-02-11T10:06:58.000Z",
+          "wordCount": 15262,
+          "title": "How much do you guys spend monthly on gas? me I think somewhere between 800k - 1 mil vnd",
+          "imageUrl": "https://preview.redd.it/4a4e5zgmrkha1.jpg?auto=webp&v=enabled&s=85c1e9612cbc7664c278784c4fa44d3c744e9f67"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zh325/reliable_and_hygienic_tattoo_places_in_hcmc_hanoi/",
+          "author": null,
+          "description": "Hi guys, i’m looking to get a sleeve tattoo done either in HCMC, Da Dang or Hanoi. But concerned about hygiene and quality. Can anyone recommend any places that are reliable?\n    submitted by    /u/AnyAdvertising3122  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zh325/reliable_and_hygienic_tattoo_places_in_hcmc_hanoi/",
+          "publishedOn": "2023-02-11T09:30:59.000Z",
+          "wordCount": 14633,
+          "title": "Reliable and hygienic tattoo places in HCMC, Hanoi or Da Dang?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zgy8h/vietnamese_bank_card_usable_in_thailand/",
+          "author": null,
+          "description": "I'll be heading to Thailand next week, and I have a TPBank VISA debit card.\n It was issued at the beginning of COVID, couple years back.\n I haven't been out of the country in 3.5 years, and will be heading to Thailand - does anyone have any experience using a TPBank debit card in Thailand? \n Or should I buy some Thai Baht from the gold shops/Noi Bai airport?\n  \nDecathlon accepts it for online payment, but Lazada doesn't (if that helps).\n  \n   submitted by    /u/Turbulent_Abroad_332  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zgy8h/vietnamese_bank_card_usable_in_thailand/",
+          "publishedOn": "2023-02-11T09:21:47.000Z",
+          "wordCount": 14651,
+          "title": "Vietnamese bank card usable in Thailand?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zgxhb/rock_climbing_at_marble_mountain_da_nang/",
+          "author": null,
+          "description": "Hello, I was curious about whether or not you are allowed to rock climb at Marble Mountain in Da Nang? I was there today and saw the one sport route and the other bolts for setting up anchors. I did more research and saw that tours were operated by Phat Tire Adventures. I went to their website but could not find any information. I contacted them but have still not received a response. I would prefer to climb there without a guide, as I have all the stuff, but I wasn't sure if I was allowed. It seems strange that it is right in the middle of the main pathway. Can anyone lend any insight into this? Thanks!\n    submitted by    /u/makeshiftswift  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zgxhb/rock_climbing_at_marble_mountain_da_nang/",
+          "publishedOn": "2023-02-11T09:20:31.000Z",
+          "wordCount": 15076,
+          "title": "Rock climbing at Marble Mountain, Da Nang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zco6y/where_can_i_find_such_shirt_in_saigon/",
+          "author": null,
+          "description": "submitted by    /u/erez_bugi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zco6y/where_can_i_find_such_shirt_in_saigon/",
+          "publishedOn": "2023-02-11T04:58:35.000Z",
+          "wordCount": 14502,
+          "title": "where can I find such shirt in Saigon?",
+          "imageUrl": "https://preview.redd.it/50k5mstl8jha1.png?auto=webp&v=enabled&s=6f6acfdc91031840c6b9f8bd7e823b33a6b6e688"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/10zadv3/how_many_percentage_of_vietnamese_people_bring/",
+          "author": null,
+          "description": "submitted by    /u/lanhuevietnam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/10zadv3/how_many_percentage_of_vietnamese_people_bring/",
+          "publishedOn": "2023-02-11T02:54:48.000Z",
+          "wordCount": 16055,
+          "title": "How many percentage of Vietnamese people bring their own bags and food containers when going shopping do you think?",
+          "imageUrl": "https://preview.redd.it/74m2jgiimiha1.jpg?auto=webp&v=enabled&s=d7d1b9c27fd2e32c9f1bc1f6a69c666fd7376050"
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/10z80bm/peanut_allergy_help/",
           "author": null,
@@ -7167,176 +7397,6 @@
           "wordCount": 16110,
           "title": "Best app/page to see apartment rentals in Ho Chi Minh? Best neighborhoods for Expats? TIA!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10atgcv/sao_nhi%E1%BB%81u_game_b%E1%BB%8B_c%E1%BA%A5m_%E1%BB%9F_vi%E1%BB%87tnam_v%E1%BA%ADy/",
-          "author": null,
-          "description": "Mấy game như là arkknights fgo,clash of clan,.... Ai biết lí do sao không\n    submitted by    /u/maoonr  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10atgcv/sao_nhi%E1%BB%81u_game_b%E1%BB%8B_c%E1%BA%A5m_%E1%BB%9F_vi%E1%BB%87tnam_v%E1%BA%ADy/",
-          "publishedOn": "2023-01-13T12:33:23.000Z",
-          "wordCount": 16816,
-          "title": "sao nhiều game bị cấm ở việtnam vậy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10arr62/can_someone_please_translate_thisgive_context_if/",
-          "author": null,
-          "description": "submitted by    /u/foursoutof5  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10arr62/can_someone_please_translate_thisgive_context_if/",
-          "publishedOn": "2023-01-13T11:00:05.000Z",
-          "wordCount": 16601,
-          "title": "Can someone please translate this/give context if possible?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10arjsk/what_is_this_got_this_from_someone_i_kinda/",
-          "author": null,
-          "description": "submitted by    /u/Rich_Professional525  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10arjsk/what_is_this_got_this_from_someone_i_kinda/",
-          "publishedOn": "2023-01-13T10:47:22.000Z",
-          "wordCount": 16212,
-          "title": "what is this? got this from someone i kinda know(business related)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10arew4/wrong_name_on_vietnam_airlines_booking/",
-          "author": null,
-          "description": "Hello everybody, my wife and I booked a flight from Vientiane to Hanoi for January 15th through 12go.asia. I made a dumb mistake and put in the wrong last name, her birth name instead of the name she has now after the marriage. After being in contact with support from 12go.asia, they informed me that you have to request the change at least 3 days before departure date. I know it was my mistake but I just can't believe that you can't change something like this before the flight. Does anybody have experience with this? Could we just show up at the airport and try to change it there? Would we have to cancel the whole booking or could we just buy a new ticket for her and I could keep my booking, even though I made a booking for 2 people? Thanks in advance in case anybody could give me information on this!\n    submitted by    /u/Waitwhatsmy_username  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10arew4/wrong_name_on_vietnam_airlines_booking/",
-          "publishedOn": "2023-01-13T10:38:45.000Z",
-          "wordCount": 17552,
-          "title": "Wrong name on Vietnam Airlines booking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10aqvmm/how_cold_is_it_in_hanoi/",
-          "author": null,
-          "description": "I’m visiting Hanoi for the first time next week! I’ve heard that it’ll be pretty cold there right now. \n Can I survive with a jacket/ cardigan or do I need a thick coat?\n    submitted by    /u/Spirited_Contact1599  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10aqvmm/how_cold_is_it_in_hanoi/",
-          "publishedOn": "2023-01-13T10:04:47.000Z",
-          "wordCount": 16607,
-          "title": "How cold is it in Hanoi?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10ao1ki/what_are_your_opinions_on_vinfast_after_tesla/",
-          "author": null,
-          "description": "Tesla has recently decreased its Model Y prices from $66,000 to only $53,000 and the Model Y Performance now starts at only $57,000 with a 0-60 time of 3.5 seconds and 303 miles of range as well (down from 330 miles on the Base Model Y). With the Vinfast VF 8 still starting at $59,000 despite having less track record than Tesla, what do you now think of the Vinfast VF 8 and what are your opinions of Vinfast now, given the fact the Tesla Model Y is now cheaper (in fact, the 7-seat interior on the Model Y is only $4000 more than the 5-seat interior)?\n I am also curious who would buy the Vinfast over the Tesla Model Y, if any, outside of Vietnam, and what measures Vinfast would need to address to succeed, or they would fail regardless?\n For me, I do think Vinfast should just halve their price to be competitive:\n The Vinfast VF 8 could be $29k trying to steal market share from the Toyota RAV4, Honda CR-V, Mazda CX-5/CX-50, Hyundai Santa Fe/Tucson, Kia Sorento/Sportage, Nissan Rogue, Mitsubishi Outlander, Subaru Forester, etc.\n The Vinfast VF 9 could be $42k trying to steal market share from the Toyota Highlander, Honda Pilot, Mazda CX-9, Hyundai Palisade, Kia Telluride, Nissan Pathfinder, Subaru Ascent, Chevy Traverse, Ford Explorer, etc.\n I am actually Vietnamese by the way, born in Vietnam and currently living in the US and after seeing Tesla prices drop, if I had to choose between the Tesla Model Y and the Vinfast VF 8, I would choose the Tesla Model Y Long Range. Also, a review of the 'quirks and features' of the Vinfast VF 8 will be coming soon as I am heading to Montreal this weekend to film a video over at the Vinfast store. \n    submitted by    /u/MussleGeeYem  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10ao1ki/what_are_your_opinions_on_vinfast_after_tesla/",
-          "publishedOn": "2023-01-13T07:05:14.000Z",
-          "wordCount": 18907,
-          "title": "What Are Your Opinions On Vinfast After Tesla Prices Decrease?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10ajggj/im_your_father/",
-          "author": null,
-          "description": "I heard this Vietnamese insult it literally translates to 'I'm your father' in English. Of course, it has the figurative meaning of 'I slept with your mother'.\n Does anyone know what the expression is?\n    submitted by    /u/Adorable_Future9038  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10ajggj/im_your_father/",
-          "publishedOn": "2023-01-13T03:09:14.000Z",
-          "wordCount": 17145,
-          "title": "I'm your father....",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10aisij/hey_neat_a_snake_visited_my_home/",
-          "author": null,
-          "description": "submitted by    /u/Saigonauticon  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10aisij/hey_neat_a_snake_visited_my_home/",
-          "publishedOn": "2023-01-13T02:38:31.000Z",
-          "wordCount": 16492,
-          "title": "Hey neat, a snake visited my home",
-          "imageUrl": "https://preview.redd.it/xqwc30sl3qba1.jpg?auto=webp&v=enabled&s=e05cd38bcd32d9c0025782accd6dfa97e59ae0f3"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10af845/looking_for_aff_mitsubishi_cup_tickets/",
-          "author": null,
-          "description": "I'm wondering if anyone has any suggestions of where to find tickets to the match in Hanoi tonight. Would buying from ticket resellers outside the stadium be a reasonably safe bet?\n    submitted by    /u/burner_account_7  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10af845/looking_for_aff_mitsubishi_cup_tickets/",
-          "publishedOn": "2023-01-13T00:03:01.000Z",
-          "wordCount": 15717,
-          "title": "Looking for AFF Mitsubishi Cup tickets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10ade3b/vietnameseamerican_novel_characters/",
-          "author": null,
-          "description": "Hi everyone! I am currently working on writing a novel in which one of the main characters is Vietnamese-American. He was raised in a family culture that is supposed to be relatively traditional as per Vietnamese values and lifestyle, so I'm trying to do some research into what that looks like, especially in everyday life.\n So here's my question: are there any particular details or things I should include to make traditional Vietnamese life feel accurate and respectful? Are there any potentially harmful stereotypes I should avoid? I want to get a more direct authority on the subject than decades old library books and internet articles. Thanks in advance for your help!\n    submitted by    /u/fluffy_wyvern  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10ade3b/vietnameseamerican_novel_characters/",
-          "publishedOn": "2023-01-12T22:49:12.000Z",
-          "wordCount": 15963,
-          "title": "Vietnamese-American Novel Characters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10acdmj/what_is_the_process_for_someone_to_get_a/",
-          "author": null,
-          "description": "1) assuming they have a US drivers license without a motorcycle endorsement.\n 2) assuming they have a US license with a motorcycle endorsement.\n Both assumptions would be for a TEFL teacher on a proper visa. I tried searching but I get confused by the conflicting responses (some of which talk about taking a written Vietnamese test).\n    submitted by    /u/notarealaccount560  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10acdmj/what_is_the_process_for_someone_to_get_a/",
-          "publishedOn": "2023-01-12T22:09:47.000Z",
-          "wordCount": 16522,
-          "title": "What is the process for someone to get a motorbike license in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10a553e/vnd_as_a_wedding_present/",
-          "author": null,
-          "description": "Hi all. Question. I'm working in a team with people from Viet Nam. Two of them are getting married. My employer wants to know what would be a suitable wedding present in Viet Nam. We are thinking about giving them a bonus of 5 million VND, but what do you think: is that a good ammount, too little or too much? Or is it in general not done to give money for a wedding?\n    submitted by    /u/stoekie  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10a553e/vnd_as_a_wedding_present/",
-          "publishedOn": "2023-01-12T17:23:19.000Z",
-          "wordCount": 16521,
-          "title": "VND as a wedding present?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10a4wzy/does_anyone_know_vus_ha_dong_i_am_looking_at_a/",
-          "author": null,
-          "description": "submitted by    /u/only_an_npc  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10a4wzy/does_anyone_know_vus_ha_dong_i_am_looking_at_a/",
-          "publishedOn": "2023-01-12T17:14:01.000Z",
-          "wordCount": 17467,
-          "title": "Does anyone know VUS Ha Dong? I am looking at a job there but can’t find the exact working location on google maps. I know where the district is, but it’s important to me where in the district the center is. If anyone can give me the general neighborhood I’d be super grateful!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10a4j20/what_are_some_vietnamese_songs_that_a_taxi_driver/",
-          "author": null,
-          "description": "I am looking for stereotypical Vietnamese music that features drawn out vocals and it is sang by a guy singing outside in public. I heard this from a taxi driver playing it in his car on youtube. I think it is not something the young would like. It is also not traditional super old music. I struggle to find anything like it.\n    submitted by    /u/StreetyLamp  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10a4j20/what_are_some_vietnamese_songs_that_a_taxi_driver/",
-          "publishedOn": "2023-01-12T16:58:47.000Z",
-          "wordCount": 16495,
-          "title": "What are some Vietnamese songs that a taxi driver would play?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10a310f/tet_traditions_and_items/",
-          "author": null,
-          "description": "Hi R/Vietnam,\n My girlfriend is Vietnamese, and is not able to travel to her relatives this year for the new year celebration. We live in the United States.\n I visited her family last year to celebrate, but everything was new to me. Money exchange, meals, etc.,\n I want to try and find some items or typical celebratory treats or decorations to help make her feel a little less depressed about missing her family this year. \n Any suggestions of items i could purchase or meals that are customary? \n Any suggestions are greatly appreciated.\n Thanks\n    submitted by    /u/Big_Whig  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10a310f/tet_traditions_and_items/",
-          "publishedOn": "2023-01-12T15:58:27.000Z",
-          "wordCount": 16080,
-          "title": "Tet traditions and items",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10a1ykn/huflit_incident_new_development/",
-          "author": null,
-          "description": "submitted by    /u/bachbui47  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10a1ykn/huflit_incident_new_development/",
-          "publishedOn": "2023-01-12T15:13:08.000Z",
-          "wordCount": 17622,
-          "title": "HUFLIT incident new development",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10a16r5/this_frog_is_in_my_airbnb_bathroom_in_vietnam_now/",
-          "author": null,
-          "description": "submitted by    /u/Ok_Fortune_9149  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10a16r5/this_frog_is_in_my_airbnb_bathroom_in_vietnam_now/",
-          "publishedOn": "2023-01-12T14:39:14.000Z",
-          "wordCount": 17368,
-          "title": "This frog is in my AirBnb bathroom in Vietnam, now I'm scared to take a pee. Can anyone identify it. Its probably not going to jump on me right? Is it poisonous, what should I do?",
-          "imageUrl": "https://preview.redd.it/7fy8fwo2jmba1.jpg?auto=webp&v=enabled&s=f7d0314930c16cb2f7b5322f00737531bf4a4ca5"
         }
       ]
     },
@@ -8544,46 +8604,6 @@
           "wordCount": 2544,
           "title": "File Permissions in Linux – How to Use the chown and chgrp Commands",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/BB---Manage-Users-and-Groups-in-Linux.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/",
-          "author": "Joel Olawanle",
-          "description": "Data is a powerful tool that drives everything you see and interact with on the internet. It facilitates research and powers today's technology. It is the driving force behind today's artificial intelligence and robotics. And so much more. Previously, these data were stored on paper, in physical files within cabinets.",
-          "link": "https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/",
-          "publishedOn": "2023-01-12T18:23:07.000Z",
-          "wordCount": 1268,
-          "title": "What is SQL? Database Definition for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--8-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/",
-          "author": "Jennifer Bland",
-          "description": "In this article, I will show you how to create a toggle to display items in a grid from a list. We'll do this using basic JavaScript skills with no external code or libraries. We will be using Flexbox to help us accomplish this. What We Will Be Creating Here's",
-          "link": "https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/",
-          "publishedOn": "2023-01-12T17:57:06.000Z",
-          "wordCount": 2062,
-          "title": "How to Create a Grid-to-List Layout Toggle using Flexbox and JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Grid-to-list-toggle-using-JavaScript-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/software-system-design-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "Building large-scale distributed systems like Google, Facebook, Amazon, and Twitter requires an in-depth understanding of computer science principles. This allows systems to handle millions of users concurrently despite hardware failures. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to design software systems. This",
-          "link": "https://www.freecodecamp.org/news/software-system-design-for-beginners/",
-          "publishedOn": "2023-01-12T15:47:53.000Z",
-          "wordCount": 1009,
-          "title": "Software System Design for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/systemdesign.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When creating plots using Matplotlib, you get a default figure size of 6.4 for the width and 4.8 for the height (in inches). In this article, you'll learn how to change the plot size using the following:   * The figsize() attribute.   * The set_figwidth() method.",
-          "link": "https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/",
-          "publishedOn": "2023-01-12T15:29:17.000Z",
-          "wordCount": 1322,
-          "title": "Matplotlib Figure Size – How to Change Plot Size in Python with plt.figsize()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/isaac-smith-6EnTPvPPL6I-unsplash.jpg"
         }
       ]
     }
