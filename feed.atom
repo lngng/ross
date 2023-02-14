@@ -2,10 +2,421 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lngng.github.io/ross/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T01:03:27.347Z</updated>
+    <updated>2023-02-14T01:04:26.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://lngng.github.io/ross/index.html"/>
     <link rel="self" href="https://lngng.github.io/ross/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OWASP Top 10 Vulnerabilities – A Guide for Pen-Testers & Bug Bounty Hunters]]></title>
+        <id>https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/</id>
+        <link href="https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/"/>
+        <updated>2023-02-13T23:44:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will look at OWASP and the top 10 web application vulnerabilities they've identified. This is a useful topic for both web app pen-testers and bug bounty hunters. What do web app pen-testers and bug bounty hunters have in common? They are both hunting for bugs, but]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eps 18: Tây Ninh]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/111mhvz/eps_18_t%C3%A2y_ninh/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/111mhvz/eps_18_t%C3%A2y_ninh/"/>
+        <updated>2023-02-13T22:46:56.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Baosia  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Cognito for Web Applications]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/"/>
+        <updated>2023-02-13T22:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Cognito [https://aws.amazon.com/cognito/] is a cloud-based, serverless solution for identity and access management. It provides capabilities similar to  Auth0 [https://aws.amazon.com/cognito/] and Okta [https://aws.amazon.com/cognito/].  Cognito is part of the AWS suite of services so you can easily incorporate it if you are already using AWS in other parts of]]></summary>
+        <author>
+            <name>Max Rohde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do i need to book accomodation in advance?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/111lfdp/do_i_need_to_book_accomodation_in_advance/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/111lfdp/do_i_need_to_book_accomodation_in_advance/"/>
+        <updated>2023-02-13T22:03:41.000Z</updated>
+        <summary type="html"><![CDATA[Planning to ride around the north area in Vietnam on a bike, can i show up at any decent sized town and expect to find last minute accomodation? Or should i just book all in advance
+    submitted by    /u/SilentAd369  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First and last name? Ha Văn Tân]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/111ld3f/first_and_last_name_ha_v%C4%83n_t%C3%A2n/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/111ld3f/first_and_last_name_ha_v%C4%83n_t%C3%A2n/"/>
+        <updated>2023-02-13T22:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Hi everybody,
+ I'm a researcher and have stumble upon a Vietnamese document that I would like to cite. The author is Hà Văn Tân. My question is, which is the first and last name? Typically, work is cited by Last, First name. For instance, Doe, John. 
+ Thank you very much
+    submitted by    /u/Poochersadventures  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motor bike specs]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/111kg8h/motor_bike_specs/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/111kg8h/motor_bike_specs/"/>
+        <updated>2023-02-13T21:24:43.000Z</updated>
+        <summary type="html"><![CDATA[Hello world, I will be touring Vietnam on a motor bike next month and wanted to see if anyone has any input on what size bike I should be getting. The best bang for my buck looks to be Honda Winner 150CC. My concern is I am a larger gentleman, 125kg. Will this bike be sufficient for a 3 week trip from Danang to Hanoi or should I opt for a larger bike?
+    submitted by    /u/Particular_Stuff8772  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wind Advisory issued February 13 at 12:11PM PST until February 14 at 6:00AM PST by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.WindAdvisory.126636BA4060CA.LOXNPWLOX.3e2d91b1924fa7a5005305827bd49a75</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.WindAdvisory.126636BA4060CA.LOXNPWLOX.3e2d91b1924fa7a5005305827bd49a75"/>
+        <updated>2023-02-13T20:11:00.000Z</updated>
+        <summary type="html"><![CDATA[...WIND ADVISORY REMAINS IN EFFECT UNTIL 6 AM PST TUESDAY... ...HIGH WIND WARNING REMAINS IN EFFECT FROM 6 AM TO 10 PM PST TUESDAY... * WHAT...For the High Wind Warning, west winds 25 to 40 mph with gusts up to 70 mph. For the Wind Advisory, southwest winds 20 to 30 mph with gusts up to 50 mph expected.]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Wind Warning issued February 13 at 12:11PM PST until February 14 at 10:00PM PST by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.HighWindWarning.126636C84A20CA.LOXNPWLOX.61ed0a5bee9480802123e6ade3457789</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.HighWindWarning.126636C84A20CA.LOXNPWLOX.61ed0a5bee9480802123e6ade3457789"/>
+        <updated>2023-02-13T20:11:00.000Z</updated>
+        <summary type="html"><![CDATA[...HIGH WIND WARNING REMAINS IN EFFECT FROM 6 AM TO 10 PM PST TUESDAY... * WHAT...Northwest winds 30 to 45 mph with gusts up to 75 mph expected. * WHERE...Ventura County Mountains, Los Angeles County Mountains, Santa Ynez Mountains Western Range, Santa Ynez]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Wind Warning issued February 13 at 12:11PM PST until February 14 at 10:00PM PST by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.HighWindWarning.126636C84A20CA.LOXNPWLOX.f3ef02f23411ed350ed3862c4472b723</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.HighWindWarning.126636C84A20CA.LOXNPWLOX.f3ef02f23411ed350ed3862c4472b723"/>
+        <updated>2023-02-13T20:11:00.000Z</updated>
+        <summary type="html"><![CDATA[...WIND ADVISORY REMAINS IN EFFECT UNTIL 6 AM PST TUESDAY... ...HIGH WIND WARNING REMAINS IN EFFECT FROM 6 AM TO 10 PM PST TUESDAY... * WHAT...For the High Wind Warning, west winds 25 to 40 mph with gusts up to 70 mph. For the Wind Advisory, southwest winds 20 to 30 mph with gusts up to 50 mph expected.]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Wind Warning issued February 13 at 12:11PM PST until February 14 at 10:00PM PST by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.HighWindWarning.126636C84A20CA.LOXNPWLOX.411b64ff7a3218d403904f16d5d40e3d</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.HighWindWarning.126636C84A20CA.LOXNPWLOX.411b64ff7a3218d403904f16d5d40e3d"/>
+        <updated>2023-02-13T20:11:00.000Z</updated>
+        <summary type="html"><![CDATA[...HIGH WIND WARNING IN EFFECT FROM 10 AM TO 10 PM PST TUESDAY... ...FREEZE WATCH REMAINS IN EFFECT FROM LATE TUESDAY NIGHT THROUGH WEDNESDAY MORNING... * WHAT...For the High Wind Warning, northwest winds 30 to 40 mph with gusts up to 60 mph expected. For the Freeze Watch, sub- freezing temperatures as low as 29 possible.]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wind Advisory issued February 13 at 12:11PM PST until February 14 at 10:00PM PST by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.WindAdvisory.126636C84A20CA.LOXNPWLOX.f889c364c0962896afc5a989597dd5f1</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.WindAdvisory.126636C84A20CA.LOXNPWLOX.f889c364c0962896afc5a989597dd5f1"/>
+        <updated>2023-02-13T20:11:00.000Z</updated>
+        <summary type="html"><![CDATA[...WIND ADVISORY IN EFFECT FROM 10 AM TO 10 PM PST TUESDAY... * WHAT...Northwest winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast, Santa Monica Mountains, Los Angeles County Beaches, Los Angeles County Inland Coast including Downtown Los Angeles and]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wind Advisory issued February 13 at 12:11PM PST until February 14 at 10:00PM PST by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.WindAdvisory.126636C84A20CA.LOXNPWLOX.d34dfb385ba19be3423c5a05ca4547a9</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.WindAdvisory.126636C84A20CA.LOXNPWLOX.d34dfb385ba19be3423c5a05ca4547a9"/>
+        <updated>2023-02-13T20:11:00.000Z</updated>
+        <summary type="html"><![CDATA[...WIND ADVISORY IN EFFECT FROM 10 AM TO 10 PM PST TUESDAY... ...FREEZE WATCH REMAINS IN EFFECT FROM LATE TUESDAY NIGHT THROUGH WEDNESDAY MORNING... * WHAT...For the Wind Advisory, northwest winds 25 to 35 mph with gusts up to 55 mph expected. For the Freeze Watch, sub- freezing temperatures as low as 32 possible.]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freeze Watch issued February 13 at 12:11PM PST until February 15 at 9:00AM PST by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.FreezeWatch.126636C9F7D0CA.LOXNPWLOX.328ffd14696ec491e2efa7eb7424362f</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.FreezeWatch.126636C9F7D0CA.LOXNPWLOX.328ffd14696ec491e2efa7eb7424362f"/>
+        <updated>2023-02-13T20:11:00.000Z</updated>
+        <summary type="html"><![CDATA[...HIGH WIND WARNING IN EFFECT FROM 10 AM TO 10 PM PST TUESDAY... ...FREEZE WATCH REMAINS IN EFFECT FROM LATE TUESDAY NIGHT THROUGH WEDNESDAY MORNING... * WHAT...For the High Wind Warning, northwest winds 30 to 40 mph with gusts up to 60 mph expected. For the Freeze Watch, sub- freezing temperatures as low as 29 possible.]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freeze Watch issued February 13 at 12:11PM PST until February 15 at 9:00AM PST by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.FreezeWatch.126636C9F7D0CA.LOXNPWLOX.50fe45fb8eac71de8f4b147c83639418</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126636ABECCC.FreezeWatch.126636C9F7D0CA.LOXNPWLOX.50fe45fb8eac71de8f4b147c83639418"/>
+        <updated>2023-02-13T20:11:00.000Z</updated>
+        <summary type="html"><![CDATA[...WIND ADVISORY IN EFFECT FROM 10 AM TO 10 PM PST TUESDAY... ...FREEZE WATCH REMAINS IN EFFECT FROM LATE TUESDAY NIGHT THROUGH WEDNESDAY MORNING... * WHAT...For the Wind Advisory, northwest winds 25 to 35 mph with gusts up to 55 mph expected. For the Freeze Watch, sub- freezing temperatures as low as 32 possible.]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public restrooms]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/111g5kg/public_restrooms/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/111g5kg/public_restrooms/"/>
+        <updated>2023-02-13T18:28:07.000Z</updated>
+        <summary type="html"><![CDATA[Will be visiting VN next month for the first time, are their public restrooms available besides in the hotel and big chain business? For a tourist what do you recommend?
+    submitted by    /u/Latter_Strawberry_78  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Da Nang - where (neighborhood) is the best to find accommodation for two weeks, where you can work from and meeting people?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/111f89g/da_nang_where_neighborhood_is_the_best_to_find/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/111f89g/da_nang_where_neighborhood_is_the_best_to_find/"/>
+        <updated>2023-02-13T17:49:33.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Khai_Nomad  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vietnamese knife]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/111e9c6/vietnamese_knife/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/111e9c6/vietnamese_knife/"/>
+        <updated>2023-02-13T17:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Hello! I don't know if I'm in the right place for this question but I'm searching for a vietnamese knife for cooking. Can be traditional/modern. Maybe someone knows something where you can buy good quality for a decent price. I will stay at Hanoi, Ninh binh, Sapa, cat ba, Hoi an, Saigon and phu quoc.
+    submitted by    /u/atschuka  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Surf Advisory issued February 13 at 8:58AM PST until February 15 at 10:00PM PST by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126636AB62E8.HighSurfAdvisory.126636D78C60CA.LOXCFWLOX.438610d1f1b5740c527f9b08fcb82267</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126636AB62E8.HighSurfAdvisory.126636D78C60CA.LOXCFWLOX.438610d1f1b5740c527f9b08fcb82267"/>
+        <updated>2023-02-13T16:58:00.000Z</updated>
+        <summary type="html"><![CDATA[...HIGH SURF ADVISORY IN EFFECT FROM 4 AM TUESDAY TO 10 PM PST WEDNESDAY... * WHAT...Large breaking waves of 5 to 9 feet with dangerous rip currents. * WHERE...Highest surf on west-facing beaches of Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous Programming in JavaScript for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/asynchronism-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/asynchronism-in-javascript/"/>
+        <updated>2023-02-13T16:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at a key topic when it comes to programming: managing asynchronism. We'll start by giving a theoretical foundation about what asynchronism is, and how it relates to key components of JavasScript: The execution thread, the call stack and the]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I have a question about visiting....]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/111cg6l/i_have_a_question_about_visiting/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/111cg6l/i_have_a_question_about_visiting/"/>
+        <updated>2023-02-13T15:54:15.000Z</updated>
+        <summary type="html"><![CDATA[My wife and I are planning on coming to Vietnam next year on vacation. I just read that Vietnam dose not recognize the international drivers license I can get issued here in the US. 
+ We were hoping to rent a motor scooter like we did in Thailand when we visited.
+ How would I go about driving legally?
+ If there is no way to get a legal driving permit for my trip how big of a trouble would I get in if I got pulled over while driving?
+ In Thailand my international permit was valid, but I saw others get pulled over and asked to pay a 300bhat "fine" to be on their way.
+ Please any advice is welcome, I really want to obey the law and do things right. But my wife and I like to explore and hike and get off the beaten path if you will and not being able to drive ourselves around could get costly and put a real damper on our trip.
+ Thanks in advance for your time and help. Cheers
+    submitted by    /u/chefbstephen  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help needed]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/111c8hr/help_needed/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/111c8hr/help_needed/"/>
+        <updated>2023-02-13T15:45:23.000Z</updated>
+        <summary type="html"><![CDATA[It is a bit of a long shot but here goes. So my girlfriend and a friend af hers are supposed to fly to Vietnam for a 2 week holiday but currently my girlfriend is stranded on Frankfurt airport because her express visa (or visum) application didn't get trough on time. She wasn't allowed on the flight because of this. My question to my fellow redditors is this: do you know of a way to try to get her application rushed trough. Or maybe someone knows someone that works at the governement departement that handles visa applications? Or maybe enter a second application? 
+ It is a real longshot bu let's see if reddit can help.
+ Eitherway i appreciatie anyone reading this.
+    submitted by    /u/Daan_reddit2018  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do find concert dates in Vietnam?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/111bs8a/how_do_find_concert_dates_in_vietnam/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/111bs8a/how_do_find_concert_dates_in_vietnam/"/>
+        <updated>2023-02-13T15:25:53.000Z</updated>
+        <summary type="html"><![CDATA[I’m in Vietnam for a few days, I’d like to see if a few young artists are performing, such as JustaTee and Phuong Ly. How do you find concert or performance dates?
+    submitted by    /u/daevild  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hue]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/111bks6/hue/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/111bks6/hue/"/>
+        <updated>2023-02-13T15:17:28.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Niatran_116  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Processing work permit without any agents]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/1119tb4/processing_work_permit_without_any_agents/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/1119tb4/processing_work_permit_without_any_agents/"/>
+        <updated>2023-02-13T14:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Has anybody done this recently? We always have used an agent for this but not this time as it's too expensive tbh. My new company will sponsor me the costs and paperworks, (1st time for me as I usually have to shoulder the cost in my previous company. I am not a teacher btw.). This is the first time they will hire a foreigner as well so there HR is also not so familiar. They will assist me as much as they can but brunt of the research will be from my end. I jusy need to know the process in General. They will sponsor me but as much as possible not going through an agent. 
+ Ill be doing this first time and I am aware Vietnam always changes rules regarding this. Is this even doable by a foreigner (not married to a Vietnamese too) so language could pose a problem... Just want to get an idea if this is even possible.
+    submitted by    /u/SuchALoserYeah  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help! Can anyone recommend a good place to get prescription glasses? Hanoi or Da Nang?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11186su/help_can_anyone_recommend_a_good_place_to_get/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11186su/help_can_anyone_recommend_a_good_place_to_get/"/>
+        <updated>2023-02-13T13:25:54.000Z</updated>
+        <summary type="html"><![CDATA[Currently in Vietnam on holiday and was wanting to get some new single-vision prescription glasses. Can anyone recommend a decent place that isn't too expensive? I'm not bothered if they are designer knock-off's etc. Just looking for some cool frames. Also looking to get progressive frames for my mother too.
+    submitted by    /u/Hot-Preparation3670  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most normal BBQ dinner in Hanoi universities be like]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/1117lre/most_normal_bbq_dinner_in_hanoi_universities_be/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/1117lre/most_normal_bbq_dinner_in_hanoi_universities_be/"/>
+        <updated>2023-02-13T12:57:29.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/NervePopular246  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just wanna share with you a beautiful sunset on Hương River.]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/1117gcx/just_wanna_share_with_you_a_beautiful_sunset_on/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/1117gcx/just_wanna_share_with_you_a_beautiful_sunset_on/"/>
+        <updated>2023-02-13T12:49:23.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/lanhuevietnam  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does vietnamese people feel about half vietnamese persons?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11170m0/how_does_vietnamese_people_feel_about_half/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11170m0/how_does_vietnamese_people_feel_about_half/"/>
+        <updated>2023-02-13T12:25:26.000Z</updated>
+        <summary type="html"><![CDATA[I’m half vietnamese and half white, I’m curious about this because I’ve never felt much connection to vietnam. Sometimes I think of working on that, but then I don’t really know if I would be “accepted” or just always be seen on as a foreigner (which I am but you know, I’m not 100% foreign)
+ Sorry if this is not suitable for this sub
+    submitted by    /u/Kristine8465  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I didn't know he was Vietnamese! I am so glad for his sauce, one of the few good sauces I could find in Canada.]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11149jf/i_didnt_know_he_was_vietnamese_i_am_so_glad_for/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11149jf/i_didnt_know_he_was_vietnamese_i_am_so_glad_for/"/>
+        <updated>2023-02-13T09:31:18.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/datvm  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Decency Shown by N'Black Barbershop in Phan Thiet, Vietnam]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11147ge/common_decency_shown_by_nblack_barbershop_in_phan/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11147ge/common_decency_shown_by_nblack_barbershop_in_phan/"/>
+        <updated>2023-02-13T09:27:25.000Z</updated>
+        <summary type="html"><![CDATA[As an African American a source of stress is just getting basic services you are use to having access to in the states. 
+ Since leaving Texas no one has cared for my hair like my sister, Shamonica Alexander, Trina Stoker and Andise Altine, two stylist I've been seeing for years.
+ Last Sunday. I had my hair braided in Vietnam by a woman from the Congo who pretty much tried her damnest to pull all the hair out of my scalp into too tight cornrows. I had to take them down two days later. 
+ Well, I don't do my own hair and without my trusted hair stylists to rescue the tangled mess. I had a temper tantrum and cut my hair off. I initially wanted to shave it but I only had scissors. 
+ Today, I looked for a salon to make me look more presentable but literally had people just flat out deny me service. 
+ It took three attempts and a couple of salons to get someone to shape my hair but finally got this kind man to agree to it at N'Black Barbershop in Phan Thiet, Vietnam
+ He was gentle. He didn't tear through my hair but most of all I felt respected. I'm super grateful to him. 
+ Haven't had much luck today getting someone to give me a manicure or pedicure. Will save that for another day. 
+ N'Black Barbershop
+    submitted by    /u/Expating  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny orange ants]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/1112nqq/tiny_orange_ants/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/1112nqq/tiny_orange_ants/"/>
+        <updated>2023-02-13T07:44:59.000Z</updated>
+        <summary type="html"><![CDATA[I made a similar post about cockroaches in my previous apartment, I’ve moved and haven’t seen a single cockroach but today I opened my oatmeal (which had been tightly sealed) and it was full of these ants :( I’ve noticed a few of them crawling around before but paid them no mind - feel like I should do something about this now! What can I do/where can I buy something to sort this out? (Aka kill them)
+    submitted by    /u/lycheeparfait  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photo I took a few years ago]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/111269v/photo_i_took_a_few_years_ago/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/111269v/photo_i_took_a_few_years_ago/"/>
+        <updated>2023-02-13T07:13:11.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Suspicious-Ad-481  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tattoos? Rates?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/110zqk5/tattoos_rates/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/110zqk5/tattoos_rates/"/>
+        <updated>2023-02-13T04:49:45.000Z</updated>
+        <summary type="html"><![CDATA[Hi, 
+ I’m a Canadian who travelled from Malaysia, now going to Ho Chi Minh, Da Nang, and lastly Hanoi.
+ I’d consider myself very tattooed (both arms full, legs, and chest) from artists in Canada and some Malaysia. 
+ I can’t find a definitive guideline for appropriate pricing for tattoos. Can anyone shed some light on standard hourly rates? 
+ Thanks so much!
+    submitted by    /u/harambe4life69  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vietnam's cursed images #82]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/110viok/vietnams_cursed_images_82/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/110viok/vietnams_cursed_images_82/"/>
+        <updated>2023-02-13T01:07:40.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/GodBlessHentai  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So I made a little thing: How to make the best 8$ Vietnamese Pickled Pig Ear]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/110vgj1/so_i_made_a_little_thing_how_to_make_the_best_8/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/110vgj1/so_i_made_a_little_thing_how_to_make_the_best_8/"/>
+        <updated>2023-02-13T01:04:27.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Felix1502  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It's food time!! Do you know this Vietnamese food?! 😋😋😋]]></title>
         <id>https://www.reddit.com/r/VietNam/comments/110s6up/its_food_time_do_you_know_this_vietnamese_food/</id>
@@ -9895,271 +10306,6 @@ I understand the quality of usd is very important here; is there a place that wi
         <link href="https://www.reddit.com/r/VietNam/comments/10cldzt/thank_you_to_everyone_for_helping_me_i_found_the/"/>
         <updated>2023-01-15T14:38:06.000Z</updated>
         <summary type="html"><![CDATA[submitted by    /u/damiana8  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bruh I've heard this phrase my entire life and now my overanalysis ass is preventing me from going to sleep.]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10ci4d2/bruh_ive_heard_this_phrase_my_entire_life_and_now/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10ci4d2/bruh_ive_heard_this_phrase_my_entire_life_and_now/"/>
-        <updated>2023-01-15T11:59:14.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/MassiveFire  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Was it all fake?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10cgb1t/was_it_all_fake/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10cgb1t/was_it_all_fake/"/>
-        <updated>2023-01-15T10:11:59.000Z</updated>
-        <summary type="html"><![CDATA[Is the whole story about the girls being raped actually all made up?
- It is really fucked up if it is. It is not what real victims of rape in vn need...
-    submitted by    /u/Frangan_  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My drawing for the upcoming year of the cat]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10cdpl4/my_drawing_for_the_upcoming_year_of_the_cat/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10cdpl4/my_drawing_for_the_upcoming_year_of_the_cat/"/>
-        <updated>2023-01-15T07:28:37.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/covinjo  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On my way to Nha Trang these broke f… boys in their cars dine and dash a struggling rest stop family restaurant and to do that while driving Mercedes and bmws with tuned exhausts…. Smdh]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10cd1xw/on_my_way_to_nha_trang_these_broke_f_boys_in/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10cd1xw/on_my_way_to_nha_trang_these_broke_f_boys_in/"/>
-        <updated>2023-01-15T06:48:48.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/ResponsibleWolf5913  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tet Red Envelope]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10c8sk2/tet_red_envelope/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10c8sk2/tet_red_envelope/"/>
-        <updated>2023-01-15T03:03:04.000Z</updated>
-        <summary type="html"><![CDATA[Xin chao! It is a long time since I were last in Vietnam. I will be here for Tet and I have bought some red envelopes. 
- I would like to give some families/children of families I know some good luck Tet money. Please advise an appropriate amount per envelope / per family for this.
- Also, I believe there is something like a moon cake made from gelatinous rice or mung bean than that is also very traditional. 
- Please advice the name so I can buy. 
- Cam on. Chuc mung Nam moi con meo hai nghin hai ba! 🇻🇳 ✌️ 🕉
-    submitted by    /u/R4ndyM4r5h420  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[what is this wood? i see it everywhere in the north]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10c8byf/what_is_this_wood_i_see_it_everywhere_in_the_north/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10c8byf/what_is_this_wood_i_see_it_everywhere_in_the_north/"/>
-        <updated>2023-01-15T02:40:56.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/pizzavegano  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[just showing off how perfectly my cherry blossom branch hangs over the tv 🥰 happy new year everyone!]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10c6k9g/just_showing_off_how_perfectly_my_cherry_blossom/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10c6k9g/just_showing_off_how_perfectly_my_cherry_blossom/"/>
-        <updated>2023-01-15T01:17:37.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/EllieAz  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How can I(20F) impress my BF's (22M) parents when I meet them?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10c63l3/how_can_i20f_impress_my_bfs_22m_parents_when_i/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10c63l3/how_can_i20f_impress_my_bfs_22m_parents_when_i/"/>
-        <updated>2023-01-15T00:56:58.000Z</updated>
-        <summary type="html"><![CDATA[I'm Filipino so I have an inkling that we have similar cultures in terms of meeting elders and what not. What should I bring as a gift? I was thinking a Filipino desert but I can also just do a fruit basket.
- How would I address his parents? With Mister and Missus? Or is there a specific term? They are pretty traditional according to my BF, but he isn't close to them. 
- I want to put my best foot forward.
-    submitted by    /u/Sweaty-Guess9744  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wind Advisory issued January 14 at 4:26PM PST until January 15 at 12:00AM PST by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126630D188E8.WindAdvisory.126630D2B740CA.LOXNPWLOX.5e4005bcd3b3f03476bd6815eb25fbd8</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126630D188E8.WindAdvisory.126630D2B740CA.LOXNPWLOX.5e4005bcd3b3f03476bd6815eb25fbd8"/>
-        <updated>2023-01-15T00:26:00.000Z</updated>
-        <summary type="html"><![CDATA[...WIND ADVISORY REMAINS IN EFFECT UNTIL MIDNIGHT PST TONIGHT... * WHAT...Southwest to west winds 20 to 35 mph with gusts up to 50 mph expected. * WHERE...Antelope Valley. * WHEN...Until midnight PST tonight. * IMPACTS...Gusty winds and reduced visibility from blowing dust]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are there Vietnamese people in the us military?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10c4atc/are_there_vietnamese_people_in_the_us_military/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10c4atc/are_there_vietnamese_people_in_the_us_military/"/>
-        <updated>2023-01-14T23:37:53.000Z</updated>
-        <summary type="html"><![CDATA[Is it weird or bad that would want to join the us military as a Viet American? I haven't seen or heard of a Vietnamese us soldier before and it feels a little ironic considering the atrocities Vietnamese people have experienced because of the us military.
-    submitted by    /u/Conscious_Safe8134  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter Weather Advisory issued January 14 at 2:25PM PST until January 17 at 3:00AM PST by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA126630C5A1A4.WinterWeatherAdvisory.126630F1B0F0CA.LOXWSWLOX.ef25a4efa312ad237ace3e6e89711834</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126630C5A1A4.WinterWeatherAdvisory.126630F1B0F0CA.LOXWSWLOX.ef25a4efa312ad237ace3e6e89711834"/>
-        <updated>2023-01-14T22:25:00.000Z</updated>
-        <summary type="html"><![CDATA[...WINTER WEATHER ADVISORY REMAINS IN EFFECT UNTIL 3 AM PST TUESDAY... * WHAT...Moderate snow expected. Snow accumulations through Saturday night up to 3 inches below 7000 feet, except 5 to 10 inches above 7000 feet. Winds gusting as high as 50 mph. For Sunday night through Monday night, snow accumulations 5 to 10]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-car drive rental from Ho Chi Minh to Da Nang.]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10c1exs/selfcar_drive_rental_from_ho_chi_minh_to_da_nang/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10c1exs/selfcar_drive_rental_from_ho_chi_minh_to_da_nang/"/>
-        <updated>2023-01-14T21:58:51.000Z</updated>
-        <summary type="html"><![CDATA[My friend and I wanna go from Ho Chi Minh to Da Nang, we can't find a car rental for the drive. But more importantly, is it smart to me this road trip across the Eastern coast line? Any tips?
-    submitted by    /u/Chupaacabrra  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[need HELP with clever instagram flirtatous comment]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10bxm1w/need_help_with_clever_instagram_flirtatous_comment/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10bxm1w/need_help_with_clever_instagram_flirtatous_comment/"/>
-        <updated>2023-01-14T19:53:04.000Z</updated>
-        <summary type="html"><![CDATA[chào các bạn, so this girl i really like just posted on instagram and i was wondering what is something i could comment in viet that would be short and funny. i was thinking something like commenting the female equivalent of "lady killer" or like "got heatstroke looking at this." for context, we're both vietnamese and met at university in the United States and she was an international student when i was an american local but now she's back in vietnam. thanks in advance
-    submitted by    /u/SaigonShooter  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Booking Early for Visiting]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10bxjkb/booking_early_for_visiting/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10bxjkb/booking_early_for_visiting/"/>
-        <updated>2023-01-14T19:50:11.000Z</updated>
-        <summary type="html"><![CDATA[We're planning to visit Vietnam in late march for a couple of weeks, we want to spend a week in Hanoi and a week in Ho Chi Minh. I'd kind of rather play things by ear when we get there, book our flights and hotels now and then when we get there do some things like river tour or an overnight cruise. But I'm not sure how crucial it is to book those things in advance. When we get there, can we talk to the hotel about booking a cruise or a guided tour or will it be difficult to locate those with short notice?
-    submitted by    /u/arlittell  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is it a bad idea for two people to go from Hoi An to My Son Sanctuary on a 50cc bike.]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10bvhd8/is_it_a_bad_idea_for_two_people_to_go_from_hoi_an/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10bvhd8/is_it_a_bad_idea_for_two_people_to_go_from_hoi_an/"/>
-        <updated>2023-01-14T18:27:00.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/MrManmrswoman  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shipping suits from Hoi An internationally]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10buacc/shipping_suits_from_hoi_an_internationally/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10buacc/shipping_suits_from_hoi_an_internationally/"/>
-        <updated>2023-01-14T17:38:44.000Z</updated>
-        <summary type="html"><![CDATA[Does anyone here have experience with having shipped a suit from Hoi An with one of the tailors here? If so, do you pay customs and duties when you receive it back home? I’m wondering if I just deal with it and carry a few suits for the next 3.5 months, or if it makes sense to pay the shipping to Canada and then potentially pay the customs and duties on it. 
- I’m not sure how the process works, but it seems like this can be quite an expensive endeavour. Any advice would be appreciated! 
- Thanks!
-    submitted by    /u/Mpiga_Mapepe  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Story of the Cat zodiac?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10bu5jy/story_of_the_cat_zodiac/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10bu5jy/story_of_the_cat_zodiac/"/>
-        <updated>2023-01-14T17:33:11.000Z</updated>
-        <summary type="html"><![CDATA[Can anyone share the story of the Cat zodiac that they've heard from their family? 
- I've heard the word rabbit in mandarin sounds like the word cat in Vietnamese but I've also heard folk tales about how the Cat tricked the fast rabbit that the banquet was somewhere else so the cat took its place.
- Just wanted to hear people's story so I can share.
-    submitted by    /u/tuandotcom  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grab availability in HCMC, Hanoi, Halong Bay, and Hoi An]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10bta6h/grab_availability_in_hcmc_hanoi_halong_bay_and/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10bta6h/grab_availability_in_hcmc_hanoi_halong_bay_and/"/>
-        <updated>2023-01-14T16:58:42.000Z</updated>
-        <summary type="html"><![CDATA[Hello! I'm currently planning on a trip to Vietnam and thinking through transportation around the city- specifically grab availability to and from my hotels to the airport. Some of my hotels do offer airport transportation, but I can't figure out if their quoted prices are a serious upcharge compared to Grab.
- I've been to other countries before where ride share apps are available, but cars are limited (eg, it takes 30-40 minutes to get a car and the car cancels multiple times.) Is this a cause for concern with Grab in Vietnam?
- Hoping to ask for your insight about transportation and the reliability, availability, and pricing of Grab in:
-  
-Saigon Airport to District 3 around 11pm: Are cars available at this time? What is the ballpark of the cost for this?
- Hanoi airport to old town: I believe I've read on a Reddit thread that the car picking you up is not the one the app promised. Is this still the case? What would the pricing be?
- Halong Bay port to Van Don Airport: This is the one I'm worried about the most. Is Grab availability quick here? If not, does anyone have recommendations on how to get to the airport? Any companies you use that you recommend?
- Da Nang Airport to Hoi An: Are grabs available and reliable here? What is the ballpark of the cost for this?
-  
-As a female, my primary concern is safety, reliability, and flexibility. Our group is 3 people: will this change the type of car we need for Grab?
- Thank you so much for any insight you can give on any of these cities and your experiences in transportation here! I really really appreciate it.
-    submitted by    /u/PurpleTreeLeaves  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HELP! Vietnam to Laos 🙏🏼]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10bryph/help_vietnam_to_laos/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10bryph/help_vietnam_to_laos/"/>
-        <updated>2023-01-14T16:03:42.000Z</updated>
-        <summary type="html"><![CDATA[Is there a bus from Hoi An, Da Nang or Hue bound to Pakse? Or do you guys know the easiest way to get to Siem Reap from Da Nang? Plane is out of the options. I prefer bus or train. Thank you! ☺️
-    submitted by    /u/tepta  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do I help?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10bqq6h/how_do_i_help/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10bqq6h/how_do_i_help/"/>
-        <updated>2023-01-14T15:12:10.000Z</updated>
-        <summary type="html"><![CDATA[I've been travelling around Vietnam as a foreigner and it's killing me how there are so many elderly walking around working. Some to the point of collecting recyclables.
- Does anyone have thoughts on what can I do to help and raise awareness? There's a stigma going on to not help them for fear of scams or something but wth... they are doing what they are doing because they need the money or it's their livelihood. 
- What's especially bothering me are the tourists! Like what are you doing bargaining with the locals? You have the privilege and luxury of travelling well and stuff, paying a little extra and giving them a better life. 
- Sorry, I was venting a little bit back to the topic, what can I do to help? I've been giving money here and there and it's endless. I'm buying stuff I don't need and I don't know what to do.
-    submitted by    /u/booak55  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I dont know if i should laugh or cry lol, this is my school’s math test and its the first thing i saw when i click the link]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10bot6b/i_dont_know_if_i_should_laugh_or_cry_lol_this_is/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10bot6b/i_dont_know_if_i_should_laugh_or_cry_lol_this_is/"/>
-        <updated>2023-01-14T13:46:38.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/NotReallyBizarre  
  [link]   [comments]]]></summary>
         <author>
             <name>Vietnam</name>
