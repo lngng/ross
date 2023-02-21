@@ -12,6 +12,46 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637170FC0.HighSurfAdvisory.126637431F70CA.LOXCFWLOX.86a20ab18fdcd2aa7755095c6cffc929",
+          "author": null,
+          "description": "...HIGH SURF ADVISORY IN EFFECT FROM 8 PM TUESDAY TO 3 AM PST THURSDAY... * WHAT...Large breaking waves of 6 to 10 feet with local sets to 14 feet and dangerous rip currents. Highest across west-facing beaches. Surf will peak overnight Tuesday into early Wednesday morning.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637170FC0.HighSurfAdvisory.126637431F70CA.LOXCFWLOX.86a20ab18fdcd2aa7755095c6cffc929",
+          "publishedOn": "2023-02-20T22:24:00.000Z",
+          "wordCount": 254,
+          "title": "High Surf Advisory issued February 20 at 2:24PM PST until February 23 at 3:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637165184.AirQualityAlert.1266372596E4CA.LOXAQALOX.ce9610407cbd6364d8a50af0c7c3acee",
+          "author": null,
+          "description": "...AIR QUALITY ALERT DUE TO ELEVATED PARTICULATE MATTER LEVELS FROM WINDBLOWN DUST... The Imperial County APCD has issued an air quality alert due to increased particulate matter from blowing dust. The air quality alert is in effect Tuesday afternoon and evening. In areas directly impacted by high levels of windblown dust, limit",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637165184.AirQualityAlert.1266372596E4CA.LOXAQALOX.ce9610407cbd6364d8a50af0c7c3acee",
+          "publishedOn": "2023-02-20T17:37:00.000Z",
+          "wordCount": 333,
+          "title": "Air Quality Alert issued February 20 at 9:37AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637158B14.HighWindWatch.126637345260CA.LOXNPWLOX.5ed8c4951c86c22f19d7099069cbf39e",
+          "author": null,
+          "description": "...HIGH WIND WATCH REMAINS IN EFFECT FROM TUESDAY EVENING THROUGH LATE TUESDAY NIGHT... * WHAT...Northwest winds 30 to 45 mph with damaging gusts up to 65 mph possible. * WHERE...Antelope Valley, Catalina and Santa Barbara Islands, Santa Barbara County Southwestern Coast, Santa Ynez Mountains",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637158B14.HighWindWatch.126637345260CA.LOXNPWLOX.5ed8c4951c86c22f19d7099069cbf39e",
+          "publishedOn": "2023-02-20T12:29:00.000Z",
+          "wordCount": 303,
+          "title": "High Wind Watch issued February 20 at 4:29AM PST until February 22 at 6:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637155C34.WinterStormWatch.1266376F3880CA.LOXWSWLOX.11f08fc5e8d62d3e477d971c69f45c77",
+          "author": null,
+          "description": "...WINTER STORM WATCH IN EFFECT FROM TUESDAY EVENING THROUGH SATURDAY AFTERNOON... * WHAT...Heavy snow accumulations. Wind gusts up to 70 mph with dangerous wind chills. * WHERE...Ventura County Mountains and Los Angeles County Mountains.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637155C34.WinterStormWatch.1266376F3880CA.LOXWSWLOX.11f08fc5e8d62d3e477d971c69f45c77",
+          "publishedOn": "2023-02-20T11:09:00.000Z",
+          "wordCount": 168,
+          "title": "Winter Storm Watch issued February 20 at 3:09AM PST until February 25 at 4:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126636CABEA4.FrostAdvisory.126636D91300CA.LOXNPWLOX.197eed94f2c2f95c80e23a1ad043225f",
           "author": null,
           "description": "...FROST ADVISORY IN EFFECT FROM 1 AM TO 8 AM PST THURSDAY... * WHAT...Temperatures as low as 32 will result in frost formation. Isolated locations could drop to as low as 30. * WHERE...Portions of southwest California. * WHEN...From 1 AM to 8 AM PST Thursday. * IMPACTS...Frost can damage sensitive plants and harm pets if",
@@ -730,66 +770,6 @@
           "wordCount": 285,
           "title": "Wind Advisory issued January 22 at 1:03PM PST until January 23 at 2:00PM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314BDEE0CA.LOXNPWLOX.b0fdda1775f3ff86383d45394b96eaee",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 8 AM TO 6 PM PST SUNDAY... ...HIGH WIND WARNING REMAINS IN EFFECT FROM 6 PM SUNDAY TO 2 PM PST MONDAY... * WHAT...For the High Wind Warning, northeast winds 35 to 45 mph with gusts up to 70 mph expected. For the Wind Advisory, north winds 20 to 30 mph with gusts up to 50 mph expected.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314BDEE0CA.LOXNPWLOX.b0fdda1775f3ff86383d45394b96eaee",
-          "publishedOn": "2023-01-21T22:22:00.000Z",
-          "wordCount": 226,
-          "title": "Wind Advisory issued January 21 at 2:22PM PST until January 22 at 6:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.HighWindWarning.1266314EEC20CA.LOXNPWLOX.3d7b7ab7f0cd197fac5353fd66521893",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 8 AM TO 6 PM PST SUNDAY... ...HIGH WIND WARNING REMAINS IN EFFECT FROM 6 PM SUNDAY TO 2 PM PST MONDAY... * WHAT...For the High Wind Warning, northeast winds 35 to 45 mph with gusts up to 70 mph expected. For the Wind Advisory, north winds 20 to 30 mph with gusts up to 50 mph expected.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.HighWindWarning.1266314EEC20CA.LOXNPWLOX.3d7b7ab7f0cd197fac5353fd66521893",
-          "publishedOn": "2023-01-21T22:22:00.000Z",
-          "wordCount": 229,
-          "title": "High Wind Warning issued January 21 at 2:22PM PST until January 23 at 2:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314EEC20CA.LOXNPWLOX.dbe28af3c26bcaf36b5c061e689cd333",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 8 AM SUNDAY TO 2 PM PST MONDAY... * WHAT...North winds 25 to 35 mph with gusts up to 50 mph expected. * WHERE...Santa Clarita Valley. * WHEN...From 8 AM Sunday to 2 PM PST Monday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314EEC20CA.LOXNPWLOX.dbe28af3c26bcaf36b5c061e689cd333",
-          "publishedOn": "2023-01-21T22:22:00.000Z",
-          "wordCount": 152,
-          "title": "Wind Advisory issued January 21 at 2:22PM PST until January 23 at 2:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314EEC20CA.LOXNPWLOX.127d9d8c35b99ff71b316bee648b6b7d",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 6 PM SUNDAY TO 2 PM PST MONDAY... * WHAT...North to northeast winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Central Ventura County Valleys, Southeastern Ventura County Valleys, Santa Monica Mountains, Los Angeles County San",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314EEC20CA.LOXNPWLOX.127d9d8c35b99ff71b316bee648b6b7d",
-          "publishedOn": "2023-01-21T22:22:00.000Z",
-          "wordCount": 225,
-          "title": "Wind Advisory issued January 21 at 2:22PM PST until January 23 at 2:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314EEC20CA.LOXNPWLOX.0564c0ce23d59f806dffe0ca83ea837b",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT FROM 6 PM SUNDAY TO 2 PM PST MONDAY... * WHAT...Northeast winds 20 to 30 mph with gusts up to 45 mph expected. * WHERE...Malibu Coast. * WHEN...From 6 PM Sunday to 2 PM PST Monday. * IMPACTS...Gusty winds will blow around unsecured objects and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631307038.WindAdvisory.1266314EEC20CA.LOXNPWLOX.0564c0ce23d59f806dffe0ca83ea837b",
-          "publishedOn": "2023-01-21T22:22:00.000Z",
-          "wordCount": 148,
-          "title": "Wind Advisory issued January 21 at 2:22PM PST until January 23 at 2:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631304860.BeachHazardsStatement.1266314CC940CA.LOXCFWLOX.50f8b6f984a09a8f016a19b84f5a20d4",
-          "author": null,
-          "description": "...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH SUNDAY EVENING... * WHAT...Minor beach erosion and minor tidal overflow. * WHERE...Catalina and Santa Barbara Islands, Santa Barbara County Southwestern Coast, Santa Barbara County Southeastern Coast, Malibu Coast and Los Angeles County Beaches.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126631304860.BeachHazardsStatement.1266314CC940CA.LOXCFWLOX.50f8b6f984a09a8f016a19b84f5a20d4",
-          "publishedOn": "2023-01-21T21:20:00.000Z",
-          "wordCount": 247,
-          "title": "Beach Hazards Statement issued January 21 at 1:20PM PST until January 23 at 12:00AM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -798,6 +778,206 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/117mz3d/draft_beers_and_egg_coffee_in_hcm/",
+          "author": null,
+          "description": "Anybody know good/recommend draft beers in hcm?\n I prefer not in bui vien\n Also is there any cafe that serve egg coffee in hcm?\n Thanks in advance\n    submitted by    /u/lovedonthate2020  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/117mz3d/draft_beers_and_egg_coffee_in_hcm/",
+          "publishedOn": "2023-02-20T22:43:15.000Z",
+          "wordCount": 14418,
+          "title": "draft beers and egg coffee in hcm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/117mgc3/cannabis_in_vietnam/",
+          "author": null,
+          "description": "Hey guys\n I‘ll Soon Travel To Vietnam and Want To Know How is your Relation To Cannabis? \n I Know its Hardly punished By the Gouvernement if they catch you. Does this Happen often? Is the Police Looking especially for weed smokers? It is Hard To Buy ? Or do i Go better By Staying a Month away from it?\n    submitted by    /u/Klutzy_Juice2370  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/117mgc3/cannabis_in_vietnam/",
+          "publishedOn": "2023-02-20T22:22:27.000Z",
+          "wordCount": 14169,
+          "title": "Cannabis in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/117hncl/question/",
+          "author": null,
+          "description": "Tôi là một người Mỹ đến thăm Nha Trang sớm. có ai có mẹo hoặc thông tin nào có thể hữu ích không?\n    submitted by    /u/Mindless_Knowledge73  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/117hncl/question/",
+          "publishedOn": "2023-02-20T19:12:51.000Z",
+          "wordCount": 14360,
+          "title": "Question",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/117fks2/housing_market_in_hcmc/",
+          "author": null,
+          "description": "I have a few questions about the housing market in HCMC. I’m really just asking out of curiosity since I can’t actually purchase a SFR in Vietnam. Reading about Seoul’s fucked-up housing situation kind of freaks me out so I’m kind of curious about what’s happening in HCMC. \n My aunt “recently” sold their childhood house in D3 of HCMC for ~$500K USD. This is just what I overheard so I could honestly be mistaken, but this seems like a crazy amount for someone in VN to purchase considering the average annual salary of someone in HCMC. The only thing that stands out about this house to me is that it’s unlike the standard tall, narrow row houses with 4+ floors and had two floors, was much “wider” than it was tall, and had a backyard. It was a little out of place relative to the other structures around it. \n Is this “standard” pricing throughout most of HCMC? Sorry, I know this is a particularly stupid question since HCMC is massive. \n Do most people in HCMC “dream” about purchasing single family residences or has the goal shifted to purchasing a nice condo? Another family member told me that you can reasonably expect a newer condo to go for about ~$80K USD which still seems disproportionately high for the average salary, but I don’t know. \n Who is still able to purchase a “house” or a “condo”? \n Would you say the majority of people in HCMC today were born and raised there or moved there in the last 20 or so years?\n    submitted by    /u/lostnowlostlater  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/117fks2/housing_market_in_hcmc/",
+          "publishedOn": "2023-02-20T17:53:32.000Z",
+          "wordCount": 15474,
+          "title": "Housing market in HCMC?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/117f7ph/warming_blanketthrow_advice/",
+          "author": null,
+          "description": "My wife is traveling to Ha Noi in March and this is our fourth trip to places in Vietnam. Last time she was in Ha Noi she was cold at night. I know. I know. It isn’t very cold… but she wants to know if there is a market or store there that sells warming blankets that you put on a bed and plug into the wall outlet? Where would she get that?\n    submitted by    /u/NormalCriticism  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/117f7ph/warming_blanketthrow_advice/",
+          "publishedOn": "2023-02-20T17:40:50.000Z",
+          "wordCount": 14440,
+          "title": "Warming blanket/throw advice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1177m78/g%C3%B3c_kh%E1%BA%A3o_s%C3%A1t/",
+          "author": null,
+          "description": "submitted by    /u/ComradeH_VIE  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1177m78/g%C3%B3c_kh%E1%BA%A3o_s%C3%A1t/",
+          "publishedOn": "2023-02-20T14:11:06.000Z",
+          "wordCount": 14727,
+          "title": "[GÓC KHẢO SÁT]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1176kny/vietnams_ridiculously_weird_plans_left_national/",
+          "author": null,
+          "description": "submitted by    /u/JoJo-Bizarre-1997  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1176kny/vietnams_ridiculously_weird_plans_left_national/",
+          "publishedOn": "2023-02-20T13:24:38.000Z",
+          "wordCount": 15269,
+          "title": "Vietnam's ridiculously weird plans left national side missed out FIFA days as Vietnam won't play any friendly in March whereas other Southeast Asian nations have already confirmed opponents for it.",
+          "imageUrl": "https://external-preview.redd.it/TdP9VvgbA1nCHizTUtHlq3B1pAmHZ2ltNulSng5HGYQ.jpg?auto=webp&v=enabled&s=f969fe220ca6b08cc236729d416304587e3db7b0"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1175bik/part_1/",
+          "author": null,
+          "description": "submitted by    /u/Opposite_Interest844  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1175bik/part_1/",
+          "publishedOn": "2023-02-20T12:23:06.000Z",
+          "wordCount": 15580,
+          "title": "Part 1",
+          "imageUrl": "https://preview.redd.it/09b3kf94odja1.jpg?auto=webp&v=enabled&s=93ea4f22d66ce5f1cba108710c8c1c7098b52460"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1173fc6/how_to_unlock_my_samsung_android_viettel_phone/",
+          "author": null,
+          "description": "How do I unlock my phone? \n I have a Samsung Galaxy A52 Android phone running on Viettel. I'm planning to travel to the US and I want to us my phone with one of the carriers there. I checked T-Mobile and my phone's technology and band appear to be compatible. But I don't know if my phone is unlocked, or how to unlock it.\n I bought it in Danang from one of the big electronic stores. There are three A52 models. Mine is the regular A52 that does not support 5G. Model SM-A525F/DS.\n Thanks\n    submitted by    /u/RanyDaze2  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1173fc6/how_to_unlock_my_samsung_android_viettel_phone/",
+          "publishedOn": "2023-02-20T10:30:59.000Z",
+          "wordCount": 14575,
+          "title": "How to unlock my Samsung Android / Viettel phone",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1172gn7/vietnamese_cover_of_the_rain_by_orange_juice_jones/",
+          "author": null,
+          "description": "Hello friends- a friend and I have both realized we have some recollection of a cover of \"The Rain\" by Orange Juice Jones in Vietnamese existing, and that it was not a freak fever dream from our childhood.\n We are desperate to find it because it is exactly what you would expect from similar covers. (Thai Tai's \"Never Gonna Give You Up\" cover is peak 90s cheesy and unexpected.) I am actively combing through my playlists and discography to find it, and am wondering if the song goes by a different title in Vietnamese.\n I recall it was Trung Hanh or someone similar who sang it, but I cannot accurately recall.\n Thanks in advance,\n Keru\n    submitted by    /u/kerubimm  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1172gn7/vietnamese_cover_of_the_rain_by_orange_juice_jones/",
+          "publishedOn": "2023-02-20T09:27:50.000Z",
+          "wordCount": 14574,
+          "title": "Vietnamese cover of \"The Rain\" by Orange Juice Jones",
+          "imageUrl": "https://external-preview.redd.it/RhTLLaJnaWsnOmIDsQwIV4qYFfxW6sxwUFkUEkPRJyA.jpg?auto=webp&v=enabled&s=f7bb7232d30a6854f96a03407d7e9828f7578fcf"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1171ui1/when_you_just_really_hate_that_gold_city/",
+          "author": null,
+          "description": "submitted by    /u/AccomplishedFlight90  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1171ui1/when_you_just_really_hate_that_gold_city/",
+          "publishedOn": "2023-02-20T08:46:33.000Z",
+          "wordCount": 14398,
+          "title": "When you just really hate that gold city",
+          "imageUrl": "https://preview.redd.it/hhci73chlcja1.jpg?auto=webp&v=enabled&s=8e698ca1e573e42118ca242ba85bf3a6624d1aed"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11719w0/saigonese_use_pay_for_goods_by_leaves_instead_of/",
+          "author": null,
+          "description": "This kind of market is only held once a year in Saigon \n https://e.vnexpress.net/photo/trend/saigon-market-where-you-pay-with-leaves-instead-of-money-4572749.html\n    submitted by    /u/ifeelitcomingbabe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11719w0/saigonese_use_pay_for_goods_by_leaves_instead_of/",
+          "publishedOn": "2023-02-20T08:08:35.000Z",
+          "wordCount": 14336,
+          "title": "Saigonese use pay for goods by leaves instead of money at market",
+          "imageUrl": "https://external-preview.redd.it/op2S_eQwo0GKsPGXfwW1J_lwIk6bF52ClxGevGrsNHU.jpg?auto=webp&v=enabled&s=d98cbca454b8f07ed0dd046c7f75d3fcfd7cd53a"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1170o17/the_making_of_a_coconut_oil_tycoon/",
+          "author": null,
+          "description": "https://e.vnexpress.net/news/companies/the-making-of-a-coconut-oil-tycoon-4571050.html\n    submitted by    /u/VanThanh1801  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1170o17/the_making_of_a_coconut_oil_tycoon/",
+          "publishedOn": "2023-02-20T07:29:42.000Z",
+          "wordCount": 14773,
+          "title": "The making of a coconut oil tycoon",
+          "imageUrl": "https://external-preview.redd.it/FuxAvsmAw27ffkTgbmUVzTcng_jMVW28utoPKfEtX8k.jpg?auto=webp&v=enabled&s=123253e8da87fae6600b4dadf4a768016a68cc54"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/116xljp/the_origins_of_lowtrust_culture_in_vietnamese/",
+          "author": null,
+          "description": "Many shops require you to forfeit your bag when you walk in, or to put it in a locker.\n Many shops tape up your bag with sticky tape when you buy something.\n Some shops staple your receipt to the bag.\n etc.\n  \nMy question is not why such practices exist (presumably all are somehow intended to minimize theft) and what they might indicate about society---that has been discussed here before.\n Instead, my question is where and how they originated. Can anybody shed light on where, how and when these practices became widespread in VN---and how they spread to become ubiquitous across the country?\n (Obviously these practices are not all unique to VN; that's irrelevant.)\n    submitted by    /u/legatrixx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/116xljp/the_origins_of_lowtrust_culture_in_vietnamese/",
+          "publishedOn": "2023-02-20T04:27:33.000Z",
+          "wordCount": 14927,
+          "title": "The origins of low-trust culture in Vietnamese shops",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/116xfz4/lets_hear_it_from_you_guys_tank_843_or_tank_390/",
+          "author": null,
+          "description": "submitted by    /u/honeybadger0099  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/116xfz4/lets_hear_it_from_you_guys_tank_843_or_tank_390/",
+          "publishedOn": "2023-02-20T04:19:07.000Z",
+          "wordCount": 15433,
+          "title": "Lets hear it from you guys. Tank 843 or Tank 390, which one do you thick was the first to enter the Saigon Presidential Palace on 30 April 1975? I found conflicting accounts.",
+          "imageUrl": "https://preview.redd.it/8hklaegvr9ja1.png?auto=webp&v=enabled&s=8348fefee908710acc94e5e9cb22ae522e55f859"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/116wmma/sagon/",
+          "author": null,
+          "description": "submitted by    /u/Deadcatkao  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/116wmma/sagon/",
+          "publishedOn": "2023-02-20T03:33:48.000Z",
+          "wordCount": 14323,
+          "title": "#Sagon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/116v9h7/is_it_offensive_to_leave_our_home_altars_bare/",
+          "author": null,
+          "description": "I'm long-term renting a house here in VN and like most other houses there is a large-ish altar built in to a wall (complete with switched yellow lights) and another altar above the kitchen hearth. \n I'm not Vietnamese and so the concept of ancestor veneration is totally foreign to me, but I appreciate that it's a part of the culture here. In my own house though, I really don't care. So the kitchen alter is currently holding spices, and the main home alter is bare (I was thinking it'd be good for books and knickknacks).\n My question: Am I going to offend someone or put them off if they visit my house? Am I exposing myself to some supernatural peril? I've previously lived in places with a mezuzah and Mary in a clamshell and don't see how this is different, but my landlady is nice and if using an alter as a spice rack is disrespectful I don't want to rock the boat.\n    submitted by    /u/Savings_Courage1589  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/116v9h7/is_it_offensive_to_leave_our_home_altars_bare/",
+          "publishedOn": "2023-02-20T02:23:43.000Z",
+          "wordCount": 15791,
+          "title": "Is it offensive to leave our home altars bare?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/116v43p/what_do_you_guys_think_about_thuy_nga_paris_by/",
+          "author": null,
+          "description": "I am Vietnamese American. I was born in the United States, to Vietnamese Immigrants. Paris By Night for a long long time was my only cultural string to my heritage. I learned everything about Vietnamese culture from them.\n As I understand however, Thuy Nga has been struggling to expand it's audience base. The younger generation especially in the US is not as tied into the immediate aftermath of the Vietnam War so those older songs ( aren't that appealing ). DVD sales are useless now. And the \" Young \" Singers that Thuy Nga has; well for one thing, they're not that good at singing, and they're not \" Young \". One of Thuy Nga's \" Young \" Singers, Diem Suong is 33 years old. And Nhu Loan is 41. \n Enter Myra Tran. She was not recruited by Thuy Nga. But rather, came to them through American Idol. She's now ( so far at least ) doing pretty well in Vietnam, while having some success in the US with Paris By Night.\n ​\n What do you guys think ? Can Thuy Nga adapt to new audience through Myra Tran ?\n    submitted by    /u/Prestigious_Fun_3495  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/116v43p/what_do_you_guys_think_about_thuy_nga_paris_by/",
+          "publishedOn": "2023-02-20T02:16:00.000Z",
+          "wordCount": 16251,
+          "title": "What do you guys think about Thuy Nga Paris By Night's decision to have Myra Tran ( or Lady May ) collaborate with them ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/116utlb/foreign_tourist_hospitalized_after_being_bitten/",
+          "author": null,
+          "description": "submitted by    /u/Sad_Year5694  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/116utlb/foreign_tourist_hospitalized_after_being_bitten/",
+          "publishedOn": "2023-02-20T02:01:34.000Z",
+          "wordCount": 15798,
+          "title": "Foreign tourist hospitalized after being bitten by dog in Nha Trang",
+          "imageUrl": "https://external-preview.redd.it/QTgaw8F2Ivq-MHq-Ez4MyJE6ZsWP5UZhtgjvIovogz4.jpg?auto=webp&v=enabled&s=9b8d2b7193a62bce262f9c3e891e17203add299e"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/116tq2m/vietnams_cursed_images_83/",
+          "author": null,
+          "description": "submitted by    /u/GodBlessHentai  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/116tq2m/vietnams_cursed_images_83/",
+          "publishedOn": "2023-02-20T01:08:47.000Z",
+          "wordCount": 14626,
+          "title": "#Vietnam's cursed images #83",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/116sfrz/i_was_just_selected_as_one_of_the_winners_for_the/",
           "author": null,
@@ -7097,336 +7277,6 @@
           "wordCount": 14202,
           "title": "Happy new year from my little family. My husband is Chinese so we compromised",
           "imageUrl": "https://preview.redd.it/sb8y2p2n2nda1.jpg?auto=webp&v=enabled&s=0094830db95b95c0b6408d80cde3696c239b37ca"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10ihbl8/up_into_the_mountains_somewhere_near_phong_nha/",
-          "author": null,
-          "description": "submitted by    /u/shahoust  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10ihbl8/up_into_the_mountains_somewhere_near_phong_nha/",
-          "publishedOn": "2023-01-22T11:10:13.000Z",
-          "wordCount": 14188,
-          "title": "Up into the mountains… somewhere near Phong Nha",
-          "imageUrl": "https://preview.redd.it/8snjwthocmda1.jpg?auto=webp&v=enabled&s=8f9186f943fbcfba832dfc040a07060c7a80cf5c"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10iha2a/cursed_warning_sign/",
-          "author": null,
-          "description": "submitted by    /u/Routine_Storm_9597  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10iha2a/cursed_warning_sign/",
-          "publishedOn": "2023-01-22T11:07:31.000Z",
-          "wordCount": 14628,
-          "title": "Cursed warning sign",
-          "imageUrl": "https://preview.redd.it/r7x6sp27cmda1.jpg?auto=webp&v=enabled&s=126a8d4bb3c3b31d0aa6bd271e3e51cbfc2d5d6a"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10igmx4/new_anti_theft_device/",
-          "author": null,
-          "description": "submitted by    /u/larchpharkus  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10igmx4/new_anti_theft_device/",
-          "publishedOn": "2023-01-22T10:27:36.000Z",
-          "wordCount": 14097,
-          "title": "New anti theft device",
-          "imageUrl": "https://preview.redd.it/0tlp5tljnkda1.jpg?auto=webp&v=enabled&s=a05a16a528ed9e481cbad180bb0c7bd63590069e"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10ig7zx/we_traveled_70km_to_sg_yesterday_and_this_guy_was/",
-          "author": null,
-          "description": "submitted by    /u/datvm  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10ig7zx/we_traveled_70km_to_sg_yesterday_and_this_guy_was/",
-          "publishedOn": "2023-01-22T10:01:06.000Z",
-          "wordCount": 14377,
-          "title": "We traveled 70km to SG yesterday and this guy was in my jacket for the whole trip",
-          "imageUrl": "https://external-preview.redd.it/TO-r8BjcU8lxkM9GHxj_XLVLSBKx5O2MDiKjyc7EX6g.jpg?auto=webp&v=enabled&s=5aee8f9c41b7fd7a05c0c61bda4b426a7ce78bd1"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10id1jh/greetings_vietnam_happy_lunar_new_year_of_the_cat/",
-          "author": null,
-          "description": "submitted by    /u/chunkycow  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10id1jh/greetings_vietnam_happy_lunar_new_year_of_the_cat/",
-          "publishedOn": "2023-01-22T06:30:29.000Z",
-          "wordCount": 14098,
-          "title": "Greetings, Vietnam! Happy Lunar New Year of the cat from my grumpy princess Fara",
-          "imageUrl": "https://preview.redd.it/kpc6m2brykda1.jpg?auto=webp&v=enabled&s=83ca2a6ef6a9873d8ea2319063f6376d68b45f91"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10ich8g/ha_long_bay_cruise/",
-          "author": null,
-          "description": "Day 3\n    submitted by    /u/KayHue  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10ich8g/ha_long_bay_cruise/",
-          "publishedOn": "2023-01-22T05:56:24.000Z",
-          "wordCount": 14147,
-          "title": "Ha Long Bay Cruise",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10icg7w/bin_linh/",
-          "author": null,
-          "description": "Day 2 in Vietnam\n    submitted by    /u/KayHue  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10icg7w/bin_linh/",
-          "publishedOn": "2023-01-22T05:54:39.000Z",
-          "wordCount": 14104,
-          "title": "Bin Linh",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10icesz/hanoi/",
-          "author": null,
-          "description": "My favourite part of Vietnam.\n    submitted by    /u/KayHue  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10icesz/hanoi/",
-          "publishedOn": "2023-01-22T05:52:09.000Z",
-          "wordCount": 14111,
-          "title": "Hanoi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10iblrl/help_me_stop_embarrassing_myself/",
-          "author": null,
-          "description": "Foreigner here. I go to my wife's hometown pretty often, so for the last four years, I've joined in a lot of celebrations and ran into a lot of the same faces. The \"anh\"s and \"chú\"s still really like to drink with me and I'm always sort of a VIP at gatherings despite being more of an introvert and not good in large gatherings.\n My problem: a lot of these guys think it's so fun to ask me what their names are in front of everyone, and more often than not, I don't remember. It's always the same super embarrassing moment when I'm racking my brain to think of this guy's name while everyone is either cringing or laughing at me. And then they tell me their name but because I'm so mortified, I just can't even remember it later even if I make a mental note. My Vietnamese is intermediate, but a lot of these guys in the village have names that I don't know the meanings of, so hard to draw connections...\n This is why gatherings in my wife's hometown are not fun for me. I'm always on edge, and when I sit down around a \"mâm\", I need to look around and see if there's anyone I don't know or remember and try to listen for their name in conversation. \n So what should I do to stop looking like such an asshole who can't be bothered to learn people's name and how to better diffuse the situation when it inevitably happens that I don't know a name?\n    submitted by    /u/sillymanbilly  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10iblrl/help_me_stop_embarrassing_myself/",
-          "publishedOn": "2023-01-22T05:04:31.000Z",
-          "wordCount": 17390,
-          "title": "help me stop embarrassing myself",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10ibigk/happy_tet/",
-          "author": null,
-          "description": "submitted by    /u/Paddy32  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10ibigk/happy_tet/",
-          "publishedOn": "2023-01-22T04:59:46.000Z",
-          "wordCount": 14074,
-          "title": "Happy Tet",
-          "imageUrl": "https://preview.redd.it/ovwy4ztkikda1.jpg?auto=webp&v=enabled&s=0a1b7762c77da58a5b2c84db551f9c3747ee5ba9"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10ibg3a/jesus_has_a_cat_now/",
-          "author": null,
-          "description": "submitted by    /u/No-Relief-6397  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10ibg3a/jesus_has_a_cat_now/",
-          "publishedOn": "2023-01-22T04:55:51.000Z",
-          "wordCount": 14190,
-          "title": "Jesus has a cat now",
-          "imageUrl": "https://preview.redd.it/x9gooppvhkda1.jpg?auto=webp&v=enabled&s=bbb5bd28e39e6ed64c48321f9581a46077e43cc4"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10ibf91/vietnam_1st_day_of_every_tet_holiday/",
-          "author": null,
-          "description": "submitted by    /u/Hordesoldier  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10ibf91/vietnam_1st_day_of_every_tet_holiday/",
-          "publishedOn": "2023-01-22T04:54:33.000Z",
-          "wordCount": 14874,
-          "title": "Vietnam, 1st day of every Tet holiday",
-          "imageUrl": "https://preview.redd.it/1hux1eonhkda1.jpg?auto=webp&v=enabled&s=732179d354aa720b8ae7b66a552361d5b6a1c977"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10i7x01/one_of_the_paintings_i_got_from_gallery_180_in/",
-          "author": null,
-          "description": "submitted by    /u/Unixus89  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10i7x01/one_of_the_paintings_i_got_from_gallery_180_in/",
-          "publishedOn": "2023-01-22T01:49:58.000Z",
-          "wordCount": 14440,
-          "title": "One of the paintings I got from gallery 180 in hoi an",
-          "imageUrl": "https://preview.redd.it/2cdtt30qkjda1.jpg?auto=webp&v=enabled&s=a6e50da87c93e7c1b8b34a655386053e7ed03ee3"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10i6u79/2_weeks_in_vietnam_in_march_sapa_ha_giang_loop/",
-          "author": null,
-          "description": "Wow... this is probably an impossible question to answer, but we're planning our 2 week trip to Vietnam March 7-21 and after accounting for Hanoi (3ish days), Hoi An (3ish days), Ninh Binh (2ish days), I feel like we can only include 1 of these 'adventure' places to not feel rushed. If you HAD to pick 1 (maaaybe 2) of these experiences, what's your pick?\n 3ish days to trek in Sapa\n 4 days motorbiking the Ha Giang Loop\n 3 days with a guided cave expedition in Phong Nha\n 3 days motorbiking/trekking in Dalat\n Some background info: my wife and I are in our late 20's and love combining city life, food, culture, and nature/adventure on our trips. If anything, it's hard for us to 'chill' and slow down while traveling, but we're certainly trying to embody that on this trip more than others :)\n    submitted by    /u/human_raisedbyhumans  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10i6u79/2_weeks_in_vietnam_in_march_sapa_ha_giang_loop/",
-          "publishedOn": "2023-01-22T00:58:00.000Z",
-          "wordCount": 14371,
-          "title": "2 weeks in Vietnam in March: Sapa, Ha Giang Loop, Phong Nha, or Dalat?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10i6ebu/happy_lunar_new_year_ch%C3%BAc_gia_%C4%91%C3%ACnh_rvietnam_n%C4%83m/",
-          "author": null,
-          "description": "submitted by    /u/minhdang2107  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10i6ebu/happy_lunar_new_year_ch%C3%BAc_gia_%C4%91%C3%ACnh_rvietnam_n%C4%83m/",
-          "publishedOn": "2023-01-22T00:36:45.000Z",
-          "wordCount": 14124,
-          "title": "Happy Lunar New Year 🧧Chúc gia đình r/VietNam năm mới vạn sự như ý",
-          "imageUrl": "https://preview.redd.it/yor1nrym7jda1.jpg?auto=webp&v=enabled&s=e80c4fb74d9d1df5680037c2faad9568d575f341"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10i61fj/flying_with_cat_to_vietnam_from_canada/",
-          "author": null,
-          "description": "I plan to live in Vietnam for 6 months later this year, and hope to bring my cat with me. I will be flying from Canada to Vietnam. With a brief google search I've found that as long as my cat fits in a carry on bag under my seat, has her rabies shot, documents with her history of vaccines, and a vet approved letter she should be able to fly and enter the country with me. \n I'd love to know if anyone can share their experience travelling with a pet to Vietnam and if I am missing any information. Thank you!\n    submitted by    /u/Fine_Visit5264  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10i61fj/flying_with_cat_to_vietnam_from_canada/",
-          "publishedOn": "2023-01-22T00:19:45.000Z",
-          "wordCount": 14296,
-          "title": "Flying with cat to Vietnam from Canada",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10i5js4/cha_da/",
-          "author": null,
-          "description": "Hello,\n Does anyone know where I can find similar tea to make Hanoi style cha da in Canada?\n    submitted by    /u/hackindarts9  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10i5js4/cha_da/",
-          "publishedOn": "2023-01-21T23:57:21.000Z",
-          "wordCount": 14187,
-          "title": "Cha da",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10i56t9/nha_trang_travel_suggestions/",
-          "author": null,
-          "description": "I will be traveling to Nha Trang for the first time in October. What are some things that are a must know? (things to do, travel suggestions for first-timers, things to avoid) \n I am from the USA, so I am nervous about culturally offending locals from my ignorance, so I want to study up on some basic things to do or not to do. Thank you!\n    submitted by    /u/Illustrious-Visual53  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10i56t9/nha_trang_travel_suggestions/",
-          "publishedOn": "2023-01-21T23:40:39.000Z",
-          "wordCount": 14203,
-          "title": "Nha Trang Travel Suggestions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10i56ij/ly_thi_ninh_on_youtube_does_anyone_know_about_her/",
-          "author": null,
-          "description": "submitted by    /u/Icy-Accountant-312  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10i56ij/ly_thi_ninh_on_youtube_does_anyone_know_about_her/",
-          "publishedOn": "2023-01-21T23:40:17.000Z",
-          "wordCount": 14129,
-          "title": "Ly Thi Ninh on YouTube does anyone know about her? I’m American 🇺🇸 and find her content Absolutely Fantastic https://youtube.com/@lythininh9664 thanks 🙏🏻",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10i4n6i/tet_culture/",
-          "author": null,
-          "description": "Just wanted to have a bit of historical and cultural knowledge regarding tet. What sort of cuisine do you make? What is the history of it? Any help would be greatly appreciated!!\n    submitted by    /u/Alice8Ft  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10i4n6i/tet_culture/",
-          "publishedOn": "2023-01-21T23:15:45.000Z",
-          "wordCount": 14133,
-          "title": "tet culture?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10hyskt/would_you_retire_in_vietnam/",
-          "author": null,
-          "description": "Obviously if the government allowed expats, foreigners, Viet Kieus, etc. to have a retirement visa blah blah blah.\n Would you retire in Vietnam and why?\n View Poll\n    submitted by    /u/Independent-Claim195  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10hyskt/would_you_retire_in_vietnam/",
-          "publishedOn": "2023-01-21T19:05:18.000Z",
-          "wordCount": 14530,
-          "title": "Would you retire in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10hy3kd/from_uk_to_vi%E1%BB%87t_nam_ch%C3%BAc_m%E1%BB%ABng_n%C4%83m_m%E1%BB%9Bi/",
-          "author": null,
-          "description": "submitted by    /u/TeHNeutral  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10hy3kd/from_uk_to_vi%E1%BB%87t_nam_ch%C3%BAc_m%E1%BB%ABng_n%C4%83m_m%E1%BB%9Bi/",
-          "publishedOn": "2023-01-21T18:36:49.000Z",
-          "wordCount": 14088,
-          "title": "From UK to Việt Nam... Chúc mừng năm mới!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10hxvr9/what_is_this_dish_called_and_what_are_the/",
-          "author": null,
-          "description": "submitted by    /u/oswander  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10hxvr9/what_is_this_dish_called_and_what_are_the/",
-          "publishedOn": "2023-01-21T18:27:37.000Z",
-          "wordCount": 14407,
-          "title": "What is this dish called and what are the ingredients?",
-          "imageUrl": "https://preview.redd.it/h4zjnqrsdhda1.jpg?auto=webp&v=enabled&s=4e4620f1652d56405b455e5d0b57d15306f2b445"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10hxh80/n%C4%83m_m%E1%BB%9Bi_ch%C3%BAc_mn_b%E1%BA%A7u_tr%E1%BB%9Di_s%E1%BB%A9c_kh%E1%BB%8Fe_bi%E1%BB%83n_c%E1%BA%A3_t%C3%ACnh/",
-          "author": null,
-          "description": "submitted by    /u/Wikier2Wikious  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10hxh80/n%C4%83m_m%E1%BB%9Bi_ch%C3%BAc_mn_b%E1%BA%A7u_tr%E1%BB%9Di_s%E1%BB%A9c_kh%E1%BB%8Fe_bi%E1%BB%83n_c%E1%BA%A3_t%C3%ACnh/",
-          "publishedOn": "2023-01-21T18:10:22.000Z",
-          "wordCount": 14135,
-          "title": "Năm mới chúc mn bầu trời sức khỏe, biển cả tình thương, đại dương tình bạn, sự nghiệp sáng ngời, gia đình thịnh vượng nhoaaa:3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10hwvei/tree/",
-          "author": null,
-          "description": "submitted by    /u/ISwearIWontUseZalgo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10hwvei/tree/",
-          "publishedOn": "2023-01-21T17:45:39.000Z",
-          "wordCount": 14077,
-          "title": "Tree :)",
-          "imageUrl": "https://preview.redd.it/9g3siq8qofda1.jpg?auto=webp&v=enabled&s=78f621062ce33a939f38d0bde27ce6df169aeb95"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10hw86v/please_help_me_an_ignorant_canadian_do_something/",
-          "author": null,
-          "description": "Hello! Please help me (39F and Canadian) do something kind for my Vietnamese immigrant neighbours (late 20s M/F and 3F) for Lunar New Year tomorrow.\n They are such good neighbours! They made me pho when I had surgery and they feed my children homemade spring rolls. One time the Ba Noi was visiting from Vietnam and she made me shrimp in banana leaves but I didn’t know how to eat it. I tried to ask the Ba Noi but she doesn’t speak English so I just tried to take a bite out of the banana leaf. The Ba Noi laughed and laughed and showed me how to unwrap them and eat the shrimp.\n Their little 3F comes over to play with my kids almost every day and we just love her so much. Her parents work so hard — six days a week and long hours. They are such good people and I’m so happy to know them. \n Anyhow, tomorrow is Lunar New Year and I know they usually have a big party with their Vietnamese friends and set off fireworks. \n I read that usually you give gifts of money in red envelopes for Lunar New Year. Would that be appropriate for me, their white Canadian neighbour, to bring over tomorrow?\n My two concerns are that I don’t want them to feel that they have to invite me to their party, reciprocate the gift or make them uncomfortable. Also I don’t want to accidentally do something unlucky.\n Thank you Reddit for any advice you can give me!\n    submitted by    /u/CABJames  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10hw86v/please_help_me_an_ignorant_canadian_do_something/",
-          "publishedOn": "2023-01-21T17:17:58.000Z",
-          "wordCount": 15107,
-          "title": "Please help me, an ignorant Canadian, do something kind for my Vietnamese neighbours",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10hw6gp/mildly_infuriating/",
-          "author": null,
-          "description": "submitted by    /u/AmateurLord  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10hw6gp/mildly_infuriating/",
-          "publishedOn": "2023-01-21T17:15:56.000Z",
-          "wordCount": 14082,
-          "title": "Mildly Infuriating",
-          "imageUrl": "https://preview.redd.it/7vmmmnky0hda1.jpg?auto=webp&v=enabled&s=af8ef0dacddf6016b0c95630e79ea55355dedcc1"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10hvt93/happy_lunar_new_year_of_the_cat/",
-          "author": null,
-          "description": "On behalf of the mod team of r/Vietnam, I would like to send you greetings for the Luna New Year, the year of the Cat! Wishing you a year fully loaded with happiness, good health, wealth and luck.\n Thank you for participating in r/Vietnam and keep the sub going daily. \n I would also like to send special thanks to the members who have volunteered to spend their time and effort answering a lot of questions in the sub every day, whether it's easy or difficult. You are the heroes who don't wear capes, and I'm really, really grateful for having you guys here!\n Thay mặt cho mod team của r/Vietnam, mình xin gửi lời chúc mừng năm mới tới tất cả các thành viên của sub! Chúc mọi người một năm Quý Mão ngập tràn hạnh phúc, tài lộc, và may mắn!\n Cảm ơn các bạn đã tham gia vào sub và giữ cho nó hoạt động hàng ngày.\n Mình cũng rất biết ơn những thành viên đã tình nguyện bỏ thời gian công sức của các bạn ra để trả lời vô số câu hỏi được gửi vào sub mỗi ngày. Cảm ơn rất nhiều những đóng góp thầm lặng của các bạn.\n P/S: Sorry if the sub seems a bit messy these days. Like other Vietnamese, I also have to prepare for Tet and enjoy the holiday with my family. Will come back to clean up the sub after a few days :P\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10hvt93/happy_lunar_new_year_of_the_cat/",
-          "publishedOn": "2023-01-21T17:00:17.000Z",
-          "wordCount": 14583,
-          "title": "Happy Lunar New Year, of the Cat!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10hvstv/ch%C3%BAc_m%E1%BB%ABng_xu%C3%A2n_n%C4%83m_m%E1%BB%9Bi_n%C4%83m_qu%C3%BD_m%C3%A3o_2023/",
-          "author": null,
-          "description": "submitted by    /u/GodBlessHentai  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10hvstv/ch%C3%BAc_m%E1%BB%ABng_xu%C3%A2n_n%C4%83m_m%E1%BB%9Bi_n%C4%83m_qu%C3%BD_m%C3%A3o_2023/",
-          "publishedOn": "2023-01-21T17:00:07.000Z",
-          "wordCount": 14124,
-          "title": "CHÚC MỪNG XUÂN NĂM MỚI NĂM QUÝ MÃO 2023!",
-          "imageUrl": "https://preview.redd.it/wbmly7t6ygda1.jpg?auto=webp&v=enabled&s=9331638db80a8df1d83afb33d0e9597615eea352"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10humor/ch%C3%BAc_m%E1%BB%ABng_n%C4%83m_meow/",
-          "author": null,
-          "description": "submitted by    /u/Danny1905  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10humor/ch%C3%BAc_m%E1%BB%ABng_n%C4%83m_meow/",
-          "publishedOn": "2023-01-21T16:09:03.000Z",
-          "wordCount": 14082,
-          "title": "Chúc mừng năm meow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10htipn/your_turn/",
-          "author": null,
-          "description": "submitted by    /u/antuan_ha  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10htipn/your_turn/",
-          "publishedOn": "2023-01-21T15:19:21.000Z",
-          "wordCount": 14852,
-          "title": "Your turn.",
-          "imageUrl": "https://preview.redd.it/ng2buukmyeda1.png?auto=webp&v=enabled&s=ad60ee6fb342b312a259f7aea94456ca75c42a4d"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10hrw8a/ch%C3%BAc_m%E1%BB%ABng_n%C4%83m_m%E1%BB%9Bi/",
-          "author": null,
-          "description": "Chúc tất cả mọi người 1 năm mới vui vẻ\n    submitted by    /u/glass_broken  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10hrw8a/ch%C3%BAc_m%E1%BB%ABng_n%C4%83m_m%E1%BB%9Bi/",
-          "publishedOn": "2023-01-21T14:00:47.000Z",
-          "wordCount": 14111,
-          "title": "Chúc mừng năm mới",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10hr9sx/random_shitposts_from_wikipedia_1/",
-          "author": null,
-          "description": "submitted by    /u/SnooAvocados9888  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10hr9sx/random_shitposts_from_wikipedia_1/",
-          "publishedOn": "2023-01-21T13:29:49.000Z",
-          "wordCount": 14074,
-          "title": "random shitposts from wikipedia 1",
-          "imageUrl": "https://preview.redd.it/qmkgyep4feda1.png?auto=webp&v=enabled&s=6de4efd1e7049249f6a8a38c495bcbe03595f8fb"
         }
       ]
     },
