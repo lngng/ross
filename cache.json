@@ -12,6 +12,106 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266376F4EC4.SpecialWeatherStatement.1266376F7124CA.LOXSPSLOX.eb054562fb09704fa2bce8ff1564ab22",
+          "author": null,
+          "description": "...A strong thunderstorm will impact portions of east central Los Angeles County through 545 PM PST... At 454 PM PST, Doppler radar was tracking a strong thunderstorm capable of producing a landspout near Long Beach, moving northeast at 15 mph. HAZARD...Landspouts, wind gusts up to 50 mph, and pea size hail.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266376F4EC4.SpecialWeatherStatement.1266376F7124CA.LOXSPSLOX.eb054562fb09704fa2bce8ff1564ab22",
+          "publishedOn": "2023-02-26T00:57:00.000Z",
+          "wordCount": 258,
+          "title": "Special Weather Statement issued February 25 at 4:57PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266376F462C.WinterWeatherAdvisory.1266377049F0CA.LOXWSWLOX.ecb78ab2d5f87192204f186934bebae3",
+          "author": null,
+          "description": "...WINTER WEATHER ADVISORY REMAINS IN EFFECT UNTIL 11 PM PST THIS EVENING... * WHAT...Moderate snow and icy roads expected. Additional snow accumulations of 1 to 3 inches in the foothills, and a dusting to 1 inch across the valley floor. * WHERE...Santa Clarita Valley.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266376F462C.WinterWeatherAdvisory.1266377049F0CA.LOXWSWLOX.ecb78ab2d5f87192204f186934bebae3",
+          "publishedOn": "2023-02-26T00:35:00.000Z",
+          "wordCount": 159,
+          "title": "Winter Weather Advisory issued February 25 at 4:35PM PST until February 25 at 11:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266376F462C.WinterWeatherAdvisory.1266377049F0CA.LOXWSWLOX.128ac2691b1c59bc5b28214465ca334e",
+          "author": null,
+          "description": "...WINTER WEATHER ADVISORY IN EFFECT UNTIL 11 PM PST THIS EVENING ABOVE 1200 FEET... * WHAT...Light to moderate snow expected through this evening, with a dusting to 2 inch accumulations for foothill elevations above 1200 feet, especially communities across the 210 corridor. There is also a chance that snow could mix down as low as 1000",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266376F462C.WinterWeatherAdvisory.1266377049F0CA.LOXWSWLOX.128ac2691b1c59bc5b28214465ca334e",
+          "publishedOn": "2023-02-26T00:35:00.000Z",
+          "wordCount": 213,
+          "title": "Winter Weather Advisory issued February 25 at 4:35PM PST until February 25 at 11:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266376F462C.WinterStormWarning.126637710D40CA.LOXWSWLOX.1530648a0951482315a4136a8e40bce0",
+          "author": null,
+          "description": "...WINTER STORM WARNING REMAINS IN EFFECT UNTIL 4 AM PST SUNDAY... * WHAT...Moderate snow and icy road conditions expected. Additional snow accumulations of 3 to 6 inches likely, highest in the San Gabriel mountains. For the Interstate 5 corridor, there could be an additional 1 to 3 inches of snow. * WHERE...Ventura County Mountains and Los Angeles County",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266376F462C.WinterStormWarning.126637710D40CA.LOXWSWLOX.1530648a0951482315a4136a8e40bce0",
+          "publishedOn": "2023-02-26T00:35:00.000Z",
+          "wordCount": 232,
+          "title": "Winter Storm Warning issued February 25 at 4:35PM PST until February 26 at 4:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266376F462C.WinterWeatherAdvisory.126637710D40CA.LOXWSWLOX.fc2ef3779cacd1a61568fe4db550919a",
+          "author": null,
+          "description": "...WINTER WEATHER ADVISORY REMAINS IN EFFECT UNTIL 4 AM PST SUNDAY... * WHAT...Moderate snow and icy roads expected. Additional snow accumulations of 1 to 3 inches in the foothills, and a dusting to 1 inch across the valley floor. * WHERE...Antelope Valley.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266376F462C.WinterWeatherAdvisory.126637710D40CA.LOXWSWLOX.fc2ef3779cacd1a61568fe4db550919a",
+          "publishedOn": "2023-02-26T00:35:00.000Z",
+          "wordCount": 154,
+          "title": "Winter Weather Advisory issued February 25 at 4:35PM PST until February 26 at 4:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663761E018.FloodWatch.1266376FADB0CA.LOXFFALOX.5c6b8baddc9e030bbc10f1586ed59978",
+          "author": null,
+          "description": "...FLOOD WATCH REMAINS IN EFFECT THROUGH THIS AFTERNOON... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...A portion of southwest California, including the following areas, Los Angeles County Beaches, Los Angeles County Inland Coast including Downtown Los Angeles, Los Angeles County Mountains, Los",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663761E018.FloodWatch.1266376FADB0CA.LOXFFALOX.5c6b8baddc9e030bbc10f1586ed59978",
+          "publishedOn": "2023-02-25T12:54:00.000Z",
+          "wordCount": 221,
+          "title": "Flood Watch issued February 25 at 4:54AM PST until February 25 at 7:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663761E018.FloodWatch.1266377022E0CA.LOXFFALOX.1fb29d3e8753fef7a176ae35f851b87a",
+          "author": null,
+          "description": "...FLOOD WATCH REMAINS IN EFFECT THROUGH THIS AFTERNOON... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...A portion of southwest California, including the following areas, Los Angeles County Beaches, Los Angeles County Inland Coast including Downtown Los Angeles, Los Angeles County Mountains, Los",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663761E018.FloodWatch.1266377022E0CA.LOXFFALOX.1fb29d3e8753fef7a176ae35f851b87a",
+          "publishedOn": "2023-02-25T12:54:00.000Z",
+          "wordCount": 253,
+          "title": "Flood Watch issued February 25 at 4:54AM PST until February 25 at 10:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663761E018.FloodWatch.1266377049F0CA.LOXFFALOX.1c19f8788a0e30e9a69c6b3d8fd85422",
+          "author": null,
+          "description": "...FLOOD WATCH REMAINS IN EFFECT THROUGH THIS AFTERNOON... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...A portion of southwest California, including the following areas, Los Angeles County Beaches, Los Angeles County Inland Coast including Downtown Los Angeles, Los Angeles County Mountains, Los",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663761E018.FloodWatch.1266377049F0CA.LOXFFALOX.1c19f8788a0e30e9a69c6b3d8fd85422",
+          "publishedOn": "2023-02-25T12:54:00.000Z",
+          "wordCount": 221,
+          "title": "Flood Watch issued February 25 at 4:54AM PST until February 25 at 11:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663761E018.FloodWatch.126637710D40CA.LOXFFALOX.6e1a6d14e8beecc8a0e831ff1af6bfcd",
+          "author": null,
+          "description": "...FLOOD WATCH REMAINS IN EFFECT THROUGH THIS AFTERNOON... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...A portion of southwest California, including the following areas, Los Angeles County Beaches, Los Angeles County Inland Coast including Downtown Los Angeles, Los Angeles County Mountains, Los",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663761E018.FloodWatch.126637710D40CA.LOXFFALOX.6e1a6d14e8beecc8a0e831ff1af6bfcd",
+          "publishedOn": "2023-02-25T12:54:00.000Z",
+          "wordCount": 217,
+          "title": "Flood Watch issued February 25 at 4:54AM PST until February 26 at 4:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663761E018.FloodWatch.1266377E7AC0CA.LOXFFALOX.ffc03e9d6affe27d17260203f21e1a92",
+          "author": null,
+          "description": "...FLOOD WATCH REMAINS IN EFFECT THROUGH THIS AFTERNOON... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...A portion of southwest California, including the following areas, Los Angeles County Beaches, Los Angeles County Inland Coast including Downtown Los Angeles, Los Angeles County Mountains, Los",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663761E018.FloodWatch.1266377E7AC0CA.LOXFFALOX.ffc03e9d6affe27d17260203f21e1a92",
+          "publishedOn": "2023-02-25T12:54:00.000Z",
+          "wordCount": 215,
+          "title": "Flood Watch issued February 25 at 4:54AM PST until February 26 at 4:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266375442F0.FlashFloodWarning.12663760E0A0CA.LOXFFSLOX.778074fade4a98cb5c726d86b8dabcfd",
           "author": null,
           "description": "...FLASH FLOOD WARNING REMAINS IN EFFECT UNTIL 10 PM PST THIS EVENING FOR LOS ANGELES COUNTY... At 332 PM PST, Heavy rainfall continues to spread across the warning area. Between 1 and 3 inches of rain have fallen. Additional rainfall amounts of 2 to 5 inches are possible in the warned area, where flash flooding is already occuring. Flash flooding will be",
@@ -1010,36 +1110,6 @@
           "wordCount": 201,
           "title": "Winter Weather Advisory issued January 28 at 1:44PM PST until January 30 at 10:00PM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266317CB600.WindAdvisory.12663188E7E0CA.LOXNPWLOX.dd3ba06ef1bd880a61a9d290a2f42cc1",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT UNTIL 6 PM PST THIS EVENING... ...HIGH WIND WARNING IS CANCELLED... * WHAT...Northeast winds 20 to 30 mph with gusts up to 45 mph. * WHERE...Santa Clarita Valley. * WHEN...Until 6 PM PST this evening. * IMPACTS...Gusty winds will blow around unsecured objects and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266317CB600.WindAdvisory.12663188E7E0CA.LOXNPWLOX.dd3ba06ef1bd880a61a9d290a2f42cc1",
-          "publishedOn": "2023-01-26T22:08:00.000Z",
-          "wordCount": 150,
-          "title": "Wind Advisory issued January 26 at 2:08PM PST until January 26 at 6:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266317CB600.WindAdvisory.12663188E7E0CA.LOXNPWLOX.12803a0593ceabf4f4d81bb5b1a25a89",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 6 PM PST THIS EVENING... * WHAT...Northeast winds 25 to 35 mph with gusts up to 50 mph expected. * WHERE...Central Ventura County Valleys, Southeastern Ventura County Valleys and Los Angeles County San Fernando Valley. * WHEN...Until 6 PM PST this evening.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266317CB600.WindAdvisory.12663188E7E0CA.LOXNPWLOX.12803a0593ceabf4f4d81bb5b1a25a89",
-          "publishedOn": "2023-01-26T22:08:00.000Z",
-          "wordCount": 186,
-          "title": "Wind Advisory issued January 26 at 2:08PM PST until January 26 at 6:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266317CB600.HighWindWarning.126631898420CA.LOXNPWLOX.2a36841afd5c3910f57b4126be640cb2",
-          "author": null,
-          "description": "...HIGH WIND WARNING REMAINS IN EFFECT UNTIL 10 PM PST THIS EVENING... * WHAT...Northeast winds 35 to 45 mph with gusts up to 70 mph expected. * WHERE...Los Angeles County Mountains and Santa Monica Mountains.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266317CB600.HighWindWarning.126631898420CA.LOXNPWLOX.2a36841afd5c3910f57b4126be640cb2",
-          "publishedOn": "2023-01-26T22:08:00.000Z",
-          "wordCount": 184,
-          "title": "High Wind Warning issued January 26 at 2:08PM PST until January 26 at 10:00PM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -1048,6 +1118,236 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11c18n1/fpt_telecom_or_viettel/",
+          "author": null,
+          "description": "So I'm an expat who's been living in HCMC since 2017 but have always lived in an apartment building, so I've never had to worry about the ISP I used for my internet. I'm moving into a house for the first time and have to get my own internet. I've noticed that my banking app has options to pay for Internet and the options are FPT and Viettel. Considering the recent state of the internet in my current apartment (undersea cable blah blah and all), I thought I'd ask which of these are the best option.\n    submitted by    /u/Kaizer_Sozayd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11c18n1/fpt_telecom_or_viettel/",
+          "publishedOn": "2023-02-26T01:02:31.000Z",
+          "wordCount": 14573,
+          "title": "FPT Telecom or Viettel?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11c0w33/thought_some_people_here_may_find_this_interesting/",
+          "author": null,
+          "description": "submitted by    /u/02cdubc20  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11c0w33/thought_some_people_here_may_find_this_interesting/",
+          "publishedOn": "2023-02-26T00:46:25.000Z",
+          "wordCount": 14429,
+          "title": "Thought some people here may find this interesting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bxfco/e_sv_t%C3%A0i_ch%C3%ADnh_c%C3%B3_3tr5_e_k_r%C3%A0nh_c%C3%B4ng_ngh%E1%BB%87_mnguoi/",
+          "author": null,
+          "description": "submitted by    /u/TuSieuNhanDo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bxfco/e_sv_t%C3%A0i_ch%C3%ADnh_c%C3%B3_3tr5_e_k_r%C3%A0nh_c%C3%B4ng_ngh%E1%BB%87_mnguoi/",
+          "publishedOn": "2023-02-25T22:16:03.000Z",
+          "wordCount": 14437,
+          "title": "E sv tài chính có 3tr5 , e k rành công nghệ , mnguoi chỉ giúp e điện thoại nào giá rẻ chơi game chụp hình ổn ạ , e cám ơn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bwwt3/shipping_a_ps5_from_us_to_hcmc/",
+          "author": null,
+          "description": "So I recently made a post about shipping an open-box ps4 to my cuz in HCMC using an independent Viet shipper here, and it got held up at customs. That’s what the shipper told me anyway. \n I’ve decided to ship her a brand new console in the box and everything. What shipping should I use to ensure that she’ll get it? I have UPS, FedEx, DHL, regular postal service. \n Any tips on filling out customs paperwork and stuff to make sure it gets through? \n If you’re wondering why I’m not giving her the money to just buy one, I got this ps5 as a gift for free so I can’t justify shelling out $500-600.\n Edit: extra words\n    submitted by    /u/Informal-Fig-7116  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bwwt3/shipping_a_ps5_from_us_to_hcmc/",
+          "publishedOn": "2023-02-25T21:54:36.000Z",
+          "wordCount": 14773,
+          "title": "Shipping a ps5 from US to HCMC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bwk15/hanoi_to_ho_chi_minh_in_2_weeks/",
+          "author": null,
+          "description": "Hanoi to Ho Chi Minh in 2 weeks! Going to be a whistle stop tour but what would you recommend to do in Vietnam… has anyone done this trip or vice versa in such little time? Open to activity, restaurant, drinks, food, travel recommendations, anything !! 🙂\n    submitted by    /u/potatotomato235  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bwk15/hanoi_to_ho_chi_minh_in_2_weeks/",
+          "publishedOn": "2023-02-25T21:40:02.000Z",
+          "wordCount": 14477,
+          "title": "Hanoi to Ho Chi Minh in 2 weeks..??!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bv0pu/history_of_vietnam_since_1945/",
+          "author": null,
+          "description": "submitted by    /u/MinecrafterDE15-1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bv0pu/history_of_vietnam_since_1945/",
+          "publishedOn": "2023-02-25T20:36:02.000Z",
+          "wordCount": 14858,
+          "title": "History of Vietnam since 1945",
+          "imageUrl": "https://external-preview.redd.it/28C9CEM7kQjqrLRz_Evedd6JEibpXhEl3syd-TKEwRk.png?format=pjpg&auto=webp&v=enabled&s=1cda91c5d1b8ab2f84d37e59da73a5ad4ffdf2d3"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bt3fp/free_english_speaking_practice/",
+          "author": null,
+          "description": "Hi there! My name is Michael. I'm a certified English teacher from the United States. I have an English language club!\n I'm looking for people who want to practice conversational English by talking about interesting topics and hanging out with people from all over the world in a small online group for FREE.\n 📷 We meet via Zoom for 1 hour and consists of 3 different rounds\n 📷 Each round has different cue questions and the groups are randomly mixed\n 📷 This isn't just about practicing English, but also about listening to different opinions and learning about different cultures in safe space\n 📷 Over 16 years old\n 📷 Minimum level : lower intermediate\n Please DM me if you are interested or have any qs!\n    submitted by    /u/ExplanationSuper2860  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bt3fp/free_english_speaking_practice/",
+          "publishedOn": "2023-02-25T19:17:16.000Z",
+          "wordCount": 14612,
+          "title": "Free english speaking practice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11brsw8/whats_this_called/",
+          "author": null,
+          "description": "submitted by    /u/HatodhaTyagi7  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11brsw8/whats_this_called/",
+          "publishedOn": "2023-02-25T18:22:59.000Z",
+          "wordCount": 14588,
+          "title": "What’s this called?",
+          "imageUrl": "https://preview.redd.it/mdjimmov4fka1.jpg?auto=webp&v=enabled&s=6ae9200f0f313de827345dabe8057bf9f5a11d2a"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bqafr/12000000_vnd/",
+          "author": null,
+          "description": "submitted by    /u/uniquelyurs2386  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bqafr/12000000_vnd/",
+          "publishedOn": "2023-02-25T17:21:25.000Z",
+          "wordCount": 14375,
+          "title": "12,000,000 VND",
+          "imageUrl": "https://preview.redd.it/g75wp2bwteka1.jpg?auto=webp&v=enabled&s=528cdb7e652ff4821e8219abb7ac934cc892056d"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11boxho/ng%E1%BA%A1i_giao_ti%E1%BA%BFp_th%C3%AC_n%C3%AAn_n%C3%B3i_g%C3%AC_%C4%91%E1%BB%83_gi%E1%BB%AF_ch%C3%A2n_ng%C6%B0%E1%BB%9Di/",
+          "author": null,
+          "description": "submitted by    /u/ZealousidealFriend51  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11boxho/ng%E1%BA%A1i_giao_ti%E1%BA%BFp_th%C3%AC_n%C3%AAn_n%C3%B3i_g%C3%AC_%C4%91%E1%BB%83_gi%E1%BB%AF_ch%C3%A2n_ng%C6%B0%E1%BB%9Di/",
+          "publishedOn": "2023-02-25T16:25:30.000Z",
+          "wordCount": 14501,
+          "title": "ngại giao tiếp thì nên nói gì để giữ chân người nói với mình hay crush",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bnqy4/best_scooter/",
+          "author": null,
+          "description": "Come on, I know you got favourites. Wave for me.\n    submitted by    /u/legatrixx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bnqy4/best_scooter/",
+          "publishedOn": "2023-02-25T15:34:28.000Z",
+          "wordCount": 14443,
+          "title": "Best scooter?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bnlbf/art_galleries_museums_cafes_and_film_related/",
+          "author": null,
+          "description": "hi i'm visiting ho chi minh city next month! please drop down your suggestions heheh\n    submitted by    /u/pilaksirena  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bnlbf/art_galleries_museums_cafes_and_film_related/",
+          "publishedOn": "2023-02-25T15:27:54.000Z",
+          "wordCount": 14428,
+          "title": "Art Galleries, Museums, Cafes, and Film related places/events/sites maybe?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bnkoo/_/",
+          "author": null,
+          "description": "submitted by    /u/Mehhhha  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bnkoo/_/",
+          "publishedOn": "2023-02-25T15:27:06.000Z",
+          "wordCount": 14374,
+          "title": "👋",
+          "imageUrl": "https://preview.redd.it/dnwm6snh9eka1.png?auto=webp&v=enabled&s=b6b3ac33862d33855b14c4ab1bba3704d02650ae"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bnc1c/hcmc_vr_shop/",
+          "author": null,
+          "description": "Hey All, I saw someone posting about shipping VR here but im debating to just buy local.\n Anyone into it? Im new to it however i have some cash to blow on a good setup.\n Anyone buy locally or suggest any good shops? Id rather not piece ship it internationally and if i dont have to rather not buy when i head to US and put it on the plane. \n I debated steams full setup and a new PC to run it. I am really going to focus on a realistic driver setup(minus the moving hydrolic chair stuff) and flight simulator to learn how to fly.\n Hanoi is ok to but prefer Saigon.\n Open to people commenting on setups also if they have experience since im a noob to it all\n    submitted by    /u/02cdubc20  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bnc1c/hcmc_vr_shop/",
+          "publishedOn": "2023-02-25T15:16:34.000Z",
+          "wordCount": 14628,
+          "title": "HCMC VR Shop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11blh1f/this_hotel_fines_you_for_smoking_or_durian/",
+          "author": null,
+          "description": "submitted by    /u/Tight-Juggernaut138  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11blh1f/this_hotel_fines_you_for_smoking_or_durian/",
+          "publishedOn": "2023-02-25T13:50:38.000Z",
+          "wordCount": 14933,
+          "title": "This hotel fines you for smoking or durian",
+          "imageUrl": "https://preview.redd.it/czkgt9o2vbka1.jpg?auto=webp&v=enabled&s=e7dca1afbb7541e8ac6106c7cc7fab4fdc9c5ed8"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bkimd/eps_20_b%C3%A0_r%E1%BB%8Ba_v%C5%A9ng_t%C3%A0u/",
+          "author": null,
+          "description": "submitted by    /u/Baosia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bkimd/eps_20_b%C3%A0_r%E1%BB%8Ba_v%C5%A9ng_t%C3%A0u/",
+          "publishedOn": "2023-02-25T13:02:21.000Z",
+          "wordCount": 14542,
+          "title": "Eps 20: Bà Rịa - Vũng Tàu",
+          "imageUrl": "https://preview.redd.it/yms77u9ojdka1.png?auto=webp&v=enabled&s=e4c28fa7039e3b26e0e2fb183a1ddf68adf8004d"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bk5ho/urgent_budget_hotel_within_d1/",
+          "author": null,
+          "description": "Hi Saigon Redditors, \n Any budget hotel you can recommend within D1? I am looking thru Booking right now but open to hear about personal reccomendations based on stay experience. I kinda need to move out of my rented place tomorrow. If you want the story I will oblige, but really need to find and book a place tonight. \n I just need a name that is it.\n Cam on!\n    submitted by    /u/SuchALoserYeah  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bk5ho/urgent_budget_hotel_within_d1/",
+          "publishedOn": "2023-02-25T12:43:01.000Z",
+          "wordCount": 14564,
+          "title": "Urgent: Budget hotel within D1?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bjmjj/ch%C3%A2u_%C4%91%E1%BB%91c_th%C3%A0nh_ph%E1%BB%91_ch%C3%A2u_%C4%91%E1%BB%91c/",
+          "author": null,
+          "description": "submitted by    /u/Mr_X_90s  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bjmjj/ch%C3%A2u_%C4%91%E1%BB%91c_th%C3%A0nh_ph%E1%BB%91_ch%C3%A2u_%C4%91%E1%BB%91c/",
+          "publishedOn": "2023-02-25T12:13:38.000Z",
+          "wordCount": 14384,
+          "title": "Châu Đốc (Thành phố Châu Đốc)",
+          "imageUrl": "https://preview.redd.it/qztf0t5ctbka1.jpg?auto=webp&v=enabled&s=e46ecc36d281e2ce4dcdc64dd788eeb1497e87f4"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bj7rf/riding_through_the_heart_of_saigon_vietnam_night/",
+          "author": null,
+          "description": "submitted by    /u/gig970  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bj7rf/riding_through_the_heart_of_saigon_vietnam_night/",
+          "publishedOn": "2023-02-25T11:50:29.000Z",
+          "wordCount": 14469,
+          "title": "Riding through the Heart of Saigon Vietnam: Night time Motorbike Tour in 4K",
+          "imageUrl": "https://external-preview.redd.it/DNeAfUA28djpjBfKF85oWunXWcUGHBpUmHyAlBYpjQM.jpg?auto=webp&v=enabled&s=253bd92b42f3055cf898177191fc66023e4adbe2"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bgo5j/need_recommendation_for_a_power_adapter/",
+          "author": null,
+          "description": "hey there,\n I am traveling to Vietnam next month from Australia. I am trying to figure out what kind of travel adapter I need but not having much luck. Was hoping someone on this thread might be able to point me in the right direction. Thank you in advance.\n    submitted by    /u/DiamondHelicopters  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bgo5j/need_recommendation_for_a_power_adapter/",
+          "publishedOn": "2023-02-25T09:11:24.000Z",
+          "wordCount": 15204,
+          "title": "Need recommendation for a power adapter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bektd/a_few_questions_about_ordering_things_from/",
+          "author": null,
+          "description": "I need to order a few unique accessories for a VR headset from abroad, and I've never in my life used websites like amazon/ubuy/etc. \n I'm not familiar with shipping to Vietnam and wanted to get some insights here from the people who have experience with this.\n Which service would you recommend (Amazon, etc.)? Would it be 100% reliable? What obstacles might exist there? And is it as easy as simply ordering on the website and waiting for delivery, or would I need to personally contact customs to pay any extra fees? \n I live in Central Vietnam so it would not be possible for me to go to Hanoi or HCMC to deal with customs.\n    submitted by    /u/Surpr1Ze  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bektd/a_few_questions_about_ordering_things_from/",
+          "publishedOn": "2023-02-25T06:58:51.000Z",
+          "wordCount": 16007,
+          "title": "A few questions about ordering things from overseas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11bcou5/hello_i_am_a_french_canadian_travelling_in/",
+          "author": null,
+          "description": "submitted by    /u/Slow-Salt-2282  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11bcou5/hello_i_am_a_french_canadian_travelling_in/",
+          "publishedOn": "2023-02-25T05:09:07.000Z",
+          "wordCount": 14815,
+          "title": "Hello, I am a French Canadian travelling in Vietnam and I was wondering if there is a place where I could use a secured computer to take care of my income tax report. Of course I will use all my private and sensitive informations so I insist on the cybersecurity part. Thanks a lot in advance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11b8apx/durian_overfarming_could_prompt_oversupply/",
+          "author": null,
+          "description": "submitted by    /u/VnExpressInt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11b8apx/durian_overfarming_could_prompt_oversupply/",
+          "publishedOn": "2023-02-25T01:30:40.000Z",
+          "wordCount": 14883,
+          "title": "Durian overfarming could prompt oversupply, ministry warns",
+          "imageUrl": "https://external-preview.redd.it/DcPybjSUGGARHAsQ0PJNweF_-jeW9R2oznkwc_mZqZU.jpg?auto=webp&v=enabled&s=0061d80dbcbe394d912d714ca95c8ec9538c4f71"
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/11b4vu6/cheaper_to_buy_laptop_before_moving_to_vn/",
           "author": null,
@@ -7357,236 +7657,6 @@
           "wordCount": 15774,
           "title": "How do people find such cheap accommodation in Vietnam?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10mk04c/paternity_test_in_vietnam/",
-          "author": null,
-          "description": "Where can I take my child to do a paternity test in Ho Chi Minh city\n    submitted by    /u/VanillaInevitable469  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10mk04c/paternity_test_in_vietnam/",
-          "publishedOn": "2023-01-27T12:49:07.000Z",
-          "wordCount": 14332,
-          "title": "paternity test in vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10mhdfw/stayed_at_my_aunts_house_in_go_vap_and_every/",
-          "author": null,
-          "description": "submitted by    /u/yodruw24  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10mhdfw/stayed_at_my_aunts_house_in_go_vap_and_every/",
-          "publishedOn": "2023-01-27T10:06:06.000Z",
-          "wordCount": 14463,
-          "title": "Stayed at my aunt's house in Go Vap and every floor had this at the same spot. What's this for?",
-          "imageUrl": "https://preview.redd.it/fevhtzqsplea1.jpg?auto=webp&v=enabled&s=12c474b544f36c3bb3b3ad6e2b9234985ea7ca2c"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10mgwba/hello_im_travelling_to_vietnam_in_february_i_have/",
-          "author": null,
-          "description": "Anyone else with coeliac disease or allergies to these ingredients have any experience they could share with me please? I’m currently working on a translation card so will take that with me. Are there any gluten free ‘on the go’ snacks you know of that I might otherwise avoid for fear of being ‘glutened’ etc… would just love any kind of help really! Thank you!\n    submitted by    /u/The_Eliza_Thornberry  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10mgwba/hello_im_travelling_to_vietnam_in_february_i_have/",
-          "publishedOn": "2023-01-27T09:32:13.000Z",
-          "wordCount": 17829,
-          "title": "Hello! I’m travelling to Vietnam in February - I have coeliac disease and cannot eat gluten, wheat, barley or rye.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10met7x/where_can_i_buy_these_chairs_in_hcmc/",
-          "author": null,
-          "description": "submitted by    /u/lafrazadacosmica  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10met7x/where_can_i_buy_these_chairs_in_hcmc/",
-          "publishedOn": "2023-01-27T07:08:11.000Z",
-          "wordCount": 14684,
-          "title": "Where can I buy these chairs in HCMC?",
-          "imageUrl": "https://preview.redd.it/ziyl6cx4cjea1.jpg?auto=webp&v=enabled&s=03ff7d5b5c5161593ac9dd23fe8ae6f65cfafe17"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10mdfbj/ozol_daily_do_these_need_to_be_dissolved_into/",
-          "author": null,
-          "description": "submitted by    /u/charliecowenn  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10mdfbj/ozol_daily_do_these_need_to_be_dissolved_into/",
-          "publishedOn": "2023-01-27T05:43:55.000Z",
-          "wordCount": 14468,
-          "title": "Ozol Daily - Do these need to be dissolved into cool boiling water or is fresh drinking water fine?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10mcsla/pleiku/",
-          "author": null,
-          "description": "I've been living in this lovely country for the past four years. Pleiku has been on my list for traveling for 2 years. I and 3 other friends decided to travel to Pleiku during Tết. Simply, Amazing. As an expat, I would highly recommend folks to travel to Pleiku. The people, food, nature/scenary, culture, history and weather-(depending on the time of year ofc))\n Would also love to hear people's experience about coming here pre and post covid:)!\n Chúc mừng năm quý mão các bạn ơi ♥️\n    submitted by    /u/SuccessfulLaugh4662  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10mcsla/pleiku/",
-          "publishedOn": "2023-01-27T05:07:57.000Z",
-          "wordCount": 14540,
-          "title": "Pleiku",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10mce2t/whats_the_name_of_this_insect_that_just_flew_into/",
-          "author": null,
-          "description": "submitted by    /u/ajplant  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10mce2t/whats_the_name_of_this_insect_that_just_flew_into/",
-          "publishedOn": "2023-01-27T04:46:01.000Z",
-          "wordCount": 15507,
-          "title": "What’s the name of this insect that just flew into my room?",
-          "imageUrl": "https://preview.redd.it/7b7vmnwo4kea1.jpg?auto=webp&v=enabled&s=ad7723d8a4ef7dabd2dab667684ef8d6645b90e3"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10m9uti/c%C3%B3_%C3%B4ng_n%C3%A0o_y%C3%AAu_xa_ki%E1%BB%83u_k%E1%BA%BB_nam_ng%C6%B0%E1%BB%9Di_b%E1%BA%AFc_m%C3%A0_%C4%91%E1%BA%BFn/",
-          "author": null,
-          "description": "submitted by    /u/Stunning_Worth_7294  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10m9uti/c%C3%B3_%C3%B4ng_n%C3%A0o_y%C3%AAu_xa_ki%E1%BB%83u_k%E1%BA%BB_nam_ng%C6%B0%E1%BB%9Di_b%E1%BA%AFc_m%C3%A0_%C4%91%E1%BA%BFn/",
-          "publishedOn": "2023-01-27T02:36:10.000Z",
-          "wordCount": 16396,
-          "title": "Có ông nào yêu xa kiểu kẻ nam người bắc mà đến được với nhau chưa 🥹 chia sẻ để tôi có thêm động lực với . Chứ tôi ở HN mà đang yêu bạn trong SG . Suy nghĩ nhiều vl .",
-          "imageUrl": "https://preview.redd.it/noc4j8vihjea1.jpg?auto=webp&v=enabled&s=f2aa1815be7add23fb9cdd06b8db8f98e278a08f"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10m7tre/renew_vietnamese_passport_in_the_us/",
-          "author": null,
-          "description": "My vietnam passport is about to expire and I would need to renew it. The problem is that I don’t live in SF, NY, pr Houston, and their website doesn’t really say enough information of the fees and other papers needed (if any). I tried to call them but they never picked up. Has anyone renewed their passport recently? Or know how to do it? Thank you\n    submitted by    /u/justaman219  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10m7tre/renew_vietnamese_passport_in_the_us/",
-          "publishedOn": "2023-01-27T00:56:44.000Z",
-          "wordCount": 14366,
-          "title": "Renew Vietnamese passport in the U.S?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10m7o4f/just_use_a_vpn_in_vietnam_it_would_make_the/",
-          "author": null,
-          "description": "I am not sure of the reason, but my internet connection is currently running at a very high speed since I connected to a VPN. \n x5 normal rate at least\n    submitted by    /u/noobgolang  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10m7o4f/just_use_a_vpn_in_vietnam_it_would_make_the/",
-          "publishedOn": "2023-01-27T00:49:09.000Z",
-          "wordCount": 14302,
-          "title": "Just use a VPN in Vietnam, it would make the internet faster",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10m48ce/summer_travel/",
-          "author": null,
-          "description": "Hello! My family are thinking of traveling to Ho Chi Minh in June from Los Angelos... When is the best time to buy the plane tickets? We are thinking of traveling through Eva Air. As of right now, the tickets are $1.4 roundtrip with a stop at Teipei, Taiwan. Any suggestions? Thank you!\n    submitted by    /u/hellokitty4lyfer  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10m48ce/summer_travel/",
-          "publishedOn": "2023-01-26T22:16:53.000Z",
-          "wordCount": 14327,
-          "title": "Summer Travel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10m3ll5/vietnamese_martial_arts/",
-          "author": null,
-          "description": "Hi! Is there any martial arts that are native to Vietnam, like Muay Thai is to Thailand? I haven't heard of any and I would love to learn more about them if they exist.\n Also, is martial arts just not very popular in Vietnam? It seems there aren't many pro boxers who come from Vietnam. Is martial arts not as deeply rooted in Vietnamese culture as places like Thailand, China, and Japan?\n    submitted by    /u/Pollo_Perpetuo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10m3ll5/vietnamese_martial_arts/",
-          "publishedOn": "2023-01-26T21:50:53.000Z",
-          "wordCount": 14852,
-          "title": "Vietnamese Martial Arts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10m0zax/vietjetair_flight_date_change/",
-          "author": null,
-          "description": "I need help. I booked two flights on odopo in Vietnam. Problem is that the months are switched, one is in February and the other one in March. Idk how this happened, maybe a mistake by the booking company idk.\n But odopo redirects me to change the date on the vietjetair site. How do I do this, I have the flight id but no account, does someone know how to change it?\n Thanks in advance:)\n    submitted by    /u/slava64  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10m0zax/vietjetair_flight_date_change/",
-          "publishedOn": "2023-01-26T20:01:57.000Z",
-          "wordCount": 14371,
-          "title": "Vietjetair flight date change",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10lzz1a/cost_of_complete_dentures/",
-          "author": null,
-          "description": "Hey All - I was just wondering what the cost of complete (upper and lower) dentures would cost. My parents are heading back to visit and I just wanted to gauge the avg price for them (her friend said 3k-4k for premium dentures). Thanks!\n    submitted by    /u/Elegant_Resist_3167  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10lzz1a/cost_of_complete_dentures/",
-          "publishedOn": "2023-01-26T19:20:04.000Z",
-          "wordCount": 14313,
-          "title": "Cost of complete dentures",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10lzt9n/vietnam_places_to_see/",
-          "author": null,
-          "description": "submitted by    /u/Polmeetsworld  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10lzt9n/vietnam_places_to_see/",
-          "publishedOn": "2023-01-26T19:13:31.000Z",
-          "wordCount": 14235,
-          "title": "Vietnam places to see",
-          "imageUrl": "https://external-preview.redd.it/VnZdvaQGDBvv5xu5xmS-9zZ_G4pW8RibqDSwienFsDU.jpg?auto=webp&v=enabled&s=aa5403cfd9b69ebd964d2448a99fdc49937c57e9"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10lwwit/hello_i_am_traveling_to_vietnam_with_a_nut/",
-          "author": null,
-          "description": "submitted by    /u/EffectiveReference84  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10lwwit/hello_i_am_traveling_to_vietnam_with_a_nut/",
-          "publishedOn": "2023-01-26T17:11:50.000Z",
-          "wordCount": 18123,
-          "title": "Hello, I am traveling to vietnam with a nut allergy. I have made these translations that should say: “I have a life threatening allergic reaction to all nuts, peanuts and nut oils. If I eat this food or food cooked with it I may die. Does this food contain nuts.” Can someone check the translation?",
-          "imageUrl": "https://preview.redd.it/lvb849ctogea1.jpg?auto=webp&v=enabled&s=858d511f37293f75dded2a7f33a07412874e0017"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10luxt7/_/",
-          "author": null,
-          "description": "submitted by    /u/Milk122001  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10luxt7/_/",
-          "publishedOn": "2023-01-26T15:51:04.000Z",
-          "wordCount": 14223,
-          "title": "🇻🇳",
-          "imageUrl": "https://external-preview.redd.it/-i6JK62B9BntVJ1rcMty7tOva4veZ3ETw_MRHZRke1M.png?format=pjpg&auto=webp&v=enabled&s=bab4b46ca11403a9bbc4448651fdc73b1fb162d5"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10luudv/vietnam_history_book_reccomendations/",
-          "author": null,
-          "description": "I'm looking for recommendations on the history of Vietnam from a Vietnamese perspective. In particular books covering 19th and 20th century (both, or either!) Must be available in English.\n Finding it very difficult to find books that are not memoirs of American soldiers! Very much want to read from a Vietnamese perspective.\n    submitted by    /u/kermithall  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10luudv/vietnam_history_book_reccomendations/",
-          "publishedOn": "2023-01-26T15:47:12.000Z",
-          "wordCount": 15414,
-          "title": "Vietnam History Book Reccomendations?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10luh8s/a_clever_way_of_roadside_refreshment_bar_owners/",
-          "author": null,
-          "description": "submitted by    /u/freewaytogo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10luh8s/a_clever_way_of_roadside_refreshment_bar_owners/",
-          "publishedOn": "2023-01-26T15:31:46.000Z",
-          "wordCount": 14468,
-          "title": "A clever way of roadside refreshment bar owners to prevent losing lighters",
-          "imageUrl": "https://preview.redd.it/891ka0tcpeea1.png?auto=webp&v=enabled&s=af0896d71ad10b76b75da5d6972863b2e1f4e769"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10ltb44/the_temples_at_my_son_sanctuary_are_fascinating/",
-          "author": null,
-          "description": "submitted by    /u/DropTop340  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10ltb44/the_temples_at_my_son_sanctuary_are_fascinating/",
-          "publishedOn": "2023-01-26T14:41:03.000Z",
-          "wordCount": 14274,
-          "title": "The temples at My Son Sanctuary are fascinating. Definitely worth a visit if you’re in Central Vietnam!",
-          "imageUrl": "https://external-preview.redd.it/Wm19j2MKafEIVcTKEOVqsUpME6qgg9thu_QceQSb-TM.jpg?auto=webp&v=enabled&s=39e871eb625964c6eef1b6c92ddc5edd37cc1ef9"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10lsic6/there_are_people_who_do_not_like_the_tao_quan/",
-          "author": null,
-          "description": "So the last time I actually watched it was 2020 but even before that I did not even pay attention to the show at all. There were way too many ads and the contents were not that good. I understand what they tried to refer to but I don't appreciate them much (mostly because the way they make jokes about events of the year do not solve anything and for me, normalizes all that shits); and yah, I do not find their jokes or \"deep\".\n BUT, I understand why some like it and that's great for them.\n What I am quite puzzled about is that some would go all the ways to look down on all those who don't like the show. Some would even make remarks and insults others over this.\n So please educate me, is there any thing else about the show that makes it \"sacred\"? or is it just some people being too close-minded?\n    submitted by    /u/Quiet-Damage5522  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10lsic6/there_are_people_who_do_not_like_the_tao_quan/",
-          "publishedOn": "2023-01-26T14:03:19.000Z",
-          "wordCount": 15099,
-          "title": "There are people who do not like the Tao Quan show anymore and Idk why some people made a big deal about it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10lsfb8/karaoke_bars_in_ha_noi_with_english_songs/",
-          "author": null,
-          "description": "Ha Noi locals kindly recommend Karaoke bars with a rich English song collection. We’re really keen to explore some on our visit. Thanks!\n    submitted by    /u/Traditional_Dig_1446  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10lsfb8/karaoke_bars_in_ha_noi_with_english_songs/",
-          "publishedOn": "2023-01-26T13:59:44.000Z",
-          "wordCount": 14396,
-          "title": "Karaoke bars in Ha Noi with English songs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10lsb8z/minoxidil_in_vietnam/",
-          "author": null,
-          "description": "Hey guys, I’ll be going to Vietnam regularly starting from next month. I was wondering if any of you is currently treating hair loss using oral minoxidil. If you do, could you recommend me where to buy it? I’d like to know hoping that it would be cheaper compared to where I live now. Thanks!\n    submitted by    /u/Bet3lgeus3  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10lsb8z/minoxidil_in_vietnam/",
-          "publishedOn": "2023-01-26T13:54:10.000Z",
-          "wordCount": 14336,
-          "title": "Minoxidil in Vietnam",
-          "imageUrl": null
         }
       ]
     },
@@ -8784,36 +8854,6 @@
           "wordCount": 2900,
           "title": "How to Use Vim – Tutorial for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/BB---Vim---A-Quick-Beginner-s-Guide.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/database-migration-golang-migrate/",
-          "author": "Rwitesh Bera",
-          "description": "Since its introduction, the programming language Go (also known as Golang) has become increasingly popular. It is known for its simplicity and efficient performance, similar to that of a lower-level language such as C++.  While working with a database, schema migration is one of the most important tasks that",
-          "link": "https://www.freecodecamp.org/news/database-migration-golang-migrate/",
-          "publishedOn": "2023-01-26T23:17:14.000Z",
-          "wordCount": 1573,
-          "title": "How to Perform Database Migrations using Go Migrate",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Blue-and-Pink-3D-Elements-Student-Part-Time-Graphic-Designer-Video-Resume-Talking-Presentation.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-switch-blockchains-on-metamask-with-javascript/",
-          "author": "Joshua Omobola",
-          "description": "With over 10,000 blockchains currently operating, there are endless possibilities for deploying your smart contracts.  For anybody to be able to use your Decentralized Application (DApp), they need to be connected to the blockchain where you've deployed your smart contract. This article will show you how to prompt your",
-          "link": "https://www.freecodecamp.org/news/how-to-switch-blockchains-on-metamask-with-javascript/",
-          "publishedOn": "2023-01-26T23:15:48.000Z",
-          "wordCount": 1357,
-          "title": "How to Switch Blockchains on MetaMask with JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Custom-Network--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/polymorphic-association-ruby-on-rails/",
-          "author": "Sampurna Chapagain",
-          "description": "Polymorphic association in Ruby on Rails refers to the type of active record association. From the Rails Guide [https://guides.rubyonrails.org/association_basics.html#polymorphic-associations] , it allows a single model to belong to more than one other model on a single association. This tutorial assumes that you have some knowledge of a few associations in",
-          "link": "https://www.freecodecamp.org/news/polymorphic-association-ruby-on-rails/",
-          "publishedOn": "2023-01-26T18:40:39.000Z",
-          "wordCount": 1320,
-          "title": "How to Use Polymorphic Associations in Ruby on Rails",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Add-a-subheading--2-.png"
         }
       ]
     }
