@@ -12,6 +12,16 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
+          "author": null,
+          "description": "",
+          "link": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
+          "publishedOn": "2023-03-07T01:07:31.000Z",
+          "wordCount": 35,
+          "title": "There are no active watches, warnings or advisories",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663C282F08.WindAdvisory.12663C34D6E0CA.LOXNPWLOX.c55345228dc70758da24a61e50a85bc8",
           "author": null,
           "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 10 PM PST THIS EVENING... * WHAT...Southwest to west winds 20 to 30 mph with gusts up to 45 mph expected. Isolated gusts to 55 mph in the foothills. * WHERE...Antelope Valley. * WHEN...Until 10 PM PST this evening. * IMPACTS...Gusty winds and reduced visibility from blowing dust",
@@ -1200,16 +1210,6 @@
           "wordCount": 198,
           "title": "Beach Hazards Statement issued February 05 at 11:33AM PST until February 07 at 4:00AM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126636308884.WinterWeatherAdvisory.12663640CAA0CA.LOXWSWLOX.9509bfaab7eeaad5bb614e8a4f93e2f1",
-          "author": null,
-          "description": "...WINTER WEATHER ADVISORY REMAINS IN EFFECT FROM 7 PM THIS EVENING TO 10 AM PST MONDAY... * WHAT...Moderate snow expected. Total snow accumulations of 1 to 3 inches, mainly on north facing slopes. Snow level around 4000 feet on Sunday evening, lowering to 3500 feet overnight into Monday morning. Northwest to north winds 25 to 40 mph",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126636308884.WinterWeatherAdvisory.12663640CAA0CA.LOXWSWLOX.9509bfaab7eeaad5bb614e8a4f93e2f1",
-          "publishedOn": "2023-02-05T11:45:00.000Z",
-          "wordCount": 322,
-          "title": "Winter Weather Advisory issued February 05 at 3:45AM PST until February 06 at 10:00AM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -1218,6 +1218,236 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11kj26s/i_recently_visited_the_central_and_south_vietnam/",
+          "author": null,
+          "description": "The most heart-warming aspect was in-spite of language barrier most people were always so helpful and had a smile on their faces. It has been 3 weeks now since I got back from Vietnam but I am already planning about my next trip to explore North Vietnam.\n I am seeking for some tips and suggestions to explore the North part of the country in 2-3 weeks.\n Please share the places which I must cover/visit during this trip. \n P.S. I love photography and so please suggest places which has potential for me to get some good memorable pictures.\n    submitted by    /u/5AM101  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11kj26s/i_recently_visited_the_central_and_south_vietnam/",
+          "publishedOn": "2023-03-07T00:12:34.000Z",
+          "wordCount": 14625,
+          "title": "I recently visited the Central and South Vietnam and I was mesmerized by the beauty of Vietnam.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11keopq/in_in_us_no_banh_can/",
+          "author": null,
+          "description": "submitted by    /u/jojabet  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11keopq/in_in_us_no_banh_can/",
+          "publishedOn": "2023-03-06T21:30:29.000Z",
+          "wordCount": 14414,
+          "title": "In in U.S. - no banh can :(",
+          "imageUrl": "https://external-preview.redd.it/MnxNOQu5P-PZgaSY0vw5HQ-FY7ULZpRP4iUju8KNDrY.jpg?auto=webp&v=enabled&s=f8d4276c5eb019b099c6026b949ff5e8f496638f"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11k3ozb/random_question_whats_the_story_of_guys_having_a/",
+          "author": null,
+          "description": "I saw this around SEA and heard many explanations but I am curious of someone knows the actual reason? Is it superstition or it has a daily purpose?\n    submitted by    /u/user_usanovic  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11k3ozb/random_question_whats_the_story_of_guys_having_a/",
+          "publishedOn": "2023-03-06T16:36:32.000Z",
+          "wordCount": 14624,
+          "title": "Random question - what's the story of guys having a longer nail on the pinky finger?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11k3hpu/lets_be_safe_out_there/",
+          "author": null,
+          "description": "submitted by    /u/Sad_Year5694  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11k3hpu/lets_be_safe_out_there/",
+          "publishedOn": "2023-03-06T16:29:13.000Z",
+          "wordCount": 14094,
+          "title": "Let's be safe out there.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11k2n5i/pound_to_dong/",
+          "author": null,
+          "description": "Hi all ran out of time/places to get dong over here (UK) If I take pounds to vietnam wheres best to change into dong please got some but not enough for whole trip. \n Update : In Hanoi!\n Thanks in advance.\n    submitted by    /u/lukeyboy_82  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11k2n5i/pound_to_dong/",
+          "publishedOn": "2023-03-06T15:57:59.000Z",
+          "wordCount": 14747,
+          "title": "Pound to Dong",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11k125l/planning_a_holiday_need_help/",
+          "author": null,
+          "description": "Hi guys, thank you for taking your time to view my post.\n I'm planning a trip to Vietnam for a month. During this trip I'm looking to fly to either hanoi or hcmc, buy a motorbike and travel to the other end of the country.\n I'm looking for stuff to stop off and do on the way, I'm an adventures person i like sky diving, scuba diving, para gliding, quad biking, and all that kind lf stuff. \n I love beaches, exploring, beautiful views, good food and tradition.\n If you guys have visited this beautiful country before and have some suggestions it would be Highley appreciated 😊\n    submitted by    /u/ChopstickNate  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11k125l/planning_a_holiday_need_help/",
+          "publishedOn": "2023-03-06T14:57:57.000Z",
+          "wordCount": 14583,
+          "title": "Planning a holiday need help (:",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11k0x50/anyone_know_of_any_shops_or_areas_to_get_cheap/",
+          "author": null,
+          "description": "submitted by    /u/PrayZyonics  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11k0x50/anyone_know_of_any_shops_or_areas_to_get_cheap/",
+          "publishedOn": "2023-03-06T14:52:07.000Z",
+          "wordCount": 14823,
+          "title": "Anyone know of any shops or areas to get cheap souvenirs in Ho Chi Minh City? Don’t want to get get ripped off.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11k0x20/planning_a_holiday_need_advice/",
+          "author": null,
+          "description": "Hi guys, thank you for taking your time to view my post.\n I'm planning a trip to Vietnam for a month. During this trip I'm looking to fly to either hanoi or hcmc, buy a motorbike and travel to the other end of the country.\n I'm looking for stuff to stop off and do on the way, I'm an adventures person i like sky diving, scuba diving, para gliding, quad biking, and all that kind lf stuff. \n I love beaches, exploring, beautiful views, good food and tradition.\n If you guys have visited this beautiful country before and have some suggestions it would be Highley appreciated 😊\n    submitted by    /u/ChopstickNate  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11k0x20/planning_a_holiday_need_advice/",
+          "publishedOn": "2023-03-06T14:52:02.000Z",
+          "wordCount": 14849,
+          "title": "planning a holiday need advice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11k0kpr/whats_the_best_place_to_buy_a_buddha_statue_in/",
+          "author": null,
+          "description": "submitted by    /u/alias9487  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11k0kpr/whats_the_best_place_to_buy_a_buddha_statue_in/",
+          "publishedOn": "2023-03-06T14:37:32.000Z",
+          "wordCount": 14533,
+          "title": "What’s the best place to buy a Buddha statue in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11k07tk/need_translation_help_between_me_and_a_previous/",
+          "author": null,
+          "description": "TLDR: When a lady asks me, can we be \"anh em\", what exactly does that mean? It doesn't seem to be the same thing as \"can we be friends?\"\n Long Back story: So I met this VN lady on a trip to VN, we expressed romantic interest in each other. I don't know the VN language, written or oral, so we just used a translator.\n That worked fine for a while, even after I returned home to USA.\n But eventually I learned that her idea of meeting and marrying someone is a lot faster timeline than mine. Eg, I'm used to the idea that we might date for 1-2 years and then propose and then maybe another 6-12 months of engagement.\n Her idea was pretty much, commit right now to each other and even get married within a few months. Unfortunately I couldn't make that timeline so I let her know, and she immediately s…",
+          "link": "https://www.reddit.com/r/VietNam/comments/11k07tk/need_translation_help_between_me_and_a_previous/",
+          "publishedOn": "2023-03-06T14:22:02.000Z",
+          "wordCount": 16923,
+          "title": "Need translation help between me and a previous romantic friend",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11jzrap/why_many_foreigners_are_moving_to_vietnam/",
+          "author": null,
+          "description": "According to the Vietnam Insider, there are several reasons why more and more foreigners are moving to Vietnam:\n Economic Growth: Vietnam has been one of the fastest-growing economies in Southeast Asia, with a rapidly expanding middle class and a growing demand for skilled workers in various industries.\n Low Cost of Living: Compared to other countries in the region, Vietnam has a relatively low cost of living, which can make it an attractive destination for foreigners looking to live or retire on a budget.\n Culture and Lifestyle: Vietnam is known for its rich cultural heritage, vibrant cities, and diverse landscapes, which can appeal to foreigners seeking a new cultural experience or a change of scenery.\n Ease of Doing Business: Vietnam has been making efforts to improve its business environment and attract foreign investment, which can create more job opportunities for skilled workers and entrepreneurs.\n Food and Cuisine: Vietnamese cuisine is gaining popularity around the world, and many foreigners are drawn to Vietnam's delicious food and culinary traditions.\n Warm and Friendly People: Vietnamese people are known for their warm and friendly hospitality, which can make it easier for foreigners to adapt to the local culture and lifestyle.\n Overall, Vietnam's combination of economic growth, cultural richness, low cost of living, and friendly people make it an attractive destination for foreigners looking for new opportunities and experiences.\n    submitted by    /u/No-Drink6935  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11jzrap/why_many_foreigners_are_moving_to_vietnam/",
+          "publishedOn": "2023-03-06T14:02:02.000Z",
+          "wordCount": 16487,
+          "title": "Why many foreigners are moving to Vietnam?",
+          "imageUrl": "https://external-preview.redd.it/NAdmRM7JaMwqA2B1HDEiy-Wf2n6T4LcmqG9YV3QvDi0.jpg?auto=webp&v=enabled&s=cae18676f14b7a15b78cbb7628c6c3ce179eba9d"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11jza6r/somewhere_in_hanoi/",
+          "author": null,
+          "description": "submitted by    /u/Opti_Raise77  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11jza6r/somewhere_in_hanoi/",
+          "publishedOn": "2023-03-06T13:42:07.000Z",
+          "wordCount": 14449,
+          "title": "Somewhere in Hanoi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11jyehq/are_foreigners_able_to_get_loans_for_motorbikes/",
+          "author": null,
+          "description": "I was thinking of buying a new motorbike from a place like Honda or Yamaha and was wondering if I could finance it over a couple of years rather than pay up front. Has anyone done this before?\n    submitted by    /u/Budget_Ad4818  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11jyehq/are_foreigners_able_to_get_loans_for_motorbikes/",
+          "publishedOn": "2023-03-06T13:05:03.000Z",
+          "wordCount": 14589,
+          "title": "Are foreigners able to get loans for motorbikes or cars?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11jxu3k/private_swimming_teacher_female_saigon/",
+          "author": null,
+          "description": "Looking for a swim teacher to teach my partner to swim. She’s an absolute beginner and looking for a 1-1 class. Around the district 2 to start around the end of March.\n    submitted by    /u/Huge_Doctor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11jxu3k/private_swimming_teacher_female_saigon/",
+          "publishedOn": "2023-03-06T12:41:01.000Z",
+          "wordCount": 14447,
+          "title": "Private Swimming Teacher (Female) Saigon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11jxjrg/ngh%E1%BB%87_an_or_nam_%C4%91%E1%BB%8Bnh_next_episode_on_my_drawing/",
+          "author": null,
+          "description": "View Poll\n    submitted by    /u/Baosia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11jxjrg/ngh%E1%BB%87_an_or_nam_%C4%91%E1%BB%8Bnh_next_episode_on_my_drawing/",
+          "publishedOn": "2023-03-06T12:28:24.000Z",
+          "wordCount": 14472,
+          "title": "Nghệ An or Nam Định, next episode on my drawing series?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11jx70v/do_you_guys_prefer_the_food_in_south_or_north/",
+          "author": null,
+          "description": "I’m from the south so I obviously like the sweeter taste and love our hu tieu and com tam.\n    submitted by    /u/cleocleoclus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11jx70v/do_you_guys_prefer_the_food_in_south_or_north/",
+          "publishedOn": "2023-03-06T12:12:19.000Z",
+          "wordCount": 15577,
+          "title": "Do you guys prefer the food in south or north Vietnam more?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11jwt5t/vietnamese_universities/",
+          "author": null,
+          "description": "Xin Chao everyone! My question is straight forward - are universities good in VietNam? \n I know that generally STEM is better than Social subjects, however if you guys would apply to a university in VietNam, which one would you consider? I would like to study Law or Business and I already know some basic Vietnamese as i had experience with the language before and studying it for university wouldn't be a problem! \n Please help me as I am considering VietNam as one of my destionations for pursuing a higher education, Xin Cam On! ;)\n    submitted by    /u/_ibanii  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11jwt5t/vietnamese_universities/",
+          "publishedOn": "2023-03-06T11:54:39.000Z",
+          "wordCount": 16870,
+          "title": "Vietnamese Universities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11jwq7h/m%C3%ACnh_tr%C3%ACnh_%C4%91%E1%BB%99_v%C4%83n_ho%C3%A1_1212c%C3%B3_v%C3%A0o_%C4%91h_nh%C6%B0ng_ngh%C4%A9/",
+          "author": null,
+          "description": "submitted by    /u/Primary-Jicama-2804  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11jwq7h/m%C3%ACnh_tr%C3%ACnh_%C4%91%E1%BB%99_v%C4%83n_ho%C3%A1_1212c%C3%B3_v%C3%A0o_%C4%91h_nh%C6%B0ng_ngh%C4%A9/",
+          "publishedOn": "2023-03-06T11:50:31.000Z",
+          "wordCount": 14438,
+          "title": "mình trình độ văn hoá 12/12(có vào đh nhưng nghĩ ngang). mình muốn đi làm các công việc viết lách, dịch thuật thì nên học lại nghề gì, thực tập ở đâu nhỉ.",
+          "imageUrl": "https://preview.redd.it/c5ktked2f5ma1.jpg?auto=webp&v=enabled&s=148ccafe9cb2a110955cdfb7ddf63615c3b43c4c"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11jv6dq/top_5_most_difficult_things_which_come_from/",
+          "author": null,
+          "description": "submitted by    /u/therectifierfan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11jv6dq/top_5_most_difficult_things_which_come_from/",
+          "publishedOn": "2023-03-06T10:31:06.000Z",
+          "wordCount": 14519,
+          "title": "Top 5 most difficult things which come from Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11jrio5/hanoi_street_food/",
+          "author": null,
+          "description": "submitted by    /u/munchux1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11jrio5/hanoi_street_food/",
+          "publishedOn": "2023-03-06T07:08:16.000Z",
+          "wordCount": 14389,
+          "title": "Hanoi Street Food",
+          "imageUrl": "https://external-preview.redd.it/B2zuNhGUlw6K3JjXCY-XOFOotX0xNE2irsQQd9XbvhQ.jpg?auto=webp&v=enabled&s=c8757ca2d81ff7b4b82d36d951979546d0a55205"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11jo0wk/vietnams_iconic_hairstyles_some_of_the_bests/",
+          "author": null,
+          "description": "submitted by    /u/Special_Income6210  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11jo0wk/vietnams_iconic_hairstyles_some_of_the_bests/",
+          "publishedOn": "2023-03-06T04:14:44.000Z",
+          "wordCount": 14773,
+          "title": "Vietnam’s iconic hairstyles 🗿 Some of the bests 💁🏻‍♀️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11jmyif/just_how_bad_is_the_internet_really/",
+          "author": null,
+          "description": "I'm set to leave for Vietnam next week. Unfortunately, I've just now found out that the internet speeds are supposedly garbage in Vietnam at the moment. How bad is it? Would a VPN help get around any throttling? Are phone network speeds similarly affected? I'm actually set to be taking online classes, so this is quite concerning for me.\n    submitted by    /u/bacharama  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11jmyif/just_how_bad_is_the_internet_really/",
+          "publishedOn": "2023-03-06T03:24:27.000Z",
+          "wordCount": 15273,
+          "title": "Just how bad is the internet really?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11jjyve/2_nannies_at_a_private_daycare_center_in_hanoi/",
+          "author": null,
+          "description": "submitted by    /u/QuirkyProfessional93  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11jjyve/2_nannies_at_a_private_daycare_center_in_hanoi/",
+          "publishedOn": "2023-03-06T01:11:47.000Z",
+          "wordCount": 14922,
+          "title": "2 nannies at a private daycare center in Hanoi beat a toddler to dead!",
+          "imageUrl": "https://external-preview.redd.it/S6DaYpgM_7iK-dpofuQdU45RGGoMhbMeVIGFOpI4DWE.jpg?auto=webp&v=enabled&s=ce869c6e0abbc5a1848a5c2a1aac1f639d7e6347"
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/11jjo0e/vietnams_cursed_images_85/",
           "author": null,
@@ -7437,186 +7667,6 @@
           "wordCount": 15509,
           "title": "kids education in VN",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10ub5hj/khi_m%C3%ACnh_h%E1%BB%8Fi_chatgpt_v%E1%BB%81_m%E1%BB%91i_quan_h%E1%BB%87_gi%E1%BB%AFa_quang/",
-          "author": null,
-          "description": "submitted by    /u/Bubbly_Flow_184  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10ub5hj/khi_m%C3%ACnh_h%E1%BB%8Fi_chatgpt_v%E1%BB%81_m%E1%BB%91i_quan_h%E1%BB%87_gi%E1%BB%AFa_quang/",
-          "publishedOn": "2023-02-05T12:17:51.000Z",
-          "wordCount": 14383,
-          "title": "Khi mình hỏi ChatGPT về mối quan hệ giữa Quang Trung và Nguyễn Huệ 🤣🤣🤣",
-          "imageUrl": "https://preview.redd.it/p5g3st9ilega1.jpg?auto=webp&v=enabled&s=5b22fc5268c680654f0b15738716e940af15dd0c"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10u8xkx/young_boy_makes_20km_trip_to_school_despite_being/",
-          "author": null,
-          "description": "submitted by    /u/ISwearIWontUseZalgo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10u8xkx/young_boy_makes_20km_trip_to_school_despite_being/",
-          "publishedOn": "2023-02-05T09:48:54.000Z",
-          "wordCount": 14369,
-          "title": "\"young boy makes 20km trip to school despite being amputated in a wheelchair\"",
-          "imageUrl": "https://preview.redd.it/01gswj75dcga1.png?auto=webp&v=enabled&s=9c2196df6e1d44f0f11a32ff9ccbaf925b1c8eeb"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10u8g16/pros_and_cons_living_in_vietnam/",
-          "author": null,
-          "description": "Let me tell you the truth about living in Vietnam\n 👉The pros about Vietnam (good aspects) I like the landscape of Vietnam, some local food, and it's somehow easy to connect with the locals (especially in Saigon). I can agree that Viet offers low cost of living if you are willing to lower your standards tremendously and if you enjoy living in low quality housing and eat street food while sitting on baby chairs with the knees up in your face. Viet is not as stressful as the west (west meaning west north Europe, north America). It's also fairly easy to get your papers done if you open your wallet 💰💵. Getting antibiotics here doesn't require visits to the doctor and getting medical appointments in private centers is a fast and low cost process. 50-100 USD at Victoria clinic or the medical c…",
-          "link": "https://www.reddit.com/r/VietNam/comments/10u8g16/pros_and_cons_living_in_vietnam/",
-          "publishedOn": "2023-02-05T09:15:06.000Z",
-          "wordCount": 18139,
-          "title": "Pros and cons living in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10u5v7s/why_music_in_vietnam_during_wartime_before_1975/",
-          "author": null,
-          "description": "submitted by    /u/lamegaton  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10u5v7s/why_music_in_vietnam_during_wartime_before_1975/",
-          "publishedOn": "2023-02-05T06:29:10.000Z",
-          "wordCount": 15365,
-          "title": "Why music in Vietnam during wartime (before 1975) is slower and softer compared to the Rock'n'Roll style from the US? (Bolero vs Rock)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10u50q6/going_to_miss_all_the_mollusk_and_other_hai_san/",
-          "author": null,
-          "description": "submitted by    /u/KissTheChef1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10u50q6/going_to_miss_all_the_mollusk_and_other_hai_san/",
-          "publishedOn": "2023-02-05T05:47:24.000Z",
-          "wordCount": 14588,
-          "title": "Going to miss all the mollusk and other Hai San when I leave Nha Trang in a few days...it has been a great month",
-          "imageUrl": "https://external-preview.redd.it/wDIZkGwiRUP7s9whtoOA0DuV3ouAzYEph7NfFNXDOaE.jpg?auto=webp&v=enabled&s=fe220d73c7435314f467b219446aec3c4988c516"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10tvs70/travelling_inside_vietnam/",
-          "author": null,
-          "description": "Hi,\n What are your recommendations to travel between these places (price, avaibility)\n Da lat to Saigon\n Hoi An to Ho Chi Minnh\n Thank you\n    submitted by    /u/Sad_Willingness5589  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10tvs70/travelling_inside_vietnam/",
-          "publishedOn": "2023-02-05T00:18:01.000Z",
-          "wordCount": 14362,
-          "title": "travelling inside Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10ttihd/women_in_vn_speaking_out_about_the_burdens_of_tet/",
-          "author": null,
-          "description": "submitted by    /u/igloostick  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10ttihd/women_in_vn_speaking_out_about_the_burdens_of_tet/",
-          "publishedOn": "2023-02-04T22:39:03.000Z",
-          "wordCount": 14354,
-          "title": "Women in VN speaking out about the burdens of Tet traditions. I see this too often where women work full time jobs, take care of their MIL and add the demands of holiday traditions on top of that.",
-          "imageUrl": "https://external-preview.redd.it/r8y3n34d0UP9xgLintdHiSNDES_pcphK0S1GhPZDPjs.jpg?auto=webp&v=enabled&s=223c0124285d8e9dbb278d861d83fb6b6ce0be72"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10tt0z7/does_anyone_know_how_the_chim_lac_bronze_drum_was/",
-          "author": null,
-          "description": "submitted by    /u/PhaleDoasen  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10tt0z7/does_anyone_know_how_the_chim_lac_bronze_drum_was/",
-          "publishedOn": "2023-02-04T22:18:14.000Z",
-          "wordCount": 14824,
-          "title": "Does anyone know how the Chim Lac bronze drum was used back then? Like was it played by hands, an object, etc. Or was it solely for decoration? I’m trying to research about this for my AP project but there’s barely information I can find.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10ts76g/found_some_old_money_at_friends_house_can_someone/",
-          "author": null,
-          "description": "submitted by    /u/coldinupstateny  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10ts76g/found_some_old_money_at_friends_house_can_someone/",
-          "publishedOn": "2023-02-04T21:44:16.000Z",
-          "wordCount": 14436,
-          "title": "Found some old money at friend’s house. Can someone help identify? Or value?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10tp985/ai_%C4%91%C3%A3_t%E1%BB%ABng_b%E1%BB%8B_b%E1%BB%87nh_m%E1%BB%A5n_sinh_d%E1%BB%A5c_hay_bi%E1%BA%BFt_bi%E1%BB%87n/",
-          "author": null,
-          "description": "submitted by    /u/Thanhhp02  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10tp985/ai_%C4%91%C3%A3_t%E1%BB%ABng_b%E1%BB%8B_b%E1%BB%87nh_m%E1%BB%A5n_sinh_d%E1%BB%A5c_hay_bi%E1%BA%BFt_bi%E1%BB%87n/",
-          "publishedOn": "2023-02-04T19:42:34.000Z",
-          "wordCount": 14004,
-          "title": "Ai đã từng bị bệnh mụn sinh dục hay biết biện pháp chữa bệnh thì chỉ tôi với 🥺tôi hoang mang quá",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10tl6f8/free_english_speaking_practice/",
-          "author": null,
-          "description": "Hii Y'all. We have a free English club where we meet several times a week via zoom practice sessions hosted by native English teacher to practice English in casual, fun way.\n Topics, qs, vocab are given for each session.\n People from various parts of the world are there.\n Dm me, if interested in full details.\n You can practice in structured manner with different people.\n Requirements- age at least 16, b1/intermediate or above English level and mandatory camera to avoid trolls and ensure effectiveness of sessions.\n    submitted by    /u/Few-Athlete-225  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10tl6f8/free_english_speaking_practice/",
-          "publishedOn": "2023-02-04T16:58:51.000Z",
-          "wordCount": 14444,
-          "title": "Free english speaking practice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10tkf73/ho_chi_minh_mausoleum/",
-          "author": null,
-          "description": "Hi. Anyone know the opening hours for the mausoleum now? Is it open on sunday the 5th?\n    submitted by    /u/haaswind  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10tkf73/ho_chi_minh_mausoleum/",
-          "publishedOn": "2023-02-04T16:27:07.000Z",
-          "wordCount": 14318,
-          "title": "Ho chi Minh mausoleum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10tjppx/is_mahashivratria_hindu_festival_celebrated/",
-          "author": null,
-          "description": "Hinduism has a significant presence in Vietnam, primarily among the Cham ethnic minority. There are a few Hindu temples and communities throughout the country.\n The Hindu festivals of Diwali and Navaratri are celebrated by Vietnamese people.\n In India, Maha Shivaratri is a significant Hindu festival observed in honor of Lord Shiva. On this day devotees of Lord Shiva, observe a day-long fast, remain awake all night, and perform puja to celebrate the auspicious occasion of Maha Shivratri. \n I was curious to know if Mahashivratri is also celebrated there in Vietnam?\n    submitted by    /u/MeditativeWonders  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10tjppx/is_mahashivratria_hindu_festival_celebrated/",
-          "publishedOn": "2023-02-04T15:57:58.000Z",
-          "wordCount": 14550,
-          "title": "Is Mahashivratri(A Hindu festival celebrated annually in honor of the god Shiva) celebrated in the Hindu temple of Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10tjofx/midautumn_festival_in_hanoi_in_1915_by_leon_busy/",
-          "author": null,
-          "description": "submitted by    /u/freewaytogo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10tjofx/midautumn_festival_in_hanoi_in_1915_by_leon_busy/",
-          "publishedOn": "2023-02-04T15:56:24.000Z",
-          "wordCount": 14759,
-          "title": "Mid-Autumn Festival in Hanoi in 1915 by Leon Busy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10thuop/sell_clothes_in_hcmc/",
-          "author": null,
-          "description": "Hi, \n ​\n Are you aware of any shop that buy used clothes in Ho Chi Minh City ? \n I have white shirts in good conditions from brands like Uniqlo but that doesn't fit me anymore... \n Thank you\n    submitted by    /u/TwiceThinking  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10thuop/sell_clothes_in_hcmc/",
-          "publishedOn": "2023-02-04T14:37:45.000Z",
-          "wordCount": 14483,
-          "title": "Sell clothes in HCMC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10thny6/whos_the_worst_paris_by_night_singer/",
-          "author": null,
-          "description": "I know it’s kind of indescribable to think that there’s a bad signer on Paris by Night. People, primarily older folks, thought that every singer is good. I saw that Loan Châu, the Trúc sisters (Trúc Lam & Trúc Linh), & Như Loan are often criticized for their voices, but I would like to hear your thoughts. Who do you think is the worst singer on PBN?\n    submitted by    /u/Tasty_Shallot_715  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10thny6/whos_the_worst_paris_by_night_singer/",
-          "publishedOn": "2023-02-04T14:28:59.000Z",
-          "wordCount": 1948,
-          "title": "Who’s the worst Paris by Night singer?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10tgzhn/what_happened_to_wifi_in_vietnam/",
-          "author": null,
-          "description": "Is it only in the northern Vietnam or throughout the whole country that you Wi-Fi sucks and you sometimes can’t even download a file with a decent speed ? Is it really the shark-bitten-cable problem ?\n    submitted by    /u/dimadima1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10tgzhn/what_happened_to_wifi_in_vietnam/",
-          "publishedOn": "2023-02-04T13:57:27.000Z",
-          "wordCount": 15053,
-          "title": "What happened to Wi-Fi in Vietnam ?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10tgt39/c%C3%B3_t%C4%83ng_th%C3%AAm_%C4%91%C6%B0%E1%BB%A3c_vram_cho_card_%C4%91%E1%BB%93_h%E1%BB%8Da_r%E1%BB%9Di_kh%C3%B4ng/",
-          "author": null,
-          "description": "submitted by    /u/Terrible-Upstairs-87  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10tgt39/c%C3%B3_t%C4%83ng_th%C3%AAm_%C4%91%C6%B0%E1%BB%A3c_vram_cho_card_%C4%91%E1%BB%93_h%E1%BB%8Da_r%E1%BB%9Di_kh%C3%B4ng/",
-          "publishedOn": "2023-02-04T13:48:20.000Z",
-          "wordCount": 14333,
-          "title": "có tăng thêm được vram cho card đồ họa rời không mn?",
-          "imageUrl": null
         }
       ]
     },
@@ -7625,6 +7675,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/using-scanf-in-c/",
+          "author": "Valentine Gatwiri",
+          "description": "The scanf() function is a commonly used input function in the C programming language. It allows you to read input from the user or from a file and store that input in variables of different data types.  Input is an essential part of most programs, and the scanf() function",
+          "link": "https://www.freecodecamp.org/news/using-scanf-in-c/",
+          "publishedOn": "2023-03-06T21:59:30.000Z",
+          "wordCount": 2391,
+          "title": "How to Use scanf( ) in C to Read and Store User Input",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-element-digital-1370294.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rendering-patterns/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to take a look at the different rendering pattern options available nowadays for web applications. I'll start by explaining what a rendering pattern is, then go through each of the main options available. Finally we'll compare them, explaining the pros and cons and",
+          "link": "https://www.freecodecamp.org/news/rendering-patterns/",
+          "publishedOn": "2023-03-06T18:22:40.000Z",
+          "wordCount": 4247,
+          "title": "Rendering Patterns for Web Apps – Server-Side, Client-Side, and SSG Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/sebastian-svenson-8QgqOLJAL8k-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/",
+          "author": "Shittu Olumide",
+          "description": "Data is present in all areas of the modern digital world, and it takes many different forms.  One of the most common formats for data is PDF. Invoices, reports, and other forms are frequently stored in Portable Document Format (PDF) files by businesses and institutions.  It can be",
+          "link": "https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/",
+          "publishedOn": "2023-03-06T17:51:46.000Z",
+          "wordCount": 1372,
+          "title": "How to Extract Data from PDF Files with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Extract-Data-from-PDF-Files-with-Python-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/excel-use-data-validation-and-conditional-formatting-to-prevent-errors/",
+          "author": "Eamonn Cottrell",
+          "description": "I've been using Microsoft Excel and Google Sheets in my business for over a decade. And as I've learned better ways to clean and validate data, it's increased productivity, decreased human errors, and generally caused a lot of joy! 🥳 In this article, we'll look at two ways to validate",
+          "link": "https://www.freecodecamp.org/news/excel-use-data-validation-and-conditional-formatting-to-prevent-errors/",
+          "publishedOn": "2023-03-06T16:41:05.000Z",
+          "wordCount": 1564,
+          "title": "Microsoft Excel – How to Use Data Validation and Conditional Formatting to Prevent Errors",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/fcc.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/",
+          "author": "Arunachalam B",
+          "description": "Hello everyone! Thanks for your great feedback on my tutorial about the basics of the find command [/news/how-to-search-files-in-the-linux-terminal/]. After reading it, many people requested that I write a more advanced version about the  find command.  Well, here it is! Now, it's time to take your skills to the",
+          "link": "https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/",
+          "publishedOn": "2023-03-06T14:58:04.000Z",
+          "wordCount": 2005,
+          "title": "How to Search Files Effectively in the Linux Terminal – Advanced Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/11.-Part-2--How-to-search-files-effectively-in-linux.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/chat-gpt-and-secure-coding/",
+          "author": "Andrej Kovacevic",
+          "description": "ChatGPT has been in the news a lot recently. The hype around it continues, and many are concerned that this AI service might put many out of work.  Developers in particular feel threatened by this AI bot’s ability to write code on the fly. The general consensus is, however,",
+          "link": "https://www.freecodecamp.org/news/chat-gpt-and-secure-coding/",
+          "publishedOn": "2023-03-06T14:56:56.000Z",
+          "wordCount": 1666,
+          "title": "Can ChatGPT Ensure Secure Coding Practices?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/chatgpt-coding.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-define-and-call-functions-in-python/",
           "author": "Oluseye Jeremiah",
