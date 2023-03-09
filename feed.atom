@@ -2,10 +2,258 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lngng.github.io/ross/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-08T01:06:26.299Z</updated>
+    <updated>2023-03-09T01:06:15.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://lngng.github.io/ross/index.html"/>
     <link rel="self" href="https://lngng.github.io/ross/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Looking for certain karaoke songs]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11mdwp8/looking_for_certain_karaoke_songs/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11mdwp8/looking_for_certain_karaoke_songs/"/>
+        <updated>2023-03-09T00:52:02.000Z</updated>
+        <summary type="html"><![CDATA[First of all I know this is a long shot, but my Dad used to hoard a bunch of Karaoke DVD's, he pasted away in 2016, so I'm now struggling to find a few songs that bring back a lot of nostalgia. I don't remember the lyrics, but I remember the music videos to a certain degree.
+ Song #1: This music video in particular showed a feud between two gangs I'm assuming. I vividly remember a scene where one gang is sitting around a table playing poker, and polishing their guns. I guess shit hit the fan, cause then they pulled up in a limo to the airport, and the other gang got off the airplane, and they just started fighting. LMAO
+ Song #2: The MV was of a guy that looked like he was in a jail cell or something, and he was making a sculpture of a woman, and he went all deranged and destroyed the clay…]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[how hard is it for a teen to get drinks in vietnam? i’m 16 and most say they don’t really care but i’d like to make sure. do hotels or bars care?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11m8nu9/how_hard_is_it_for_a_teen_to_get_drinks_in/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11m8nu9/how_hard_is_it_for_a_teen_to_get_drinks_in/"/>
+        <updated>2023-03-08T21:25:04.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/TreeSuccessful7778  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert Arabic Numbers to Roman Numerals with SolidJS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-convert-arabic-numbers-to-roman-numerals-with-solidjs/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-convert-arabic-numbers-to-roman-numerals-with-solidjs/"/>
+        <updated>2023-03-08T20:52:17.000Z</updated>
+        <summary type="html"><![CDATA[Have you heard about the Romans? Who hasn’t, right 🙂 They used their own numeric system, which was a bit of a mouthful, especially when it came to writing. It looks like this: I, II, III, IV, V, VI and so on. Maybe that’s one of the reasons that people]]></summary>
+        <author>
+            <name>Mihail Gaberov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cho mình hỏi có ai ở đây từng gửi đồ về VN từ Mỹ không?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11m7nxi/cho_minh_hoi_co_ai_%C6%A1_%C4%91%C3%A2y_t%C6%B0ng_g%C6%B0i_%C4%91%C3%B4_v%C3%AA_vn_t%C6%B0_my/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11m7nxi/cho_minh_hoi_co_ai_%C6%A1_%C4%91%C3%A2y_t%C6%B0ng_g%C6%B0i_%C4%91%C3%B4_v%C3%AA_vn_t%C6%B0_my/"/>
+        <updated>2023-03-08T20:47:13.000Z</updated>
+        <summary type="html"><![CDATA[Công Ty nào rẻ nhất 
+ Có bị mất đồ không 
+ Sử dụng thêm bảo hiểm chuyển đi có hiệu quả không 
+  
+Chân thành cảm ơn AE
+    submitted by    /u/Grimacepug  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Read and Write Data to a SQL Database Using Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/"/>
+        <updated>2023-03-08T19:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Databases are a crucial component of modern-day software systems. And SQL databases are one of the most widely used types of databases.  They are ideal for managing data in a structured and organized way, and they are widely used in various applications, including e-commerce, healthcare, finance, and more.]]></summary>
+        <author>
+            <name>Oluseye Jeremiah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MERN App Development – How to Build a CI/CD Pipeline with Jenkins]]></title>
+        <id>https://www.freecodecamp.org/news/automate-mern-app-deployment-with-jenkins-and-aws/</id>
+        <link href="https://www.freecodecamp.org/news/automate-mern-app-deployment-with-jenkins-and-aws/"/>
+        <updated>2023-03-08T17:42:07.000Z</updated>
+        <summary type="html"><![CDATA[As you continue to develop your software, you must also continue to integrate it with previous code and deploy it to servers.  Manually doing this is a time-consuming process that can occasionally result in errors. So we need to do this in a continuous and automated manner – which]]></summary>
+        <author>
+            <name>Rakesh Potnuru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Question about Vietnamese law]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11m2est/question_about_vietnamese_law/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11m2est/question_about_vietnamese_law/"/>
+        <updated>2023-03-08T17:29:51.000Z</updated>
+        <summary type="html"><![CDATA[My wife is from Vietnam but has been living in the US for 8 years. Her parents have been living here longer, and no longer have any Vietnamese citizenship papers. The question concerns them.
+ Due to circumstances they put their properties in the name of a relative who still lives in Vietnam, but now they wish to change that. Because they no longer have their citizenship papers, and it takes a long time to get them again, they cannot put the properties in their names. What sort of options do they have?
+ I was wondering if there was a kind of trust they could use to own the property, but have the trust be controlled by them, or, at the very least, have it be controlled by a relative still in Vietnam, but with their name attached in some way that requires their consent for anything to be done to the property. They are old and probably too trusting, I want to see if there is any way we can help protect their interests as well as possible. They said they already spoke to an attorney, but I am not sure they spoke to the right kind or asked the right questions.
+ Any help is appreciated.
+    submitted by    /u/clutchheimer  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A wallpaper from Phu Quoc island <3]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11m1q2h/a_wallpaper_from_phu_quoc_island_3/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11m1q2h/a_wallpaper_from_phu_quoc_island_3/"/>
+        <updated>2023-03-08T17:03:45.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/5AM101  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This cat decided to sleep on this roof]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11m0vza/this_cat_decided_to_sleep_on_this_roof/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11m0vza/this_cat_decided_to_sleep_on_this_roof/"/>
+        <updated>2023-03-08T16:32:42.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Svida100  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C Operator – Logic Operators in C Programming]]></title>
+        <id>https://www.freecodecamp.org/news/c-operator-logic-operators-in-c-programming/</id>
+        <link href="https://www.freecodecamp.org/news/c-operator-logic-operators-in-c-programming/"/>
+        <updated>2023-03-08T15:25:21.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn about the three logical operators in C. I will first explain what operators are in programming and list the different types of operators available in C. Then, you will learn the role logical operators have and how to use them with the help of]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[oh the irony.]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11lydsj/oh_the_irony/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11lydsj/oh_the_irony/"/>
+        <updated>2023-03-08T14:55:21.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/sjalekin  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does B in RegEx Mean? Word Boundary and Non-word Boundary Metacharacters]]></title>
+        <id>https://www.freecodecamp.org/news/what-does-b-in-regex-mean-word-boundary-and-non-word-boundary-metacharacters/</id>
+        <link href="https://www.freecodecamp.org/news/what-does-b-in-regex-mean-word-boundary-and-non-word-boundary-metacharacters/"/>
+        <updated>2023-03-08T14:10:22.000Z</updated>
+        <summary type="html"><![CDATA[In regular expressions, “B” is a metacharacter for specifying word boundary. It could be in two forms – the capital letter “B” and the small letter “b”. Since B (and b) is a metacharacter, you need to escape it to make it work (\b  and \B). Otherwise, b or]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone here own a food cart? How do you wash the dishes if there’s no access to running water.]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11luqom/anyone_here_own_a_food_cart_how_do_you_wash_the/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11luqom/anyone_here_own_a_food_cart_how_do_you_wash_the/"/>
+        <updated>2023-03-08T12:09:49.000Z</updated>
+        <summary type="html"><![CDATA[Mostly curious about Hu Tieu and Bun Mam street food carts. The places that have reusable bowls, not the take out containers.
+ I assume every customer just shares the same bowl and chopsticks if the owner cannot wash dishes.
+    submitted by    /u/veotrade  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[taking a dog out - Vietnamese style]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11lqgg6/taking_a_dog_out_vietnamese_style/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11lqgg6/taking_a_dog_out_vietnamese_style/"/>
+        <updated>2023-03-08T08:09:07.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/QuirkyProfessional93  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Has anyone married a Vietnamese and knows the process of getting them into the U.S?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11lpjtv/has_anyone_married_a_vietnamese_and_knows_the/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11lpjtv/has_anyone_married_a_vietnamese_and_knows_the/"/>
+        <updated>2023-03-08T07:18:38.000Z</updated>
+        <summary type="html"><![CDATA[I am finally meeting my fiancé in June! I
+ want to get married and get him here as soon as possible since I am already 25. I was looking into getting married right away and applying for the cr1 visa but I heard it takes such a long time and I'm looking to settle down and start a family soon.
+ Should I meet him and then apply for the k1 visa??? I wonder if they would even let me apply since I barely meet him for the first time. I am just so confused about what I should do. I know I need to provide so many documents and proof. I'm in southern California if anyone knows any companies for assistance :(
+    submitted by    /u/nessacutie12  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple entries > 30 days ?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11lpawl/multiple_entries_30_days/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11lpawl/multiple_entries_30_days/"/>
+        <updated>2023-03-08T07:04:43.000Z</updated>
+        <summary type="html"><![CDATA[Hi everybody, I'm planning a trip to Vietnam very soon and I'd like to stay around 40 days straight then leave the country for 2 or 3 weeks and come back for another 3 weeks. I hold a French passport. Is this doable?
+ Thanks a lot!
+    submitted by    /u/LocSta29  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does anyone know what kind of currency was used during the Japanese occupation of Vietnam? I collect paper money and I can't seem to find a definitive answer to this. Thank you in advance.]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11lluf7/does_anyone_know_what_kind_of_currency_was_used/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11lluf7/does_anyone_know_what_kind_of_currency_was_used/"/>
+        <updated>2023-03-08T04:10:51.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Chan11321  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cooking in unethical ways | cơm trứng với sữa ông thọ]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11lllxt/cooking_in_unethical_ways_c%C6%A1m_tr%E1%BB%A9ng_v%E1%BB%9Bi_s%E1%BB%AFa_%C3%B4ng/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11lllxt/cooking_in_unethical_ways_c%C6%A1m_tr%E1%BB%A9ng_v%E1%BB%9Bi_s%E1%BB%AFa_%C3%B4ng/"/>
+        <updated>2023-03-08T04:00:10.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/SnooAvocados9888  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edema when traveling the Vietnam?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11ll9kq/edema_when_traveling_the_vietnam/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11ll9kq/edema_when_traveling_the_vietnam/"/>
+        <updated>2023-03-08T03:44:25.000Z</updated>
+        <summary type="html"><![CDATA[I traveled from the states to Vietnam and I'm retaining SO MUCH fluid. Anyone else experience this? Is it the food? Help, I'm so puffy!!
+    submitted by    /u/outerspaceRN  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should I go back to Vietnam after working in Canada for 3 years?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11ll739/should_i_go_back_to_vietnam_after_working_in/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11ll739/should_i_go_back_to_vietnam_after_working_in/"/>
+        <updated>2023-03-08T03:41:09.000Z</updated>
+        <summary type="html"><![CDATA[Xin chào mọi người. Mình hiện tại thì vừa tốt nghiệp đại học ngành kế toán và đang làm trong b4. Mình đang ở canada theo diện work permit nên sẽ có 3 năm để làm việc và cũng như cơ hội để kiếm thẻ xanh ở đây. Nhưng mà hiện tại thì em cảm thấy rất muốn về VN để sinh sống và làm việc cũng như được ở gần gia đình và bạn bè hơn. Nên mình dự tính là vẫn sẽ ở canada làm việc 2-3 năm để có thêm kinh nghiệm (và bằng CPA ). Mình chỉ đang thắc mắc là nếu trường hợp mình như vậy thì về vn có ổn không ạ? Và vấn đề lương thì mọi người thấy như thế nào? Mình thật sự rất cần lời khuyên ngay lúc này vì mình cảm thấy rất nhớ Việt Nam. Nếu quyết định về VN thì mình nghĩ lương sẽ không thể nào bằng được như ở CA được, nhưng mình nghĩ mình sẽ thoải mái hơn vì được gần gia đình và bạn bè và cũng như được ăn những món mình thích hoặc buồn thì cứ xách xe lên mà đi 1 vòng thôi. Nhưng nếu lương không ổn thì cũng hơi stress 1 tí. 
+ Cho mình cảm ơn mọi người nhiều.
+ Hi everyone. I have just graduated from the university majoring in accounting and currently working as an accountant in Big4. I am in Canada on a work permit so I will have 3 years to work as well as the opportunity to apply for a green card. But now, I really feel like going back to Vietnam to live and work so I can be closer to my family and friends. I’m planning to stay in Canada to work for 2-3 years to gain more experience (and getting CPA). Is ok to go back to Vietnam after that? And what about the salary expectation? I really need some advices right now because I miss Vietnam so much. If I do decide to return to Vietnam, I don't think the salary will be as good as compared to CA, but I think I will be happier since I can be closer family and friends .
+ Thank you and I really appreciate any advices/ suggestions/ inputs.
+    submitted by    /u/According-Growth3654  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Normal restaurant in Saigon.]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/11liq0m/normal_restaurant_in_saigon/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/11liq0m/normal_restaurant_in_saigon/"/>
+        <updated>2023-03-08T01:53:46.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sad_Year5694  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tattoo - mai chau]]></title>
         <id>https://www.reddit.com/r/VietNam/comments/11lhm7z/tattoo_mai_chau/</id>
@@ -68,6 +316,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Different Types of APIs – SOAP vs REST vs GraphQL]]></title>
+        <id>https://www.freecodecamp.org/news/rest-vs-graphql-apis/</id>
+        <link href="https://www.freecodecamp.org/news/rest-vs-graphql-apis/"/>
+        <updated>2023-03-07T23:24:27.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a good look at APIs, a core concept in modern software development. We're going to talk about the main kinds of APIs used nowadays (SOAP, REST and GraphQL), their characteristics, pros and cons, and situations in which each of them might]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vinwonders Phu Quoc or Nha Trang]]></title>
         <id>https://www.reddit.com/r/VietNam/comments/11lev4k/vinwonders_phu_quoc_or_nha_trang/</id>
         <link href="https://www.reddit.com/r/VietNam/comments/11lev4k/vinwonders_phu_quoc_or_nha_trang/"/>
@@ -78,6 +336,16 @@
  [link]   [comments]]]></summary>
         <author>
             <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Generate Colors in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/generate-colors-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/generate-colors-in-javascript/"/>
+        <updated>2023-03-07T22:11:32.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll build a random color generator in JavaScript. Along the way, we will explore general topics in programming like functions and randomization.  We will build a project called Change The Background Color to illustrate these concepts. You can see the demo here [http://rufai.github.io/buildingx/random_bg_color.html].  In this]]></summary>
+        <author>
+            <name>Rufai Mustapha</name>
         </author>
     </entry>
     <entry>
@@ -10428,347 +10696,6 @@ Decathlon accepts it for online payment, but Lazada doesn't (if that helps).
         <summary type="html"><![CDATA[I think Facebook got to go through something to operate and make money in Vietnam... just my guesing cuz I don't know the exact situation.
  Could someone on reddit feed me with some intelligence?!
     submitted by    /u/SuperRichBytch  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to know before moving to HCMC?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10w189w/what_to_know_before_moving_to_hcmc/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10w189w/what_to_know_before_moving_to_hcmc/"/>
-        <updated>2023-02-07T13:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Hello, all. I was just hired to teach English at a university in HCMC. I'm in the USA right now, but I will heading to Vietnam probably at the end of march or beginning of april. 
- Is there anything you recommend that I do before I leave or something I should bring with me? I plan to start doing an hour Vietnamese everyday on Duolingo. I'm an experienced traveller, and I've lived in Thailand before, but this will be my first time in Vietnam.
- Any advice is appreciated. Cheers
-    submitted by    /u/Crane_Train  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honda Airblade scooter on Ha giang route, crazy idea?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10w0h4e/honda_airblade_scooter_on_ha_giang_route_crazy/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10w0h4e/honda_airblade_scooter_on_ha_giang_route_crazy/"/>
-        <updated>2023-02-07T12:21:29.000Z</updated>
-        <summary type="html"><![CDATA[I like that scooter a lot so i was wondering if it'll do fine on ha giang. Dont ask me why i like it lol! Sentimental value
-    submitted by    /u/SilentAd369  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vietnamese back piece ideas? I’m looking to get my back covered and love the Japanese style pieces. I’m planning to get a female warrior/samurai. I already have a dragon, tiger, and ox on my leg. What would be some traditional ideas for Viet work? I have seen phuong so far, the Phoenix.]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10w02kz/vietnamese_back_piece_ideas_im_looking_to_get_my/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10w02kz/vietnamese_back_piece_ideas_im_looking_to_get_my/"/>
-        <updated>2023-02-07T11:58:48.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/magbooroo  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is anyone interested in a Samsung Galaxy A04]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10vycg9/is_anyone_interested_in_a_samsung_galaxy_a04/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10vycg9/is_anyone_interested_in_a_samsung_galaxy_a04/"/>
-        <updated>2023-02-07T10:11:43.000Z</updated>
-        <summary type="html"><![CDATA[My apologies if this isn't permitted here.
- I purchased a new Samsung Galaxy A04 about a week ago because I was having issues with my US phone. I paid 2.590.000 ₫ at the FPT Shop in Hoi An. My other phone is now working just fine (of course) and I no longer need the new phone. I have been told that because it was activated that I cannot return it. It also has a local SIM card and it that has just about two gigs of data left. Would anybody be interested in buying this phone from me?
-    submitted by    /u/apalekalapek  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Found this little guy by a cave in ninh binh, what should I do with him?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10vvk5r/found_this_little_guy_by_a_cave_in_ninh_binh_what/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10vvk5r/found_this_little_guy_by_a_cave_in_ninh_binh_what/"/>
-        <updated>2023-02-07T07:10:51.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/goobup  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[is this vietnamese food reddit-worthy enough for the food category on reddit?!]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10vvh7m/is_this_vietnamese_food_redditworthy_enough_for/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10vvh7m/is_this_vietnamese_food_redditworthy_enough_for/"/>
-        <updated>2023-02-07T07:05:57.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/SuperRichBytch  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best birthday song of all time]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10vv98c/best_birthday_song_of_all_time/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10vv98c/best_birthday_song_of_all_time/"/>
-        <updated>2023-02-07T06:52:41.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/arsenalbrendan  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grandpa's treasure]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10vv02t/grandpas_treasure/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10vv02t/grandpas_treasure/"/>
-        <updated>2023-02-07T06:36:59.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Suspicious-Ad-481  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dragonmoutainfamily-trekking northern Vietnam]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10vst9w/dragonmoutainfamilytrekking_northern_vietnam/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10vst9w/dragonmoutainfamilytrekking_northern_vietnam/"/>
-        <updated>2023-02-07T04:42:03.000Z</updated>
-        <summary type="html"><![CDATA[We are Zen & Sa, tour guides from one of Northern Vietnam's indigenous tribes - the Black Hmong. We have been guides in Northern Vietnam for many years, educating tourists with our local tribal knowledge and of our culture & lands.
- By booking with us, you are directly supporting 2 women, our families, and the local people who's homestays we visit. Eco-tourism gives us an opportunity to better our lives.
- Thank you so much, Zen
- Please feel free to contact me below here is my,
- Website: https://dragon-mountain-family.web.app/ha-giang
- ​
-    submitted by    /u/Mountain-Low-4079  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hanoi Street Views. 🇻🇳]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10vovpn/hanoi_street_views/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10vovpn/hanoi_street_views/"/>
-        <updated>2023-02-07T01:44:04.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/iamsriracha  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phu Quoc Beach Bars]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10vmoez/phu_quoc_beach_bars/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10vmoez/phu_quoc_beach_bars/"/>
-        <updated>2023-02-07T00:08:03.000Z</updated>
-        <summary type="html"><![CDATA[I'm considering visiting Phu Quoc this summer but I'm having a bit of trouble finding out about the bars there.
- I'm looking to see if there are laid back, cheap beer, cheap simple mixed drinks, beach bars, not clubs, I don't want DJs or raves or anything like that and are they in close proximity to the main resorts?
- I love sitting feet in the sand having a local beer with good conversation.
-    submitted by    /u/GT086  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beach Hazards Statement issued February 06 at 1:59PM PST until February 07 at 4:00AM PST by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA1266364156DC.BeachHazardsStatement.1266364F2280CA.LOXCFWLOX.8ea555bfda6e6b9d4faf054435ae220b</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA1266364156DC.BeachHazardsStatement.1266364F2280CA.LOXCFWLOX.8ea555bfda6e6b9d4faf054435ae220b"/>
-        <updated>2023-02-06T21:59:00.000Z</updated>
-        <summary type="html"><![CDATA[...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH LATE TONIGHT... * WHAT...Dangerous rip currents and breaking waves due to elevated surf of 3 to 6 feet expected. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County Beaches.]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wind Advisory issued February 06 at 1:13PM PST until February 07 at 1:00PM PST by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA1266364144E4.WindAdvisory.126636508210CA.LOXNPWLOX.198feef06070c4f9121434dd01c4c9a4</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA1266364144E4.WindAdvisory.126636508210CA.LOXNPWLOX.198feef06070c4f9121434dd01c4c9a4"/>
-        <updated>2023-02-06T21:13:00.000Z</updated>
-        <summary type="html"><![CDATA[...WIND ADVISORY IN EFFECT FROM 10 PM THIS EVENING TO 1 PM PST TUESDAY... * WHAT...Northeast winds 20 to 30 mph with gusts up to 50 mph expected. Strongest winds in the mountains. * WHERE...Los Angeles County Mountains, Santa Clarita Valley, Central Ventura County Valleys, Southeastern Ventura County]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VietJet Checked-In Baggage]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10vhe3q/vietjet_checkedin_baggage/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10vhe3q/vietjet_checkedin_baggage/"/>
-        <updated>2023-02-06T20:35:58.000Z</updated>
-        <summary type="html"><![CDATA[I'll be flying wih VietJet this week. I am allowed to check-in 20 kg. Would it be possible to check-in two pieces of luggage provided that the total weight of the bags does not exceed 20 kg? I can't seem to find the answer on their website.
-    submitted by    /u/thewhimsicalwonderer  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have been missing the food from Vietnam so bad. Managed to find this place (Keu) in London. Not the same but still warms the soul.]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10vev4o/have_been_missing_the_food_from_vietnam_so_bad/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10vev4o/have_been_missing_the_food_from_vietnam_so_bad/"/>
-        <updated>2023-02-06T19:00:25.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/shahoust  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[what do you think about my vietnamese dinner?!]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10vdm2b/what_do_you_think_about_my_vietnamese_dinner/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10vdm2b/what_do_you_think_about_my_vietnamese_dinner/"/>
-        <updated>2023-02-06T18:12:47.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/SuperRichBytch  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APIs for Beginners Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/apis-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/apis-for-beginners/"/>
-        <updated>2023-02-06T17:57:37.000Z</updated>
-        <summary type="html"><![CDATA[APIs, or Application Programming Interfaces, are a critical component of web development and programming. They provide a way for different applications and systems to communicate with each other, exchanging data and enabling functionalities. We just published an API basics course on the freeCodeCamp.org YouTube channel. This is an updated version]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where can i book a day cruise in halong bay? any recomended websites?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10vcsg6/where_can_i_book_a_day_cruise_in_halong_bay_any/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10vcsg6/where_can_i_book_a_day_cruise_in_halong_bay_any/"/>
-        <updated>2023-02-06T17:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi, I am looking to book a day trip in halong bay and I came across multiple sites, is there any website that is recomended? 
- I saw some reasonable prices in this website https://cruiseinhalongbay.com/ is this a legit site??
-    submitted by    /u/prem_201  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Booking hotels and Airbnb]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10vbxqj/booking_hotels_and_airbnb/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10vbxqj/booking_hotels_and_airbnb/"/>
-        <updated>2023-02-06T17:09:31.000Z</updated>
-        <summary type="html"><![CDATA[Questions about hotels is that should I be booking them before I leave for Vietnam or should I book them once I’m there. For more context I do have a place to stay already, and my questions is for places like Phu quoc and hoi an, and if I should be booking them way far in advance. Going in mid March
-    submitted by    /u/Hanz0408  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Border run frequency]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10vaye0/border_run_frequency/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10vaye0/border_run_frequency/"/>
-        <updated>2023-02-06T16:31:08.000Z</updated>
-        <summary type="html"><![CDATA[What's the situation like doing border runs to say Cambodia? Are there unspoken rules such as no more than 3 entries per year? Maybe the border run needs to be at least a few weeks and few days is a straight up no no? Anyone with recent experience? Thanks!
-    submitted by    /u/username5471234712  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stolen Phone]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10vacee/stolen_phone/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10vacee/stolen_phone/"/>
-        <updated>2023-02-06T16:07:00.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/bananarama92  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a CRUD Command Line Application With Node.js]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/"/>
-        <updated>2023-02-06T15:59:59.000Z</updated>
-        <summary type="html"><![CDATA[If you're looking for a tutorial to teach you the basics of Nodejs [https://nodejs.org/en/] and the command line, you're in the right place. You can use JavaScript to build almost any software (web, mobile, bots, and so on). The reason is that computers no longer depend on browsers only to]]></summary>
-        <author>
-            <name>Njoku Samson Ebere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Renting an apartment]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10v9gvo/renting_an_apartment/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10v9gvo/renting_an_apartment/"/>
-        <updated>2023-02-06T15:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! Is this possible to rent apartment without agents? And please recommend websites or fb groups or reliable agencies in HCMC. Thank you
-    submitted by    /u/Complete-Potato2815  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is there anywhere I can get an Anker power bank in Hanoi?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10v8jsw/is_there_anywhere_i_can_get_an_anker_power_bank/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10v8jsw/is_there_anywhere_i_can_get_an_anker_power_bank/"/>
-        <updated>2023-02-06T14:54:24.000Z</updated>
-        <summary type="html"><![CDATA[Title. Anywhere I can get a legitimate Anker powerbank, not a knockoff?
-    submitted by    /u/marrymeodell  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which of us are Tây and how do you decide?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10v8cdf/which_of_us_are_t%C3%A2y_and_how_do_you_decide/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10v8cdf/which_of_us_are_t%C3%A2y_and_how_do_you_decide/"/>
-        <updated>2023-02-06T14:45:50.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/PropMop31  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel 7 availability in Vietnam]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10v7rtk/google_pixel_7_availability_in_vietnam/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10v7rtk/google_pixel_7_availability_in_vietnam/"/>
-        <updated>2023-02-06T14:21:07.000Z</updated>
-        <summary type="html"><![CDATA[Hi! I will be traveling to Vietnam soon. I know Google does not sell the Pixel 7 officially in Vietnam but since it is made/assembled in Vietnam I was wondering if it is available for purchase there? Please tell me if you know of any shop online or not that sells it.
-    submitted by    /u/Exotic-Grocery  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[an old guy told my husband to learn vietnamese]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10v7czi/an_old_guy_told_my_husband_to_learn_vietnamese/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10v7czi/an_old_guy_told_my_husband_to_learn_vietnamese/"/>
-        <updated>2023-02-06T14:02:35.000Z</updated>
-        <summary type="html"><![CDATA[me and my husband was having lunch and enjoying our time. Then suddenly a vietnamese older guy walked into the restaurant and just come up to us and started talking. I could not make out what he was saying. he mumbled a lot to the point I wasn't sure if he was even vietnamese. I am vietnamese so i would be able to understand if he wanted something from us. But he especially looked at my husband and told me something. Then he sat down next to us on the other table and kept on talking to us. Finally I can hear what he was saying and he kept mumbling how my husband has to learn vietnamese to communicate. He had this painful, almost angry expression on his face. He seems offended my husband doesn't speak vietnamese somehow. 
- The staff finally came over and asked him to leave. She was alone so she didn't know how to handle the situation. I asked her about him and she said he seems drunk and not from around the neighborhood. 
- Does this happened to any of you? didn't know how to react, was uncomfortable during and after it. he stayed for at least 10mins just talk and talk and talk... so very weird
-    submitted by    /u/Cupcake179  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hanoi Train Rail]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10v6yjy/hanoi_train_rail/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10v6yjy/hanoi_train_rail/"/>
-        <updated>2023-02-06T13:44:50.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/iamsriracha  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vietnamese australian kpop idol and political drama, your thought?!]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/10v67my/vietnamese_australian_kpop_idol_and_political/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/10v67my/vietnamese_australian_kpop_idol_and_political/"/>
-        <updated>2023-02-06T13:09:05.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/SuperRichBytch  
  [link]   [comments]]]></summary>
         <author>
             <name>Vietnam</name>
