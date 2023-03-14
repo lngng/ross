@@ -12,6 +12,46 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CA1D3A8.FloodWatch.12663CAEE8E0CA.LOXFFALOX.b11ee726c3b353f7593dd2157c4e4fe4",
+          "author": null,
+          "description": "...FLOOD WATCH IN EFFECT FROM TUESDAY AFTERNOON THROUGH WEDNESDAY MORNING... * WHAT...Flooding caused by excessive rainfall is possible. * WHERE...Most of Los Angeles County except the Antelope Valley. * WHEN...From Tuesday afternoon through Wednesday morning. * IMPACTS...Heavy rain and excessive runoff may result in dangerous",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CA1D3A8.FloodWatch.12663CAEE8E0CA.LOXFFALOX.b11ee726c3b353f7593dd2157c4e4fe4",
+          "publishedOn": "2023-03-13T20:26:00.000Z",
+          "wordCount": 173,
+          "title": "Flood Watch issued March 13 at 1:26PM PDT until March 13 at 11:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CA1D3A8.FloodWatch.12663CBF1580CA.LOXFFALOX.0bc3cc21a81510e89ae0ac4bcd32a627",
+          "author": null,
+          "description": "...FLOOD WATCH IN EFFECT FROM TUESDAY AFTERNOON THROUGH WEDNESDAY MORNING... * WHAT...Flooding caused by excessive rainfall is possible. * WHERE...Most of Los Angeles County except the Antelope Valley. * WHEN...From Tuesday afternoon through Wednesday morning. * IMPACTS...Heavy rain and excessive runoff may result in dangerous",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CA1D3A8.FloodWatch.12663CBF1580CA.LOXFFALOX.0bc3cc21a81510e89ae0ac4bcd32a627",
+          "publishedOn": "2023-03-13T20:26:00.000Z",
+          "wordCount": 179,
+          "title": "Flood Watch issued March 13 at 1:26PM PDT until March 15 at 5:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CA1D3A8.FloodWatch.12663CCE7ED0CA.LOXFFALOX.25c9599972e90869c12091197aa1a248",
+          "author": null,
+          "description": "...FLOOD WATCH IN EFFECT FROM TUESDAY MORNING THROUGH WEDNESDAY MORNING... * WHAT...Flooding caused by excessive rainfall is possible. * WHERE...Most of Ventura County south of Lockwood Valley. * WHEN...From Tuesday morning through Wednesday morning. * IMPACTS...Extensive street flooding and flooding of creeks and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CA1D3A8.FloodWatch.12663CCE7ED0CA.LOXFFALOX.25c9599972e90869c12091197aa1a248",
+          "publishedOn": "2023-03-13T20:26:00.000Z",
+          "wordCount": 247,
+          "title": "Flood Watch issued March 13 at 1:26PM PDT until March 16 at 6:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CA1D3A8.FloodWatch.12663CCE7ED0CA.LOXFFALOX.9c09c0bf3d098794ce902da53367f9f1",
+          "author": null,
+          "description": "...FLOOD WATCH IN EFFECT FROM TUESDAY AFTERNOON THROUGH WEDNESDAY MORNING... * WHAT...Flooding caused by excessive rainfall is possible. * WHERE...Most of Los Angeles County except the Antelope Valley. * WHEN...From Tuesday afternoon through Wednesday morning. * IMPACTS...Heavy rain and excessive runoff may result in dangerous",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CA1D3A8.FloodWatch.12663CCE7ED0CA.LOXFFALOX.9c09c0bf3d098794ce902da53367f9f1",
+          "publishedOn": "2023-03-13T20:26:00.000Z",
+          "wordCount": 281,
+          "title": "Flood Watch issued March 13 at 1:26PM PDT until March 16 at 6:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663C7482E0.FloodAdvisory.12663C807064CA.LOXFLSLOX.e218bf4014858fe79f82b3bcf34171e5",
           "author": null,
           "description": "...FLOOD ADVISORY IN EFFECT UNTIL 7 PM PST THIS EVENING... * WHAT...Flooding caused by excessive rainfall is expected. * WHERE...A portion of southwest California, including southeast Los Angeles County * WHEN...Until 700 PM PST. * IMPACTS...Minor flooding in low-lying and poor drainage areas.",
@@ -1160,16 +1200,6 @@
           "wordCount": 160,
           "title": "High Wind Watch issued February 12 at 1:05PM PST until February 14 at 10:00PM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266368D17D4.HighSurfAdvisory.1266369D1B70CA.LOXCFWLOX.bbc9c0e94c50f159fd72291d50c370b2",
-          "author": null,
-          "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 3 PM PST SUNDAY... * WHAT...Large breaking waves of 5 to 7 feet with dangerous rip currents. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County Beaches. * WHEN...Until 3 PM PST Sunday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266368D17D4.HighSurfAdvisory.1266369D1B70CA.LOXCFWLOX.bbc9c0e94c50f159fd72291d50c370b2",
-          "publishedOn": "2023-02-11T18:05:00.000Z",
-          "wordCount": 226,
-          "title": "High Surf Advisory issued February 11 at 10:05AM PST until February 12 at 3:00PM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -1178,6 +1208,236 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11qqtts/south_korea_appeals_court_ruling_to_compensate/",
+          "author": null,
+          "description": "submitted by    /u/capsicumnugget  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11qqtts/south_korea_appeals_court_ruling_to_compensate/",
+          "publishedOn": "2023-03-14T00:14:08.000Z",
+          "wordCount": 1940,
+          "title": "South Korea appeals court ruling to compensate Vietnam war victim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11qng0c/vietnameseamerican_wedding/",
+          "author": null,
+          "description": "I (40m) am a white American man who is marrying a Vietnamese-America woman (28F). She was born and raised in the US but her parents are immigrants from Vietnam. What are some fun ways we can honor both cultures at our wedding?\n    submitted by    /u/neuro_intact  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11qng0c/vietnameseamerican_wedding/",
+          "publishedOn": "2023-03-13T22:06:22.000Z",
+          "wordCount": 14624,
+          "title": "Vietnamese-American Wedding",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11qn0jr/are_money_exchangers_and_sim_card_store_open/",
+          "author": null,
+          "description": "I had issues with my bank when withdrawing from a foreign ATM so I am not going to rely on it.\n    submitted by    /u/synapsisxx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11qn0jr/are_money_exchangers_and_sim_card_store_open/",
+          "publishedOn": "2023-03-13T21:51:09.000Z",
+          "wordCount": 14437,
+          "title": "Are money exchangers and sim card store open after midnight at SGN airport?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11qmw2x/search_for_mediatypecollection_on_the_internet/",
+          "author": null,
+          "description": "submitted by    /u/Low_Wafer6888  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11qmw2x/search_for_mediatypecollection_on_the_internet/",
+          "publishedOn": "2023-03-13T21:46:42.000Z",
+          "wordCount": 14388,
+          "title": "Search for \"mediatype:collection\" on the Internet Archive.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11qlqys/ha_giang_loop/",
+          "author": null,
+          "description": "submitted by    /u/sebbastien  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11qlqys/ha_giang_loop/",
+          "publishedOn": "2023-03-13T21:06:09.000Z",
+          "wordCount": 14383,
+          "title": "Ha Giang Loop!",
+          "imageUrl": "https://external-preview.redd.it/5QYMkO79NHXqZKybIhkPKFvB4dPfyUaXFJB1IaQpdnw.jpg?auto=webp&v=enabled&s=86217ae73ec9f70a2bf3f45469ec8c095a14261c"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11ql97l/water_polo_club/",
+          "author": null,
+          "description": "My daughter will be in Vietnam, HCMC with her mother from May 28 until July 23. Are there any water polo clubs nearby Quan 10 she could join for the summer. She's on her high school team and a club here in Texas? She speaks Vietnamese well also and really wanted to keep her training up. She's also on the high school swim team.\n    submitted by    /u/Effective-Gold5063  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11ql97l/water_polo_club/",
+          "publishedOn": "2023-03-13T20:48:32.000Z",
+          "wordCount": 1986,
+          "title": "Water Polo Club.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11qktni/has_anyone_here_actually_been_threatened_or/",
+          "author": null,
+          "description": "I ask because I've seen quite a few articles about how extremely easily-offended many Vietnamese immigrant communities, especially in Seattle and throughout California and Texas, are when they see the modern flag, equating it with the Confederate and Nazi flags, and have forced many institutions to use the traditional yellow one instead.\n I kinda wonder if it's as serious as local news outlets say it is or if it's all gross exaggerations that inadvertently make the Vietnamese community look bad. Because taken to the logical extreme, it would mean Hardee's/Carl's Jr and Steven Universe would be protested against or banned.\n    submitted by    /u/SharanskyWailer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11qktni/has_anyone_here_actually_been_threatened_or/",
+          "publishedOn": "2023-03-13T20:32:50.000Z",
+          "wordCount": 2044,
+          "title": "Has anyone here actually been threatened or assaulted by a former South Vietnamese person in the USA for wearing anything red with a yellow star?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11qkin4/book_domestic_flights_in_advance/",
+          "author": null,
+          "description": "Hi there,\n ​\n is it worth booking domestic flights in advance? gonna be in vietnam in May and want to visit a few places.\n From what I can tell right now there isn't much of a price difference if I book 1 day in advance vs months in advance. \n ​\n Best regards\n P\n    submitted by    /u/pisgorat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11qkin4/book_domestic_flights_in_advance/",
+          "publishedOn": "2023-03-13T20:22:11.000Z",
+          "wordCount": 14716,
+          "title": "Book domestic flights in advance?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11qiayg/is_it_allowed_to_fly_drone_in_da_nang/",
+          "author": null,
+          "description": "Or a permit is needed? I've read it's impossible to get one.\n I couldn't even find where to get it.\n What's your experience?\n    submitted by    /u/jamesftf  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11qiayg/is_it_allowed_to_fly_drone_in_da_nang/",
+          "publishedOn": "2023-03-13T19:02:41.000Z",
+          "wordCount": 14429,
+          "title": "Is it allowed to fly drone in Da Nang?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11qgg4h/buying_a_bike_in_vietnam/",
+          "author": null,
+          "description": "I've just bought a Yamaha Sirius 2011. Has anyone used this bike? What kind of damage should I look out for in a secondhand bike?\n    submitted by    /u/ThrowRApsychnerd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11qgg4h/buying_a_bike_in_vietnam/",
+          "publishedOn": "2023-03-13T17:52:44.000Z",
+          "wordCount": 1949,
+          "title": "Buying a bike in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11qgfm0/mannequin_challenge_before_it_was_a_thing/",
+          "author": null,
+          "description": "https://www.youtube.com/watch?v=KxWMYoxcPn0\n I think this MV was shot somewhere 2005 or 2006\n    submitted by    /u/vina400  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11qgfm0/mannequin_challenge_before_it_was_a_thing/",
+          "publishedOn": "2023-03-13T17:52:09.000Z",
+          "wordCount": 14403,
+          "title": "\"Mannequin Challenge\" before it was a thing....",
+          "imageUrl": "https://external-preview.redd.it/kF1WuhASuR7B5p68HRWy-7zWVL0pk8x9XhnpkHMQUZg.jpg?auto=webp&v=enabled&s=ada02a221b86410b2ebc661fabc7998f4cb0d099"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11qdsm4/omg_tasty_vietnamese_fooood/",
+          "author": null,
+          "description": "submitted by    /u/SuperRichBytch  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11qdsm4/omg_tasty_vietnamese_fooood/",
+          "publishedOn": "2023-03-13T16:09:02.000Z",
+          "wordCount": 14888,
+          "title": "omg tasty vietnamese fooood 🐣🐣🐣",
+          "imageUrl": "https://preview.redd.it/uhyhov9knkna1.jpg?auto=webp&v=enabled&s=c1059484abe501f0d71e63ceef48141115ed7bb6"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11qdjgg/electric_guitar_setup_in_saigon/",
+          "author": null,
+          "description": "Where to get it done? Got a mid-range guitar from Viet Thuong, all fine except for some fairly bad intonation issues to the extent that not only is 12th fret out of tune with open string but even chords played low on the neck sound slightly out of tune.\n    submitted by    /u/legatrixx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11qdjgg/electric_guitar_setup_in_saigon/",
+          "publishedOn": "2023-03-13T15:59:37.000Z",
+          "wordCount": 14537,
+          "title": "Electric guitar setup in Saigon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11qd2rc/remember_no_china/",
+          "author": null,
+          "description": "submitted by    /u/briannorwynn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11qd2rc/remember_no_china/",
+          "publishedOn": "2023-03-13T15:41:16.000Z",
+          "wordCount": 14499,
+          "title": "Remember, no China.",
+          "imageUrl": "https://external-preview.redd.it/b7NYIN48-uq_hlIKQZ6o0KmCArKXSyvXaTQLLObe6sg.png?format=pjpg&auto=webp&v=enabled&s=b319818b0c9c8c463d84fc88cc20235da189d1e6"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11qc4nc/are_motorbike_rental_scams_common/",
+          "author": null,
+          "description": "Am I getting scammed?\n Staying in nha Trang, at one of the large hotels. They said they can organise motorbike rental for me, and 10min later there was one at reception! I handed over my passport and money to the pair who delivered the bike and exchanged numbers. \n I have the bike, it's good brand and good condition.\n I'm suddenly freaking out because I received no paperwork and signed nothing. I don't even know what company it is.\n The hotel organised it which made me feel safe, but now I'm not sure.\n Is this just the way it is in Vietnam? Very laid back re paperwork etc.?\n    submitted by    /u/JackDG  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11qc4nc/are_motorbike_rental_scams_common/",
+          "publishedOn": "2023-03-13T15:04:09.000Z",
+          "wordCount": 14843,
+          "title": "Are motorbike rental scams common?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11qbudf/silly_question_mcdonalds_sauce_options/",
+          "author": null,
+          "description": "OK so you know how at McDonalds they have the self serve ketchup right? Well in VN i got used to this awesome garlic (sorta spicy) sauce. Is there a brand of that out there somewhere? or something similar? I have dreams about it... like the Banh Mi i had in Ho Chi Minh City at Banh Mi 81... :|||| HELP\n    submitted by    /u/lecithinxantham  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11qbudf/silly_question_mcdonalds_sauce_options/",
+          "publishedOn": "2023-03-13T14:52:50.000Z",
+          "wordCount": 14670,
+          "title": "Silly Question - Mcdonald's Sauce Options",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11q6c1v/leaving_vietnam_on_a_recently_renewed_passport/",
+          "author": null,
+          "description": "I've just had to renew my US passport today after finding it damaged. The Embassy says it typically takes 2 weeks to process. My flight out of Vietnam is in 3 weeks. I have a visa in my old passport (expired) and a TRC connected to the old passport that's valid for another year. Will I be able to leave Vietnam without issue if I bring both passports and the TRC to the airport or do I need to have an exit visa? I'm worried I won't have enough time to get the exit visa by the time my new passport is finished. Any insight would be very appreciated!\n ​\n Sorry if it's a stupid question! I'm just worried about getting in some sort of trouble at the airport.\n    submitted by    /u/Dense_Bit_2023  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11q6c1v/leaving_vietnam_on_a_recently_renewed_passport/",
+          "publishedOn": "2023-03-13T10:46:16.000Z",
+          "wordCount": 15328,
+          "title": "Leaving Vietnam on a recently renewed passport",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11q5njh/steel_coil_falls_from_tractor_trailer_crushes_car/",
+          "author": null,
+          "description": "submitted by    /u/Sad_Year5694  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11q5njh/steel_coil_falls_from_tractor_trailer_crushes_car/",
+          "publishedOn": "2023-03-13T10:06:17.000Z",
+          "wordCount": 14587,
+          "title": "Steel coil falls from tractor trailer, crushes car in Hanoi",
+          "imageUrl": "https://preview.redd.it/528btx1bdhna1.png?auto=webp&v=enabled&s=e02a0f6029d28ec63981388f265b21bde1606532"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11q4ng8/27_f_english_moving_to_vietnam_alone/",
+          "author": null,
+          "description": "I am obsessed with Vietnam and have been dying to move over for years. I had flights ready before COVID hit, which lasted so long I decide to study a postgraduate degree instead of waiting around. \n I want to rent an apartment by myself and fly my 2 cats over with me and study Vietnamese alongside working. I'm serious about this move and immersing myself in the culture. I intend on staying for a few years and working on legal visas.\n I have a first class Honours Degree in Fine Art, experience of exhibiting of my own work, experience teaching geography GCSE and currently in my second full-time placement as an art teacher in a UK secondary school. I will graduate from my PGCE in secondary Art and Design in July 2023, which would make me a fully qualified British curriculum high school art teacher. I don't want to stick around the UK to work for two years before moving... which would secure a top end international school job. \n I understand secondary art teaching jobs are few and far between especially for a teacher with less than 2 years experience. If I move to Vietnam (even if it's initially as an English teacher) would I eventually find work in this sector? What kind of jobs, monthly income and hours would I be looking at if I move and then find a job in this sector after arrival -even if I have to resort to English teaching for a while.\n I'm so excited for the move but it is a huge move and pretty nerve wracking! A big goal for me is to strike a balance between progressing with my teaching career and also my independent art practice! \n I'd love to hear about your experiences and advice; you thoughts and feelings. 🍵🇻🇳\n    submitted by    /u/onomebunbun  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11q4ng8/27_f_english_moving_to_vietnam_alone/",
+          "publishedOn": "2023-03-13T09:05:23.000Z",
+          "wordCount": 19733,
+          "title": "27 F English - moving to Vietnam alone!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11q2t6r/since_im_neutral_both_of_them_are_schizos_and/",
+          "author": null,
+          "description": "submitted by    /u/adanlorenzo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11q2t6r/since_im_neutral_both_of_them_are_schizos_and/",
+          "publishedOn": "2023-03-13T07:10:00.000Z",
+          "wordCount": 1945,
+          "title": "Since I'm neutral, both of them are schizos and Atatürk and Ho Chi Minh are based chads.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11q233v/cyberpunk_2077_og_image_by_ugodblesshentai/",
+          "author": null,
+          "description": "submitted by    /u/Aguywhoplaysroblox  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11q233v/cyberpunk_2077_og_image_by_ugodblesshentai/",
+          "publishedOn": "2023-03-13T06:25:27.000Z",
+          "wordCount": 14435,
+          "title": "Cyberpunk 2077 (og image by u/GodBlessHentai)",
+          "imageUrl": "https://preview.redd.it/u2biiccgrhna1.jpg?auto=webp&v=enabled&s=b35240579d533094b287938c78e167f79c04d310"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11pzw46/ke_huy_quan_just_won_his_first_oscar_for_best/",
+          "author": null,
+          "description": "submitted by    /u/PATHOFPAIN999999  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11pzw46/ke_huy_quan_just_won_his_first_oscar_for_best/",
+          "publishedOn": "2023-03-13T04:21:16.000Z",
+          "wordCount": 15568,
+          "title": "ke huy quan just won his first oscar for best supporting actor and became the first vietnam-born actor in history to win an oscar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11px31j/woot_first_vietnamese_hoa_to_win_an_oscar_from/",
+          "author": null,
+          "description": "submitted by    /u/Bad-news-co  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11px31j/woot_first_vietnamese_hoa_to_win_an_oscar_from/",
+          "publishedOn": "2023-03-13T02:07:32.000Z",
+          "wordCount": 1953,
+          "title": "Woot! First Vietnamese (Hoa) to win an Oscar!! From being a boat people after the war, to Indiana Jones and now winning all these awards!!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/11pvjw2/vietnams_cursed_images_86/",
           "author": null,
@@ -7307,226 +7567,6 @@
           "wordCount": 15348,
           "title": "Is it normal for hotels in Hanoi to advertise and sell rooms they don't have on booking.com?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/110dspz/other_than_cu_chi_tunnels_are_there_any_other/",
-          "author": null,
-          "description": "submitted by    /u/Faithlessberserker  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/110dspz/other_than_cu_chi_tunnels_are_there_any_other/",
-          "publishedOn": "2023-02-12T11:39:27.000Z",
-          "wordCount": 14444,
-          "title": "Other than Cu Chi tunnels, are there any other tunnel systems worth exploring in south vn? Looking to do some traveling in I corps and II corps next year.",
-          "imageUrl": "https://preview.redd.it/nn7mrwh1dsha1.jpg?auto=webp&v=enabled&s=9f8867b42eb91df62cef06d1e6c95497e2edcbd8"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/110ca7e/film_rollcamera_shop_recomendation/",
-          "author": null,
-          "description": "Hello! Planning to visit HCMC is there any shop around? \n Thanks!\n    submitted by    /u/palpitatemalala  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/110ca7e/film_rollcamera_shop_recomendation/",
-          "publishedOn": "2023-02-12T10:04:25.000Z",
-          "wordCount": 14313,
-          "title": "Film roll/camera shop recomendation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/110aziq/green_tea_powder_for_milk_tea/",
-          "author": null,
-          "description": "What is this green tea powder that Vietnamese use for milk tea? I don't think it's matcha, it tastes different and is much darker in color. They use it to make milk tea - this tea powder mixed with hot water and condensed milk. What is the name of it?\n    submitted by    /u/taxitothesky  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/110aziq/green_tea_powder_for_milk_tea/",
-          "publishedOn": "2023-02-12T08:38:34.000Z",
-          "wordCount": 14388,
-          "title": "Green tea powder for milk tea",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/110abb5/anyone_know_anywhere_showing_the_superbowl_in/",
-          "author": null,
-          "description": "submitted by    /u/NugsOrBust  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/110abb5/anyone_know_anywhere_showing_the_superbowl_in/",
-          "publishedOn": "2023-02-12T07:52:20.000Z",
-          "wordCount": 14500,
-          "title": "Anyone know anywhere showing the Superbowl in Hanoi?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1109hld/sa_pa_or_ha_long_bay_cruise_first_after_hanoi/",
-          "author": null,
-          "description": "Arriving in Hanoi this Tuesday. Wondering whether it's best to visit Sa Pa first or go on a Ha Long Bay Cruise first? Thanks.\n    submitted by    /u/Snowsunsmile  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1109hld/sa_pa_or_ha_long_bay_cruise_first_after_hanoi/",
-          "publishedOn": "2023-02-12T06:57:46.000Z",
-          "wordCount": 14414,
-          "title": "Sa Pa or Ha Long Bay Cruise first after Hanoi?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/110911f/riding_from_hcm_to_hanoi/",
-          "author": null,
-          "description": "Hi I'm planning on riding from HCM to Hanoi next month on a motorcycle. What would be a reasonable amount of KM to complete per day? I am just concerned about road conditions and how they would impact travel speeds. I'm a competent rider and ride a bike every day at home, have ridden in Thailand before.\n Thanks!\n    submitted by    /u/rustynuts69  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/110911f/riding_from_hcm_to_hanoi/",
-          "publishedOn": "2023-02-12T06:28:33.000Z",
-          "wordCount": 15736,
-          "title": "Riding from HCM to Hanoi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1108mf6/wife_and_daughter_of_french_governergeneral_paul/",
-          "author": null,
-          "description": "submitted by    /u/DrummingChopsticks  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1108mf6/wife_and_daughter_of_french_governergeneral_paul/",
-          "publishedOn": "2023-02-12T06:03:38.000Z",
-          "wordCount": 15202,
-          "title": "Wife and daughter of French Governer-General Paul Doumer throwing small coins and grains in front of children in French Indochina (today Vietnam), filmed in 1900 by Gabriel Veyre (AI enhanced)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11066fq/have_you_ever_tried_waxing_services_in_vietnam_if/",
-          "author": null,
-          "description": "submitted by    /u/SuperRichBytch  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11066fq/have_you_ever_tried_waxing_services_in_vietnam_if/",
-          "publishedOn": "2023-02-12T03:41:40.000Z",
-          "wordCount": 14309,
-          "title": "have you ever tried waxing services in vietnam? if yes, how was the experience?!",
-          "imageUrl": "https://preview.redd.it/nhvu6joszpha1.jpg?auto=webp&v=enabled&s=81819a6332fe50aaa0bed5412868c510ae0167da"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1100x8j/vietnam_hcmct%C3%A2n_ch%C3%A2u_tea_shopsgifts/",
-          "author": null,
-          "description": "I'm travelling to Vietnam soon, 2-3 days in HCMC, a few days on Phu Quoc island, a lot of time in Tan Chau.\n I'm very into tea and was hoping to find some tea shops that sell good quality loose leaf teas in HCMC and/or Tan Chau. As far as HCMC goes, I'll be in District 1 and District 3, with my tight schedule I won't be able to leave these areas in HCMC. \n Any tips? I've found a few on google that look potentially promising (such as Trà Việt), but I wanted to know if there were better shops that I'm probably missing since I don't speak the language, or just some place that's a hidden gem. \n Second, would tea be an appropriate gift for someone's family in Vietnam? We have other gifts we're bringing (Family member is getting married), but I thought I might add to it with a set of nicely presented teas as a thank you for hosting us.\n ​\n Thanks for any help!\n    submitted by    /u/Dramtastic  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1100x8j/vietnam_hcmct%C3%A2n_ch%C3%A2u_tea_shopsgifts/",
-          "publishedOn": "2023-02-11T23:19:16.000Z",
-          "wordCount": 14612,
-          "title": "Vietnam (HCMC/Tân Châu) tea shops/gifts?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10zyfgh/is_this_fr_wife_and_daughter_of_french/",
-          "author": null,
-          "description": "submitted by    /u/Informal-Fig-7116  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10zyfgh/is_this_fr_wife_and_daughter_of_french/",
-          "publishedOn": "2023-02-11T21:27:29.000Z",
-          "wordCount": 15251,
-          "title": "[is this fr???] Wife and daughter of French Governer-General Paul Doumer throwing small coins and grains in front of children in French Indochina (today Vietnam), filmed in 1900 by Gabriel Veyre (AI enhanced)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10zvceq/greetings_from_czech_republic/",
-          "author": null,
-          "description": "submitted by    /u/vocodee  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10zvceq/greetings_from_czech_republic/",
-          "publishedOn": "2023-02-11T19:13:16.000Z",
-          "wordCount": 14376,
-          "title": "Greetings from Czech Republic 🫶",
-          "imageUrl": "https://preview.redd.it/h3xrgxx2hnha1.jpg?auto=webp&v=enabled&s=44fab2eeeef6bfd5f8490188b6110e25a6406f95"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10zudaz/hcm_%C4%91i_xem_ko_c%E1%BA%ADu_t_l%C3%A0_ctrai/",
-          "author": null,
-          "description": "submitted by    /u/viay7274  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10zudaz/hcm_%C4%91i_xem_ko_c%E1%BA%ADu_t_l%C3%A0_ctrai/",
-          "publishedOn": "2023-02-11T18:31:16.000Z",
-          "wordCount": 14344,
-          "title": "HCM, đi xem ko cậu? t là ctrai",
-          "imageUrl": "https://preview.redd.it/27sj4cgl9nha1.jpg?auto=webp&v=enabled&s=a54ace4c88ad821a54945354218fc3a258b3797d"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10ztqvo/warning_reddit_was_hackedc%E1%BA%A3nh_b%C3%A1o_reddit_b%E1%BB%8B_t%E1%BA%A5n/",
-          "author": null,
-          "description": "Reddit recently has confirmed that it has been hacked. The hacker was able to gained access to some internal documents, code and systems at the social media company. To the user side, currently there are no evidence that the attack revealed any non-public data. However, I recommend people changing their reddit password immediately and setting up 2FA if not.\n ​\n Reddit gần đây đã xác nhận rằng họ đã bị hacker tấn công. Kẻ tấn công đã có quyền truy cập một số tài liệu, code và hệ thống của công ty. Về phía người dùng, hiện tại chưa có bằng chứng nào về việc rò rỉ dữ liệu cá nhân của người dùng nhưng mình vẫn khuyến khích các bạn thay đổi mật khẩu tài khoản và lập mã xác thực 2 bước cho tài khoản nếu chưa.\n    submitted by    /u/Former-Froyo3656  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10ztqvo/warning_reddit_was_hackedc%E1%BA%A3nh_b%C3%A1o_reddit_b%E1%BB%8B_t%E1%BA%A5n/",
-          "publishedOn": "2023-02-11T18:04:54.000Z",
-          "wordCount": 15089,
-          "title": "WARNING: REDDIT WAS HACKED/CẢNH BÁO: REDDIT BỊ TẤN CÔNG",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10zt9gk/vietnamese_crash_course/",
-          "author": null,
-          "description": "Visiting Vietnam soon. What phrases should I learn to interact with the locals? Thanks!\n    submitted by    /u/Lucky_Tuck  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10zt9gk/vietnamese_crash_course/",
-          "publishedOn": "2023-02-11T17:43:59.000Z",
-          "wordCount": 14353,
-          "title": "Vietnamese Crash Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10zt1y2/vietnam_lion_guardian/",
-          "author": null,
-          "description": "submitted by    /u/minhzero5  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10zt1y2/vietnam_lion_guardian/",
-          "publishedOn": "2023-02-11T17:35:03.000Z",
-          "wordCount": 14740,
-          "title": "vietnam lion guardian.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10zsvdt/chatgpt_scam_in_vietnamv%E1%BA%A5n_n%E1%BA%A1n_l%E1%BB%ABa_%C4%91%E1%BA%A3o_chatgpt_%E1%BB%9F/",
-          "author": null,
-          "description": "Recently, ChatGPT is becoming a hot topic in Vietnam because of how accessible it is to normal users and follow that trend is a booming scam market regarding to create a ChatGPT account. Because of that, I decided to make a post to guide you how to create your own legitimate ChatGPT account.\n Dạo gần đây, ChatGPT đã trở thành chủ đề nóng được quan tâm ở Việt Nam vì dịch vụ dễ dàng tiếp cận đối với người dùng bình thường, chính vì sự bùng nổ đó kéo theo vấn nạn lừa đảo liên quan đến việc tạo tài khoản ChatGPT. Chính vì thế mình quyết định viết bài post hướng dẫn tạo tài khoản ChatGPT chính gốc của bạn.\n ​\n  \nBecause ChatGPT is not supported in Vietnam, you need a VPN to change your IP to another country. In case you don't have a VPN, vn-z forum provided a lot of vpn account for you to choose. Bởi vì ChatGPT không hỗ trợ ở Việt Nam, bạn sẽ cần VPN để chuyển địa chỉ IP của bạn sang nước khác. Trong trường hợp bạn không có VPN, diễn đàn vn-z có cung cấp tài khoản VPN cho các bạn thoải mái sử dụng.\n You need a foreign phone number for verification, I recommended smspool because it is reliable, cheap (depends on the country, most likely cost less than 1$) and I used it for my ChatGPT account myself. Các bạn cũng sẽ cần đến số điện thoại nước ngoài để xác minh danh tính, mình khuyến khích các bạn dùng smspool vì nó ổn định, rẻ (tuỳ đất nước bạn chọn, giá thành sẽ thấp hơn 20,000đ).\n  \nGood luck/Chúc may mắn\n Edit: ChatGPT is now supporting in Vietnam (11/2/2023), however you will need ChatGPT Plus for 20$. Depends on your need, my guide will be cheaper for you. Để tạo tài khoản ChatGPT ở Việt Nam tại thời điểm hiện tại, bạn cần đăng kí ChatGPT Plus với giá 20$ (470,000đ). Tuỳ nhu cầu sử dụng mỗi người, người dùng phổ thông không có 400,000đ dư giả để tiêu thì cách trên mình hướng dẫn rẻ hơn.\n    submitted by    /u/Former-Froyo3656  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10zsvdt/chatgpt_scam_in_vietnamv%E1%BA%A5n_n%E1%BA%A1n_l%E1%BB%ABa_%C4%91%E1%BA%A3o_chatgpt_%E1%BB%9F/",
-          "publishedOn": "2023-02-11T17:27:16.000Z",
-          "wordCount": 2251,
-          "title": "ChatGPT Scam In Vietnam/Vấn Nạn Lừa Đảo ChatGPT Ở Việt Nam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10zs1ul/best_place_to_watch_a_man_utd_match_in_saigon/",
-          "author": null,
-          "description": "Thinking of watching the Leeds match tomorrow at a pub/cafe but not so sure where. Please let me know if any suggestions! Cảm ơn!\n    submitted by    /u/krat0skal  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10zs1ul/best_place_to_watch_a_man_utd_match_in_saigon/",
-          "publishedOn": "2023-02-11T16:52:01.000Z",
-          "wordCount": 14371,
-          "title": "Best place to watch a man UTD match in Saigon?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10zqm0x/pig_hill_vung_tau_vietnam/",
-          "author": null,
-          "description": "submitted by    /u/Shurikenja  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10zqm0x/pig_hill_vung_tau_vietnam/",
-          "publishedOn": "2023-02-11T15:52:34.000Z",
-          "wordCount": 14462,
-          "title": "Pig Hill, Vung Tau, Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10zqk6i/my_fave_cocktail_this_season/",
-          "author": null,
-          "description": "submitted by    /u/broken_hummingbird  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10zqk6i/my_fave_cocktail_this_season/",
-          "publishedOn": "2023-02-11T15:50:31.000Z",
-          "wordCount": 14298,
-          "title": "My fave cocktail this season",
-          "imageUrl": "https://external-preview.redd.it/DufkKtuXYWwd5iuQGcxkXzZZheob7mqsnwCcIghuqMM.png?format=pjpg&auto=webp&v=enabled&s=9202ff5e218d1f2cfe34aa49ac47da4bc652dbbe"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10zqcgj/what_are_these_things_and_where_can_i_find_them/",
-          "author": null,
-          "description": "submitted by    /u/tuanale  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10zqcgj/what_are_these_things_and_where_can_i_find_them/",
-          "publishedOn": "2023-02-11T15:44:00.000Z",
-          "wordCount": 15017,
-          "title": "What are these things and where can I find them in Houston, Texas?",
-          "imageUrl": "https://preview.redd.it/jj5erxxdemha1.png?auto=webp&v=enabled&s=053f5cb50737167368b7e059ab699dd015347b3d"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10zo2hd/weather_in_hanoi_feb_to_apr/",
-          "author": null,
-          "description": "Hello!\n In two weeks I will be accompanying my wife and our daughter on a short term business trip to Hanoi. Probably three months with short side trips to HCMC.\n What kind of weather can I expect?\n Is it jeans and hoodie or shorts and t-shirt?\n I've been to Vietnam a few times, but never in the north in winter/spring. So I usually pack t-shirts, shorts, light trekking pants and light trekking shirts.\n I'm a pretty big guy from the Netherlands and have no problems with cold, but heat gets to me quickly.\n Thanks a lot!\n    submitted by    /u/cmd_rikers_brother  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10zo2hd/weather_in_hanoi_feb_to_apr/",
-          "publishedOn": "2023-02-11T13:49:39.000Z",
-          "wordCount": 14585,
-          "title": "Weather in Hanoi (Feb to Apr)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/10znche/visiting_nha_trang_any_tips/",
-          "author": null,
-          "description": "My girlfriend and I are visiting Nha Trang in April for 10 days and are looking for any helpful travel tips / good recommendations for restaurants/ visits to do in the area. Thanks!\n    submitted by    /u/Weak_Ad2391  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/10znche/visiting_nha_trang_any_tips/",
-          "publishedOn": "2023-02-11T13:13:15.000Z",
-          "wordCount": 15191,
-          "title": "Visiting Nha Trang any tips?",
-          "imageUrl": null
         }
       ]
     },
@@ -7535,6 +7575,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-change-color-in-matplotlip/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Matplotlib is a Python library used for data visualization [/news/data-visualization-tools-guide], and creating interactive plots and graphs.  In this article, you'll learn how to add colors to your Matplotlib plots using parameter values provided by the Matplotlib plot() function. You'll learn how to change the color of a plot using:",
+          "link": "https://www.freecodecamp.org/news/how-to-change-color-in-matplotlip/",
+          "publishedOn": "2023-03-13T21:55:25.000Z",
+          "wordCount": 959,
+          "title": "Matplotlib Add Color – How To Change Line Color in Matplotlib",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/isaac-smith-6EnTPvPPL6I-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-sort-values-in-pandas/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When analyzing and manipulating data using Pandas, you might want to sort the data in a certain order. This makes it easier to understand and visualize data. In this article, you'll learn how to sort data in ascending and descending order using Pandas' sort_values() method.  How To Sort Values",
+          "link": "https://www.freecodecamp.org/news/how-to-sort-values-in-pandas/",
+          "publishedOn": "2023-03-13T21:52:10.000Z",
+          "wordCount": 1137,
+          "title": "pandas.DataFrame.sort_values - How To Sort Values in Pandas",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/sort-in-pandas-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-round-a-float-in-pandas/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use the Pandas library in Python to manipulate and analyze data. In most cases, it is used for manipulating and analyzing tabular data.  In this article, you'll learn how to use the Pandas round() method to round a float value to a specified number of decimal places.",
+          "link": "https://www.freecodecamp.org/news/how-to-round-a-float-in-pandas/",
+          "publishedOn": "2023-03-13T21:49:09.000Z",
+          "wordCount": 900,
+          "title": "Pandas round() Method – How To Round a Float in Pandas",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/round-float-in-pandas.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/mock-data-science-job-interview/",
+          "author": "Beau Carnes",
+          "description": "Are you currently in the job market for a data-focused role? Or perhaps you are looking to expand your understanding of the machine learning process? If so, then we have just the video for you! We just published a mock data science job interview on the freeCodeCamp.org YouTube channel. This",
+          "link": "https://www.freecodecamp.org/news/mock-data-science-job-interview/",
+          "publishedOn": "2023-03-13T19:52:54.000Z",
+          "wordCount": 945,
+          "title": "Mock Data Science Job Interview",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/datamock.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/common-errors-in-python-and-how-to-fix-them/",
+          "author": "Oluseye Jeremiah",
+          "description": "Python is a popular programming language that is easy to learn and use. But like any programming language, Python is prone to errors.  In this tutorial, we'll cover some of the most common errors in Python and how to fix them. Syntax Errors in Python Syntax errors occur when",
+          "link": "https://www.freecodecamp.org/news/common-errors-in-python-and-how-to-fix-them/",
+          "publishedOn": "2023-03-13T19:07:43.000Z",
+          "wordCount": 1826,
+          "title": "Common Errors in Python and How to Fix Them",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/errors.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to take a look at some of the many ways you can build a React application these days. We'll compare their main characteristics, along with their pros and cons. We'll start by explaining what React is and what improvements it brought over the",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/",
+          "publishedOn": "2023-03-13T19:01:24.000Z",
+          "wordCount": 7965,
+          "title": "How to Build a React App – A Walkthrough of the Many Different Ways",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/randy-fath-ymf4_9Y9S_A-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/google-sheets-how-to-create-custom-named-functions/",
+          "author": "Eamonn Cottrell",
+          "description": "There are 513 built-in functions in Google Sheets at the time of this writing. But what if you needed a custom function that wasn't included?  In this tutorial, I'll show you how to create and use your own custom function in Google Sheets. Why would you need a custom",
+          "link": "https://www.freecodecamp.org/news/google-sheets-how-to-create-custom-named-functions/",
+          "publishedOn": "2023-03-13T17:56:24.000Z",
+          "wordCount": 1171,
+          "title": "How to Create Custom Named Functions in Google Sheets",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/fCC-thumbp.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-declare-integer-arrays-with-c-programming/",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn how to work with arrays in C. I will first explain how to declare and initialize arrays. Then, I will also go over how to access and change items in an array in C with the help of code examples along the way. Let's",
+          "link": "https://www.freecodecamp.org/news/how-to-declare-integer-arrays-with-c-programming/",
+          "publishedOn": "2023-03-13T17:22:07.000Z",
+          "wordCount": 1459,
+          "title": "Integer Array in C – How to Declare Int Arrays with C Programming",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/nick-hillier-yD5rv8_WzxA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/common-date-functions-in-sql-with-examples/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "When querying data from a database, you will frequently encounter the date datatype. Depending on what you want to achieve, you may need to extract subset information from the date column, perform some operation, and so on.  SQL provides a variety of date functions that can assist you with",
+          "link": "https://www.freecodecamp.org/news/common-date-functions-in-sql-with-examples/",
+          "publishedOn": "2023-03-13T16:49:25.000Z",
+          "wordCount": 1987,
+          "title": "How to Write Common Date Functions in SQL with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-bich-tran-760710.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-remove-duplicate-data-in-sql/",
           "author": "Oluseye Jeremiah",
