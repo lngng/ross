@@ -12,6 +12,26 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D2AB63C.HighSurfAdvisory.12663D392780CA.LOXCFWLOX.6032dd6cf39a915363c8b7ee3516348b",
+          "author": null,
+          "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 5 AM PDT THURSDAY... * WHAT...Large breaking waves of 4 to 8 feet with dangerous rip currents. * WHERE...Malibu Coast and Los Angeles County Beaches. Highest across west and southwest facing beaches. * WHEN...Until 5 AM PDT Thursday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D2AB63C.HighSurfAdvisory.12663D392780CA.LOXCFWLOX.6032dd6cf39a915363c8b7ee3516348b",
+          "publishedOn": "2023-03-22T17:35:00.000Z",
+          "wordCount": 215,
+          "title": "High Surf Advisory issued March 22 at 10:35AM PDT until March 23 at 5:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D29F47C.WinterStormWarning.12663D383D20CA.LOXWSWLOX.5cdb272e5627eff4ab0c5480475826f6",
+          "author": null,
+          "description": "...WINTER STORM WARNING REMAINS IN EFFECT UNTIL 11 PM PDT THIS EVENING... * WHAT...Heavy snow expected. Total snow accumulations of 2 to 5 feet above 6000 feet, 10-20 inches between 5000 and 6000 feet, and 2-10 inches between 3500 and 5000 feet. Southerly Winds gusting as high as 75 mph.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D29F47C.WinterStormWarning.12663D383D20CA.LOXWSWLOX.5cdb272e5627eff4ab0c5480475826f6",
+          "publishedOn": "2023-03-22T12:39:00.000Z",
+          "wordCount": 261,
+          "title": "Winter Storm Warning issued March 22 at 5:39AM PDT until March 22 at 11:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D282340.WinterStormWarning.12663D383D20CA.LOXWSWLOX.5cdb272e5627eff4ab0c5480475826f6",
           "author": null,
           "description": "...WINTER STORM WARNING REMAINS IN EFFECT UNTIL 11 PM PDT WEDNESDAY... * WHAT...Heavy snow expected. Total snow accumulations of 2 to 5 feet above 6000 feet, 10-20 inches between 5000 and 6000 feet, and 2-10 inches between 3500 and 5000 feet. Southerly Winds gusting as high as 75 mph.",
@@ -1130,26 +1150,6 @@
           "wordCount": 243,
           "title": "High Surf Advisory issued February 21 at 12:00PM PST until February 23 at 3:00AM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637170FC0.HighSurfAdvisory.126637431F70CA.LOXCFWLOX.86a20ab18fdcd2aa7755095c6cffc929",
-          "author": null,
-          "description": "...HIGH SURF ADVISORY IN EFFECT FROM 8 PM TUESDAY TO 3 AM PST THURSDAY... * WHAT...Large breaking waves of 6 to 10 feet with local sets to 14 feet and dangerous rip currents. Highest across west-facing beaches. Surf will peak overnight Tuesday into early Wednesday morning.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637170FC0.HighSurfAdvisory.126637431F70CA.LOXCFWLOX.86a20ab18fdcd2aa7755095c6cffc929",
-          "publishedOn": "2023-02-20T22:24:00.000Z",
-          "wordCount": 254,
-          "title": "High Surf Advisory issued February 20 at 2:24PM PST until February 23 at 3:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637165184.AirQualityAlert.1266372596E4CA.LOXAQALOX.ce9610407cbd6364d8a50af0c7c3acee",
-          "author": null,
-          "description": "...AIR QUALITY ALERT DUE TO ELEVATED PARTICULATE MATTER LEVELS FROM WINDBLOWN DUST... The Imperial County APCD has issued an air quality alert due to increased particulate matter from blowing dust. The air quality alert is in effect Tuesday afternoon and evening. In areas directly impacted by high levels of windblown dust, limit",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637165184.AirQualityAlert.1266372596E4CA.LOXAQALOX.ce9610407cbd6364d8a50af0c7c3acee",
-          "publishedOn": "2023-02-20T17:37:00.000Z",
-          "wordCount": 333,
-          "title": "Air Quality Alert issued February 20 at 9:37AM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -1158,6 +1158,216 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11z2rbl/adhd_medication_for_expats/",
+          "author": null,
+          "description": "I lived in Vietnam for 6 years and moved to Canada in 2019. Since being in Canada I've been diagnosed with ADHD and prescribed Vyvanse which has changed my life for the better. My wife wants to return to Vietnam and I fully support it. It was my belief that stimulants are banned in your country. Can I get ADHD meds in Vietnam?\n I would love to return to your beautiful country but I'm really concerned that without my meds I will go back to my old forgetful, worthless self\n    submitted by    /u/garmin8871245  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11z2rbl/adhd_medication_for_expats/",
+          "publishedOn": "2023-03-23T00:34:33.000Z",
+          "wordCount": 2006,
+          "title": "ADHD Medication for expats",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11z1m9i/about_phin_filtered_coffee/",
+          "author": null,
+          "description": "Hi r/Vietnam!\n I'm currently looking into getting the best out of my Phin filter as I recently got a decent hand grinder. People over at r/coffee tend to be pour-over and aeropress guys so I don't read much about other brewing methods there. That's why I decided to ask here. :)\n Any tips on getting the best brew? I personally haven't tweaked much from what I usually do these past months when I first had a phin: Grind 14g of beans using setting 3 (medium fine) for my 6 click cheapo grinder that I bought over at Shopee, preheat the brewer and the glass, dump the grounds on the brewing chamber and shake to level, drop the press filter and press a bit (this one I'm not sure if necessary), pour hot-off-the-boil water about twice the volume of the coffee into the chamber to bloom the grounds and wait for 30 seconds, pour water to the brim of the chamber, then cover to retain the heat. Drip finishes at around 6 mins.\n I usually make coffee via pour-over and I love the different nuances in the process and how each factor affects the output of the brew, But I love the simplicity of the Phin and how no non-sense it is -it's brute force coffee.\n Also, what should I look for if I want to buy a better Phin filter? And if you are a Timemore C2 user, what is your current grind setting?\n I would love to hear from you guys. :) Thanks!\n    submitted by    /u/Bibingka_Malagkit  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11z1m9i/about_phin_filtered_coffee/",
+          "publishedOn": "2023-03-22T23:53:26.000Z",
+          "wordCount": 15328,
+          "title": "About Phin filtered coffee :)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11yy5fn/what_are_your_opinions_about_circular_economy_a/",
+          "author": null,
+          "description": "Hi friends, \n We are a group of students conducting a research project on circular economy (in electronics and fashion industry) and we would be grateful if you could take a few minutes to participate in our survey project. The surveys are in Vietnamese so Google Translate could come in handy ;) Thank you so much in advance for your time!\n Chào mọi người, nhóm chúng mình đang làm khảo sát về kinh tế tuần hoàn trong ngành điện tử và thời trang. Mong mọi người có thể giúp mình trả lời các câu hỏi trong phần khảo sát. Mình xin cám ơn rất nhiều!\n As always, the surveys are strictly anonymous.\n Survey 1: https://docs.google.com/forms/d/e/1FAIpQLSfD-3luBmzsYAdM-N6ACNdrqeJkV1G0cr3gjtrQK3KfUEoRdQ/viewform?usp=pp_url\n Survey 2: https://docs.google.com/forms/d/e/1FAIpQLSfdgLe-XMOArKONDHZm7luYs02RnC5Z7bhYCJEewqjposq7pw/viewform?usp=pp_url\n    submitted by    /u/anguyen0602  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11yy5fn/what_are_your_opinions_about_circular_economy_a/",
+          "publishedOn": "2023-03-22T21:55:33.000Z",
+          "wordCount": 14699,
+          "title": "What are your opinions about circular economy? [A Survey]",
+          "imageUrl": "https://external-preview.redd.it/72mQSTz2VgM1J0YB4n8Vx9r7TT6MpZ3ku-Ouaer7fdI.jpg?auto=webp&v=enabled&s=07bd089c53867c392da5d105df61e1a67136c82b"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11yvesn/whole_asean_nations_sought_for_march_friendlies/",
+          "author": null,
+          "description": "Southeast Asian nations made March friendlies, even with nations so unstable like Myanmar, not football fanatic like the Philippines or poor like Laos got their friendlies as scheduled.\n Only Cambodia, Vietnam, Brunei and East Timor starved their national teams in March.\n But hey, Cambodia is no superpower. Brunei is ASEAN's minnow. East Timor also a minnow. People will not blame them if they didn't schedule.\n But Vietnam? The nation that reached the final round of FIFA World Cup qualification and yet the national team is left starved with domestic league suspended for a month to serve the U-20 and U-23. For what? Professional countries will not interrupt domestic leagues for youth tournaments, only Vietnam does.\n Who is responsible for this? Who deliberately starved the national team?\n Shameful.\n    submitted by    /u/JoJo-Bizarre-1997  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11yvesn/whole_asean_nations_sought_for_march_friendlies/",
+          "publishedOn": "2023-03-22T20:23:56.000Z",
+          "wordCount": 14786,
+          "title": "Whole ASEAN nations sought for March friendlies, and only Vietnam, Cambodia, Brunei and East Timor to play none",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11yv4fk/vietnam_criminal_check/",
+          "author": null,
+          "description": "Hey everyone - I’m trying to get a criminal check from my previous time living in Vietnam. It is a bit confusing online. Has anyone gotten a Vietnam criminal check and know what website they went through? I’m in the UK if that makes a difference. Thanks!\n    submitted by    /u/ukteacher4  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11yv4fk/vietnam_criminal_check/",
+          "publishedOn": "2023-03-22T20:14:03.000Z",
+          "wordCount": 14570,
+          "title": "Vietnam Criminal Check",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11ysul1/only_in_vietnam_you_can_get_caught_redhanded/",
+          "author": null,
+          "description": "Jungle laws. 🤣\n    submitted by    /u/capmar  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11ysul1/only_in_vietnam_you_can_get_caught_redhanded/",
+          "publishedOn": "2023-03-22T18:58:35.000Z",
+          "wordCount": 15445,
+          "title": "Only in Vietnam you can get caught red-handed smuggling drugs and get off scot free",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11ysokw/rain_ninh_binh/",
+          "author": null,
+          "description": "Hi everyone,\n I'll be in Ninh Binh next week and it's calling for a lot of rain. I was hoping to do a good amount of treking and sightseeing but will all the rain keep me inside? Should I just stay in Hanoi and enjoy the city life? I have a torn ACL so I'm hesitant to be out in the rain incase I slip. \n Let me know what you guys think.\n ​\n Cam on!\n    submitted by    /u/annapurnaIV  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11ysokw/rain_ninh_binh/",
+          "publishedOn": "2023-03-22T18:53:17.000Z",
+          "wordCount": 1990,
+          "title": "Rain + Ninh Binh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11yq258/em_c%E1%BA%A7n_ai_%C4%91%C3%B3_gi%E1%BB%8Fi_ti%E1%BA%BFng_anh_h%C6%B0%E1%BB%9Bng_d%E1%BA%ABn_em/",
+          "author": null,
+          "description": "Chào mn , em 2k5 vẫn chưa có định hướng trong tương lai thật ra cũng k hẳn là k có, em nghe theo lời ba mẹ thi vào ngành quân đội, và hiện tại em định thi khối D vì em đã lỡ đầu tư toán từ lúc còn nghỉ hè, nhma av em thật sự chưa ổn( mức của em hiện h thì cùng lắm là 5-6đ khi thi tốt nghiệp) và em cần ai đó có kinh nghiệm và giỏi tiếng anh hướng dẫn em cách học. Em cảm ơn\n    submitted by    /u/ThiennCT  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11yq258/em_c%E1%BA%A7n_ai_%C4%91%C3%B3_gi%E1%BB%8Fi_ti%E1%BA%BFng_anh_h%C6%B0%E1%BB%9Bng_d%E1%BA%ABn_em/",
+          "publishedOn": "2023-03-22T17:27:28.000Z",
+          "wordCount": 15064,
+          "title": "Em cần ai đó giỏi tiếng anh hướng dẫn em.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11ynoqo/b%C3%B2_kho_rated_4_best_tasting_stew_in_the_world/",
+          "author": null,
+          "description": "submitted by    /u/sodadrinker2022  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11ynoqo/b%C3%B2_kho_rated_4_best_tasting_stew_in_the_world/",
+          "publishedOn": "2023-03-22T16:09:26.000Z",
+          "wordCount": 14773,
+          "title": "Bò Kho rated #4 best tasting stew in the world.",
+          "imageUrl": "https://external-preview.redd.it/myqZxdaLXC1jE0sEKAwY2Vdo0QHyMQoI1NZ3rJYxvs8.jpg?auto=webp&v=enabled&s=9094259f9c586a7f2ae987aa70c6f9c9df7c0c20"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11yler5/closing_distance_with_ldr_girlfriend_in_vn_and/",
+          "author": null,
+          "description": "We are looking for ways to close the distance, and both in early 20s. Both have passports. Im full time online student, she full time worker. I also have online shop. \n What is the easiest route? Digital nomad? Business Visa? Marriage? Apply for duel citizenship? Move to another country together?\n    submitted by    /u/Gullible-Ticket-8083  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11yler5/closing_distance_with_ldr_girlfriend_in_vn_and/",
+          "publishedOn": "2023-03-22T14:51:43.000Z",
+          "wordCount": 15367,
+          "title": "Closing distance with LDR girlfriend in VN and boyfriend in USA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11ykvl6/kontum/",
+          "author": null,
+          "description": "submitted by    /u/Apprehensive-Tie6548  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11ykvl6/kontum/",
+          "publishedOn": "2023-03-22T14:32:59.000Z",
+          "wordCount": 1922,
+          "title": "Kontum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11yjwyp/tin_m%E1%BB%9Bi_chi%E1%BB%81u_nay_4_ti%E1%BA%BFp_vi%C3%AAn_xinh_%C4%91%E1%BA%B9p_x%C3%A1ch_tay/",
+          "author": null,
+          "description": "​\n https://preview.redd.it/i4tqc5hiqapa1.jpg?width=859&format=pjpg&auto=webp&s=e8b8bcde9003b094f2ce9f6b8013065a7a2e6e4f\n https://plo.vn/4-tiep-vien-xach-tay-hon-11kg-ma-tuy-duoc-tra-tu-do-post725139.html\n    submitted by    /u/ohha_official  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11yjwyp/tin_m%E1%BB%9Bi_chi%E1%BB%81u_nay_4_ti%E1%BA%BFp_vi%C3%AAn_xinh_%C4%91%E1%BA%B9p_x%C3%A1ch_tay/",
+          "publishedOn": "2023-03-22T13:58:13.000Z",
+          "wordCount": 1932,
+          "title": "Tin mới chiều nay 4 tiếp viên xinh đẹp xách tay hơn 11kg \"MAI THUY\" được trả tự do",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11yjq1y/quality_silver_jewelry_in_hcmc/",
+          "author": null,
+          "description": "I'm traveling to HCMC next month. My wife would like a silver wedding band for our upcoming wedding anniversary. \n Any recommendations for nice shops to visit while we're there? \n Thanks.\n    submitted by    /u/bradnerboy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11yjq1y/quality_silver_jewelry_in_hcmc/",
+          "publishedOn": "2023-03-22T13:50:46.000Z",
+          "wordCount": 1947,
+          "title": "Quality silver jewelry in HCMC?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11ydku8/extra_day_in_vietnam_where_would_you_choose_to/",
+          "author": null,
+          "description": "I have a trip to Vietnam coming up - so far the plan is to spend 3 nights in Hanoi, 2 Cat Ba, and 2 Tam Coc. I have 1 more night/day and am having a hard time deciding which of the 3 places to spend it.\n If it were you, would you rather spend more time in Hanoi, Cat Ba, or Tam Coc? Looking for any and all insight!\n    submitted by    /u/melancholyomelette  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11ydku8/extra_day_in_vietnam_where_would_you_choose_to/",
+          "publishedOn": "2023-03-22T09:40:39.000Z",
+          "wordCount": 15712,
+          "title": "Extra day in Vietnam - where would you choose to spend it?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11ycd4i/how_long_to_stay_in_da_lat/",
+          "author": null,
+          "description": "Hello, I'm visiting Vietnam next month with my partner and our five month and am trying to finalise our plans.\n We fly out of HCMC so we're planning on Da Lat being the last place we visit and then getting bus to HCMC the night before our flight (we've both visited HCMC before so don't feel the need to go again).\n Just trying to figure out how many days to spend in Da Lat, i.e. should we do 2 nights, three days or one night, two days bearing in mind we have a small child with us so will probably be sticking to Da Lat rather than going on any trips in the nearby area. \n What do people think?\n    submitted by    /u/BrisLiam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11ycd4i/how_long_to_stay_in_da_lat/",
+          "publishedOn": "2023-03-22T08:43:00.000Z",
+          "wordCount": 15225,
+          "title": "How long to stay in Da Lat?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11yc584/banh_mi/",
+          "author": null,
+          "description": "Hi ,I have been to Vietnam four times , love the place . The food( along with many other things)is spectacular .I have been trying to bake Banh Mi at home . I've had medium success but miles away from a proper Vietnamese Bahn Mi. Is there a Vietnamese baker out there somewhere who would share the recipe. I'm really confused - some recipes use egg ,milk ,vitamin c powder . What is the correct recipe ?\n    submitted by    /u/1999falcon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11yc584/banh_mi/",
+          "publishedOn": "2023-03-22T08:32:10.000Z",
+          "wordCount": 15045,
+          "title": "Banh Mi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11ybv1h/rent_motorbike_nha_trang_da_lat/",
+          "author": null,
+          "description": "Me and my friend are backpacking in Vietnam atm and would like to rent a bike and drive from Nha Trang to Da Lat and deliver the bike in Da Lat, but we can’t find any options? The only options is the other way around. Does anybody know anything about this?\n    submitted by    /u/weedjesuus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11ybv1h/rent_motorbike_nha_trang_da_lat/",
+          "publishedOn": "2023-03-22T08:18:56.000Z",
+          "wordCount": 1970,
+          "title": "Rent motorbike Nha Trang - Da Lat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11y893v/looking_for_ha_giang_loop_motorbike_tour/",
+          "author": null,
+          "description": "Hi! I (30F) will be solo travelling through Vietnam in April and I am hoping to do a Ha Giang Loop motorbike tour. I am struggling to find good recommendations. Here are my requirements:\n - Easy rider who drives safe and is friendly\n - Small group tour (max 8 people)\n - Staying in authentic homestays \n - Off the beaten path/away from other tourists as much as possible (acknowledging that I am a tourist myself)\n - 4 days/3 nights would be ideal but open to slightly longer\n Also, I will be coming from Sa Pa, so any advice about transport between Sa Pa and Ha Giang is welcome. Thanks so much!\n    submitted by    /u/Recent_Reply_7840  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11y893v/looking_for_ha_giang_loop_motorbike_tour/",
+          "publishedOn": "2023-03-22T05:28:37.000Z",
+          "wordCount": 15549,
+          "title": "Looking for Ha Giang Loop motorbike tour recommendations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11y6l2k/whats_the_rule_on_being_vietnamese_alcohol_with/",
+          "author": null,
+          "description": "submitted by    /u/Chuoo13  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11y6l2k/whats_the_rule_on_being_vietnamese_alcohol_with/",
+          "publishedOn": "2023-03-22T04:16:09.000Z",
+          "wordCount": 15118,
+          "title": "What’s the rule on being Vietnamese alcohol with the scorpions back to the US?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11y4rcy/what_is_the_type_of_chicken_liver_or_pork_liver/",
+          "author": null,
+          "description": "submitted by    /u/globetrottinggus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11y4rcy/what_is_the_type_of_chicken_liver_or_pork_liver/",
+          "publishedOn": "2023-03-22T03:03:16.000Z",
+          "wordCount": 1939,
+          "title": "What is the type of chicken liver or pork liver pate they use in banh mi? And is it canned and can I buy it at any grocery store?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/11y2ung/black_rice_and_ginger_b%E1%BB%8Fng/",
+          "author": null,
+          "description": "Delicious snack made by one of my staff.\n    submitted by    /u/fritobugger  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/11y2ung/black_rice_and_ginger_b%E1%BB%8Fng/",
+          "publishedOn": "2023-03-22T01:51:19.000Z",
+          "wordCount": 1936,
+          "title": "Black rice and ginger bỏng",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/11y1dne/n%E1%BB%AF_d%C6%B0%E1%BB%A3c_s%C4%A9_chonnikarn_supittayaporn_%C4%91%C4%83ng_quang/",
           "author": null,
@@ -6997,236 +7207,6 @@
           "wordCount": 14791,
           "title": "Seeking Relaxation: Any Hidden Gems for a Quiet Beach or Lake to Swim in Vietnam?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1182q8l/i_asked_chatgpt_to_rewrite_new_york_by_frank/",
-          "author": null,
-          "description": "Verse 1:\n I'm hopping on a plane\n Leaving right away\n My heart's set on a different name\n Saigon, Saigon\n ​\n My flip-flops and my shorts\n Are waiting at the door\n To explore every hidden nook\n Of Saigon, Saigon\n ​\n Chorus:\n I want to wake up in a city\n That's never been too clean\n Where the traffic's like a symphony\n And the street food's obscene\n ​\n I want to wake up in a city\n That's got its own soundtrack\n With motorbikes and horns and shouting\n And sunsets that take my breath\n ​\n Verse 2:\n I'm ready to escape\n This monotonous place\n And see how life's done in the East\n Saigon, Saigon\n ​\n From Pho to Banh Mi\n And everything in between\n The food here is so divine\n In Saigon, Saigon\n ​\n Chorus:\n I want to wake up in a city\n Where coffee's a religion\n And there's so much life on every street\n That I feel pure elation\n ​\n I want to wake up in a city\n That never seems to sleep\n Where locals bike and tourists gawk\n And the air's a little too thick\n ​\n Bridge:\n If I can make it here\n I'll make it anywhere\n It's up to you\n Saigon, Saigon\n ​\n Chorus:\n I want to wake up in a city\n That's got its own kind of magic\n With history that's felt at every turn\n And energy that's so classic\n ​\n I want to wake up in a city\n That's got its own style and flair\n With markets that hustle and bustle\n And a pulse that's beyond compare\n ​\n Outro:\n Saigon, Saigon\n I wanna wake up in a city that screams my name\n Saigon, Saigon\n Where the hustle and bustle is always insane.\n    submitted by    /u/pimmm  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1182q8l/i_asked_chatgpt_to_rewrite_new_york_by_frank/",
-          "publishedOn": "2023-02-21T12:52:30.000Z",
-          "wordCount": 14961,
-          "title": "I asked Chatgpt to rewrite New York by Frank Sinatra, as if it was about Saigon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1180xw2/hello_my_fellow_vietnamese_friends_can_somebody/",
-          "author": null,
-          "description": "submitted by    /u/ichwillerdnuss  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1180xw2/hello_my_fellow_vietnamese_friends_can_somebody/",
-          "publishedOn": "2023-02-21T11:08:11.000Z",
-          "wordCount": 15875,
-          "title": "Hello my fellow vietnamese friends. Can somebody tell me what fruit this is?",
-          "imageUrl": "https://preview.redd.it/8nolwqnnfkja1.jpg?auto=webp&v=enabled&s=8dd6add5ee9ea589680a14efcba85dbee6a7528f"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1180st4/vietnams_last_functional_undersea_cable_now/",
-          "author": null,
-          "description": "submitted by    /u/_Sweet_Cake_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1180st4/vietnams_last_functional_undersea_cable_now/",
-          "publishedOn": "2023-02-21T10:59:59.000Z",
-          "wordCount": 14877,
-          "title": "Vietnam's last functional undersea cable now malfunctioning - VnExpress International",
-          "imageUrl": "https://external-preview.redd.it/CK5MpT8bkYPx5SrTFthingmDteEMMFh785heR0Sqq0c.jpg?auto=webp&v=enabled&s=fdace76641417e6ad39fde0faf5d0e9e03c17e00"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1180s7i/cuc_tung_vip_bus_good_but_could_be_great/",
-          "author": null,
-          "description": "VIP eleven passenger mini van from Da Lat to Nha Trang. Optional hotel pick-up ( I went to the bus station) and drop off directly at your destination hotel. There is one restroom stop on this route. We left on time and arrived on schedule. \n First of all the staff are excellent. Friendly and helpful check in agent and driver. \n Have no issue whatsoever with the customer service. For that this vendor earns three stars. \n Areas of improvement:\n VIP bus was messy. Had water bottles and trash from previous guests. Mini van was a little worn. Not as pristine as the photos but not terrible either. \n Where Cuc Tung looses stars is the driving experience. It was terrifying. The driver took unnecessary risks. There was low visibility due to fog and rain. Other travelers pulled off unto the side of the road but our driver's speed barely slowed down around the twists and turns of the mountain two lane highway And, he regularly passed cars while in blind curves. It was three a* clenching hours I was thankful to have survived. \n Safety should be a higher priority than timeliness.\n    submitted by    /u/Wild_About  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1180s7i/cuc_tung_vip_bus_good_but_could_be_great/",
-          "publishedOn": "2023-02-21T10:58:54.000Z",
-          "wordCount": 14773,
-          "title": "Cuc Tung VIP Bus: Good But Could Be Great",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1180qaw/stunning_4k_drone_footage_of_ho_chi_minh_city_at/",
-          "author": null,
-          "description": "submitted by    /u/gig970  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1180qaw/stunning_4k_drone_footage_of_ho_chi_minh_city_at/",
-          "publishedOn": "2023-02-21T10:55:28.000Z",
-          "wordCount": 14419,
-          "title": "Stunning 4K Drone Footage of Ho Chi Minh City at Night. Saigon never sleeps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11809bq/riding_a_motorbike_at_night_is_it_safe/",
-          "author": null,
-          "description": "So I am out at the perfume pagoda and I am riding back to Hanoi tonight alone is it safe for me to do so? Anything I should be careful of?\n    submitted by    /u/mrsAubrey  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11809bq/riding_a_motorbike_at_night_is_it_safe/",
-          "publishedOn": "2023-02-21T10:24:59.000Z",
-          "wordCount": 14862,
-          "title": "Riding a motorbike at night is it safe?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11807bb/selling_ps4_in_saigon/",
-          "author": null,
-          "description": "Does anyone know where I can sell my Ps4 in HCMC? Either where I can go to get a fair price or to put online. I don't speak Vietnamese but can get a friend to help.\n If anyone is interested in buying, feel free to DM.\n Thanks in advance\n    submitted by    /u/Dont_Tell_Tiffany  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11807bb/selling_ps4_in_saigon/",
-          "publishedOn": "2023-02-21T10:21:06.000Z",
-          "wordCount": 14493,
-          "title": "Selling Ps4 in Saigon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/117xtrv/name_of_song_please/",
-          "author": null,
-          "description": "submitted by    /u/Dukesse1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/117xtrv/name_of_song_please/",
-          "publishedOn": "2023-02-21T07:47:24.000Z",
-          "wordCount": 14550,
-          "title": "name of song please",
-          "imageUrl": "https://external-preview.redd.it/fKMO4I8Cy7m9MGKQ1ANcSwu2W3U2_Z2g3oYME8ydaqw.png?format=pjpg&auto=webp&v=enabled&s=9b1111b9282ee3e8098750fb8ab9d2aef87f3ded"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/117wuqr/this_man_and_his_wife_broke_both_arms_of_a/",
-          "author": null,
-          "description": "submitted by    /u/QuirkyProfessional93  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/117wuqr/this_man_and_his_wife_broke_both_arms_of_a/",
-          "publishedOn": "2023-02-21T06:46:05.000Z",
-          "wordCount": 15056,
-          "title": "This man and his wife broke both arms of a delivery man over $1.25 shipping fee",
-          "imageUrl": "https://external-preview.redd.it/YCCJ74Qw3cl3QtMmimFLM0ChdXOOa9X87lja0pQb_ck.jpg?auto=webp&v=enabled&s=b86a8ee9a3da447ebcb3b615acdf731c13d22ef7"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/117wta1/dong_son_drum_motifs_tattoo_wanted_something_to/",
-          "author": null,
-          "description": "submitted by    /u/CaptainPrice-141  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/117wta1/dong_son_drum_motifs_tattoo_wanted_something_to/",
-          "publishedOn": "2023-02-21T06:43:29.000Z",
-          "wordCount": 14576,
-          "title": "Dong Son Drum motifs tattoo. Wanted something to remember my homeland by. What do y’all think?",
-          "imageUrl": "https://preview.redd.it/o2yob9se4jja1.jpg?auto=webp&v=enabled&s=90bd95098b4630dbcc54feda0aaba0e30785feed"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/117wqit/atm_hanoi_airport/",
-          "author": null,
-          "description": "Hi everyone. Easy question. First time in Vietnam. I’ll be landing rather late, around 22:30 so maybe I’ll clear immigration by 11 pm. I have no cash so I’m hoping to withdraw at an atm at the airport. Is there anything open at that time? Thanks.\n    submitted by    /u/myoukendou  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/117wqit/atm_hanoi_airport/",
-          "publishedOn": "2023-02-21T06:38:42.000Z",
-          "wordCount": 15218,
-          "title": "ATM Hanoi airport",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/117v2wg/jade_in_da_nang/",
-          "author": null,
-          "description": "Does anyone know if it is real jade being sold at the tip of Ngu Hanh Son (Marble Mountain) in Da Nang? Where are they sourced?\n I went to most stalls in the area, even the small street vendors and they all claim that the jade they sell is real. I am just curious about the authenticity because their jade were selling for only a fraction of what it would cost in gold stores. For example, some ranged between 50k - 1 mill. Also, what is the deal with the price difference? I assume some may be either fake or real. If anyone is familiar with the area, some advice on where to find an authentic dealer is highly appreciated.\n    submitted by    /u/AJeminai  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/117v2wg/jade_in_da_nang/",
-          "publishedOn": "2023-02-21T05:05:09.000Z",
-          "wordCount": 14635,
-          "title": "Jade in Da Nang",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/117ugre/learning_vietnamese_for_kids/",
-          "author": null,
-          "description": "Hi, can anyone please recommend a website or app for kids to learn Vietnamese? I have a 3 yo who is half Vietnamese - something fun that’s more engaging to a 3 yo would be great. Had anyone used Dinolingo?\n    submitted by    /u/Difficult-Union4525  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/117ugre/learning_vietnamese_for_kids/",
-          "publishedOn": "2023-02-21T04:33:11.000Z",
-          "wordCount": 14786,
-          "title": "Learning Vietnamese for Kids",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/117sxj1/bookstreetinsaigon/",
-          "author": null,
-          "description": "submitted by    /u/Deadcatkao  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/117sxj1/bookstreetinsaigon/",
-          "publishedOn": "2023-02-21T03:15:23.000Z",
-          "wordCount": 14533,
-          "title": "BookStreetInSaigon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/117rjvk/found_at_%C4%91%C6%B0%E1%BB%9Dng_s%C3%A1ch_in_saigon/",
-          "author": null,
-          "description": "submitted by    /u/TheRoyalDustpan  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/117rjvk/found_at_%C4%91%C6%B0%E1%BB%9Dng_s%C3%A1ch_in_saigon/",
-          "publishedOn": "2023-02-21T02:08:27.000Z",
-          "wordCount": 14406,
-          "title": "found at Đường Sách in Saigon",
-          "imageUrl": "https://preview.redd.it/un9p5t2drhja1.jpg?auto=webp&v=enabled&s=a436935f9abae56b120ec184b21cfdfb5c68a637"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/117r8te/vietnams_rescue_team_discovers_15_sites_with/",
-          "author": null,
-          "description": "submitted by    /u/chilispicedmango  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/117r8te/vietnams_rescue_team_discovers_15_sites_with/",
-          "publishedOn": "2023-02-21T01:53:30.000Z",
-          "wordCount": 14875,
-          "title": "Vietnam's rescue team discovers 15 sites with quake victims in Turkey - VnExpress International",
-          "imageUrl": "https://external-preview.redd.it/PgAizEE6xHMFPgtqPSzpVL1GqGMHO49QjONiS5z9u1A.jpg?auto=webp&v=enabled&s=3b1ccc0cd4cf2b7d7c576a4940eb3272bd459fef"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/117mz3d/draft_beers_and_egg_coffee_in_hcm/",
-          "author": null,
-          "description": "Anybody know good/recommend draft beers in hcm?\n I prefer not in bui vien\n Also is there any cafe that serve egg coffee in hcm?\n Thanks in advance\n    submitted by    /u/lovedonthate2020  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/117mz3d/draft_beers_and_egg_coffee_in_hcm/",
-          "publishedOn": "2023-02-20T22:43:15.000Z",
-          "wordCount": 14418,
-          "title": "draft beers and egg coffee in hcm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/117mgc3/cannabis_in_vietnam/",
-          "author": null,
-          "description": "Hey guys\n I‘ll Soon Travel To Vietnam and Want To Know How is your Relation To Cannabis? \n I Know its Hardly punished By the Gouvernement if they catch you. Does this Happen often? Is the Police Looking especially for weed smokers? It is Hard To Buy ? Or do i Go better By Staying a Month away from it?\n    submitted by    /u/Klutzy_Juice2370  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/117mgc3/cannabis_in_vietnam/",
-          "publishedOn": "2023-02-20T22:22:27.000Z",
-          "wordCount": 14169,
-          "title": "Cannabis in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/117hncl/question/",
-          "author": null,
-          "description": "Tôi là một người Mỹ đến thăm Nha Trang sớm. có ai có mẹo hoặc thông tin nào có thể hữu ích không?\n    submitted by    /u/Mindless_Knowledge73  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/117hncl/question/",
-          "publishedOn": "2023-02-20T19:12:51.000Z",
-          "wordCount": 14360,
-          "title": "Question",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/117fks2/housing_market_in_hcmc/",
-          "author": null,
-          "description": "I have a few questions about the housing market in HCMC. I’m really just asking out of curiosity since I can’t actually purchase a SFR in Vietnam. Reading about Seoul’s fucked-up housing situation kind of freaks me out so I’m kind of curious about what’s happening in HCMC. \n My aunt “recently” sold their childhood house in D3 of HCMC for ~$500K USD. This is just what I overheard so I could honestly be mistaken, but this seems like a crazy amount for someone in VN to purchase considering the average annual salary of someone in HCMC. The only thing that stands out about this house to me is that it’s unlike the standard tall, narrow row houses with 4+ floors and had two floors, was much “wider” than it was tall, and had a backyard. It was a little out of place relative to the other structures around it. \n Is this “standard” pricing throughout most of HCMC? Sorry, I know this is a particularly stupid question since HCMC is massive. \n Do most people in HCMC “dream” about purchasing single family residences or has the goal shifted to purchasing a nice condo? Another family member told me that you can reasonably expect a newer condo to go for about ~$80K USD which still seems disproportionately high for the average salary, but I don’t know. \n Who is still able to purchase a “house” or a “condo”? \n Would you say the majority of people in HCMC today were born and raised there or moved there in the last 20 or so years?\n    submitted by    /u/lostnowlostlater  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/117fks2/housing_market_in_hcmc/",
-          "publishedOn": "2023-02-20T17:53:32.000Z",
-          "wordCount": 15474,
-          "title": "Housing market in HCMC?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/117f7ph/warming_blanketthrow_advice/",
-          "author": null,
-          "description": "My wife is traveling to Ha Noi in March and this is our fourth trip to places in Vietnam. Last time she was in Ha Noi she was cold at night. I know. I know. It isn’t very cold… but she wants to know if there is a market or store there that sells warming blankets that you put on a bed and plug into the wall outlet? Where would she get that?\n    submitted by    /u/NormalCriticism  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/117f7ph/warming_blanketthrow_advice/",
-          "publishedOn": "2023-02-20T17:40:50.000Z",
-          "wordCount": 14440,
-          "title": "Warming blanket/throw advice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1177m78/g%C3%B3c_kh%E1%BA%A3o_s%C3%A1t/",
-          "author": null,
-          "description": "submitted by    /u/ComradeH_VIE  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1177m78/g%C3%B3c_kh%E1%BA%A3o_s%C3%A1t/",
-          "publishedOn": "2023-02-20T14:11:06.000Z",
-          "wordCount": 14727,
-          "title": "[GÓC KHẢO SÁT]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1176kny/vietnams_ridiculously_weird_plans_left_national/",
-          "author": null,
-          "description": "submitted by    /u/JoJo-Bizarre-1997  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1176kny/vietnams_ridiculously_weird_plans_left_national/",
-          "publishedOn": "2023-02-20T13:24:38.000Z",
-          "wordCount": 15269,
-          "title": "Vietnam's ridiculously weird plans left national side missed out FIFA days as Vietnam won't play any friendly in March whereas other Southeast Asian nations have already confirmed opponents for it.",
-          "imageUrl": "https://external-preview.redd.it/TdP9VvgbA1nCHizTUtHlq3B1pAmHZ2ltNulSng5HGYQ.jpg?auto=webp&v=enabled&s=f969fe220ca6b08cc236729d416304587e3db7b0"
         }
       ]
     },
@@ -7235,6 +7215,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in learning how to build a customer relationship management (CRM) app with Django, Python, and MySQL? We just published a course on the freeCodeCamp.org YouTube channel that will guide you step-by-step on how to build a fully-functional CRM application using Django, Python, and MySQL. John Elder developed",
+          "link": "https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/",
+          "publishedOn": "2023-03-22T19:58:56.000Z",
+          "wordCount": 997,
+          "title": "CRM App Development with Django, Python, and MySQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/crmdjango.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/print-newline-in-python/",
+          "author": "Shittu Olumide",
+          "description": "Working with strings or text data in programming frequently involves printing a newline. The end of a line is indicated by a newline character, which also advances the cursor to the start of the following line. Using the escape character \"\\n,\" we can print a newline in Python. Other programming",
+          "link": "https://www.freecodecamp.org/news/print-newline-in-python/",
+          "publishedOn": "2023-03-22T19:17:24.000Z",
+          "wordCount": 1323,
+          "title": "Print Newline in Python – Printing a New Line",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Print-Newline-in-Python---Printing-a-New-Line-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-variables/",
+          "author": "Reed Barger",
+          "description": "Variables are an essential part of Python. They allow us to easily store, manipulate, and reference data throughout our projects. This article will give you all the understanding of Python variables you need to use them effectively in your projects. If you want the most convenient way to review all",
+          "link": "https://www.freecodecamp.org/news/python-variables/",
+          "publishedOn": "2023-03-22T18:30:52.000Z",
+          "wordCount": 1741,
+          "title": "Python Variables – The Complete Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/mugshotbot.com_customize_color-yellow-image-9820e115-mode-light-pattern-texture-theme-two_up-url-https___gifcoins.io.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-prevent-account-loss-when-using-two-factor-authentication/",
+          "author": "Obumuneme Nwabude",
+          "description": "If someone gains unauthorized access to your passwords, two-factor authentication (2FA) can prevent them from accessing your account.  But if you ever lose access to all your 2FA methods, you have lost your account. How do you prevent such loss? In this article, we will look at two-factor authentication",
+          "link": "https://www.freecodecamp.org/news/how-to-prevent-account-loss-when-using-two-factor-authentication/",
+          "publishedOn": "2023-03-22T16:28:07.000Z",
+          "wordCount": 3306,
+          "title": "How to Prevent Account Loss When using Two-Factor Authentication",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-karolina-grabowska-4467737.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/incorporate-cybersecurity-audits-into-your-workflow/",
+          "author": "David Clinton",
+          "description": "The word \"audit\" describes any process designed to review and assess a system's current state, capacity, and integrity.  An internal audit is a review process initiated and carried out by an organization itself. External audits are often performed by or on behalf of banking entities or government regulatory bodies",
+          "link": "https://www.freecodecamp.org/news/incorporate-cybersecurity-audits-into-your-workflow/",
+          "publishedOn": "2023-03-22T16:25:10.000Z",
+          "wordCount": 1593,
+          "title": "How to Incorporate Cybersecurity Audits into Your Workflow",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-39584.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
+          "author": "Sem Bauke",
+          "description": "I am happy to announce that the freeCodeCamp mobile app is finally ready for you to download. 🎊 The mobile development team just pushed a big update with many helpful improvements, including the much-awaited /learn user experience. You can now code your way through the Responsive Web Design curriculum and",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
+          "publishedOn": "2023-03-22T12:23:00.000Z",
+          "wordCount": 1125,
+          "title": "The freeCodeCamp Mobile App – Learn to Code Right On Your Phone",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/michal-soukup-hDOskFirs-c-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-the-hashrocket-symbol-mean-in-javascript/",
+          "author": "Edeh Israel Chidera",
+          "description": "Prior to the introduction of arrow functions, function expressions in JavaScript had a verbose syntax that often made code harder to read and understand.  As a more concise way of writing function expressions in JavaScript, arrow functions were introduced in ECMAScript 6 (ES6). They quickly gained popularity among developers",
+          "link": "https://www.freecodecamp.org/news/what-does-the-hashrocket-symbol-mean-in-javascript/",
+          "publishedOn": "2023-03-21T22:16:00.000Z",
+          "wordCount": 1454,
+          "title": "What does => Mean in JavaScript? The Equals Greater Than Symbol aka Hashrocket Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/markus-spiske-AaEQmoufHLk-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/modern-social-engineering-cyberattacks/",
+          "author": "Manish Shivanandhan",
+          "description": "Have you ever received a suspicious email or phone call from an unknown number asking for information? Or clicked on that link promising discount deals but ended up entering sensitive information? Chances are you were a victim of a social engineering attack. Social engineering is a manipulation technique used by",
+          "link": "https://www.freecodecamp.org/news/modern-social-engineering-cyberattacks/",
+          "publishedOn": "2023-03-21T22:03:40.000Z",
+          "wordCount": 2227,
+          "title": "Modern Social Engineering Explained – 10 Types of Social Engineering Cyberattacks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/0_gMWjfaXWX6wgkNtF.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-if-statement-equality-and-truthy-falsy/",
+          "author": "Deborah Kurata",
+          "description": "Decisions, decisions, decisions. Go left? Or go right? In programming, we use an  if statement when we want our code to make a decision. In this tutorial, we'll deep dive into the JavaScript if statement. Along the way, we'll examine the difference between single equals, double equals, and triple",
+          "link": "https://www.freecodecamp.org/news/javascript-if-statement-equality-and-truthy-falsy/",
+          "publishedOn": "2023-03-21T21:06:20.000Z",
+          "wordCount": 2883,
+          "title": "JavaScript if Statements, Equality and Truthy/Falsy – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/thumbnail-2.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/chart-js-tutorial-how-to-make-marimekko-charts-in-angular/",
           "author": "Swatej Patil",
@@ -8604,56 +8674,6 @@
           "wordCount": 898,
           "title": "HTML & Coding Introduction – Course for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/htmlania.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-code-pong-in-python/",
-          "author": "Shane Duggan",
-          "description": "Pong is a classic video game that has stood the test of time. It's a crowd favorite that many among you might recognise.  For the programmers out there, coding Pong in Python is a fun and challenging way to learn the language and basic concepts of game development. But",
-          "link": "https://www.freecodecamp.org/news/how-to-code-pong-in-python/",
-          "publishedOn": "2023-02-20T21:01:47.000Z",
-          "wordCount": 3380,
-          "title": "How to Code Pong in Python – a Step-By-Step Tutorial with Turtle",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Brown-Colorful-Mental-Health-Blog-Banner--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mongodb-in-rust/",
-          "author": "Chigozie Oduah",
-          "description": "MongoDB is a popular NoSQL database that has been gaining increasing popularity in recent years. It offers developers a flexible, scalable, and high-performance database solution, which can be used for a wide range of applications.  For Rust programmers, MongoDB provides an excellent option for storing and retrieving data in",
-          "link": "https://www.freecodecamp.org/news/mongodb-in-rust/",
-          "publishedOn": "2023-02-20T20:41:19.000Z",
-          "wordCount": 2882,
-          "title": "How to Get Started with MongoDB in Rust",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-ulucas-dube-cantin-10325707.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-test-user-interactions-in-react/",
-          "author": "Kunal Nalawade",
-          "description": "When you're testing different components in React, you’ll need to simulate user interactions with various parts of each component. In this tutorial, I am going to show you some methods to simulate user interactions with different interactive elements. Before getting started, make sure you know how to structure a test",
-          "link": "https://www.freecodecamp.org/news/how-to-test-user-interactions-in-react/",
-          "publishedOn": "2023-02-20T19:12:24.000Z",
-          "wordCount": 2353,
-          "title": "How to Test User Interactions Using the React Testing Library",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/0_cba5BsaMWpgBXzGK.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mysql-common-table-expressions/",
-          "author": "Zubair Idris Aweda",
-          "description": "In your day to day job as a Software Engineer or Database Administrator, you'll likely have to write long complex queries, often with some subqueries.  These queries over time become less performant, difficult to read and understand, and even more difficult to manage. And no one wants to do",
-          "link": "https://www.freecodecamp.org/news/mysql-common-table-expressions/",
-          "publishedOn": "2023-02-20T17:52:56.000Z",
-          "wordCount": 2493,
-          "title": "How to Use MySQL Common Table Expressions – with Example Queries",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Common-dining-table-eettafel-Esstisch-04-1280x854.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/sql-select-statement-how-to-select-data-from-a-database/",
-          "author": "Annoh Karlgusta",
-          "description": "In this article, you will learn about the SQL SELECT statement. We'll discuss its syntax, how to use it, and how to use the SELECT statement with the WHERE clause. You will also learn how to use it with the ORDER BY clause. Introduction to the SQL SELECT Statement The",
-          "link": "https://www.freecodecamp.org/news/sql-select-statement-how-to-select-data-from-a-database/",
-          "publishedOn": "2023-02-20T16:56:43.000Z",
-          "wordCount": 1643,
-          "title": "SQL SELECT Statement – How to Select Data from a Database",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/SQL-SELECT-Statement.png"
         }
       ]
     }
