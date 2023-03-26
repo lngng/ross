@@ -12,6 +12,36 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D59193C.WindAdvisory.12663D678A80CA.LOXNPWLOX.fa5f52d2520d667826020fc65c7fd473",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 9 AM PDT SUNDAY... * WHAT...North winds 20 to 30 mph with gusts up to 45 mph. * WHERE...Santa Clarita Valley, Eastern Santa Monica Mountains Recreational Area, Western San Fernando Valley and Santa Susana Mountains. * WHEN...Until 9 AM PDT Sunday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D59193C.WindAdvisory.12663D678A80CA.LOXNPWLOX.fa5f52d2520d667826020fc65c7fd473",
+          "publishedOn": "2023-03-25T21:35:00.000Z",
+          "wordCount": 191,
+          "title": "Wind Advisory issued March 25 at 2:35PM PDT until March 26 at 9:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D59193C.WindAdvisory.12663D678A80CA.LOXNPWLOX.aa5e6cec9ca2aa80738809e87a12617d",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 9 AM PDT SUNDAY... * WHAT...North winds 20 to 30 mph with gusts up to 55 mph. * WHERE...Santa Barbara County Interior Mountains, Southern Ventura County Mountains, Northern Ventura County Mountains, Interstate 5 Corridor, Western San Gabriel Mountains and Highway 14 Corridor and Western Antelope Valley Foothills.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D59193C.WindAdvisory.12663D678A80CA.LOXNPWLOX.aa5e6cec9ca2aa80738809e87a12617d",
+          "publishedOn": "2023-03-25T21:35:00.000Z",
+          "wordCount": 233,
+          "title": "Wind Advisory issued March 25 at 2:35PM PDT until March 26 at 9:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D59193C.WindAdvisory.12663D678A80CA.LOXNPWLOX.5eec64267d80b9e4e448a4b67251884e",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 9 AM PDT SUNDAY... * WHAT...West winds 20 to 30 mph with gusts up to 45 mph. * WHERE...Antelope Valley. * WHEN...Until 9 AM PDT Sunday. * IMPACTS...Gusty winds will blow around unsecured objects and make driving difficult, especially for high profile vehicles.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D59193C.WindAdvisory.12663D678A80CA.LOXNPWLOX.5eec64267d80b9e4e448a4b67251884e",
+          "publishedOn": "2023-03-25T21:35:00.000Z",
+          "wordCount": 140,
+          "title": "Wind Advisory issued March 25 at 2:35PM PDT until March 26 at 9:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D4940FC.WindAdvisory.12663D569A90CA.LOXNPWLOX.1e89a175cc0f24cb3ab32dc65385d50b",
           "author": null,
           "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 10 PM PDT THIS EVENING... * WHAT...West winds 25 to 35 mph with gusts up to 45 mph expected. * WHERE...Antelope Valley. * WHEN...Until 10 PM PDT this evening. * IMPACTS...Gusty winds will blow around unsecured objects and",
@@ -900,126 +930,6 @@
           "wordCount": 208,
           "title": "Flood Watch issued February 24 at 9:59AM PST until February 25 at 4:00PM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663744CD84.WinterStormWarning.1266375288C0CA.LOXWSWLOX.1530648a0951482315a4136a8e40bce0",
-          "author": null,
-          "description": "...WINTER STORM WARNING REMAINS IN EFFECT UNTIL 4 AM PST FRIDAY... ...BLIZZARD WARNING REMAINS IN EFFECT FROM 4 AM FRIDAY TO 4 PM PST SATURDAY... * WHAT...Winter Storm Warning through late Thursday with low elevation snow, strong winds and very cold wind chills. For the Blizzard Warning, heavy snow, winds gusting up to 80 mph,",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663744CD84.WinterStormWarning.1266375288C0CA.LOXWSWLOX.1530648a0951482315a4136a8e40bce0",
-          "publishedOn": "2023-02-23T22:01:00.000Z",
-          "wordCount": 295,
-          "title": "Winter Storm Warning issued February 23 at 2:01PM PST until February 24 at 4:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663744CD84.WinterWeatherAdvisory.12663760E0A0CA.LOXWSWLOX.f2d474ad0cf1e56eaf3a0e5595d623b6",
-          "author": null,
-          "description": "...WINTER WEATHER ADVISORY NOW IN EFFECT UNTIL 10 PM PST FRIDAY... * WHAT...Moderate snow expected at times. Total snow accumulations of 3 to 6 inches on the foothills and 1 to 3 inches on the valley floor. Winds gusting as high as 45 mph. * WHERE...Antelope Valley. * WHEN...Until 10 PM PST Friday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663744CD84.WinterWeatherAdvisory.12663760E0A0CA.LOXWSWLOX.f2d474ad0cf1e56eaf3a0e5595d623b6",
-          "publishedOn": "2023-02-23T22:01:00.000Z",
-          "wordCount": 166,
-          "title": "Winter Weather Advisory issued February 23 at 2:01PM PST until February 24 at 10:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663744CD84.BlizzardWarning.1266376F3880CA.LOXWSWLOX.f33e0369a43138cf29a794052dfa1784",
-          "author": null,
-          "description": "...WINTER STORM WARNING REMAINS IN EFFECT UNTIL 4 AM PST FRIDAY... ...BLIZZARD WARNING REMAINS IN EFFECT FROM 4 AM FRIDAY TO 4 PM PST SATURDAY... * WHAT...Winter Storm Warning through late Thursday with low elevation snow, strong winds and very cold wind chills. For the Blizzard Warning, heavy snow, winds gusting up to 80 mph,",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663744CD84.BlizzardWarning.1266376F3880CA.LOXWSWLOX.f33e0369a43138cf29a794052dfa1784",
-          "publishedOn": "2023-02-23T22:01:00.000Z",
-          "wordCount": 293,
-          "title": "Blizzard Warning issued February 23 at 2:01PM PST until February 25 at 4:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663744A7A0.WindAdvisory.1266376155D0CA.LOXNPWLOX.33f0628f39bae16a61335c7b34b98b03",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 10 AM FRIDAY TO 1 AM PST SATURDAY... * WHAT...South winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Portions of southwest California. * WHEN...From 10 AM Friday to 1 AM PST Saturday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663744A7A0.WindAdvisory.1266376155D0CA.LOXNPWLOX.33f0628f39bae16a61335c7b34b98b03",
-          "publishedOn": "2023-02-23T21:04:00.000Z",
-          "wordCount": 253,
-          "title": "Wind Advisory issued February 23 at 1:04PM PST until February 25 at 1:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663744A7A0.WindAdvisory.12663761CB00CA.LOXNPWLOX.deda5684ebe1742dc786fbf5414e3e9a",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 1 PM FRIDAY TO 4 AM PST SATURDAY... * WHAT...Southeast winds 15 to 25 mph with gusts up to 40 mph expected. * WHERE...Los Angeles County Beaches, Los Angeles County Inland Coast including Downtown Los Angeles and Los Angeles County",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663744A7A0.WindAdvisory.12663761CB00CA.LOXNPWLOX.deda5684ebe1742dc786fbf5414e3e9a",
-          "publishedOn": "2023-02-23T21:04:00.000Z",
-          "wordCount": 205,
-          "title": "Wind Advisory issued February 23 at 1:04PM PST until February 25 at 4:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663744A7A0.HighWindWarning.12663761F210CA.LOXNPWLOX.199440929b9ce71da11c03f6f5369372",
-          "author": null,
-          "description": "...HIGH WIND WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 5 AM PST SATURDAY... * WHAT...South winds 35 to 50 mph with gusts up to 75 mph expected. * WHERE...Antelope Valley. * WHEN...From 10 AM Friday to 5 AM PST Saturday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663744A7A0.HighWindWarning.12663761F210CA.LOXNPWLOX.199440929b9ce71da11c03f6f5369372",
-          "publishedOn": "2023-02-23T21:04:00.000Z",
-          "wordCount": 170,
-          "title": "High Wind Warning issued February 23 at 1:04PM PST until February 25 at 5:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637448A54.HighSurfAdvisory.126637626740CA.LOXCFWLOX.1815c22a07d3b8057b53804ab5fff146",
-          "author": null,
-          "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT FROM 10 AM FRIDAY TO 8 AM PST SATURDAY... * WHAT...Large breaking waves of 4 to 7 feet with dangerous rip currents. * WHERE...Catalina and Santa Barbara Islands. * WHEN...From 10 AM Friday to 8 AM PST Saturday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637448A54.HighSurfAdvisory.126637626740CA.LOXCFWLOX.1815c22a07d3b8057b53804ab5fff146",
-          "publishedOn": "2023-02-23T20:29:00.000Z",
-          "wordCount": 206,
-          "title": "High Surf Advisory issued February 23 at 12:29PM PST until February 25 at 8:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637443EF0.FloodWatch.1266375FF640CA.LOXFFALOX.5c6b8baddc9e030bbc10f1586ed59978",
-          "author": null,
-          "description": "...FLOOD WATCH REMAINS IN EFFECT FROM FRIDAY MORNING THROUGH SATURDAY AFTERNOON... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...A portion of southwest California, including the following areas, Los Angeles County Beaches, Los Angeles County Inland Coast",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637443EF0.FloodWatch.1266375FF640CA.LOXFFALOX.5c6b8baddc9e030bbc10f1586ed59978",
-          "publishedOn": "2023-02-23T18:36:00.000Z",
-          "wordCount": 218,
-          "title": "Flood Watch issued February 23 at 10:36AM PST until February 24 at 4:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637443EF0.FloodWatch.1266376155D0CA.LOXFFALOX.460389d5f72d2364ee4583024b14fad1",
-          "author": null,
-          "description": "...FLOOD WATCH REMAINS IN EFFECT FROM FRIDAY MORNING THROUGH SATURDAY AFTERNOON... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...A portion of southwest California, including the following areas, Los Angeles County Beaches, Los Angeles County Inland Coast",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637443EF0.FloodWatch.1266376155D0CA.LOXFFALOX.460389d5f72d2364ee4583024b14fad1",
-          "publishedOn": "2023-02-23T18:36:00.000Z",
-          "wordCount": 234,
-          "title": "Flood Watch issued February 23 at 10:36AM PST until February 25 at 1:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637443EF0.FloodWatch.12663761CB00CA.LOXFFALOX.bc343fe90422c46c5b10e8baaf1ba537",
-          "author": null,
-          "description": "...FLOOD WATCH REMAINS IN EFFECT FROM FRIDAY MORNING THROUGH SATURDAY AFTERNOON... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...A portion of southwest California, including the following areas, Los Angeles County Beaches, Los Angeles County Inland Coast",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637443EF0.FloodWatch.12663761CB00CA.LOXFFALOX.bc343fe90422c46c5b10e8baaf1ba537",
-          "publishedOn": "2023-02-23T18:36:00.000Z",
-          "wordCount": 224,
-          "title": "Flood Watch issued February 23 at 10:36AM PST until February 25 at 4:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637443EF0.FloodWatch.126637626740CA.LOXFFALOX.3774b980979d183fadb391da82f74741",
-          "author": null,
-          "description": "...FLOOD WATCH REMAINS IN EFFECT FROM FRIDAY MORNING THROUGH SATURDAY AFTERNOON... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...A portion of southwest California, including the following areas, Los Angeles County Beaches, Los Angeles County Inland Coast",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637443EF0.FloodWatch.126637626740CA.LOXFFALOX.3774b980979d183fadb391da82f74741",
-          "publishedOn": "2023-02-23T18:36:00.000Z",
-          "wordCount": 222,
-          "title": "Flood Watch issued February 23 at 10:36AM PST until February 25 at 8:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637443EF0.FloodWatch.1266376F3880CA.LOXFFALOX.6e1a6d14e8beecc8a0e831ff1af6bfcd",
-          "author": null,
-          "description": "...FLOOD WATCH REMAINS IN EFFECT FROM FRIDAY MORNING THROUGH SATURDAY AFTERNOON... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...A portion of southwest California, including the following areas, Los Angeles County Beaches, Los Angeles County Inland Coast",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126637443EF0.FloodWatch.1266376F3880CA.LOXFFALOX.6e1a6d14e8beecc8a0e831ff1af6bfcd",
-          "publishedOn": "2023-02-23T18:36:00.000Z",
-          "wordCount": 214,
-          "title": "Flood Watch issued February 23 at 10:36AM PST until February 25 at 4:00PM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -1028,6 +938,256 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1221lgv/middle_name_is_missing_on_my_flight_ticket/",
+          "author": null,
+          "description": "I booked a flight from Ha Noi to Paris last week and just recently noticed that I forgot to type my middle name on my ticket? Will they let me go through because my friend told me they don't, name have to be exact on passport. (EVA airline btw)\n    submitted by    /u/Different-Judge-1337  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1221lgv/middle_name_is_missing_on_my_flight_ticket/",
+          "publishedOn": "2023-03-25T22:30:55.000Z",
+          "wordCount": 14771,
+          "title": "Middle name is missing on my flight ticket",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121wl1g/th%E1%BA%ADt_ra_ch%E1%BB%89_l%C3%A0_m%C3%ACnh_hoang_t%C6%B0%E1%BB%9Fng_v%C3%AC_ham_mu%E1%BB%91n_tr%E1%BA%A3/",
+          "author": null,
+          "description": "submitted by    /u/BABY3th  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121wl1g/th%E1%BA%ADt_ra_ch%E1%BB%89_l%C3%A0_m%C3%ACnh_hoang_t%C6%B0%E1%BB%9Fng_v%C3%AC_ham_mu%E1%BB%91n_tr%E1%BA%A3/",
+          "publishedOn": "2023-03-25T19:34:44.000Z",
+          "wordCount": 14501,
+          "title": "Thật ra chỉ là mình hoang tưởng, vì ham muốn trả thù, bây giờ thì ổn rồi , không sao đâu.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121plcq/ha_giang_loop_alternatives/",
+          "author": null,
+          "description": "I posted on here yesterday about tackling the Ha Giang Loop as a beginner and the response was clear; as a beginner it's just too dangerous.\n So I wanted to ask if anyone had alternative motorbiking suggestions in north Vietnam? Theres a 5 day window in our itinerary between stops at Sapa and Ha Long Bay, so any suggestions of beginner friendly routes lasting 2-5 days would be awesome!\n    submitted by    /u/quantThrowAway22  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121plcq/ha_giang_loop_alternatives/",
+          "publishedOn": "2023-03-25T15:36:05.000Z",
+          "wordCount": 14626,
+          "title": "Ha Giang Loop alternatives",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121nueh/truy_c%E1%BA%ADp_tiktok_%C4%91%E1%BB%83_kh%C3%A1m_ph%C3%A1_video/",
+          "author": null,
+          "description": "submitted by    /u/Certain-Ad-2196  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121nueh/truy_c%E1%BA%ADp_tiktok_%C4%91%E1%BB%83_kh%C3%A1m_ph%C3%A1_video/",
+          "publishedOn": "2023-03-25T14:40:56.000Z",
+          "wordCount": 1926,
+          "title": "Truy cập TikTok để khám phá video!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121ndb3/staying_in_phu_quoc_and_looking_for_beach/",
+          "author": null,
+          "description": "Hello everyone, my wife and I will be staying in phu Quoc for the next few days and are near the Ong Lang beach. We’re doing a relatively budget holiday so staying in a cheapesh place half an hour walk away from the beach.\n Most of the other discussion I see mention resorts for beaches but are the public beaches here good? My wife suffers a bit from too much sun so we wouldn’t mind having umbrellas and facilities at the beaches! \n We will also spend a couple of days towards the south west of the island if anyone jas recommendations?\n Thanks a lot in advace!\n    submitted by    /u/swiftmen991  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121ndb3/staying_in_phu_quoc_and_looking_for_beach/",
+          "publishedOn": "2023-03-25T14:25:37.000Z",
+          "wordCount": 14681,
+          "title": "Staying in Phu Quoc and looking for beach recommendations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121mq8t/ha_long_bay_today/",
+          "author": null,
+          "description": "submitted by    /u/TheAlexTran  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121mq8t/ha_long_bay_today/",
+          "publishedOn": "2023-03-25T14:01:19.000Z",
+          "wordCount": 14468,
+          "title": "Ha Long Bay today",
+          "imageUrl": "https://preview.redd.it/asnyhkipnxpa1.jpg?auto=webp&v=enabled&s=7a5ad0dfba21c3918c15eda1a699f793d33968fd"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121l6d8/working_remotely_hows_the_internet_doing_at_the/",
+          "author": null,
+          "description": "Hey fellow Vietnamese! I spent a wonderful 10 day trip in Hanoi a month ago. I loved it and I want to be back for another remote working period, maybe in Da Nang. My only concern is the internet speed, as my job relies heavily on Zoom meetings. Last time the connection was bumpy, I had some serious issues one day and I am concerned. I read the news and know about internet cables, but I prefer first hand information. So here I am, any feedback will be much appreciated. Thanks a lot!\n    submitted by    /u/myoukendou  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121l6d8/working_remotely_hows_the_internet_doing_at_the/",
+          "publishedOn": "2023-03-25T13:00:58.000Z",
+          "wordCount": 15692,
+          "title": "Working remotely, How's the internet doing at the moment?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121kiu5/are_there_any_decent_barspubs_in_hanoi_that_play/",
+          "author": null,
+          "description": "submitted by    /u/Ancient_Thanks_4365  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121kiu5/are_there_any_decent_barspubs_in_hanoi_that_play/",
+          "publishedOn": "2023-03-25T12:33:24.000Z",
+          "wordCount": 1963,
+          "title": "Are there any decent bars/pubs in Hanoi that play rock music anymore? Went to the Doors last night and it wasn't great. Hanoi Rock Central seems very acoustic this weekend (which I do love) but looking for something a bit more Queens of the Stone Age/Soundgarden or The Police Zeppelin kind of thing.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121jas4/a_guide_to_vietnams_football_mismanagement/",
+          "author": null,
+          "description": "submitted by    /u/JoJo-Bizarre-1997  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121jas4/a_guide_to_vietnams_football_mismanagement/",
+          "publishedOn": "2023-03-25T11:41:20.000Z",
+          "wordCount": 18811,
+          "title": "A guide to Vietnam's football mismanagement",
+          "imageUrl": "https://external-preview.redd.it/mdv94vGz-0ycuu9e8-zfl7HaVTe63WPJ3MQa5n_j0Jg.jpg?auto=webp&v=enabled&s=8cc1e42a9d7bfd098b2ea55ec95357cd6620b4cc"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121i74g/m%E1%BB%99t_con_d%E1%BB%91c_nh%E1%BB%8F_%C4%91%C3%A0_l%E1%BA%A1t_vi%E1%BB%87t_nam/",
+          "author": null,
+          "description": "submitted by    /u/ohha_official  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121i74g/m%E1%BB%99t_con_d%E1%BB%91c_nh%E1%BB%8F_%C4%91%C3%A0_l%E1%BA%A1t_vi%E1%BB%87t_nam/",
+          "publishedOn": "2023-03-25T10:51:17.000Z",
+          "wordCount": 14493,
+          "title": "Một con dốc nhỏ Đà Lạt, Việt Nam",
+          "imageUrl": "https://preview.redd.it/g0l4nqas7vpa1.jpg?auto=webp&v=enabled&s=cf90cd6187a24ce3e2501360bd3ecb98ec7f61c1"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121heur/questionnaire_for_vietnamese_born_living_in/",
+          "author": null,
+          "description": "Please! Questionnaire only for Vietnamese born / living in Vietnam!!\n Hey guys! We are doing a market research about electromobility & customers' expectations in Vietnam! It is a school project. Could you guys please fill it in? We need at least 100 respondents. Thank you very much in advance!! \n https://forms.office.com/e/6K93WSc8Dk\n    submitted by    /u/mmkrystal  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121heur/questionnaire_for_vietnamese_born_living_in/",
+          "publishedOn": "2023-03-25T10:12:03.000Z",
+          "wordCount": 14573,
+          "title": "Questionnaire for Vietnamese born & living in Vietnam abour electromobility",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121hcti/is_this_a_legit_request/",
+          "author": null,
+          "description": "Booked an Airbnb in Hanoi and the host is asking for photos of passports of people who will be staying at the property, citing authority requirement. Is this a legit requirement?\n    submitted by    /u/Lukas316  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121hcti/is_this_a_legit_request/",
+          "publishedOn": "2023-03-25T10:09:24.000Z",
+          "wordCount": 15710,
+          "title": "Is this a legit request",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121h1y9/mego_to_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/Succotash2637  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121h1y9/mego_to_vietnam/",
+          "publishedOn": "2023-03-25T09:54:47.000Z",
+          "wordCount": 14927,
+          "title": "Me:go to Vietnam",
+          "imageUrl": "https://external-preview.redd.it/RdL4SopUJwtYGtoAUYLtq-pQX3XeK14ufuuLQ28AK1Q.png?format=pjpg&auto=webp&v=enabled&s=f0267d88b85eb2900d259068bdab01d94270a3bb"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121ghjz/c%C3%A1c_con_gi%E1%BB%9Di_c%C3%B3_h%C3%B3ng_v%E1%BB%A5_n%C3%A0y_kg/",
+          "author": null,
+          "description": "submitted by    /u/Waste_Werewolf_2085  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121ghjz/c%C3%A1c_con_gi%E1%BB%9Di_c%C3%B3_h%C3%B3ng_v%E1%BB%A5_n%C3%A0y_kg/",
+          "publishedOn": "2023-03-25T09:23:52.000Z",
+          "wordCount": 15224,
+          "title": "các con giời có hóng vụ này kg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121gdah/i_dont_know_who_is_sweating_more_me_or_my_beer/",
+          "author": null,
+          "description": "submitted by    /u/nomaddopamine  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121gdah/i_dont_know_who_is_sweating_more_me_or_my_beer/",
+          "publishedOn": "2023-03-25T09:17:05.000Z",
+          "wordCount": 14935,
+          "title": "I don’t know who is sweating more. Me or my beer. 🥵",
+          "imageUrl": "https://preview.redd.it/ilj5ne5z8wpa1.jpg?auto=webp&v=enabled&s=f11216fc343aacf0362c75958dd218ee09ff38a2"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121ftbk/riding_through_the_vibrant_nightlife_of_da_nang/",
+          "author": null,
+          "description": "submitted by    /u/gig970  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121ftbk/riding_through_the_vibrant_nightlife_of_da_nang/",
+          "publishedOn": "2023-03-25T08:46:56.000Z",
+          "wordCount": 14561,
+          "title": "Riding through the Vibrant Nightlife of Da Nang on a Motorbike - 4K Video",
+          "imageUrl": "https://external-preview.redd.it/SHMnKDERVNV_0DYgrHSZLWaQX9C4L0KDR9eWRgwyk4g.jpg?auto=webp&v=enabled&s=0d2468e41a7eb143a6618f9ffc5cecfbfd8bbdd2"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121fol2/special_home_made_sweet_potato_fries_with_sour/",
+          "author": null,
+          "description": "submitted by    /u/leprotelariat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121fol2/special_home_made_sweet_potato_fries_with_sour/",
+          "publishedOn": "2023-03-25T08:39:43.000Z",
+          "wordCount": 1931,
+          "title": "Special home made sweet potato fries with sour plum powder",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121e16u/does_anyone_know_where_can_i_buy_school_uniform/",
+          "author": null,
+          "description": "submitted by    /u/Sweaty-Gift8832  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121e16u/does_anyone_know_where_can_i_buy_school_uniform/",
+          "publishedOn": "2023-03-25T07:11:56.000Z",
+          "wordCount": 14575,
+          "title": "Does anyone know where can I buy school uniform in Saigon? Especially Le Quy don high in district 3 thanks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121dyy2/how_to_do_the_hai_van_pass/",
+          "author": null,
+          "description": "I’m travelling from Hội An to Hue and was hoping to travel along the Hai Van Pass.\n Is there a way I can rent a motor bike in Hội An or Da Nang and return somewhere in Hue? I won’t have the time to return it back to the original place. \n Otherwise, would you recommend an alternative mode of transportation (like a bus) where I’d be able to stop and check out the view? \n For additional context - I’m a budget travel so kinda looking for an affordable way to travel. Also, I’m an exercised driver in Canada but motorbikes are new for me so I’m not sure if this is a beginner friendly route.\n    submitted by    /u/OrderGroundbreaking3  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121dyy2/how_to_do_the_hai_van_pass/",
+          "publishedOn": "2023-03-25T07:08:51.000Z",
+          "wordCount": 15072,
+          "title": "How to do the Hai Van Pass?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121cpz3/is_phongvu_trustworthy_for_pc_parts/",
+          "author": null,
+          "description": "I mean would they sell you a refurbished or open box one as new? I know tons of vietnamese shops do that. Anyone know about phongvu?\n    submitted by    /u/diffusedstability  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121cpz3/is_phongvu_trustworthy_for_pc_parts/",
+          "publishedOn": "2023-03-25T06:06:46.000Z",
+          "wordCount": 1944,
+          "title": "Is phongvu trustworthy for pc parts?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121bk18/ha_long_bay_filming_question/",
+          "author": null,
+          "description": "Hi everyone! This is directed at people who have traveled/are from Vietnam. \n So I'm going to Ha Long Bay with my university and as part of one of the classes were doing a project (mini doc) about community perception of UNESCO world heritage sites and was wondering if anyone knew what the laws around filming in that area are. I wasn't able to find much information other than for large film crews and as this is a school project where I and another classmate would be interviewing 2-3 locals I don't believe we fall into that category. The setup would be minimal with a tripod, camera, mic, and potentially a very small light if needed. Any help or pointers would be appreciated!\n If this is not an appropriate post in this subreddit feel free to delete it!\n    submitted by    /u/RevolutionaryAd9792  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121bk18/ha_long_bay_filming_question/",
+          "publishedOn": "2023-03-25T05:12:18.000Z",
+          "wordCount": 2054,
+          "title": "Ha Long Bay filming question",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/121b5d3/is_bia_hoi_extinct_in_hanoi/",
+          "author": null,
+          "description": "Xin chào everybody. My friend and I are in Hanoi and after a long trip on the train to get here we’ve been very thirsty. \n We went to Beer Junction last night thinking we could hydrate with Bia Hoi but no one had heard of it!\n We asked around and looked online but there seems to be no sign of fresh keg beer. Don’t worry, we were able to hydrate with a few tasty green Saigon’s but today our pilgrimage continues. \n Can anyone help? Does Bia Hoi still exist? \n Thanks a lot 🍻\n    submitted by    /u/Edward_R  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/121b5d3/is_bia_hoi_extinct_in_hanoi/",
+          "publishedOn": "2023-03-25T04:54:30.000Z",
+          "wordCount": 15246,
+          "title": "Is Bia Hoi extinct in Hanoi?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1217mie/seriously_how_many_of_you_knew_bright_is_x%C3%A1n_l%E1%BA%A1n/",
+          "author": null,
+          "description": "submitted by    /u/NovaH000  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1217mie/seriously_how_many_of_you_knew_bright_is_x%C3%A1n_l%E1%BA%A1n/",
+          "publishedOn": "2023-03-25T02:27:50.000Z",
+          "wordCount": 15646,
+          "title": "Seriously, how many of you knew \"bright\" is \"xán lạn\" and not \"sáng lạn\"? Vietnamese is confusing sometimes",
+          "imageUrl": "https://preview.redd.it/m4cdmxez7upa1.png?auto=webp&v=enabled&s=39f75cb34fafe85736939565daef4e36543c7f8f"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1215n3r/can_anybody_share_what_happened_to_hanoi_in_the/",
+          "author": null,
+          "description": "Last time i visited was 2017. I went back and this placed changed!\n There seems to have been an explosion of wealth!\n So many luxury cars like mercedes, audi, ferraris, porche cayennes!\n Everyone is glued to their smartphones watching youtube on their \n And what happened to the opera house? Have they shut down? I cannot seem to get a booking for months!\n    submitted by    /u/sleighmeister55  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1215n3r/can_anybody_share_what_happened_to_hanoi_in_the/",
+          "publishedOn": "2023-03-25T01:10:34.000Z",
+          "wordCount": 14810,
+          "title": "Can anybody share what happened to Hanoi in the past 6 years?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1215e91/hoi_an_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/paratharoll69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1215e91/hoi_an_vietnam/",
+          "publishedOn": "2023-03-25T01:01:16.000Z",
+          "wordCount": 14686,
+          "title": "Hoi An, Vietnam",
+          "imageUrl": "https://preview.redd.it/ofmqnc2kstpa1.jpg?auto=webp&v=enabled&s=de3ce8d7af0bebee8f744000c5aea87588b6fd2b"
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/1212yii/does_vietnam_still_require_travel_insurance_when/",
           "author": null,
@@ -6887,206 +7047,6 @@
           "wordCount": 14434,
           "title": "Disabled Canadian Veteran and Vietnamese Physiotherapist run 105km to raise money for a disabled family living in DaNang March 25",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11aqh34/phu_quoc_is_such_a_fun_island_to_explore_in/",
-          "author": null,
-          "description": "submitted by    /u/Jaythetraveler  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11aqh34/phu_quoc_is_such_a_fun_island_to_explore_in/",
-          "publishedOn": "2023-02-24T12:40:41.000Z",
-          "wordCount": 14484,
-          "title": "Phu Quoc is such a fun island to explore in Southern Vietnam",
-          "imageUrl": "https://external-preview.redd.it/Vm4Ch_2UsCCcAnZDRQzSboGWtbhsqPb-b5z5aED1YQg.jpg?auto=webp&v=enabled&s=58e7e2d03249da8b634ce52a2c7339388033c3ae"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11ap2zw/dont_miss_this_if_you_visit_hu%E1%BA%BF_in_a_sunny_day/",
-          "author": null,
-          "description": "submitted by    /u/lanhuevietnam  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11ap2zw/dont_miss_this_if_you_visit_hu%E1%BA%BF_in_a_sunny_day/",
-          "publishedOn": "2023-02-24T11:20:39.000Z",
-          "wordCount": 14449,
-          "title": "Don't miss this if you visit Huế in a sunny day.",
-          "imageUrl": "https://external-preview.redd.it/aV5lx6mmZ9jvjSd8vcLY-v7wE8zVc9IFteNbF5BB4Yo.png?format=pjpg&auto=webp&v=enabled&s=b4d53b99f57509cd1d8d5a5507fda863a9ae8c37"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11aoi3m/facebook_stopped_payment_on_arrival/",
-          "author": null,
-          "description": "Basically the title, So Im from Canada and have a Facebook account that makes $100 a month and just noticed for the entire month I have been in Vietnam I will not be getting paid. (even tho every metric has stayed the same) \n ​\n Has anyone run into Facebook not paying you when you are traveling around to different countries like Vietnam? Is there anything you can do?\n    submitted by    /u/Midnightsmokerr  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11aoi3m/facebook_stopped_payment_on_arrival/",
-          "publishedOn": "2023-02-24T10:44:17.000Z",
-          "wordCount": 14514,
-          "title": "Facebook stopped payment on arrival",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11anqkw/when_you_married_a_markswoman/",
-          "author": null,
-          "description": "submitted by    /u/BlueCipher_3000  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11anqkw/when_you_married_a_markswoman/",
-          "publishedOn": "2023-02-24T09:55:10.000Z",
-          "wordCount": 14325,
-          "title": "When you married a markswoman.",
-          "imageUrl": "https://preview.redd.it/c24sdeddh5ka1.jpg?blur=40&format=pjpg&auto=webp&v=enabled&s=8d186f46ce3385b4a8c5706869aaf1e202adee79"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11anh8m/where_could_i_buy_an_ereader_in_ho_chi_minh/",
-          "author": null,
-          "description": "Any brand: kindle kobo whatever. Mine broke and I’m desperate. Alternatively, any good English book stores? Thanks so much!\n    submitted by    /u/Opening-Strength7600  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11anh8m/where_could_i_buy_an_ereader_in_ho_chi_minh/",
-          "publishedOn": "2023-02-24T09:37:44.000Z",
-          "wordCount": 14501,
-          "title": "Where could I buy an e-reader in Ho Chi Minh?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11amzk0/cold_and_flu_meds_vietnam/",
-          "author": null,
-          "description": "currently in Hanoi. hi I'm feeling abit sick and would like to know any brands/names of colt and flu meds that I could get in Vietnam and where I could get them, thanks.\n    submitted by    /u/CoolRidgeCZ  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11amzk0/cold_and_flu_meds_vietnam/",
-          "publishedOn": "2023-02-24T09:04:21.000Z",
-          "wordCount": 14716,
-          "title": "cold and flu meds Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11ajo7o/archdiocese_of_hanoi/",
-          "author": null,
-          "description": "submitted by    /u/harambe4life69  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11ajo7o/archdiocese_of_hanoi/",
-          "publishedOn": "2023-02-24T05:37:03.000Z",
-          "wordCount": 14875,
-          "title": "Archdiocese of Hanoi",
-          "imageUrl": "https://preview.redd.it/jgslqjsa74ka1.jpg?auto=webp&v=enabled&s=a8837c9d85f3218dd91fddbd1a3987bf0c190fa8"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11ajbap/2_sketches_from_around_hanoi/",
-          "author": null,
-          "description": "submitted by    /u/TheKresado  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11ajbap/2_sketches_from_around_hanoi/",
-          "publishedOn": "2023-02-24T05:16:57.000Z",
-          "wordCount": 14381,
-          "title": "2 sketches from around Hanoi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11aijto/gift_for_a_coworker/",
-          "author": null,
-          "description": "I have a co-worker that picked me up because of snow and ice on the roads. I have worked with him for around 8 years and respect him so much because he has taught me a lot at our job. I want to buy him something for the kind gesture of picking me up to show him my thanks that wouldn't be included in a \"gas money\" 10 dollar bill. Gas money seems to impersonal to me.\n He is in his 50's. Married with a kid. What could I get him that would show my gratitude while also my respect for his culture? I appreciate him being him and want to be respectful.\n Any help is much appreciated. Thank you.\n    submitted by    /u/Kilgoth721  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11aijto/gift_for_a_coworker/",
-          "publishedOn": "2023-02-24T04:34:36.000Z",
-          "wordCount": 14843,
-          "title": "gift for a co-worker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11agner/hoi_an/",
-          "author": null,
-          "description": "We're going to spend 3 days in Hoi An and it seems like we will have 3 days of rain. Any suggestions what we can do?\n    submitted by    /u/navor  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11agner/hoi_an/",
-          "publishedOn": "2023-02-24T02:56:38.000Z",
-          "wordCount": 14793,
-          "title": "Hoi An",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11agk7t/ho_chi_minh_city_green_space_fouled_with_dog_poop/",
-          "author": null,
-          "description": "submitted by    /u/emergentgold  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11agk7t/ho_chi_minh_city_green_space_fouled_with_dog_poop/",
-          "publishedOn": "2023-02-24T02:52:07.000Z",
-          "wordCount": 15181,
-          "title": "Ho Chi Minh City green space fouled with dog poop",
-          "imageUrl": "https://external-preview.redd.it/myQiRrRLqmn5TrJZ5wM7x6yZtqY_1kby_42F_g0P9tI.jpg?auto=webp&v=enabled&s=95cf1a56bcc29fb154746d71b0a6662a54b57bd8"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11afgo8/we_also_have_no_internet_and_have_to_use_brain/",
-          "author": null,
-          "description": "submitted by    /u/MRTA03  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11afgo8/we_also_have_no_internet_and_have_to_use_brain/",
-          "publishedOn": "2023-02-24T01:58:22.000Z",
-          "wordCount": 15234,
-          "title": "We also have no internet and have to use brain power to post this",
-          "imageUrl": "https://preview.redd.it/h0tud7ya43ka1.jpg?auto=webp&v=enabled&s=32cb02c74bd2e0c9c4cfeef82c0c08da58a69658"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11advbq/questions_about_vietnam/",
-          "author": null,
-          "description": "Fiancé and I are in the Philippines currently but we’ve been wanting to check out Vietnam, stay there for a week or two. Somewhere with nice beaches.\n Is Phu Cuoc overcrowded now? What about Mui Ne?\n Safe for foreigners? Any kidnappings / crazy shit? Are the Russian tourists causing any problems?\n How easy is it renting a car? Or what’s the best way of getting around?\n TIA\n    submitted by    /u/boomer_mchooomer  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11advbq/questions_about_vietnam/",
-          "publishedOn": "2023-02-24T00:42:54.000Z",
-          "wordCount": 14502,
-          "title": "Questions about Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11adimw/my_class_doing_physic_class_group_project/",
-          "author": null,
-          "description": "submitted by    /u/Fortune-Former  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11adimw/my_class_doing_physic_class_group_project/",
-          "publishedOn": "2023-02-24T00:26:34.000Z",
-          "wordCount": 14389,
-          "title": "My class doing Physic class group project",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11a9o5w/my_patek_philippe_watch_was_stolen_at_vietnam/",
-          "author": null,
-          "description": "Im new to Reddit so not sure how to post text with pictures. After posting this incidents in some FB groups, people shared their similar experiences so it happens quite a lot. I have never thought someone dares to steal in this area where there are so many security cameras\n Summary: - Before going through security screening, I took off my watch, put it in my purse. My purse didn't have zipper or lock. Put my purse lying down next to my husband's bag, in the same tray. (XRAY MACHINE IMAGE confirmed there was watch in my purse) - My husband push the bag tray in Xray machine then went through body scan. Then another man jumped in while I was taking off my shoes. I let him since I didn't want to delay other people - I went through body scan after pushing the shoe tray in Xray - Right after that, I got my purse back from my husband at the conveyor belt. I STOOD RIGHT THERE AND SEARCHED FOR THE WATCH, it was gone. I walked a little further (about 10 steps) to avoid blocking the way and took all stuff out of my purse to search for it. Nothing - 1 minute later (YES WE HAVE CAMERA FOOTAGE), my husband went back to the conveyor belt area to check all the trays around. Found nothing - I reported the issue to the airport security team. No official report, no help from them. Later I had to fly back to Phu Quoc to make a scene and got official report and watched camera footage and Xray machine images.\n    submitted by    /u/txm7826  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11a9o5w/my_patek_philippe_watch_was_stolen_at_vietnam/",
-          "publishedOn": "2023-02-23T21:44:13.000Z",
-          "wordCount": 15253,
-          "title": "My Patek Philippe watch was stolen at Vietnam airport security screening",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11a9f5o/iso_namebrand_clothing_shopping_in_vietnam/",
-          "author": null,
-          "description": "Hello! I am in Hanoi next month and given that Vietnam is one of the world's biggest garment manufacturers, I am seeking shops that sell overstock clothing/shoes/gear from western brands (ie, Athleta, North Face, J. Lindeberg, etc.) \n Any locations shared would be greatly appreciated, thanks!\n    submitted by    /u/Crumpler72  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11a9f5o/iso_namebrand_clothing_shopping_in_vietnam/",
-          "publishedOn": "2023-02-23T21:33:40.000Z",
-          "wordCount": 14470,
-          "title": "ISO: name-brand clothing shopping in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11a7dmn/looking_for_helmet_suppliers_for_kids_from_hcmc/",
-          "author": null,
-          "description": "Hi everyone,\n I recently visited Ho Chi Minh City and was amazed by the quality and unique designs of the helmets for kids. I think there is a great potential for such a business in India, and I am interested in exploring the possibility of importing these helmets.\n I am looking for helmet suppliers who can ship to India. Specifically, I am looking for suppliers who specialize in helmets for kids. I would appreciate any recommendations or suggestions on where I can find such suppliers.\n If you are a helmet supplier based in Ho Chi Minh City and are interested in exploring the Indian market, please reach out to me. I am keen to learn more about your products and services.\n Thank you in advance for your help and support. I look forward to hearing from you!\n    submitted by    /u/siddharth81286  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11a7dmn/looking_for_helmet_suppliers_for_kids_from_hcmc/",
-          "publishedOn": "2023-02-23T20:10:19.000Z",
-          "wordCount": 14711,
-          "title": "Looking for Helmet Suppliers for Kids from HCMC who can ship to India",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11a74f3/bought_a_purevpn_subscription_but_it_sadly_it/",
-          "author": null,
-          "description": "Bought a purevpn subscription, but it sadly it didn’t get through the not-so-great foolwall of vietnam. Any free vpn functions?\n    submitted by    /u/GOD_KING_INFINITY  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11a74f3/bought_a_purevpn_subscription_but_it_sadly_it/",
-          "publishedOn": "2023-02-23T20:00:22.000Z",
-          "wordCount": 14517,
-          "title": "Bought a purevpn subscription, but it sadly it didn’t get through the not-so-great foolwall of vietnam. Any free vpn functions?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/119x3o6/chlamydia_test_positive_hcmc_where_to_go/",
-          "author": null,
-          "description": "Hi any doctor or hospital recommendations? there are fancy western clinics you quickly find on Google but they’re very expensive.\n is it ok to go to a public hospital? or should we avoid? we really dunno what to do\n    submitted by    /u/ichbinpleite  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/119x3o6/chlamydia_test_positive_hcmc_where_to_go/",
-          "publishedOn": "2023-02-23T12:59:13.000Z",
-          "wordCount": 15642,
-          "title": "Chlamydia test positive HCMC. Where to go?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/119x1ra/im_a_multispecies_fishing_enthusiast_and_these/",
-          "author": null,
-          "description": "submitted by    /u/LeSolari  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/119x1ra/im_a_multispecies_fishing_enthusiast_and_these/",
-          "publishedOn": "2023-02-23T12:56:24.000Z",
-          "wordCount": 14501,
-          "title": "Im a multispecies fishing enthusiast and these are what i caught in Phú Quốc. All fishes were promptly released with exception for one given to local",
-          "imageUrl": null
         }
       ]
     },
@@ -7095,6 +7055,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/",
+          "author": "Liz Johnson",
+          "description": "Over the last couple years, I've learned that being a consultant means you have to be able to learn new things quickly. At first, this was really scary to me. Now, as someone who has had to learn several new tech stacks over the last year, it’s still a little",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/",
+          "publishedOn": "2023-03-25T17:11:53.000Z",
+          "wordCount": 2584,
+          "title": "How to Learn Different Tech Stacks IRL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/ilya-pavlov-OqtafYT5kTw-unsplash-1.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/",
           "author": "Shittu Olumide",
@@ -8434,86 +8404,6 @@
           "wordCount": 1691,
           "title": "Python Sorted List – And How to Sort or Reverse an Array in Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Python-Sorted-List---And-How-to-Sort-or-Reverse-an-Array-in-Python--by-Shittu-Olumide-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-c-sharp/",
-          "author": "Edeh Israel Chidera",
-          "description": "There are various situations where you need to convert a string to a number. Whether you are working with user input or data from an external source, converting a string to a number is a common task for developers. This article will explore some of the most common methods to",
-          "link": "https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-c-sharp/",
-          "publishedOn": "2023-02-23T23:22:15.000Z",
-          "wordCount": 1258,
-          "title": "How to Convert a String to an Integer in C# – with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/luca-bravo-XJXWbfSo2f0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-unhide-a-row-or-column-in-excel-or-unhide-all-rows-and-columns/",
-          "author": "Kolade Chris",
-          "description": "If you’re working with a spreadsheet that contains sensitive or private data, then some rows and columns might be hidden. You might also need to hide unimportant information or data you don’t want others to see in your own spreadsheet. In these cases, you might need to unhide those hidden",
-          "link": "https://www.freecodecamp.org/news/how-to-unhide-a-row-or-column-in-excel-or-unhide-all-rows-and-columns/",
-          "publishedOn": "2023-02-23T22:45:03.000Z",
-          "wordCount": 1276,
-          "title": "How to Unhide a Row or Column in Excel – Or Unhide All Rows and Columns",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/unhideExcel.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/why-you-should-use-log-management-software/",
-          "author": "Andrej Kovacevic",
-          "description": "Logging, safeguarding, and utilizing data is a massive part of any software development operation. And chronological records of events have become an invaluable tool for determining future decisions. Today, we're fortunate enough to have the concept of system logs, which represents a collection of files. These files have data crucial",
-          "link": "https://www.freecodecamp.org/news/why-you-should-use-log-management-software/",
-          "publishedOn": "2023-02-23T21:24:21.000Z",
-          "wordCount": 1912,
-          "title": "Why Your Company Should Be Using Log Management Software",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/log-management-apple-mac-tech.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-virtual-inheritance/",
-          "author": "Abhilekh Gautam",
-          "description": "C++ supports the concept of inheritance – that is, a class can inherit properties from other classes.  But sometimes you might need to use what is commonly referred as virtual inheritance.  In this article we will discuss when you might need to use virtual inheritance and how to",
-          "link": "https://www.freecodecamp.org/news/what-is-virtual-inheritance/",
-          "publishedOn": "2023-02-23T21:09:43.000Z",
-          "wordCount": 1348,
-          "title": "What is Virtual Inheritance?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-ruiyang-zhang-3717242.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-bad-website-club-and-more-free-bootcamps/",
-          "author": "Jessica Rose",
-          "description": "Over the past 24 months Ramón Huidobro [https://twitter.com/hola_soy_milk] and I have been running free programming bootcamps teaching web development and JavaScript skills.  We've been stunned by the demand for these courses, which averaged 8,000 learners per cohort and let us reach 35,000 unique learners in total.  We've also",
-          "link": "https://www.freecodecamp.org/news/the-bad-website-club-and-more-free-bootcamps/",
-          "publishedOn": "2023-02-23T15:57:06.000Z",
-          "wordCount": 1087,
-          "title": "The Bad Website Club (and more free Bootcamps)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-monoar-rahman-114907.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/",
-          "author": "Velda Kiara",
-          "description": "When I was a young girl, we used to have sports competitions like running a hundred meters, relays, swimming, and basketball games.  My strengths were swimming and basketball. I went home with many gifts or, as my school's game master said, a token of appreciation. A token is a",
-          "link": "https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/",
-          "publishedOn": "2023-02-23T15:53:00.000Z",
-          "wordCount": 2714,
-          "title": "How to Implement Tokenization using JWT and Django Rest Framework",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Purple-Colorful-Tech-22-YouTube-Channel-Art.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-linux-part-2/",
-          "author": "Beau Carnes",
-          "description": "In this comprehensive course, you'll learn many of the tools used every day by both Linux SysAdmins and the millions of people running Linux distributions like Ubuntu on their PCs. This course will teach you how to navigate Linux's Graphical User Interfaces and powerful command line tool ecosystem. This is",
-          "link": "https://www.freecodecamp.org/news/introduction-to-linux-part-2/",
-          "publishedOn": "2023-02-23T13:49:38.000Z",
-          "wordCount": 3588,
-          "title": "Introduction to Linux, Part 2",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/linux2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-linux/",
-          "author": "Beau Carnes",
-          "description": "If you're new to Linux, this course is for you. In this comprehensive course, you'll learn many of the tools used every day by both Linux SysAdmins and the millions of people running Linux distributions like Ubuntu on their PCs. This course will teach you how to navigate Linux's Graphical",
-          "link": "https://www.freecodecamp.org/news/introduction-to-linux/",
-          "publishedOn": "2023-02-23T13:49:13.000Z",
-          "wordCount": 51159,
-          "title": "Introduction to Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/linux.png"
         }
       ]
     }
