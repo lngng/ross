@@ -12,6 +12,46 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126641EFFA60.HighWindWarning.1266420D1DC0CA.LOXNPWLOX.09729579c3009792dfbe2a7b8a4c2aeb",
+          "author": null,
+          "description": "...HIGH WIND WARNING IN EFFECT FROM 5 AM MONDAY TO 5 AM PDT TUESDAY... * WHAT...Northwest winds 35 to 45 mph with gusts up to 70 mph expected. * WHERE...Southern Ventura County Mountains, Northern Ventura County Mountains, Interstate 5 Corridor, Western San Gabriel",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126641EFFA60.HighWindWarning.1266420D1DC0CA.LOXNPWLOX.09729579c3009792dfbe2a7b8a4c2aeb",
+          "publishedOn": "2023-04-02T21:04:00.000Z",
+          "wordCount": 280,
+          "title": "High Wind Warning issued April 02 at 2:04PM PDT until April 04 at 5:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126641EFFA60.HighWindWarning.1266420D1DC0CA.LOXNPWLOX.edcd7f0fba78a0059c42a0b519383a72",
+          "author": null,
+          "description": "...HIGH WIND WARNING IN EFFECT FROM 6 PM MONDAY TO 5 AM PDT TUESDAY... * WHAT...Northwest winds 25 to 35 mph with gusts up to 60 mph expected. * WHERE...Santa Clarita Valley. * WHEN...From 6 PM Monday to 5 AM PDT Tuesday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126641EFFA60.HighWindWarning.1266420D1DC0CA.LOXNPWLOX.edcd7f0fba78a0059c42a0b519383a72",
+          "publishedOn": "2023-04-02T21:04:00.000Z",
+          "wordCount": 173,
+          "title": "High Wind Warning issued April 02 at 2:04PM PDT until April 04 at 5:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126641EFFA60.WindAdvisory.1266420D1DC0CA.LOXNPWLOX.0337b5b652dbf6bf25d7b028757ffec2",
+          "author": null,
+          "description": "...WIND ADVISORY IN EFFECT FROM 1 PM MONDAY TO 5 AM PDT TUESDAY... * WHAT...Northwest winds 25 to 35 mph with gusts up to 45 mph expected. * WHERE...Portions of southwest California. * WHEN...From 1 PM Monday to 5 AM PDT Tuesday. * IMPACTS...Gusty winds will blow around unsecured objects and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126641EFFA60.WindAdvisory.1266420D1DC0CA.LOXNPWLOX.0337b5b652dbf6bf25d7b028757ffec2",
+          "publishedOn": "2023-04-02T21:04:00.000Z",
+          "wordCount": 332,
+          "title": "Wind Advisory issued April 02 at 2:04PM PDT until April 04 at 5:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126641EFE610.HighSurfAdvisory.1266420E0820CA.LOXCFWLOX.8f4ee1096aa9d64c022c57dc15be0f82",
+          "author": null,
+          "description": "...HIGH SURF ADVISORY IN EFFECT FROM 11 AM MONDAY TO 11 AM PDT TUESDAY... * WHAT...Large breaking waves of 4 to 7 feet with dangerous rip currents. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County Beaches.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126641EFE610.HighSurfAdvisory.1266420E0820CA.LOXCFWLOX.8f4ee1096aa9d64c022c57dc15be0f82",
+          "publishedOn": "2023-04-02T20:52:00.000Z",
+          "wordCount": 202,
+          "title": "High Surf Advisory issued April 02 at 1:52PM PDT until April 04 at 11:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126641E0A04C.HighWindWatch.1266420D1DC0CA.LOXNPWLOX.48f9626d079f3b1794ab944491aad24f",
           "author": null,
           "description": "...HIGH WIND WATCH REMAINS IN EFFECT FROM LATE SUNDAY NIGHT THROUGH LATE MONDAY NIGHT... * WHAT...Northwest winds 35 to 50 mph with gusts 60 to 75 mph possible. * WHERE...Southern Ventura County Mountains, Northern Ventura County Mountains, Interstate 5 Corridor, Western San Gabriel",
@@ -638,6 +678,216 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12a48eg/nguy%E1%BB%87t_qu%E1%BA%BF/",
+          "author": null,
+          "description": "Bắc\n    submitted by    /u/DigRevolutionary1248  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12a48eg/nguy%E1%BB%87t_qu%E1%BA%BF/",
+          "publishedOn": "2023-04-03T00:47:50.000Z",
+          "wordCount": 14510,
+          "title": "Nguyệt quế",
+          "imageUrl": "https://preview.redd.it/6zc1n1zcylra1.jpg?auto=webp&v=enabled&s=57bf3907599842ed35df019ee749f2802eea83d1"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12a2sqa/vietnameseinspired_pokemon_region/",
+          "author": null,
+          "description": "Hi, I'm writing a Pokemon story where one of the regions is inspired by modern-day Vietnam, and I was wondering what elements of Vietnam would work well in Pokemon. This includes towns, cities, gyms, and The Elite Four. I came here because people on this subreddit know more about Vietnam than me. I take inspiration from other cultures in my writing so I can learn more about said cultures, and I don't wanna accidentally offend anyone. If anyone has suggestions on what elements of Vietnam would work well in my Pokemon story, please comment them down below!\n Here are the gyms and elite four:\n Gyms:\n Gym 1: Poison\n Gym 2: Psychic\n Gym 3: Electric\n Gym 4: Ground\n Gym 5: Normal\n Gym 6: Rock\n Gym 7: Dragon\n Gym 8: Steel\n ​\n Elite Four:\n Elite 1: Dark\n Elite 2: Grass\n Elite 3: Fighting\n Elite 4: Fairy\n Champion: Ice\n    submitted by    /u/Enby_Geek  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12a2sqa/vietnameseinspired_pokemon_region/",
+          "publishedOn": "2023-04-02T23:53:17.000Z",
+          "wordCount": 14768,
+          "title": "Vietnamese-inspired Pokemon Region",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12a0ka7/so_i_have_a_friend_in_hanoi_whats_a_joke_or_meme/",
+          "author": null,
+          "description": "Hey all!\n As the title says, what's something that might get my Hanoi friend to laugh and be confused by how I know that?\n It's Monday there when I post this, so are there any good local memes?\n  \nLast year I started learning Russian for my friends in Kyrgyzstan. Now I'm also learning Vietnamese so I'll be good when I visit.\n    submitted by    /u/mgearliosus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12a0ka7/so_i_have_a_friend_in_hanoi_whats_a_joke_or_meme/",
+          "publishedOn": "2023-04-02T22:30:18.000Z",
+          "wordCount": 14656,
+          "title": "So I have a friend in Hanoi. What's a joke or meme that only someone there would know?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12a0cq4/vietnam_vlog_series/",
+          "author": null,
+          "description": "If y’all enjoy watching travel vlogs, check out our Vietnam vlog series! Maybe you’ll find something you like or learn something for your next trip to Vietnam! :) anyways have a great day y’all! \n vietnam #travelvlog #hanoi\n    submitted by    /u/AimlesslyDrifting93  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12a0cq4/vietnam_vlog_series/",
+          "publishedOn": "2023-04-02T22:22:26.000Z",
+          "wordCount": 14588,
+          "title": "Vietnam vlog series!",
+          "imageUrl": "https://external-preview.redd.it/kNNQ72m3Q6FYiPzYNPrcgzpRTLQH1JhJQo2yIK3jgNA.jpg?auto=webp&v=enabled&s=3fe4369da3eae3e57d1afc06fca97927e9928d95"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129xucq/bars_and_id/",
+          "author": null,
+          "description": "It’s been pretty long since I’ve been back to Vietnam. I’m 19 now and I know that the legal age has been set at 18, I still haven’t gotten my drivers license yet and low key forgot to get an id because I don’t really need anything in the us that would require an id. I know it’s a dumb question but like do most bars id now, when I go to Canada I never got id’d, so should I just lug around my passport or will I be set?\n    submitted by    /u/pppoopoogangnamstyle  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129xucq/bars_and_id/",
+          "publishedOn": "2023-04-02T20:54:31.000Z",
+          "wordCount": 14934,
+          "title": "Bars and id",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129wgmv/how_safe_is_motorcycling_for_the_first_time_along/",
+          "author": null,
+          "description": "I've heard great things about the coastal road near Danang, Hoi An and Hue but have reservations about biking it, as I have never ridden a motorcycle before. How safe is that particular bit of road for a very inexperienced rider? If it's not safe what's the best alternative to get those views?\n    submitted by    /u/hamlindigosean  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129wgmv/how_safe_is_motorcycling_for_the_first_time_along/",
+          "publishedOn": "2023-04-02T20:06:58.000Z",
+          "wordCount": 15040,
+          "title": "How safe is motorcycling for the first time along the Hai Van Pass?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129v68n/4dx_for_kimetsu_yaiba/",
+          "author": null,
+          "description": "Hi! Don't know if this appropriate on here but I planned to treat myself a nice cinema evening this Tuesday and I found that CGV have 4DX of Kimetsu. It is worth the money or should i just stick to Imax and regular 2D?\n Mind you, i am a very costive and poor college students so that why I want this to count!\n    submitted by    /u/Dan42002  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129v68n/4dx_for_kimetsu_yaiba/",
+          "publishedOn": "2023-04-02T19:22:13.000Z",
+          "wordCount": 1934,
+          "title": "4DX for Kimetsu Yaiba?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129v41i/4dx_for_kimetsu_yaiba/",
+          "author": null,
+          "description": "Hi! Don't know if this appropriate on here but I planned to treat myself a nice cinema evening this Tuesday and I found that CGV have 4DX of Kimetsu. It is worth the money or should i just stick to Imax and regular 2D?\n Mind you, i am a very costive and poor college students so that why I want this to count!\n    submitted by    /u/Dan42002  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129v41i/4dx_for_kimetsu_yaiba/",
+          "publishedOn": "2023-04-02T19:20:07.000Z",
+          "wordCount": 1934,
+          "title": "4DX for Kimetsu Yaiba?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129uxfd/how_the_sinovietnamese_war_was_purposefully/",
+          "author": null,
+          "description": "submitted by    /u/JoJo-Bizarre-1997  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129uxfd/how_the_sinovietnamese_war_was_purposefully/",
+          "publishedOn": "2023-04-02T19:13:37.000Z",
+          "wordCount": 1934,
+          "title": "How the Sino-Vietnamese War Was Purposefully Forgotten",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129upqk/does_anyone_have_a_recipe_for_this_bap_cai_i_had/",
+          "author": null,
+          "description": "submitted by    /u/stronger-than-dirt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129upqk/does_anyone_have_a_recipe_for_this_bap_cai_i_had/",
+          "publishedOn": "2023-04-02T19:06:12.000Z",
+          "wordCount": 14597,
+          "title": "Does anyone have a recipe for this bap cai? I had this so much when i was in Hanoi and want to try making it!",
+          "imageUrl": "https://preview.redd.it/5cicvuqe9kra1.jpg?auto=webp&v=enabled&s=eccf42e69c1f3f9e8d8dad6f9361da5d63e84ff5"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129sblk/weather_september/",
+          "author": null,
+          "description": "Hello all\n Me and my girlfriend are planning to visit your beautiful country this September. Probably from end of August till mid-September.\n However, I have found out that during this time Vietnam experiences relatively a lot of rain in some parts of the country. \n We planned to visit Hanoi, Sapa, Ha long Bay, Ninh Binh, Hoi an, Hue and Phu quoc. Now I have read mixed information in the internet, so I thought I would ask maybe a local or someone who already visited Vietnam during this time period. Is end of August till mid-September a good time to visit these locations or which should I eventually skip?\n    submitted by    /u/Street_Interaction15  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129sblk/weather_september/",
+          "publishedOn": "2023-04-02T17:43:33.000Z",
+          "wordCount": 2031,
+          "title": "Weather September",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129rhix/accidentally_made_this_vietnam_stock_photo_during/",
+          "author": null,
+          "description": "submitted by    /u/Impressive_Cook2351  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129rhix/accidentally_made_this_vietnam_stock_photo_during/",
+          "publishedOn": "2023-04-02T17:14:31.000Z",
+          "wordCount": 14528,
+          "title": "Accidentally made this Vietnam stock photo during our Mua Cave visit",
+          "imageUrl": "https://preview.redd.it/ib0322bhpjra1.jpg?auto=webp&v=enabled&s=46e7a084a366d1dde0691aa3995dcacef473ddbe"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129qbfb/t%E1%BB%89nhth%C3%A0nh_ph%E1%BB%91_n%C3%A0o_%E1%BB%9F_vi%E1%BB%87t_nam_m%C3%A0_b%E1%BA%A1n_th%C3%ADch_%C4%91i_du/",
+          "author": null,
+          "description": "Việt Nam có rất nhiều tỉnh, thành phố, bãi biển xinh đẹp hay vùng núi cao hùng vĩ như Hà Nội, Thành phố Hồ Chí Minh, Huế, Hà Giang, Lào Cai, Nha Trang, Đà Nẵng, Phú Quốc,... Vậy nếu bạn có cơ hội đi du lịch khám phá Việt Nam, bạn muốn đến tỉnh/thành phố nào nhất? (Vietnam has many beautiful provinces, cities, beaches or majestic high mountains such as Hanoi, Ho Chi Minh City, Hue, Ha Giang, Lao Cai, Nha Trang, Da Nang, Phu Quoc,... So if you have the opportunity to travel to explore Vietnam, which province/city would you like to visit the most?)\n    submitted by    /u/AggressiveHope2703  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129qbfb/t%E1%BB%89nhth%C3%A0nh_ph%E1%BB%91_n%C3%A0o_%E1%BB%9F_vi%E1%BB%87t_nam_m%C3%A0_b%E1%BA%A1n_th%C3%ADch_%C4%91i_du/",
+          "publishedOn": "2023-04-02T16:32:21.000Z",
+          "wordCount": 14764,
+          "title": "Tỉnh/Thành phố nào ở Việt Nam mà bạn thích đi du lịch nhất? (Which province/city in Vietnam do you want to travel the most?)",
+          "imageUrl": "https://preview.redd.it/u2jg22kyhjra1.png?auto=webp&v=enabled&s=33792222a70946bcf6d14762eb62b2fb1d434523"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129olvz/flying_a_kite/",
+          "author": null,
+          "description": "Flying a kite in Thu Thiem in the summer.\n    submitted by    /u/ThanhNang  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129olvz/flying_a_kite/",
+          "publishedOn": "2023-04-02T15:31:42.000Z",
+          "wordCount": 14566,
+          "title": "Flying a kite",
+          "imageUrl": "https://preview.redd.it/psiq0fz47jra1.jpg?auto=webp&v=enabled&s=66e606112958562a2db843e5a81090aa4946f4ca"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129oei4/ch%E1%BB%8Dn_ng%C3%A0nh_thi_n%C4%83ng_khi%E1%BA%BFu_kh%E1%BB%91i_h_v%C3%A0_v/",
+          "author": null,
+          "description": "Em năm nay lớp 11, có chút năng khiếu vẽ vời, được sự ủng hộ từ gia đình nên hiện tại em đang học vẽ để thi năng khiếu.\n Ban đầu em có dự tính thi vào thiết kế đồ họa (em thích ngành này từ năm lớp 9) nhưng mà nghĩ lại và nghe mọi người khuyện nhủ thì em lại đang khá phân vân, liệu mình chọn ngành này sau này thu nhập có ổn định không, có đủ để gửi tiền hàng tháng về cho bố mẹ được không...có lẽ em thích là một chuyện nhưng nếu sau này ra trường lương lại ít hơn số tiền bỏ ra thì em thấy có lỗi với bố mẹ lắm ạ..\n Em đang phân vân giữa kiến trúc, ,thiết kế đồ họa, thiết kế nội thất. Ba ngành này em học ngành nào cũng được và sẽ quyết tâm đến cùng ( em có thế mạnh về vẽ và Toán Lý, biết sử dụng pts)\n Mọi người tư vẫn cho em với ạ\n em cảm ơn🌹\n    submitted by    /u/No-Communication5964  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129oei4/ch%E1%BB%8Dn_ng%C3%A0nh_thi_n%C4%83ng_khi%E1%BA%BFu_kh%E1%BB%91i_h_v%C3%A0_v/",
+          "publishedOn": "2023-04-02T15:24:20.000Z",
+          "wordCount": 15120,
+          "title": "Chọn ngành thi năng khiếu, khối H và V",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129j6eu/cursed_banh_mi_place/",
+          "author": null,
+          "description": "submitted by    /u/Routine_Storm_9597  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129j6eu/cursed_banh_mi_place/",
+          "publishedOn": "2023-04-02T12:01:14.000Z",
+          "wordCount": 14588,
+          "title": "Cursed Banh mi place",
+          "imageUrl": "https://preview.redd.it/9r2h979l5ira1.jpg?auto=webp&v=enabled&s=c0b0bff21c43415fd1eb8a81dbea04f9f8e0088c"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129iw89/rolling_tobacco_in_saigon/",
+          "author": null,
+          "description": "I've been looking for rolling tobacco for a while and I'm going to the center to try and find some. \n Can anyone recommend a place that sells some foreign brands? (Marlboro, lucky strike,...)\n    submitted by    /u/Global_Pumpkin8196  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129iw89/rolling_tobacco_in_saigon/",
+          "publishedOn": "2023-04-02T11:49:05.000Z",
+          "wordCount": 14609,
+          "title": "Rolling tobacco in Saigon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129h86w/rock_climbing_guide_in_vietnam/",
+          "author": null,
+          "description": "I'm an experienced rock climber who will be travelling with my partner who doesn't climb.\n We will be travelling to Vietnam making our way from Ho Chi Minh to Hanoi by land.\n Are there opportunities to go outdoor rock climbing with guided tours or organisations along the way.\n Grade: 7B (5.12 for the Americans)\n    submitted by    /u/Acreet  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129h86w/rock_climbing_guide_in_vietnam/",
+          "publishedOn": "2023-04-02T10:29:09.000Z",
+          "wordCount": 14827,
+          "title": "Rock climbing guide in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129h0yi/why_are_there_no_dancefloors_in_vietnamese_clubs/",
+          "author": null,
+          "description": "We're here as tourists and want to do some partying with locals, but all clubs we were to are really table focused, without a big dancefloor. People still dance, but at their table. We've been to HCM, Da Lat, Nha Trang and Quy Nhon. \n Next up Danang if you have recommendations for bars and clubs? Unfortunately We're there during the week, Tuesday to Thursday. \n Btw from Germany 🇩🇪\n    submitted by    /u/coach69VE  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129h0yi/why_are_there_no_dancefloors_in_vietnamese_clubs/",
+          "publishedOn": "2023-04-02T10:17:11.000Z",
+          "wordCount": 16230,
+          "title": "Why are there no dancefloors in vietnamese clubs?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129g8ie/thanks_%C3%B4ng_tr%E1%BB%9Di_for_the_rain_its_been_so_hot/",
+          "author": null,
+          "description": "submitted by    /u/leprotelariat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129g8ie/thanks_%C3%B4ng_tr%E1%BB%9Di_for_the_rain_its_been_so_hot/",
+          "publishedOn": "2023-04-02T09:32:49.000Z",
+          "wordCount": 14730,
+          "title": "Thanks Ông Trời for the rain. It's been so hot...",
+          "imageUrl": "https://preview.redd.it/auj9a2r3fhra1.jpg?auto=webp&v=enabled&s=48915b494300aa7150576ceb4e5b5129d96bb856"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/129bdsu/the_wifes_parents/",
+          "author": null,
+          "description": "I've had the fortunate ability to spend 4 months in Vietnam and have stayed with my wifes parents. Before departing, I wanted to give them a gift. My in-laws are a bit more than well off and would never accept my money. However, they've accepted my gifts before. Can natives please help me to figure out something more original than fruit or teas? I really want to surprise them because they've treated me like their own son.\n    submitted by    /u/Practical-Round-1813  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/129bdsu/the_wifes_parents/",
+          "publishedOn": "2023-04-02T05:35:31.000Z",
+          "wordCount": 16053,
+          "title": "The wifes parents.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/1294ugz/vung_tau_giant_lobster_sculptures/",
           "author": null,
@@ -6677,136 +6927,6 @@
           "wordCount": 15325,
           "title": "Xin recommend về máy chụp ảnh (camera) DSLR or mirrorless",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11hyf4s/vietnamese_girl_dates_expat/",
-          "author": null,
-          "description": "I am Vietnamese girl dating an expat for the 1st time, plz give me some advices. I live in Hanoi, he lives in HCM so this is the first time dating. He asks me to show him around when we meet in Hanoi. I was kinda passive in the relationships with other Vietnamese boyfriends before, like they picked me up to dating locations. Thus, I don’t know how to take the lead in dating with an expat in Hanoi. Which type of transportation used when we date? I don’t have car driving license. Pick him up by a motorbike I drive is bit weird, isn’t it? Have you been in this situation? Plz share your experience. Kindly introduce me some places that expats want to hangout in Hanoi. We are both in twenties. Much appreciated!\n Edit: Thank so much for your advice. Most of them are very helpful. I am way too overthinking. I was worried about the size difference if I drive him on a bike, im like 5’1 feet while he is 6’2 feet. But, I will ask him what he wants to choose bike or cab although bike is the my most preferred transport when hanging out in Hanoi. To whom who may wish me luck with green card: he is not even a Western. He is my Hindu colleague. We hit it off and accept a long distance relationship. That’s it. Now Vietnamese girls don’t date expats for money. We can be both cute and rich at the same time. Get used to it.\n    submitted by    /u/Ab6_Idk  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11hyf4s/vietnamese_girl_dates_expat/",
-          "publishedOn": "2023-03-04T12:49:49.000Z",
-          "wordCount": 18645,
-          "title": "Vietnamese girl dates expat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11hyezm/c%C3%B3_ai_ch%C6%A1i_c%C3%A1i_n%C3%A0y_kh%C3%B4ng_ch%E1%BB%89_t%C3%B4i_cach_r%C3%BAt_ti%E1%BB%81n/",
-          "author": null,
-          "description": "submitted by    /u/Key_Historian_8895  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11hyezm/c%C3%B3_ai_ch%C6%A1i_c%C3%A1i_n%C3%A0y_kh%C3%B4ng_ch%E1%BB%89_t%C3%B4i_cach_r%C3%BAt_ti%E1%BB%81n/",
-          "publishedOn": "2023-03-04T12:49:34.000Z",
-          "wordCount": 14418,
-          "title": "có ai chơi cái này không chỉ tôi cach rút tiền với ạ cảm ơn",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11hx9pb/hey_everyonei_just_wanted_to_know_where_can_i/",
-          "author": null,
-          "description": "submitted by    /u/your_og_shinigami  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11hx9pb/hey_everyonei_just_wanted_to_know_where_can_i/",
-          "publishedOn": "2023-03-04T11:39:26.000Z",
-          "wordCount": 14578,
-          "title": "Hey everyone,i just wanted to know where can i find authentic vans/converse shoes in HCMC.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11hwksr/drums_in_hanoi/",
-          "author": null,
-          "description": "I’ve arrived in Hanoi and there’s a big event with lots of people playing drums on a big stage and lots of people waving flags too. Any ideas what all this is in aid of?\n    submitted by    /u/Highnlow7991  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11hwksr/drums_in_hanoi/",
-          "publishedOn": "2023-03-04T10:55:36.000Z",
-          "wordCount": 14565,
-          "title": "Drums in Hanoi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11hshqf/what_would_you_traditionally_give_a_couple_as_a/",
-          "author": null,
-          "description": "Hi all,\n I am visiting Vietnam in July this year for a close friend's wedding. Just wondering what Vietnamese people typically give their friends and loved ones as a wedding gift? I've actually never been to any wedding as an adult so I'm a bit lost and gifting in a completely different culture makes it feel even more daunting. I would love to hear some examples of what you would typically choose as a wedding gift.\n Also - Other foreign friends who are going have said they are just going to give the couple money, is this normal/acceptable in Vietnam? And if so, how much should one typically give?\n Appreciate any insights, cheers\n    submitted by    /u/champagne_epigram  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11hshqf/what_would_you_traditionally_give_a_couple_as_a/",
-          "publishedOn": "2023-03-04T07:01:29.000Z",
-          "wordCount": 16524,
-          "title": "What would you traditionally give a couple as a wedding gift in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11ho6zm/ho_chi_minh_live_music_jazz_funk_whiskey_bar/",
-          "author": null,
-          "description": "Hello! First time in Vietnam and enjoying the sights. Staying in Ho Chi Minh city amd curious if there are any good venues for live music, funk, or whiskey bar style settings. Recommendations welcome! Staying at the Au Lac Charmer hotel. \n Also - what is the deal with the small bars that have multiple women out front? It’s not red light district, is it more to entice to enter the bars? \n Thanks!\n    submitted by    /u/ADHDam  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11ho6zm/ho_chi_minh_live_music_jazz_funk_whiskey_bar/",
-          "publishedOn": "2023-03-04T03:29:12.000Z",
-          "wordCount": 15059,
-          "title": "Ho chi Minh - live music/ jazz funk/ whiskey bar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11hn4su/my_mom_is_going_to_vietnam_she_is_getting_teeth/",
-          "author": null,
-          "description": "My mom needs about 6 tooth include someone molar, quote she got so far in vietnam is about 10k.\n    submitted by    /u/namiiscool23  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11hn4su/my_mom_is_going_to_vietnam_she_is_getting_teeth/",
-          "publishedOn": "2023-03-04T02:40:53.000Z",
-          "wordCount": 15280,
-          "title": "My mom is going to vietnam she is getting teeth implant there, what is cost per tooth does anyone have any recommendation in Saigon?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11hm1mo/patients_survive_on_painkillers_as_medical/",
-          "author": null,
-          "description": "submitted by    /u/_Sweet_Cake_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11hm1mo/patients_survive_on_painkillers_as_medical/",
-          "publishedOn": "2023-03-04T01:51:28.000Z",
-          "wordCount": 15832,
-          "title": "Patients survive on painkillers as medical shortages delay surgeries at top Hanoi hospital - VnExpress International",
-          "imageUrl": "https://external-preview.redd.it/qAVfdoRf5N7ngB1-Bv_J8Z-GAVxEn8j2h9_twzkuczY.jpg?auto=webp&v=enabled&s=8a095b57b473de5b60c3b0c9b488551d0e476ee1"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11hhty5/eps_21_%C4%91i%E1%BB%87n_bi%C3%AAn/",
-          "author": null,
-          "description": "submitted by    /u/Baosia  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11hhty5/eps_21_%C4%91i%E1%BB%87n_bi%C3%AAn/",
-          "publishedOn": "2023-03-03T22:56:41.000Z",
-          "wordCount": 14383,
-          "title": "Eps 21: Điện Biên",
-          "imageUrl": "https://preview.redd.it/s9f7vrf6bnla1.png?auto=webp&v=enabled&s=cf3f9d7ea3649ab9980fb627704bb5db6d20cead"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11hhdui/retro_game_stores/",
-          "author": null,
-          "description": "This Summer I will travel to Ho Chi Minh City and Phan Rang. My Question is, if they are any Retro Video Game Stores?\n    submitted by    /u/kevkev25101  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11hhdui/retro_game_stores/",
-          "publishedOn": "2023-03-03T22:39:01.000Z",
-          "wordCount": 14424,
-          "title": "Retro Game Store's",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11h71rj/visiting_cu_chi_tunnels_worth_it/",
-          "author": null,
-          "description": "Me and girlfriend are currently in Saigon and we are obviously considering visiting the Cu Chi tunnels the day after tomorrow. However I'm not really sure whether it's worth it or not, because of the relatively long drive there. \n I'm very interested in the Vietnam war and already know plenty about it, so visiting something like this seem like a natural choice but at the same time I hate things that are too touristy and this seem exactly that. People posing for dumb pictures, like thousands of others before them, standing on destroyed tanks or in entrances to one of the tunnels.\n Would you recommend it?\n    submitted by    /u/PrebenJaeger  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11h71rj/visiting_cu_chi_tunnels_worth_it/",
-          "publishedOn": "2023-03-03T17:23:14.000Z",
-          "wordCount": 15271,
-          "title": "Visiting Cu Chi Tunnels - worth it?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11h4cf4/how_is_the_youtube_scene_in_vietnam/",
-          "author": null,
-          "description": "Hi, i am indian and i am just curious to know whether Vietnam has \"business/agents\" that offers views to Youtubers for money ? \n Because i came across something on youtube that looks like targetting views/clicks from indians. The contents looks like from Vietnam hence i posted here. Sorry if this is not the right place for this.\n    submitted by    /u/charlie_039  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11h4cf4/how_is_the_youtube_scene_in_vietnam/",
-          "publishedOn": "2023-03-03T16:04:14.000Z",
-          "wordCount": 14636,
-          "title": "How is the YouTube scene in Vietnam?",
-          "imageUrl": "https://external-preview.redd.it/KEM72UX2uzNqaCWF3_ceZn7MpHSer0_mePvInY44vpk.jpg?auto=webp&v=enabled&s=2733a3a18aec14ad7c8e42ef1b637c4f834e7043"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11h214y/burning_season_in_march_2023/",
-          "author": null,
-          "description": "Hi everyone,\n I am planning on traveling in Northern Vietnam this month. The air quality apps show really high PM 10 and PM 2.5 numbers, meaning the air is hazardous for health.\n I was wondering - is this casual for that side of the country or is it because of the burning season, similarly to Northern Thailand?\n Maybe anyone currently travelling there could share there experiences?\n Thank you in advance.\n    submitted by    /u/arnikis  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11h214y/burning_season_in_march_2023/",
-          "publishedOn": "2023-03-03T14:24:01.000Z",
-          "wordCount": 14732,
-          "title": "Burning season in March 2023?",
-          "imageUrl": null
         }
       ]
     },
@@ -8154,56 +8274,6 @@
           "wordCount": 1666,
           "title": "Can ChatGPT Ensure Secure Coding Practices?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/chatgpt-coding.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-define-and-call-functions-in-python/",
-          "author": "Oluseye Jeremiah",
-          "description": "Python is a powerful and versatile programming language that offers a wide range of functionalities for developers.  One of the most essential features of Python is the ability to define and call functions.  A function is a block of code that performs a specific task. In Python, defining",
-          "link": "https://www.freecodecamp.org/news/how-to-define-and-call-functions-in-python/",
-          "publishedOn": "2023-03-03T21:18:55.000Z",
-          "wordCount": 1261,
-          "title": "How to Define And Call Functions in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/CD.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-market-your-new-project-incorporate-design-create-a-landing-page-and-get-your-users-97812fd9dd4d/",
-          "author": "Jane Sorensen",
-          "description": "Only a few of us come naturally to self-marketing. Most of us prefer making the thing and enjoy showing it off (at least a little!), but hope it’ll be appreciated on its own merits – or that someone else will champion it.  Deliberate marketing and sales makes people uncomfortable,",
-          "link": "https://www.freecodecamp.org/news/how-to-market-your-new-project-incorporate-design-create-a-landing-page-and-get-your-users-97812fd9dd4d/",
-          "publishedOn": "2023-03-03T18:50:00.000Z",
-          "wordCount": 7532,
-          "title": "How to Market a New Project –Incorporate Design, Create a Landing Page, and Get Users",
-          "imageUrl": "https://cdn-media-1.freecodecamp.org/images/1*RlD_EebvaZt--pxPDmc0rQ.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-strip-trailing-whitespace-in-python/",
-          "author": "Dionysia Lemonaki",
-          "description": "Python has three built-in methods for trimming leading and trailing whitespace and characters from strings: strip(), lstrip(), and rstrip(). In this article, I will explain how to remove trailing whitespace in Python using the rstrip() method. Let's get into it! How To Trim Whitespace From A String in Python To",
-          "link": "https://www.freecodecamp.org/news/how-to-strip-trailing-whitespace-in-python/",
-          "publishedOn": "2023-03-03T17:28:17.000Z",
-          "wordCount": 957,
-          "title": "Trim a String in Python – How to Strip Trailing Whitespace",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-christina-morillo-1181359.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-table-of-contents-component/",
-          "author": "Caleb Olojo",
-          "description": "When you visit documentation sites, you'll notice that many of them have a common component: the  component. The idea behind it is to give the reader a \"heads-up\" about the information they're trying to consume. This feature, in turn, helps the reader go directly to the section that",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-table-of-contents-component/",
-          "publishedOn": "2023-03-03T14:54:50.000Z",
-          "wordCount": 3122,
-          "title": "How to Build a Table of Contents Component for Your Blog",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/toc.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/sql-tips-save-time-write-simpler-queries/",
-          "author": "Oluseye Jeremiah",
-          "description": "As a data analyst, you'll want to be as efficient and and effective as possible when working with databases.  SQL is one of the most widely used languages for managing and manipulating data stored in a relational database. In this article, we'll cover some SQL cheat codes that can",
-          "link": "https://www.freecodecamp.org/news/sql-tips-save-time-write-simpler-queries/",
-          "publishedOn": "2023-03-03T14:28:39.000Z",
-          "wordCount": 1744,
-          "title": "SQL Tips to Help You Save Time and Write Simpler Queries",
-          "imageUrl": ""
         }
       ]
     }
