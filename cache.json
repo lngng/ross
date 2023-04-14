@@ -12,6 +12,16 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266429790B8.WindAdvisory.126642A56620CA.LOXNPWLOX.b29e0869b42daba2f14983986318c529",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 1 PM TODAY UNTIL 3 AM PDT FRIDAY... * WHAT...West winds 20 to 30 mph with gusts up to 45 mph expected. * WHERE...Western Antelope Valley Foothills. * WHEN...From 1 PM this afternoon to 3 AM PDT Friday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266429790B8.WindAdvisory.126642A56620CA.LOXNPWLOX.b29e0869b42daba2f14983986318c529",
+          "publishedOn": "2023-04-13T19:34:00.000Z",
+          "wordCount": 156,
+          "title": "Wind Advisory issued April 13 at 12:34PM PDT until April 14 at 3:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12664288EDD8.WindAdvisory.126642967200CA.LOXNPWLOX.71f66f9babd15c66e7660b88376292af",
           "author": null,
           "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 5 AM PDT THURSDAY... * WHAT...Northwest winds 20 to 30 mph with gusts up to 45 mph expected. * WHERE...Interstate 5 Corridor. * WHEN...Until 5 AM PDT Thursday. * IMPACTS...Gusty winds will blow around unsecured objects and",
@@ -640,86 +650,6 @@
           "wordCount": 237,
           "title": "Winter Storm Watch issued March 19 at 2:21PM PDT until March 22 at 6:00PM PDT by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0C890.FloodWatch.12663CBDB5F0CA.LOXFFALOX.b11ee726c3b353f7593dd2157c4e4fe4",
-          "author": null,
-          "description": "...FLOOD WATCH REMAINS IN EFFECT THROUGH WEDNESDAY MORNING... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...Los Angeles County except the Antelope Valley. * WHEN...Through Wednesday morning. * IMPACTS...Heavy rain and excessive runoff may result in dangerous",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0C890.FloodWatch.12663CBDB5F0CA.LOXFFALOX.b11ee726c3b353f7593dd2157c4e4fe4",
-          "publishedOn": "2023-03-14T18:28:00.000Z",
-          "wordCount": 168,
-          "title": "Flood Watch issued March 14 at 11:28AM PDT until March 14 at 8:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0C890.FloodWatch.12663CBE2B20CA.LOXFFALOX.0bc3cc21a81510e89ae0ac4bcd32a627",
-          "author": null,
-          "description": "...FLOOD WATCH REMAINS IN EFFECT THROUGH WEDNESDAY MORNING... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...Los Angeles County except the Antelope Valley. * WHEN...Through Wednesday morning. * IMPACTS...Heavy rain and excessive runoff may result in dangerous",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0C890.FloodWatch.12663CBE2B20CA.LOXFFALOX.0bc3cc21a81510e89ae0ac4bcd32a627",
-          "publishedOn": "2023-03-14T18:28:00.000Z",
-          "wordCount": 174,
-          "title": "Flood Watch issued March 14 at 11:28AM PDT until March 14 at 11:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0C890.FloodWatch.12663CBF1580CA.LOXFFALOX.2bedd8fc318fff740a0bb48343b95786",
-          "author": null,
-          "description": "...FLOOD WATCH REMAINS IN EFFECT THROUGH WEDNESDAY MORNING... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...Los Angeles County except the Antelope Valley. * WHEN...Through Wednesday morning. * IMPACTS...Heavy rain and excessive runoff may result in dangerous",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0C890.FloodWatch.12663CBF1580CA.LOXFFALOX.2bedd8fc318fff740a0bb48343b95786",
-          "publishedOn": "2023-03-14T18:28:00.000Z",
-          "wordCount": 188,
-          "title": "Flood Watch issued March 14 at 11:28AM PDT until March 15 at 5:00AM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0C890.FloodWatch.12663CCE7ED0CA.LOXFFALOX.25c9599972e90869c12091197aa1a248",
-          "author": null,
-          "description": "...FLOOD WATCH REMAINS IN EFFECT THROUGH WEDNESDAY MORNING... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...Most of Ventura County south of Lockwood Valley. * WHEN...Through Wednesday morning. * IMPACTS...Extensive street flooding and flooding of creeks and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0C890.FloodWatch.12663CCE7ED0CA.LOXFFALOX.25c9599972e90869c12091197aa1a248",
-          "publishedOn": "2023-03-14T18:28:00.000Z",
-          "wordCount": 301,
-          "title": "Flood Watch issued March 14 at 11:28AM PDT until March 16 at 6:00AM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0C890.FloodWatch.12663CCE7ED0CA.LOXFFALOX.ca889402ee9a522a4b67c8b40e5f589e",
-          "author": null,
-          "description": "...FLOOD WATCH REMAINS IN EFFECT THROUGH WEDNESDAY MORNING... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...Los Angeles County except the Antelope Valley. * WHEN...Through Wednesday morning. * IMPACTS...Heavy rain and excessive runoff may result in dangerous",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0C890.FloodWatch.12663CCE7ED0CA.LOXFFALOX.ca889402ee9a522a4b67c8b40e5f589e",
-          "publishedOn": "2023-03-14T18:28:00.000Z",
-          "wordCount": 248,
-          "title": "Flood Watch issued March 14 at 11:28AM PDT until March 16 at 6:00AM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0804C.WindAdvisory.12663CBE0410CA.LOXNPWLOX.4e76d2b8fa4cbae983225bcf71c3fad4",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 10 PM PDT THIS EVENING... * WHAT...Southwest winds 20 to 30 mph with gusts up to 45 mph expected. * WHERE...Antelope Valley. * WHEN...Until 10 PM PDT this evening. * IMPACTS...Gusty winds will blow around unsecured objects and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0804C.WindAdvisory.12663CBE0410CA.LOXNPWLOX.4e76d2b8fa4cbae983225bcf71c3fad4",
-          "publishedOn": "2023-03-14T16:43:00.000Z",
-          "wordCount": 154,
-          "title": "Wind Advisory issued March 14 at 9:43AM PDT until March 14 at 10:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0804C.WindAdvisory.12663CBF1580CA.LOXNPWLOX.a52889a24e80697848d3336053e9cf0b",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 5 AM PDT WEDNESDAY... * WHAT...South winds 25 to 35 mph with gusts up to 50 mph expected. * WHERE...Northern Ventura County Mountains, Interstate 5 Corridor, Western San Gabriel Mountains and Highway 14 Corridor and Western Antelope Valley Foothills.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0804C.WindAdvisory.12663CBF1580CA.LOXNPWLOX.a52889a24e80697848d3336053e9cf0b",
-          "publishedOn": "2023-03-14T16:43:00.000Z",
-          "wordCount": 216,
-          "title": "Wind Advisory issued March 14 at 9:43AM PDT until March 15 at 5:00AM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0804C.WindAdvisory.12663CCCF830CA.LOXNPWLOX.a45be251f8efab084466ba28481ec026",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 8 PM PDT WEDNESDAY... * WHAT...South winds 25 to 35 mph with gusts up to 55 mph expected. Isolated gusts to 65 mph possible at times. * WHERE...Eastern San Gabriel Mountains and Eastern Antelope Valley Foothills. * WHEN...Until 8 PM PDT Wednesday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CB0804C.WindAdvisory.12663CCCF830CA.LOXNPWLOX.a45be251f8efab084466ba28481ec026",
-          "publishedOn": "2023-03-14T16:43:00.000Z",
-          "wordCount": 183,
-          "title": "Wind Advisory issued March 14 at 9:43AM PDT until March 15 at 8:00PM PDT by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -728,6 +658,246 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12lcjc7/songkran_in_vietnam/",
+          "author": null,
+          "description": "How popular is it to celebrate this in Vietnam?\n    submitted by    /u/Pollo_Perpetuo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12lcjc7/songkran_in_vietnam/",
+          "publishedOn": "2023-04-14T00:12:17.000Z",
+          "wordCount": 2131,
+          "title": "Songkran in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12larrc/toy_stores/",
+          "author": null,
+          "description": "Hi, traveling to Vietnam next month.Can anybody recommend toys stores in HCMC that sell Chinese building block sets.\n    submitted by    /u/loit88888  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12larrc/toy_stores/",
+          "publishedOn": "2023-04-13T23:14:25.000Z",
+          "wordCount": 14544,
+          "title": "Toy stores",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12lahll/hello_vietnamese_friends_need_your_help_in/",
+          "author": null,
+          "description": "Hello, dear Vietnamese Reddit community! I'm facing a puzzle related to the signature of a Vietnamese artist (apparently). I'm hoping that with your knowledge and love for Vietnamese art, you could help me solve this mystery!\n I recently came across a painting, which I believe is the work of a talented Vietnamese artist. However, the signature on the artwork is a bit tricky to read, and I'm struggling to identify who the artist might be. That's where your expertise comes in! 😄\n Here's the signature: \n https://preview.redd.it/2jl3fpafgqta1.png?width=2561&format=png&auto=webp&s=11cdd7cb53df87aea445fb1beac212e6da66819d\n    submitted by    /u/TheTerburgMystery  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12lahll/hello_vietnamese_friends_need_your_help_in/",
+          "publishedOn": "2023-04-13T23:05:20.000Z",
+          "wordCount": 2220,
+          "title": "Hello, Vietnamese friends! Need your help in deciphering the signature of an artist from Vietnam! 🧐🖌️🇻🇳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12l9fdb/moving_to_vietnam/",
+          "author": null,
+          "description": "Hello, I am an American who is moving to Vietnam soon. I am a highschool student and just wanted to know anything that might be normal in America but rude/disrespectful in Vietnam.\n    submitted by    /u/KrakenV101  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12l9fdb/moving_to_vietnam/",
+          "publishedOn": "2023-04-13T22:36:40.000Z",
+          "wordCount": 2154,
+          "title": "Moving to Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12l2rth/drone_rental_in_hanoi/",
+          "author": null,
+          "description": "Hi, does anyone know if it's possible to rent a Mavic Pro Mini or similar drone in Hanoi?\n    submitted by    /u/latomeri  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12l2rth/drone_rental_in_hanoi/",
+          "publishedOn": "2023-04-13T20:32:37.000Z",
+          "wordCount": 2141,
+          "title": "Drone rental in Hanoi?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12kzwka/blinken_to_visit_vietnam_japan_as_asia_tensions/",
+          "author": null,
+          "description": "submitted by    /u/JoJo-Bizarre-1997  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12kzwka/blinken_to_visit_vietnam_japan_as_asia_tensions/",
+          "publishedOn": "2023-04-13T19:09:02.000Z",
+          "wordCount": 2139,
+          "title": "Blinken to visit Vietnam, Japan as Asia tensions flare",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12kvjan/netflix_call_me_chihiro_review/",
+          "author": null,
+          "description": "submitted by    /u/Ok_Car_4499  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12kvjan/netflix_call_me_chihiro_review/",
+          "publishedOn": "2023-04-13T16:54:57.000Z",
+          "wordCount": 2151,
+          "title": "Netflix Call Me Chihiro review",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12kt8hf/how_is_the_quality_of_night_trains_and_whats_the/",
+          "author": null,
+          "description": "Is it worth to travel by train in Vietnam? How is the comfort and are delays common or are most train in time? Would like to take a train from Central Vietnam to HCM (about 12 hours ride) and take a plane from there later. Found a coonection with 4 hours arrival in HCM before the plane leaves. Is that a possible thing to do or do I need a lot of luck?\n Option b would be to arrive early in HCM airport and stay there over night, though not sure if thats recommended.\n    submitted by    /u/wo_de  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12kt8hf/how_is_the_quality_of_night_trains_and_whats_the/",
+          "publishedOn": "2023-04-13T15:39:34.000Z",
+          "wordCount": 14990,
+          "title": "How is the quality of night trains and whats the best option to book them (outside of VN)?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12ksfiq/nh%E1%BA%ADt_k%C3%AD_%C4%91i_h%E1%BB%8Dc/",
+          "author": null,
+          "description": "Trong năm cấp 2 tôi học toán và không hiểu gì, rất tự ti\n    submitted by    /u/PhongDat12  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12ksfiq/nh%E1%BA%ADt_k%C3%AD_%C4%91i_h%E1%BB%8Dc/",
+          "publishedOn": "2023-04-13T15:12:50.000Z",
+          "wordCount": 14543,
+          "title": "Nhật Kí đi học",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12ksak0/anyone_know_the_name_of_these_two_artists_their/",
+          "author": null,
+          "description": "submitted by    /u/dex1per  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12ksak0/anyone_know_the_name_of_these_two_artists_their/",
+          "publishedOn": "2023-04-13T15:08:14.000Z",
+          "wordCount": 2132,
+          "title": "anyone know the name of these two artists? Their music was magical. Seen in Hanoi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12kpmza/is_it_just_me_or_how_hes_holding_the_drink_is_a/",
+          "author": null,
+          "description": "submitted by    /u/sjalekin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12kpmza/is_it_just_me_or_how_hes_holding_the_drink_is_a/",
+          "publishedOn": "2023-04-13T13:41:51.000Z",
+          "wordCount": 2142,
+          "title": "Is it just me or how he's holding the drink is a bit weird",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12kpmau/im_traveling_to_hanoi_and_ho_chi_minh_soon_anyone/",
+          "author": null,
+          "description": "submitted by    /u/frogluv3  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12kpmau/im_traveling_to_hanoi_and_ho_chi_minh_soon_anyone/",
+          "publishedOn": "2023-04-13T13:41:14.000Z",
+          "wordCount": 2138,
+          "title": "I’m traveling to Hanoi and Ho Chi Minh soon. Anyone know a good place to buy Jade jewelry in either city?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12kpjip/taxi_driver_in_hanoi_ta_hien_stole_my_iphone_xr/",
+          "author": null,
+          "description": "I was on Ta Hien street last night and was planning to just walk (ten minutes) to the hotel but the obnoxious cab drivers would not stop pestering me so I just took a taxi. I told the driver my hotel name and he started driving and then takes me to like four different hotels and each time I say this is not my hotel.\n Finally he asks to use my phone for google maps and I hate handing my phone over but was tired and starting to feel sick. I rolled down the window for air and then he rolled it back up. Finally I couldn't hold it and start puking out the window because this 2 minute trip has become a 20 minute oddysey.\n He then tells me this is my hotel (which it isn't) and demands like $500 for me throwing up when I didn't even want this cab in the first place. I gave him like $100 which is all I had then got out and he sped off with my phone ignoring me flagging him down.\n POLICE are zero help because I don't remember the drivers cab number. Is there ANYTHING I can do? My phone is not showing on the findmyiphone app.\n    submitted by    /u/DeweyCheatamAndHowe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12kpjip/taxi_driver_in_hanoi_ta_hien_stole_my_iphone_xr/",
+          "publishedOn": "2023-04-13T13:38:48.000Z",
+          "wordCount": 2337,
+          "title": "Taxi Driver in Hanoi (Ta Hien) Stole My iPhone XR",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12kli9b/every_family_has_their_own_way_of_making_th%E1%BB%8Bt_kho/",
+          "author": null,
+          "description": "submitted by    /u/WokandKin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12kli9b/every_family_has_their_own_way_of_making_th%E1%BB%8Bt_kho/",
+          "publishedOn": "2023-04-13T11:20:35.000Z",
+          "wordCount": 2139,
+          "title": "Every family has their own way of making Thịt Kho and this is the version I grew up with! Full recipe inside!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12khq2t/can_someone_explained_what_this_scam_on_facebook/",
+          "author": null,
+          "description": "So I often get these friend requests from attractive looking Vietnamese female profiles on Facebook. Sometimes they are from Vietnam and sometimes they are in the US. They would chat with me and reveal their scam by trying to get me to sell random stuffs for them on some scam sites that give them commissions. I think they themselves believe that those scam sale sites are legit. \n Another scam is they say they trade options to make money on the side and can help me make money, I never let it go further than that so I don’t know exactly how they do it. However, 90% of them would just chat and talk to me for weeks and months. I entertain them and keep talking to them to see what the scam is but it never comes. I talk to them like a normal respectful person but never show them that I am thirsty. Eventually they just stop talking to me. \n The one thing in common I noticed is that they would edit old photo posts from months and years ago. Why do this? Is it their way of establishing that the profile is legit because they have posts from years ago? Is there ever a legit reason for someone to edit photos from a couple years ago? I am just trying to understand what is it they want from me or what kind of scam it is because it is a lot of time and efforts they go through. Thank you guys.\n    submitted by    /u/Fifthiteration  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12khq2t/can_someone_explained_what_this_scam_on_facebook/",
+          "publishedOn": "2023-04-13T08:43:06.000Z",
+          "wordCount": 16349,
+          "title": "Can someone explained what this scam on Facebook is?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12khj3s/grab_app_inaccurate_pickup_location/",
+          "author": null,
+          "description": "The past 3 times I have used Grab for a ride I have had issues finding the driver.\n I am always very careful when inputting the pickup address and drop a pin exactly where I am on the map. But when I go to find them I am walking up and down the street and can't see them.\n I have a 4G sim. Am I doing something wrong or is the app location a bit off sometimes?\n    submitted by    /u/temptingviolet4  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12khj3s/grab_app_inaccurate_pickup_location/",
+          "publishedOn": "2023-04-13T08:34:21.000Z",
+          "wordCount": 2201,
+          "title": "Grab app inaccurate pickup location",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12kh679/1_of_vietnams_major_bridges/",
+          "author": null,
+          "description": "https://maps.app.goo.gl/J2eWKi6cJpgS4f4B8?g_st=ic\n    submitted by    /u/x_cHaRliE  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12kh679/1_of_vietnams_major_bridges/",
+          "publishedOn": "2023-04-13T08:17:46.000Z",
+          "wordCount": 2125,
+          "title": "1 of Vietnams major bridges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12kggmo/us_state_secretary_antony_blinken_to_visit/",
+          "author": null,
+          "description": "submitted by    /u/abangmuscle  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12kggmo/us_state_secretary_antony_blinken_to_visit/",
+          "publishedOn": "2023-04-13T07:45:38.000Z",
+          "wordCount": 15084,
+          "title": "US State Secretary Antony Blinken to visit Vietnam this week as Asia tensions flare",
+          "imageUrl": "https://preview.redd.it/b7sxlnv9heta1.jpg?auto=webp&v=enabled&s=d9f4bda0af5cc239feb4ed75bac451a3c0a5317c"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12kgcxh/learning_vietnamese/",
+          "author": null,
+          "description": "I'm hoping this is the right place to ask - I'm looking for a European based Vietnamese teacher to help me improve my Vietnamese. I lived in Hanoi for a couple of years where my learning was very minimal and since moving back to Europe, I would like to improve my level. \n I take online lessons but the time zones make it a bit difficult with a teacher based in Vietnam, so it limits my lessons to an hour a week.\n If anyone here knows anyone that would be able to help me, or point me in the right direction, that'd be perfect. They don't need to be a qualified teacher, just someone who I could practice with, and is able to explain about the grammar/pronunciations aspects.\n Thanks in advance!\n    submitted by    /u/SilverDragonfly6794  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12kgcxh/learning_vietnamese/",
+          "publishedOn": "2023-04-13T07:41:02.000Z",
+          "wordCount": 2251,
+          "title": "Learning Vietnamese",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12kg8nm/mb_bank_app_has_a_mini_app_allow_you_to_chat_with/",
+          "author": null,
+          "description": "submitted by    /u/xd1gital  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12kg8nm/mb_bank_app_has_a_mini_app_allow_you_to_chat_with/",
+          "publishedOn": "2023-04-13T07:35:27.000Z",
+          "wordCount": 2143,
+          "title": "MB Bank app has a mini app allow you to chat with ChatGPT for free",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12kevei/we_are_a_group_of_passionate_curry_enthusiasts/",
+          "author": null,
+          "description": "submitted by    /u/Dont_Tell_Tiffany  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12kevei/we_are_a_group_of_passionate_curry_enthusiasts/",
+          "publishedOn": "2023-04-13T06:35:16.000Z",
+          "wordCount": 14580,
+          "title": "We are a group of passionate curry enthusiasts who form OCC Saigon. Every month we review a new Indian restaurant in HCMC and publish on our FB site. Follow us and never have a bad curry again!",
+          "imageUrl": "https://external-preview.redd.it/XOvqpf7kzkA1IP344XhTg0kHa1_79kiuBFx64jk11GA.jpg?auto=webp&v=enabled&s=a2d4f590020358bdb554b18eea1869ea292d1041"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12kean3/pho_bo_with_mint/",
+          "author": null,
+          "description": "I'm in Vietnam for the second time, I last visited 7 years ago. I could have sworn that pho bo was almost always served with mint on the side. I've been here nearly a month and haven't seen a single mint leaf in the dish or on the plate on the side... \n Did I create a false memory in my head or something? It's driving me crazy!\n I've been in Hue, Da Nang, Hoi An and Da Lat if that helps. Is it a regional thing?\n    submitted by    /u/aerialcaramel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12kean3/pho_bo_with_mint/",
+          "publishedOn": "2023-04-13T06:10:39.000Z",
+          "wordCount": 2209,
+          "title": "Pho bo with mint?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12kc787/da_nang_is_the_best/",
+          "author": null,
+          "description": "submitted by    /u/leprotelariat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12kc787/da_nang_is_the_best/",
+          "publishedOn": "2023-04-13T04:42:59.000Z",
+          "wordCount": 2122,
+          "title": "Da Nang is the best",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12k6y74/how_can_i_volunteer_in_vietnam/",
+          "author": null,
+          "description": "Hi, I am planning for a 20-30days trip to Vietnam sometime in May/June/July.\n I hope to volunteer during my time there to fully experience the culture there. Hoping to trade my volunteer time with in exchange for lodging and local food but that is not the main point\n Places of interest: Dalat, Sapa or Ha Giang. (Open to other places as well).\n Areas of interest or things I can contribute: Specialty coffee or any cafe, Coffee farms, Coaching competitive swimming or Learn to swim, Crossfit Gym or Commercial gym, Teaching English/Mandarin/Maths/ Sciences.\n Feel free to PM to understand more. Thanks!\n    submitted by    /u/chammpionn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12k6y74/how_can_i_volunteer_in_vietnam/",
+          "publishedOn": "2023-04-13T01:23:47.000Z",
+          "wordCount": 2225,
+          "title": "How can i volunteer in vietnam?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/12jycns/can_anybody_tell_me_what_is_this_statue/",
           "author": null,
@@ -6777,186 +6947,6 @@
           "wordCount": 1926,
           "title": "Where can i buy a microfibre towel in central hanoi? i lost mine in SaPa",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11rqbxl/a_construction_site_forces_motorcyclists_on_to/",
-          "author": null,
-          "description": "submitted by    /u/QuirkyProfessional93  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11rqbxl/a_construction_site_forces_motorcyclists_on_to/",
-          "publishedOn": "2023-03-15T08:30:27.000Z",
-          "wordCount": 14533,
-          "title": "A construction site forces motorcyclists on to sidewalk in Hanoi",
-          "imageUrl": "https://external-preview.redd.it/JpHkdJXKRqStbtzTSGTy2Qjwt-Z3lCf7gZQFSJ-xDGc.jpg?auto=webp&v=enabled&s=eb32b7864c56086bf320173e27d2ad7fbeba1716"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11rokgu/tasty_food_vietnamese_pancake_did_you_ever_try/",
-          "author": null,
-          "description": "submitted by    /u/VietNambaeNhung  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11rokgu/tasty_food_vietnamese_pancake_did_you_ever_try/",
-          "publishedOn": "2023-03-15T06:48:50.000Z",
-          "wordCount": 15294,
-          "title": "Tasty food 😍 Vietnamese pancake, did you ever try?",
-          "imageUrl": "https://preview.redd.it/zux8um1f5wna1.jpg?auto=webp&v=enabled&s=67552bed8c55b421da973ba6c60d0398ab25a526"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11ro7bh/travelling_though_vietnam_from_south_to_north_and/",
-          "author": null,
-          "description": "submitted by    /u/Ancient_Thanks_4365  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11ro7bh/travelling_though_vietnam_from_south_to_north_and/",
-          "publishedOn": "2023-03-15T06:28:00.000Z",
-          "wordCount": 18711,
-          "title": "Travelling though Vietnam from South to North and seeing a lot of Russian flags. I know that the two countries have some history but wondering what the general feeling of Russias invasion of Ukraine is?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11rnw7f/money_exchange_at_ho_chi_minh_airport_at_night/",
-          "author": null,
-          "description": "Hi all, i will arrive Ho Chi Minh airport at night ( 21:30) and i have zero VND in my pocket. \n I am wondering is there any money changers still open. Thanks for the help!\n    submitted by    /u/keinop  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11rnw7f/money_exchange_at_ho_chi_minh_airport_at_night/",
-          "publishedOn": "2023-03-15T06:11:02.000Z",
-          "wordCount": 14875,
-          "title": "money exchange at Ho Chi Minh airport at night",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11rn5a6/hanoi_need_mri/",
-          "author": null,
-          "description": "Good day. In the middle of a 6mo trip and as planned we are flying to Hanoi on Friday. We thought my spouse had a muscular injury from weightlifting at a hotel gym 10 days ago. Long story short- he needs a cervical MRI for progressive triceps weakness. Where can we go that would order an MRI that we could get in a timely fashion. I work in medicine and we have and we have exhausted pharmacy options. I know he needs an MRI, so I am specifically looking for a clinic/facility where he could be evaluated and get referred for a n MRI. Thank you.\n    submitted by    /u/circumstantialspeech  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11rn5a6/hanoi_need_mri/",
-          "publishedOn": "2023-03-15T05:29:01.000Z",
-          "wordCount": 15469,
-          "title": "Hanoi, need MRI.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11rmj0u/vietnamese_single_mother_was_attacked_and_robbed/",
-          "author": null,
-          "description": "submitted by    /u/Bad-news-co  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11rmj0u/vietnamese_single_mother_was_attacked_and_robbed/",
-          "publishedOn": "2023-03-15T04:54:45.000Z",
-          "wordCount": 1980,
-          "title": "Vietnamese single mother was attacked and robbed, leaving her paralyzed and unable to support her family",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11rllt4/should_i_get_some_specific_vaccination_before/",
-          "author": null,
-          "description": "I haven't been to vietnam since I was 5, and even then it was only for a couple months. It's been a very long time and I grew up in US. Im finally going back after many years but Im worried I might not be immune to some things or my vaccinations are not up to date. Is there any shots I should absolutely get before visiting?\n    submitted by    /u/cold_burgundy  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11rllt4/should_i_get_some_specific_vaccination_before/",
-          "publishedOn": "2023-03-15T04:07:16.000Z",
-          "wordCount": 1990,
-          "title": "should I get some specific vaccination before coming to vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11rl2l8/black_in_vietnam/",
-          "author": null,
-          "description": "Hello I am half black man in early 20s and have a trip planned to visit in a few months , I am truly in love the landscape and culture , i I don’t speak the language but plan to really make a effort. I’m curious if it would be hard for me to go on dates at coffee shops and things like that with women around my age are Vietnamese scared of black people ? There is a big mix of opinions on how Vietnamese women feel towards black men , I’d like a honest answer , and best suited city for me to go to ? Thanks 🙏🏼( edit) I never have expected so much different perspectives and insight , thank you to everyone for there input and to the people who continue to give me insight , I’m excited to go on my journey and I promise to treat the country and people with the up most respect ! Cảm ơn lòng biết ơn\n    submitted by    /u/tripmastertrip  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11rl2l8/black_in_vietnam/",
-          "publishedOn": "2023-03-15T03:41:59.000Z",
-          "wordCount": 18245,
-          "title": "Black in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11rjwog/factory_seconds_in_northern_vietnam/",
-          "author": null,
-          "description": "Hello! The title kinda speaks for itself. I'm in Vietnam at the moment and whilst here I was hoping to find some factory seconds from brands that I would normally find back home in Australia. Specifically, Vivobarefoot (a barefoot shoe brand), Patagonia, Arcteryx, North Face, etc. I'm in the north near Hanoi but I'm happy to travel!\n Any information or sharing of contacts would be appreciated. I'm not looking to resell, and I'm mostly needing the gear for trekking. The shoe brand for instance, they are one of the only brands that manafactures in my size (US15), so if I could stock up whilst here that would be helpful. Thanks all.\n    submitted by    /u/coppertopp_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11rjwog/factory_seconds_in_northern_vietnam/",
-          "publishedOn": "2023-03-15T02:49:37.000Z",
-          "wordCount": 14898,
-          "title": "Factory seconds in Northern Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11rj5ws/%C4%91%C3%A0_n%E1%BA%B5ng/",
-          "author": null,
-          "description": "submitted by    /u/Apprehensive-Tie6548  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11rj5ws/%C4%91%C3%A0_n%E1%BA%B5ng/",
-          "publishedOn": "2023-03-15T02:19:12.000Z",
-          "wordCount": 14392,
-          "title": "Đà Nẵng",
-          "imageUrl": "https://preview.redd.it/d87vq05ctuna1.png?auto=webp&v=enabled&s=7e946e6471b6e45f1a7eed50e70ec208384177fd"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11ricn5/sending_money_to_vietnam/",
-          "author": null,
-          "description": "So after all the searching I did through this sub and other sites, I settled with using Xoom since I already have a Paypal account + they'll deliver directly to their house using sacombank. Parents have been using someone at a local Vietnamese market for awhile and they'd be saving fees if I just did it. What I'm confused now about is how to enter the address.\n I have the address from my parents and this is what is on each line. I guess this is how my parents have always addressed it when they send something, but I'm not sure if it's properly formatted. Their family lives in a rural area. Thank you!\n Vung xxxx, Thon xxxx\n Xa xxxx, Huyen xxxx\n Thua Thien Hue, Vietnam\n Phone Number\n What Xoom has\n Address\n Address Line 2\n City\n Province/Municipality (Thua Thien Hue)\n Phone Number\n    submitted by    /u/Unemployment-Help  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11ricn5/sending_money_to_vietnam/",
-          "publishedOn": "2023-03-15T01:48:11.000Z",
-          "wordCount": 15182,
-          "title": "Sending money to Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11rgb5o/is_the_first_visit_more_important/",
-          "author": null,
-          "description": "I am visiting my girlfriend's family for the first time and I would like they to have a good impression about me. I'm going to make an effort to buy good gifts, and they are not cheap. My question is: is the first meeting more important or more special than the next ones? I mean, if I give them better gifts on the first meeting than on the second meeting, will it be strange? Or will they expect the gifts to become better and better? I'm very confused. Could someone help? Thank you!\n    submitted by    /u/DullFault674  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11rgb5o/is_the_first_visit_more_important/",
-          "publishedOn": "2023-03-15T00:36:18.000Z",
-          "wordCount": 14567,
-          "title": "Is the FIRST visit more important?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11rg62y/hierarchy_when_giving_gifts/",
-          "author": null,
-          "description": "When visiting my girlfriend's family for the first time, should I give them gifts according to their \"hierarchy\"? I mean better gifts for grandma and grandpa, then mom and dad, then sister and brother and so?\n I am afraid about giving a better (and more expensive) gift for grandpa than dad and it becomes an unpleasant situation. What are your thoughts? Thank you in advance!\n    submitted by    /u/DullFault674  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11rg62y/hierarchy_when_giving_gifts/",
-          "publishedOn": "2023-03-15T00:31:48.000Z",
-          "wordCount": 14505,
-          "title": "HIERARCHY when giving gifts?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11rbk1g/rude_people/",
-          "author": null,
-          "description": "Viet Kieu spent the pass week here in Hanoi, Sapa and Ninh Binh. Is it just me or the locals are rude and loud. Not the ones working and providing service to you, but the actually locals that goes to the same sites you’re sight seeing. I think they are local because of their dialect. In Sapa, went to Fansipan. Omg they were pushing in line sandwiching everyone, talking and screaming so loud. The men would smoke when there is a no smoking sign. For Buddhas sake you’re at a temple. \n Then at Tac coc at Bai Dinh temple, signs are everywhere to be silent or quiet as possible. But these ladies are yelling screaming from a distance. Like can’t you read or have some respect?\n Ok done ranting. Maybe it’s the norm for them. But kinda rub me the wrong way.\n    submitted by    /u/Latter_Strawberry_78  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11rbk1g/rude_people/",
-          "publishedOn": "2023-03-14T16:53:58.000Z",
-          "wordCount": 15313,
-          "title": "Rude people",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11rad9o/ma_pi_leng_pass_i_love_vietnam_%C4%91%C3%A8o_m%C3%A3_p%C3%AC_l%C3%A8ng_t%C3%B4i/",
-          "author": null,
-          "description": "submitted by    /u/sleepohlic22  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11rad9o/ma_pi_leng_pass_i_love_vietnam_%C4%91%C3%A8o_m%C3%A3_p%C3%AC_l%C3%A8ng_t%C3%B4i/",
-          "publishedOn": "2023-03-14T16:10:50.000Z",
-          "wordCount": 14435,
-          "title": "Ma pi Leng pass. I love Vietnam. 🇨🇳 Đèo Mã Pì Lèng. Tôi yêu Việt Nam.🇨🇳",
-          "imageUrl": "https://external-preview.redd.it/EaD29fX9irfOZKCy1VjpmutgKTRIaHdatzYHiG9QSX0.png?format=pjpg&auto=webp&v=enabled&s=52fc7b3af95f1b91fecd060be5a8bf86dcd48ad4"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11r7qvh/4k_drone_footage_of_st_francis_xavier_church_in/",
-          "author": null,
-          "description": "submitted by    /u/gig970  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11r7qvh/4k_drone_footage_of_st_francis_xavier_church_in/",
-          "publishedOn": "2023-03-14T14:34:03.000Z",
-          "wordCount": 14473,
-          "title": "4K Drone Footage of St. Francis Xavier Church in Ho Chi Minh City Vietnam",
-          "imageUrl": "https://external-preview.redd.it/mMs_sqPUKH6t3-NltdOvc83kfkSJi3k2WjT-TeyeLsQ.jpg?auto=webp&v=enabled&s=56240acfd4421b67f1121cc6f9e9bc4ce5524f46"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11r7az0/saw_this_in_one_of_the_jollibee_branch_in_vietnam/",
-          "author": null,
-          "description": "submitted by    /u/sk8rghorl  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11r7az0/saw_this_in_one_of_the_jollibee_branch_in_vietnam/",
-          "publishedOn": "2023-03-14T14:17:00.000Z",
-          "wordCount": 16144,
-          "title": "saw this in one of the Jollibee branch in Vietnam.",
-          "imageUrl": "https://preview.redd.it/x7hzz3nh8rna1.jpg?auto=webp&v=enabled&s=1fab791cefedd76e4c68a450edeb00b2047c993a"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11r5zkf/t%C3%B4ng_cong_k%C3%ADnh_xe_h%C6%A1i_r%E1%BB%93i_b%E1%BB%8F_ch%E1%BA%A1y/",
-          "author": null,
-          "description": "Mình là sinh viên nữ, mình chạy chiếc lead nên khá to. Tối mình chạy trên đường đi học về do đông xe quá nên mình chen vào làn đường ô tô. Lúc mình chen vào giữa 2 chiếc ô tô (1 đen, 1 trắng)thì khoảng trống giữa 2 xe nhỏ lại do chiếc xe trắng chạy áp sát vào. Mình thấy vậy nên rồ ga vượt qua và tông cong kính chiếu hậu xe trắng. Do hoảng và xe đông nên mình không biết dừng xe ở đâu để giải quyết rồi rồ ga bỏ đi. Mọi người có thể cho mình xin lời khuyên được không ạ? ( Em rất xin lỗi vì việc lái xe ẩu và cách giải quyết vấn đề không đúng mực của em nếu chủ xe có nhìn thấy post này). Xin lỗi mọi người vì hành vi thiếu văn hoá khi tham gia giao thông của mình.\n    submitted by    /u/Suspicious_Brief_408  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11r5zkf/t%C3%B4ng_cong_k%C3%ADnh_xe_h%C6%A1i_r%E1%BB%93i_b%E1%BB%8F_ch%E1%BA%A1y/",
-          "publishedOn": "2023-03-14T13:22:54.000Z",
-          "wordCount": 2076,
-          "title": "Tông cong kính xe hơi rồi bỏ chạy",
-          "imageUrl": null
         }
       ]
     },
@@ -6965,6 +6955,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/",
+          "author": "Rajdeep Singh",
+          "description": "Ghost CMS is a popular content management system that many devs and companies use to host their blogs.  It has many features and an editor that's highly optimized for writing. You can even build different themes using handlebars.js [https://handlebarsjs.com/]. But if you don't know Handlebars, learning it can be",
+          "link": "https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/",
+          "publishedOn": "2023-04-13T21:14:46.000Z",
+          "wordCount": 9282,
+          "title": "How to Build a Blog with the Ghost API and Next.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Ghost-API-and-Nextjs--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/",
+          "author": "Dillion Megida",
+          "description": "In JavaScript, there are two types of functions. You have normal functions and arrow functions. Let's explore the difference between them in this article. Arrow functions was introduced in ES6. And it introduced a simple and shorter way to create functions. Here's how to create a normal function, with arguments,",
+          "link": "https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/",
+          "publishedOn": "2023-04-13T21:04:00.000Z",
+          "wordCount": 2569,
+          "title": "The difference between Arrow functions and Normal functions in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/25-arrow-normal-functions.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-project-with-vite-and-vitest/",
+          "author": "Mihail Gaberov",
+          "description": "Welcome to yet another tutorial [https://www.mihailgaberov.com/] where you will learn how to build a ⚽ scoreboard app in React. This time we will use Vite as our next generation frontend tooling [https://vitejs.dev/] and Vitest [https://vitest.dev/] as a Vite-native unit testing framework.  You will also learn how to leverage React",
+          "link": "https://www.freecodecamp.org/news/react-project-with-vite-and-vitest/",
+          "publishedOn": "2023-04-13T20:41:33.000Z",
+          "wordCount": 4303,
+          "title": "How to Create a Live Football Scoreboard in React with Vite and Vitest",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/google-sheets-advanced-functions-by-building-a-zelda-dashboard/",
+          "author": "Eamonn Cottrell",
+          "description": "In this article we'll build a dashboard inspired by the recipes in Zelda: Breath of the Wild.  Our dashboard will have multiple data validation dropdown selections for us to choose ingredients. By using a =Query() function, we'll then display the recipes that contain any combination of the selected ingredients.",
+          "link": "https://www.freecodecamp.org/news/google-sheets-advanced-functions-by-building-a-zelda-dashboard/",
+          "publishedOn": "2023-04-13T17:31:52.000Z",
+          "wordCount": 2212,
+          "title": "Google Sheets – Learn Advanced Functions by Building a Zelda Dashboard",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Zelda-Walkthrough.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-linkedin-clone/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in learning how to create a social networking site like LinkedIn using React and Firebase? We just published a course on the freeCodeCamp.org YouTube channel that will help you learn how to build a LinkedIn clone from start to finish, using the popular front-end library React and",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-linkedin-clone/",
+          "publishedOn": "2023-04-13T17:24:40.000Z",
+          "wordCount": 944,
+          "title": "How to Create a LinkedIn Clone",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/linkedinclone.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-become-a-software-engineer-2023-roadmap/",
+          "author": "Dionysia Lemonaki",
+          "description": "Software engineers are in high demand these days. They generally command comfortable salaries, and can have a good work-life balance. But what do software engineers do? And how can you become one yourself? In this article, I will explain the tasks and responsibilities of software engineers, and I will go",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-software-engineer-2023-roadmap/",
+          "publishedOn": "2023-04-13T16:15:24.000Z",
+          "wordCount": 3531,
+          "title": "How to Become a Software Engineer – 2023 Roadmap",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-christina-morillo-1181675.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/call-vs-put-vs-post-http-request-methods-explained/",
+          "author": "Joel Olawanle",
+          "description": "The HTTP (Hypertext Transfer Protocol) is the foundation of communication between clients (such as web browsers) and servers (such as web servers) on the World Wide Web. One crucial aspect of HTTP is the request method, which indicates the type of operation the client wants to perform on a resource.",
+          "link": "https://www.freecodecamp.org/news/call-vs-put-vs-post-http-request-methods-explained/",
+          "publishedOn": "2023-04-13T14:59:18.000Z",
+          "wordCount": 1944,
+          "title": "Call vs Put vs Post – HTTP Request Methods Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--7-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/",
+          "author": "Kolade Chris",
+          "description": "Many programming languages have built-in functionalities for working with files and folders. As a rich programming language with many exciting functionalities built into it, Python is not an exception to that. Python has the OS and Pathlib modules with which you can create files and folders, edit files and folders,",
+          "link": "https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/",
+          "publishedOn": "2023-04-13T12:24:56.000Z",
+          "wordCount": 1419,
+          "title": "Python Delete File – How to Remove Files and Folders",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pyDeleteFilesAndFolders.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
           "author": "Beau Carnes",
@@ -8374,116 +8444,6 @@
           "wordCount": 1029,
           "title": "Learn React 18 with Redux Toolkit",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/react-full.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/",
-          "author": "Dhawal Shah",
-          "description": "Is Coursera Free? At Class Central [https://www.classcentral.com/], we get that question so often that I wrote a guide to answer it [https://www.classcentral.com/report/coursera-signup-for-free/]. Nowadays, most Coursera courses are free to audit. But if you want to complete graded assignments or get a course certificate, you have to pay. Coursera’s entire catalog",
-          "link": "https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/",
-          "publishedOn": "2023-03-15T10:00:00.000Z",
-          "wordCount": 17872,
-          "title": "I uncovered 1700 Coursera Courses that Are Still Completely Free",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2021/02/coursera-free-courses.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-quick-sort-algorithm-with-javascript/",
-          "author": "Joel Olawanle",
-          "description": "Quick sort is a widely used sorting algorithm that efficiently sorts an array of elements by dividing it into smaller subarrays based on a chosen pivot element. In this article, we will walk through how to write a quick sort algorithm using JavaScript and explore the key concepts behind the",
-          "link": "https://www.freecodecamp.org/news/how-to-write-quick-sort-algorithm-with-javascript/",
-          "publishedOn": "2023-03-15T09:27:48.000Z",
-          "wordCount": 1338,
-          "title": "How To Write Quick Sort Algorithm With JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--6-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pip-upgrade-and-how-to-update-pip-and-python/",
-          "author": "Kolade Chris",
-          "description": "Python is a widely used and powerful programming language that's relatively simple to learn. Python releases patch updates every few months and major updates around once in a year. Because of this, it is always a good idea to update the version of Python you have on your computer. In",
-          "link": "https://www.freecodecamp.org/news/pip-upgrade-and-how-to-update-pip-and-python/",
-          "publishedOn": "2023-03-14T21:04:29.000Z",
-          "wordCount": 1141,
-          "title": "Pip Upgrade – And How to Update Pip and Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/updatePip.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cybersecurity-vulnerabilities/",
-          "author": "David Clinton",
-          "description": "In order to understand potential threats hanging over your organization, you'll need to understand two things: what dangerous stuff is out there on the internet right now, and what impact it could have were it to actually hit you.  Once you have that information, you'll be in a position",
-          "link": "https://www.freecodecamp.org/news/cybersecurity-vulnerabilities/",
-          "publishedOn": "2023-03-14T18:47:55.000Z",
-          "wordCount": 2075,
-          "title": "Cybersecurity Vulnerabilities – How Attackers Can Get Your Data",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-38275.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/functional-programming-in-java/",
-          "author": "Sameer Shukla",
-          "description": "Functional programming (FP) is a programming paradigm. It emphasizes the use of pure functions that don't have side effects and always return the same output for a given input.  This article explores how to implement FP concepts in Java, including viewing functions as first-class citizens, chaining, and composing them",
-          "link": "https://www.freecodecamp.org/news/functional-programming-in-java/",
-          "publishedOn": "2023-03-14T17:34:55.000Z",
-          "wordCount": 2795,
-          "title": "Functional Programming in Java",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/lambda.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/",
-          "author": "Arunachalam B",
-          "description": "Flutter is one of the most popular frameworks for building mobile and desktop applications. And many companies are using it today. This is in part because of its outstanding performance, having a benchmark of 60 Frames Per Second (FPS). This helps it outperform other cross-platform technologies, and it performs better",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/",
-          "publishedOn": "2023-03-14T16:39:18.000Z",
-          "wordCount": 3523,
-          "title": "How to Build a Simple Login App with Flutter",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Flutter-Login-App---Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/joining-lists-in-python-how-to-concat-lists/",
-          "author": "Shittu Olumide",
-          "description": "The process of combining two or more strings, lists, or other data structures into a single entity is known as concatenation in programming.  Concatenation produces a new object with all the components of the original objects, arranged in the concatenation order. Concatenation in the context of strings refers to",
-          "link": "https://www.freecodecamp.org/news/joining-lists-in-python-how-to-concat-lists/",
-          "publishedOn": "2023-03-14T16:30:27.000Z",
-          "wordCount": 1641,
-          "title": "Joining Lists in Python – How to Concat Lists",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Joining-Lists-in-Python---How-to-Concat-Lists-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-and-manipulate-tables-in-a-sql-database-using-python/",
-          "author": "Oluseye Jeremiah",
-          "description": "Python is a powerful programming language that you can use to interact with SQL databases. With the help of Python, you can create, manipulate, and interact with the tables in the SQL database.  In this tutorial, we will be discussing how to create and manipulate tables in a SQL",
-          "link": "https://www.freecodecamp.org/news/create-and-manipulate-tables-in-a-sql-database-using-python/",
-          "publishedOn": "2023-03-14T16:28:25.000Z",
-          "wordCount": 1507,
-          "title": "How to Create and Manipulate Tables in a SQL Database Using Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/tables.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/",
-          "author": "Joel Olawanle",
-          "description": "In programming, situations that need you to sort data will always arise. When you sort data, you will always want accurate results because failure to get an accurate result can result in malfunctions or bugs within your code. In this article, you will learn how to sort an array in",
-          "link": "https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/",
-          "publishedOn": "2023-03-14T15:14:41.000Z",
-          "wordCount": 1724,
-          "title": "JavaScript Sort Array - How to Sort an Array Accurately",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--5-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-marker-in-matplotlib/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this article, you'll learn how to use markers in Matplotlib to indicate specific points in a plot.  The marker parameter can be used to create \"markers\" in a plot. You can specify the shape of the marker by passing a value to the parameter.  Here's what a",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-marker-in-matplotlib/",
-          "publishedOn": "2023-03-14T15:05:00.000Z",
-          "wordCount": 960,
-          "title": "Matplotlib Marker - How To Create a Marker in Matplotlib",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/isaac-smith-6EnTPvPPL6I-unsplash--2--1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-change-legend-fontsize-in-matplotlib/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can modify different properties of a plot — color, size, label, title and so on — when working with Matplotlib.  In this article, you'll learn what a legend is in Matplotlib, and how to use some of its parameters to make your plots more relatable.  You'll then",
-          "link": "https://www.freecodecamp.org/news/how-to-change-legend-fontsize-in-matplotlib/",
-          "publishedOn": "2023-03-14T15:04:13.000Z",
-          "wordCount": 1209,
-          "title": "How To Change Legend Font Size in Matplotlib",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/isaac-smith-6EnTPvPPL6I-unsplash--2-.jpg"
         }
       ]
     }
