@@ -12,6 +12,26 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642F02C50.WindAdvisory.126642F18A50CA.LOXNPWLOX.7fc5db454559009bea01d133a085c5a4",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 2 AM PDT WEDNESDAY... * WHAT...West winds 20 to 30 mph with gusts up to 45 mph. * WHERE...Western Antelope Valley Foothills and Antelope Valley. * WHEN...Until 2 AM PDT Wednesday. * IMPACTS...Gusty winds will blow around unsecured objects and make driving difficult, especially for high profile vehicles.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642F02C50.WindAdvisory.126642F18A50CA.LOXNPWLOX.7fc5db454559009bea01d133a085c5a4",
+          "publishedOn": "2023-04-19T00:04:00.000Z",
+          "wordCount": 155,
+          "title": "Wind Advisory issued April 18 at 5:04PM PDT until April 19 at 2:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642F02C50.WindAdvisory.126642F35F10CA.LOXNPWLOX.e954559251428c40073dd6b7ac0bb0cc",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 10 PM THIS EVENING TO 2 PM PDT WEDNESDAY... * WHAT...North winds 20 to 30 mph with gusts up to 45 mph expected. * WHERE...Southern Ventura County Mountains and Interstate 5 Corridor.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642F02C50.WindAdvisory.126642F35F10CA.LOXNPWLOX.e954559251428c40073dd6b7ac0bb0cc",
+          "publishedOn": "2023-04-19T00:04:00.000Z",
+          "wordCount": 171,
+          "title": "Wind Advisory issued April 18 at 5:04PM PDT until April 19 at 2:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642D4BED4.WindAdvisory.126642F18A50CA.LOXNPWLOX.7fc5db454559009bea01d133a085c5a4",
           "author": null,
           "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 2 AM PDT WEDNESDAY... * WHAT...West winds 20 to 30 mph with gusts up to 45 mph expected at times. * WHERE...Western Antelope Valley Foothills and Antelope Valley. * WHEN...Until 2 AM PDT Wednesday. * IMPACTS...Gusty winds will blow around unsecured objects and",
@@ -610,56 +630,6 @@
           "wordCount": 208,
           "title": "Flood Watch issued March 20 at 12:27PM PDT until March 22 at 11:00PM PDT by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CFD8644.WindAdvisory.12663D0A0130CA.LOXNPWLOX.e7f5da60b42b3294236d3336b2513b8f",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT UNTIL 8 PM PDT THIS EVENING... ...HIGH WIND WATCH IS CANCELLED... * WHAT...South winds 20 to 35 mph with gusts up to 50 mph. * WHERE...Western San Gabriel Mountains and Highway 14 Corridor and Eastern San Gabriel Mountains. * WHEN...Until 8 PM PDT this evening.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CFD8644.WindAdvisory.12663D0A0130CA.LOXNPWLOX.e7f5da60b42b3294236d3336b2513b8f",
-          "publishedOn": "2023-03-19T21:21:00.000Z",
-          "wordCount": 198,
-          "title": "Wind Advisory issued March 19 at 2:21PM PDT until March 19 at 8:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CFD8644.WindAdvisory.12663D0A0130CA.LOXNPWLOX.1c17f2f8ea64754d41528663afba32ca",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT UNTIL 8 PM PDT THIS EVENING... ...HIGH WIND WATCH REMAINS IN EFFECT FROM TUESDAY MORNING THROUGH TUESDAY EVENING... * WHAT...For the Wind Advisory, southwest winds 15 to 20 mph with gusts up to 45 mph. For the High Wind Watch, south winds 35 to 45 mph with gusts up to 60 mph possible.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CFD8644.WindAdvisory.12663D0A0130CA.LOXNPWLOX.1c17f2f8ea64754d41528663afba32ca",
-          "publishedOn": "2023-03-19T21:21:00.000Z",
-          "wordCount": 229,
-          "title": "Wind Advisory issued March 19 at 2:21PM PDT until March 19 at 8:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CFD8644.HighWindWatch.12663D28FAE0CA.LOXNPWLOX.0e3171bb746e64ba57b0b8fbd07b39cd",
-          "author": null,
-          "description": "...HIGH WIND WATCH REMAINS IN EFFECT FROM TUESDAY MORNING THROUGH TUESDAY EVENING... * WHAT...South winds 30 to 40 mph with gusts up to 60 mph possible. * WHERE...Portions of southwest California. * WHEN...From Tuesday morning through Tuesday evening.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CFD8644.HighWindWatch.12663D28FAE0CA.LOXNPWLOX.0e3171bb746e64ba57b0b8fbd07b39cd",
-          "publishedOn": "2023-03-19T21:21:00.000Z",
-          "wordCount": 424,
-          "title": "High Wind Watch issued March 19 at 2:21PM PDT until March 21 at 11:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CFD8644.HighWindWatch.12663D28FAE0CA.LOXNPWLOX.4d919de60f0365c3667501144b5b057f",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT UNTIL 8 PM PDT THIS EVENING... ...HIGH WIND WATCH REMAINS IN EFFECT FROM TUESDAY MORNING THROUGH TUESDAY EVENING... * WHAT...For the Wind Advisory, southwest winds 15 to 20 mph with gusts up to 45 mph. For the High Wind Watch, south winds 35 to 45 mph with gusts up to 60 mph possible.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CFD8644.HighWindWatch.12663D28FAE0CA.LOXNPWLOX.4d919de60f0365c3667501144b5b057f",
-          "publishedOn": "2023-03-19T21:21:00.000Z",
-          "wordCount": 232,
-          "title": "High Wind Watch issued March 19 at 2:21PM PDT until March 21 at 11:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CFD8644.WinterStormWatch.12663D3779D0CA.LOXWSWLOX.3288edd1e039c5c81b929aa8a4980650",
-          "author": null,
-          "description": "...WINTER STORM WATCH IN EFFECT FROM TUESDAY MORNING THROUGH WEDNESDAY AFTERNOON... * WHAT...Heavy snow possible. Total snow accumulations of up to 2 to 4 feet above 6000 feet and 2-10 inches between 4000 and 5000 feet are possible. Winds could gust as high as 70 mph on Tuesday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663CFD8644.WinterStormWatch.12663D3779D0CA.LOXWSWLOX.3288edd1e039c5c81b929aa8a4980650",
-          "publishedOn": "2023-03-19T21:21:00.000Z",
-          "wordCount": 237,
-          "title": "Winter Storm Watch issued March 19 at 2:21PM PDT until March 22 at 6:00PM PDT by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -668,6 +638,216 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12r7fwt/i_got_free_cigarettes_when_i_wanted_to_buy_just_1/",
+          "author": null,
+          "description": "The lovely ladies of HCM selling them in their cases gave it to me for free when I wanted to buy only 1( Trying to curb my habit). I literally chased after them to take my money but they insisted vehemently. This happened twice at different corners. I was so embarrassed that I bought a pack later in the week.\n    submitted by    /u/Clean_Duck_551  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12r7fwt/i_got_free_cigarettes_when_i_wanted_to_buy_just_1/",
+          "publishedOn": "2023-04-18T22:46:06.000Z",
+          "wordCount": 2231,
+          "title": "I got free cigarettes when I wanted to buy just 1 loose.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12r72jr/any_recommendations_for_documentaries_about/",
+          "author": null,
+          "description": "Thanks in advance.\n Edit: referring to the American War. In my ignorance, I didn’t realize my American bias in calling it the Vietnam Conflict.\n    submitted by    /u/ElTigreChino92  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12r72jr/any_recommendations_for_documentaries_about/",
+          "publishedOn": "2023-04-18T22:33:39.000Z",
+          "wordCount": 2197,
+          "title": "Any recommendations for documentaries about Vietnam’s history that doesn’t revolve around the Vietnam Conflict?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12r31pg/prescription_medication/",
+          "author": null,
+          "description": "Hello everyone! \n I'm travelling to Vietnam later this year and wanted to take my medication with me. The issue is that it requires a prescription which I dont have since I got it over the counter from a different country (but it is prescription only in my current country and cant be bought in Vietnam). \n The medication is not an addictive/abusive or psychedelic substance (so no opioids and not a adhd/anxienty/depression medication or whatever), and Im only planning to take what I need with me, so no massive quantities either.\n Would I end up having any troubles taking it to Vietnam? Im not so worried if it gets confiscated, just dont want to end up in prison or anything. Thank you in advance!\n    submitted by    /u/No_Balance6893  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12r31pg/prescription_medication/",
+          "publishedOn": "2023-04-18T20:23:30.000Z",
+          "wordCount": 14853,
+          "title": "Prescription medication",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12r26yv/sao_beach_in_phu_quoc/",
+          "author": null,
+          "description": "A very nice beach\n    submitted by    /u/zekat17  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12r26yv/sao_beach_in_phu_quoc/",
+          "publishedOn": "2023-04-18T19:57:32.000Z",
+          "wordCount": 2173,
+          "title": "Sao Beach in Phu Quoc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12qz5hc/negative_compliments/",
+          "author": null,
+          "description": "Hello, is it a common thing for vietnamese people to say the opposite of what they mean? \n Like for example when they see a cute baby, I heard from a family member saying why are you so ugly? Their intent is to say the baby is cute but I'm not sure if it's a cultural thing or do I just have family members that can't say how they truly feel.\n Cam on!\n    submitted by    /u/anonymousaurus5  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12qz5hc/negative_compliments/",
+          "publishedOn": "2023-04-18T18:22:47.000Z",
+          "wordCount": 2233,
+          "title": "Negative compliments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12qyycn/hcm_for_3_daya/",
+          "author": null,
+          "description": "Hi everyone I'll be traveling to ho chi minh for 3 days can you please suggest great places to eat and great cafes for coffee.\n Also I'm into collecting sports cards. Are there any store you can recommend thank you\n    submitted by    /u/Possible-East5912  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12qyycn/hcm_for_3_daya/",
+          "publishedOn": "2023-04-18T18:16:29.000Z",
+          "wordCount": 2203,
+          "title": "HCM for 3 daya",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12qv5mc/nightmare_fuel/",
+          "author": null,
+          "description": "submitted by    /u/jollingo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12qv5mc/nightmare_fuel/",
+          "publishedOn": "2023-04-18T16:36:01.000Z",
+          "wordCount": 2170,
+          "title": "Nightmare fuel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12quye0/rats_da_nang/",
+          "author": null,
+          "description": "I've been in Da Nang for about 2 hours, sitting at a couple of different beach bars, and so far I've had 10 rats running around my feet (one right over my feet). Is this the norm or have I just been very unlucky?\n    submitted by    /u/Illustrious-Mirror85  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12quye0/rats_da_nang/",
+          "publishedOn": "2023-04-18T16:31:48.000Z",
+          "wordCount": 2206,
+          "title": "Rats Da Nang?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12quvwj/where_can_i_buy_tobacco_free_heatsticks_in_vietnam/",
+          "author": null,
+          "description": "Hi guys, I need to buy tobacco free heatsticks (something like the heatsticks in the pictures). It'd be highly appreciated if someone tell me. Thank you so much!\n    submitted by    /u/sujathu98  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12quvwj/where_can_i_buy_tobacco_free_heatsticks_in_vietnam/",
+          "publishedOn": "2023-04-18T16:30:23.000Z",
+          "wordCount": 14579,
+          "title": "Where can I buy tobacco free heatsticks in Vietnam?",
+          "imageUrl": "https://preview.redd.it/0e9c28x6opua1.png?auto=webp&v=enabled&s=70191f1619f17202a62ebb18494d02cd4681cce2"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12qtry7/traveling_with_two_computers_and_a_dslr_yes_or_no/",
+          "author": null,
+          "description": "Since I have a remote job, I'm going to visit Vietnam to work and play (and visit family). I have to bring my work computer of course. But I hear the border agents may start asking you questions if you bring a lot of electronics. I was planning to bring my work computer, personal computer, Nintendo Switch and possibly my DSLR. What do you think of this? Some friends are telling me to leave the DLSR and personal computer at home and some suggest my iPad instead of my personal computer so I'm not traveling with two computers. Any advice on this? I just prefer my personal computer for ease of use, multiple tabs, search history and research. I know I can do it all on my phone and iPad too. Also, how dangerous is it to bring your DSLR when visiting tourists areas? I know many photographers do it but I don't want to lose anything on the trip or be a target for theft of course.\n ​\n Just any advice or personal opinions/experiences would be great.\n    submitted by    /u/wowelephants  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12qtry7/traveling_with_two_computers_and_a_dslr_yes_or_no/",
+          "publishedOn": "2023-04-18T16:07:57.000Z",
+          "wordCount": 2347,
+          "title": "Traveling with two computers and a DSLR - yes or no?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12qp4in/sadge/",
+          "author": null,
+          "description": "submitted by    /u/Top-Offer-4056  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12qp4in/sadge/",
+          "publishedOn": "2023-04-18T14:36:09.000Z",
+          "wordCount": 2172,
+          "title": "Sadge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12qoslq/chuy%E1%BB%87n_th%C6%B0%E1%BB%9Dng_ng%C3%A0y_%E1%BB%9F_%C4%91%C3%A2u_%C4%91%C3%B3/",
+          "author": null,
+          "description": "submitted by    /u/_kakashi000_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12qoslq/chuy%E1%BB%87n_th%C6%B0%E1%BB%9Dng_ng%C3%A0y_%E1%BB%9F_%C4%91%C3%A2u_%C4%91%C3%B3/",
+          "publishedOn": "2023-04-18T14:25:46.000Z",
+          "wordCount": 2163,
+          "title": "Chuyện thường ngày ở đâu đó",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12qoncl/rolling_tobacco/",
+          "author": null,
+          "description": "Does anyone know where I can find rolling tobacco in HCMC? I have been searching everywhere and cannot find it! Cigarettes are abundant but I prefer to roll my own tobacco!\n    submitted by    /u/Koasana  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12qoncl/rolling_tobacco/",
+          "publishedOn": "2023-04-18T14:21:06.000Z",
+          "wordCount": 2192,
+          "title": "Rolling tobacco?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12qnb5c/best_beach_in_da_nang/",
+          "author": null,
+          "description": "Hi everyone! I will be in Da Nang in a few weeks and I’m looking for the best beach and sea down there. Do you have any recommendations on where to go? Thank you all!\n    submitted by    /u/Pelleyoz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12qnb5c/best_beach_in_da_nang/",
+          "publishedOn": "2023-04-18T13:35:31.000Z",
+          "wordCount": 2199,
+          "title": "Best beach in Da Nang?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12qm8xn/what_do_you_think_about_vietnamese_students/",
+          "author": null,
+          "description": "As a Vietnamese high schooler, I really want to hear what you guys think about Vietnamese students (for a school project lmao)\n    submitted by    /u/WillianSmidt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12qm8xn/what_do_you_think_about_vietnamese_students/",
+          "publishedOn": "2023-04-18T12:58:30.000Z",
+          "wordCount": 2188,
+          "title": "What do you think about Vietnamese students?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12qjrz3/restoring_the_tiger_population_of_vietnam/",
+          "author": null,
+          "description": "The indochinese tiger formerly common around Southeast asia have gone extinct in vietnam dued to be relentlessly hunted within vietnam.We would need to import tigers from surrounding countries that have tigers that are genetically similar to the former tigers of Vietnam. Money and people would be needed to do this.Restoring nature in vietnam would be a noble pursue and a good way to spend time without wasting your time.\n    submitted by    /u/Feisty_Friendship831  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12qjrz3/restoring_the_tiger_population_of_vietnam/",
+          "publishedOn": "2023-04-18T11:14:52.000Z",
+          "wordCount": 2234,
+          "title": "Restoring the Tiger population of Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12qj8dx/worlds_weirdest_houses_to_check_out_in_2023hang/",
+          "author": null,
+          "description": "submitted by    /u/ram202312023  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12qj8dx/worlds_weirdest_houses_to_check_out_in_2023hang/",
+          "publishedOn": "2023-04-18T10:50:18.000Z",
+          "wordCount": 2183,
+          "title": "World's Weirdest Houses to Check Out in 2023:Hang Nga Guesthouse – Dalat, Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12qe87d/tuesday_wholesome_vibe/",
+          "author": null,
+          "description": "submitted by    /u/Legitimate-Mushroom8  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12qe87d/tuesday_wholesome_vibe/",
+          "publishedOn": "2023-04-18T07:03:46.000Z",
+          "wordCount": 2161,
+          "title": "Tuesday wholesome vibe 🐕",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12qd17w/i_saw_this_lady_at_%C4%91%C3%B4ng_ba_market_hu%E1%BA%BF_this/",
+          "author": null,
+          "description": "submitted by    /u/lanhuevietnam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12qd17w/i_saw_this_lady_at_%C4%91%C3%B4ng_ba_market_hu%E1%BA%BF_this/",
+          "publishedOn": "2023-04-18T06:13:36.000Z",
+          "wordCount": 2190,
+          "title": "I saw this lady at Đông Ba Market (Huế) this morning and thought that her scooter itself was a mobile grocery store.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12qc9n5/got_side_swiped_by_a_car_today/",
+          "author": null,
+          "description": "Got hit with my girlfriend on the back while we were pulling into our apartment. No oncoming traffic, I was signaling to turn left and a car hit the gas and tried passing us into where I was turning. \n Luckily no major injuries, although I had to spend the whole morning getting checked and got some decent cuts on my feet (I guess sandals aren't the way to go).\n It was a hit an run and the police already found footage of the car that hit me. But it's all so avoidable if people just slow down. Also people on bikes need to learn how to use their signals because the car today just completely ignored mine. \n Anyway, stay safe on the roads. I was as safe as I could've been and it still didn't matter. I guess that's the gamble you take every single day! 🎉\n    submitted by    /u/yesimforeign  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12qc9n5/got_side_swiped_by_a_car_today/",
+          "publishedOn": "2023-04-18T05:42:20.000Z",
+          "wordCount": 2313,
+          "title": "Got side swiped by a car today",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12q8ygu/where_can_i_can_alprazolam_xanax_in_hanoi/",
+          "author": null,
+          "description": "Hello everyone,\n I suffer from occasional panic attacks and sporadic moments of severe anxiety and I'm prescribed Alprazolam for this. \n I have been travelling for a few months and my small supply has run out so I'm looking to buy a new box. \n Has anyone got a good address where they don't sell the fake stuff? Could be another brand as long as it is legit and not some weird concoction. \n Before I left my doctor gave me a paper explaining that I need to take this medicine, but I don't have a prescription for more at this present time. Does the paper (signed by the doctor) indicating that I am allowed to take this medicine as needed suffice to get it? \n Also any idea on prices? \n Thank you all for taking the time to answer!\n    submitted by    /u/sheepandshepherds  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12q8ygu/where_can_i_can_alprazolam_xanax_in_hanoi/",
+          "publishedOn": "2023-04-18T03:36:43.000Z",
+          "wordCount": 2303,
+          "title": "Where can I can Alprazolam (Xanax) in Hanoi?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/12pzs5w/can_anyone_recognize_these_sauces_ingredients/",
           "author": null,
@@ -6787,216 +6967,6 @@
           "wordCount": 1979,
           "title": "Asking about the cement brand VICEM",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11wfub9/is_it_still_easy_to_find_a_job_in_vietnam_when/",
-          "author": null,
-          "description": "Just some background information, I have 6 years of experience teaching and I was in Vietnam in 2017 for a year.\n Is it still the case that one can find a job in the country easily? \n Uk citizen with all the relevant documents notarised etc.\n Not in any rush, I have plenty of savings.\n    submitted by    /u/trollimitzu_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11wfub9/is_it_still_easy_to_find_a_job_in_vietnam_when/",
-          "publishedOn": "2023-03-20T11:13:58.000Z",
-          "wordCount": 15072,
-          "title": "Is it still easy to find a job in Vietnam when you are actually in the country?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11wdr6f/family_pet_to_th%E1%BB%8Bt_ch%C3%B3/",
-          "author": null,
-          "description": "What's your guys take on this phenomenon?\n    submitted by    /u/kimchimoose  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11wdr6f/family_pet_to_th%E1%BB%8Bt_ch%C3%B3/",
-          "publishedOn": "2023-03-20T09:16:16.000Z",
-          "wordCount": 15700,
-          "title": "Family pet to thịt chó",
-          "imageUrl": "https://preview.redd.it/9t9t5y2bkwoa1.jpg?auto=webp&v=enabled&s=877c9bac0d41eae030300198fea2147142ab8e9b"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11wd6lr/nola_food_in_hcmc/",
-          "author": null,
-          "description": "Bit of an odd request, but I moved to Hcmc almost a year ago from New Orleans and have been really missing that little taste of home lately. Just wondering if anyone knows of anywhere decent to get Cajun or creole food out here\n    submitted by    /u/prpltndr  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11wd6lr/nola_food_in_hcmc/",
-          "publishedOn": "2023-03-20T08:42:39.000Z",
-          "wordCount": 15152,
-          "title": "NOLA food in HCMC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11wchh2/i_miss_vietnam/",
-          "author": null,
-          "description": "TLDR: My experience in Vietnam is a treasure on my heart. \n (Rant)I spent time there a few years back. An American in your beautiful country. I think of the smells, the people, the beauty, and the food. Your kindness to me and my travel mate was second to none, from the south to the north. I know it may be required of your culture to be \"nice\" when you really want to say what needs to be said, but I saw a humble care of the world in which the Vietnamese live, which includes naive tourists. Always kind to me, which I am not used to.\n As an American, I am so thankful for your hospitality. From my perspective, I would have so much animosity towards people like me. Maybe you keep it to yourselves. Or maybe, you just want to move on. A humble strength in family and kindess. \n Vietnam is one of my fondest memories. I treasure it. I spent a night on a boat in Ha Long Bay. Although I was drunk and silly, the crew invited me and my girlfriend to the kitchen. Vietnamese food and a strange, ridiculously strong sangria. One of the greatest experiences in my life. It was like 345 in the morning!\n I got to sleep in. And the crew, who I think several were celebrating birthdays, were up at like 5! Being hungover on a boat while working sounds impossible. They did it, cause they had to. Tourism is likely the (I don't know) biggest money makers for Vietnam these days I imagine.\n My last night, I got a tattoo on my inner left forearm in Saigon (Ho Chi Minh). I hear that many people tired of their tattoos when they see them everyday. For me? I wax nostalgic and think of how amazing Vietnam was. How it is. And how it treated me and my friend. \n Not only do I have a great experience. But the people of Vietnam make me want to be a better person. I try everyday. Be humble. Be kind. Make good pho. Regrettably, the latter tastes like salty water. I'll keep trying.\n I miss Vietnam. Thank you.\n    submitted by    /u/PeterCushingsTriad  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11wchh2/i_miss_vietnam/",
-          "publishedOn": "2023-03-20T08:00:56.000Z",
-          "wordCount": 2284,
-          "title": "I Miss Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11wbosp/eli5_why_is_lotso_start_to_get_popular_in_vietnam/",
-          "author": null,
-          "description": "Everywhere I go, I can see Lotso in any plushie store in display\n Are we making a Lotso redemption arc or something?\n    submitted by    /u/Cuonghap420  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11wbosp/eli5_why_is_lotso_start_to_get_popular_in_vietnam/",
-          "publishedOn": "2023-03-20T07:14:16.000Z",
-          "wordCount": 14578,
-          "title": "ELI5 Why is Lotso start to get popular in Vietnam now?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11w9uar/a_british_tourist_is_being_treated_at_a_hanoi/",
-          "author": null,
-          "description": "submitted by    /u/Sad_Year5694  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11w9uar/a_british_tourist_is_being_treated_at_a_hanoi/",
-          "publishedOn": "2023-03-20T05:37:29.000Z",
-          "wordCount": 15464,
-          "title": "A British tourist is being treated at a Hanoi hospital after falling off a cliff in Meo Vac District in the northern province of Ha Giang.",
-          "imageUrl": "https://preview.redd.it/lwp1vwipztoa1.png?auto=webp&v=enabled&s=5caa5c5e0abb76ff808e9b30eec2118ff91ad7df"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11w5dqh/vietnams_cursed_images_87/",
-          "author": null,
-          "description": "submitted by    /u/GodBlessHentai  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11w5dqh/vietnams_cursed_images_87/",
-          "publishedOn": "2023-03-20T02:10:30.000Z",
-          "wordCount": 14650,
-          "title": "Vietnam's cursed images #87",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11w3z64/is_this_typical_in_vietnamese_household_or_its/",
-          "author": null,
-          "description": "I’m a Viet-Kieu who happened to grow up with a very strict Asian mom. I know my mom uses tough love on us but I’m not sure if my mom went out of line disciplining my sister and me.\n These are some of the things she did:\n  \nShe spat and bit me after I didn’t want to wear formal clothes to my friend’s birthday party at age 8. She then clapped and laughed at me after poking holes on my pants with scissors. I cried so hard that day.\n \nShe cut my pajama pants for refusing to wear anything above the knees.\n \nTold me “it was such a huge mistake giving birth to you”.\n \nPour food on head after refusing to eat( I was three at that time).\n \nBeat my sister so hard she bled from her mouth when she was 4-5 y.o.\n \nKicked me in the back.\n \nCalled me “thang dong tinh”( similar to the f-slur) and splashed tea at me for reason number 2 (luckily the tea was cold at that time).\n \nScreamed and calling me “thang cho”( a dog) for not bringing a ruler to school.\n \n This happened to me when I was 6-12 y.o. My sister told me my mother was abusive but I don’t think she was since I’ve seen some of my Vietnamese relatives’ parents who did stuffs way worse than my mom did.\n    submitted by    /u/taytaykosho2003  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11w3z64/is_this_typical_in_vietnamese_household_or_its/",
-          "publishedOn": "2023-03-20T01:11:13.000Z",
-          "wordCount": 19407,
-          "title": "Is this typical in Vietnamese household or it’s just my mom being abusive?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11w2528/do_vietnamese_people_feel_the_need_for_an/",
-          "author": null,
-          "description": "Hello, for context I'm người Việt born in the US (việt kiều i guess haha), moved to Saigon for ages 4-12, then back to the states for the rest of middle school, high school, uni, and now work here. My parents are from mixed backgrounds, dad a boat refugee from a military family and mom a very upperclass business family in real estate. I've considered moving back after getting a job offer but ultimately decided not to purely because it wouldn't further my career, at least not in the industry I'm in. Really did consider it though since I got lots of family there too\n That being said, I do have very mixed feelings of the current government. On one hand, they freed us from all our colonizers which is something I think all of us feel very proud of and it just feels liberating, you know, knowing…",
-          "link": "https://www.reddit.com/r/VietNam/comments/11w2528/do_vietnamese_people_feel_the_need_for_an/",
-          "publishedOn": "2023-03-19T23:57:36.000Z",
-          "wordCount": 15731,
-          "title": "Do Vietnamese people feel the need for an eventual transition to a multiparty democracy?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11w06vm/how_do_you_guys_use_chatgpt_in_vietnam/",
-          "author": null,
-          "description": "I arrived to Hanoi some days ago, gonna stay here for a week.\n For my job it's important to use ChatGPT, as far as Microsoft blocked the product for Vietnam, I should use it via VPN and Telegram bots.\n However, maybe you know a more convinient way?\n    submitted by    /u/BasisWestern2971  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11w06vm/how_do_you_guys_use_chatgpt_in_vietnam/",
-          "publishedOn": "2023-03-19T22:37:31.000Z",
-          "wordCount": 14525,
-          "title": "How do you guys use ChatGPT in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11vx348/seatbelts_use_discouraged_in_backseat_we_were/",
-          "author": null,
-          "description": "submitted by    /u/MammothAd7334  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11vx348/seatbelts_use_discouraged_in_backseat_we_were/",
-          "publishedOn": "2023-03-19T20:43:36.000Z",
-          "wordCount": 14683,
-          "title": "Seatbelts use discouraged in backseat?? We were yelled at multiple times by drivers for using seatbelts in multiple parts of vietnam. Why??",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11vwzcz/can_someone_please_help_with_a_rough_translation/",
-          "author": null,
-          "description": "submitted by    /u/Vragsleva  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11vwzcz/can_someone_please_help_with_a_rough_translation/",
-          "publishedOn": "2023-03-19T20:39:58.000Z",
-          "wordCount": 14458,
-          "title": "can someone please help with a rough translation? I know this is kind of an annoying request but I can't find the lyrics to this song anywhere in English or tieng viet, and I'm dying to know what they are talking about lol",
-          "imageUrl": "https://preview.redd.it/risif0rubroa1.jpg?auto=webp&v=enabled&s=246735a29939a805cca3f5d7ef0cb35c2a84c1a6"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11vwt5w/psa_apparently_theres_a_vietnamese_miss_rachel_now/",
-          "author": null,
-          "description": "Found this from Facebook group feed https://youtu.be/F9fsf4u0lAI\n    submitted by    /u/Fluffy_Pain_308  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11vwt5w/psa_apparently_theres_a_vietnamese_miss_rachel_now/",
-          "publishedOn": "2023-03-19T20:33:48.000Z",
-          "wordCount": 14403,
-          "title": "PSA apparently there's a Vietnamese Miss Rachel now",
-          "imageUrl": "https://external-preview.redd.it/MN6BYPoEqrds8nfgf0YPrynSFlar1b6jVEd_zi7hGoo.jpg?auto=webp&v=enabled&s=49da028f3e0df742cfcec084ffc3fb10349c0fa4"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11vsax4/found_this_lego_kit_in_toy_store/",
-          "author": null,
-          "description": "submitted by    /u/Unlucky-Raccoon-4824  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11vsax4/found_this_lego_kit_in_toy_store/",
-          "publishedOn": "2023-03-19T18:00:15.000Z",
-          "wordCount": 14568,
-          "title": "Found this lego kit in toy store.",
-          "imageUrl": "https://preview.redd.it/8bw9yelv0soa1.jpg?auto=webp&v=enabled&s=67cedff471d85ebb980265164460e1ea53b8b2de"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11vri8z/russia_vietnam_slowly_but_surely_parting/",
-          "author": null,
-          "description": "submitted by    /u/JoJo-Bizarre-1997  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11vri8z/russia_vietnam_slowly_but_surely_parting/",
-          "publishedOn": "2023-03-19T17:32:54.000Z",
-          "wordCount": 14444,
-          "title": "Russia, Vietnam slowly but surely parting strategic ways",
-          "imageUrl": "https://external-preview.redd.it/hTdLYegQJm6MnNIZBRzXZvdfwEiwW8kXFth-AN2u9bw.jpg?auto=webp&v=enabled&s=f859014ae20cbf43b5d311967476e40d8f16612e"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11vq7xy/vietnam_urban_legends_of_kinh_d%E1%BB%8B_c%C3%A2u_chuy%E1%BB%87n_ma_c%C3%A0/",
-          "author": null,
-          "description": "Hi, I was searching for Vietnamese legends and came upon this article - Kinh dị câu chuyện ma cà rồng ở Tây Bắc, wanna know if this is well-known in Vietnam? Because in English search there's nothing. Thanks.\n    submitted by    /u/very-creative  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11vq7xy/vietnam_urban_legends_of_kinh_d%E1%BB%8B_c%C3%A2u_chuy%E1%BB%87n_ma_c%C3%A0/",
-          "publishedOn": "2023-03-19T16:46:27.000Z",
-          "wordCount": 14493,
-          "title": "Vietnam urban legends of \"Kinh dị câu chuyện ma cà rồng ở Tây Bắc\"?",
-          "imageUrl": "https://external-preview.redd.it/AcTrSVy52HtxQ8UBthTcFGYji49Ajtc_181rN6RJvOw.jpg?auto=webp&v=enabled&s=e2ab766f9566d16e080f4ad535e4c61c873af8e8"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11vq7n4/til_nguyen_dynasty_has_a_promonarchy_website_that/",
-          "author": null,
-          "description": "submitted by    /u/MakeMeAnICO  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11vq7n4/til_nguyen_dynasty_has_a_promonarchy_website_that/",
-          "publishedOn": "2023-03-19T16:46:10.000Z",
-          "wordCount": 15230,
-          "title": "TIL Nguyen Dynasty has a pro-monarchy website that looks like from the 90s",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11vnpgj/what_are_the_best_apps_for_touristsforeigners_to/",
-          "author": null,
-          "description": "Visiting vietnam this September, remembered to download the Grab app and thought what other apps could be useful?\n    submitted by    /u/CanadianToffee18  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11vnpgj/what_are_the_best_apps_for_touristsforeigners_to/",
-          "publishedOn": "2023-03-19T15:05:42.000Z",
-          "wordCount": 1948,
-          "title": "What are the best apps for tourists/foreigners to download when visiting Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11vncpq/hello_people_im_huyngo_an_electronic_musician/",
-          "author": null,
-          "description": "submitted by    /u/Inevitable-Bunch-530  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11vncpq/hello_people_im_huyngo_an_electronic_musician/",
-          "publishedOn": "2023-03-19T14:50:31.000Z",
-          "wordCount": 14656,
-          "title": "Hello people, i’m HUYNGO, an electronic musician here in Vietnam. I’m sharing with you guys my latest track which was inspired by the Vietnamese Traditional Music (Nhã nhạc cung đình Huế) Hope you guys like the song and drop me a sub if you love it. This is House Music!",
-          "imageUrl": "https://external-preview.redd.it/4ByloJhDLwuRZCBJYtfhQagBZvBTTiFr_ykS5ItDNxc.jpg?auto=webp&v=enabled&s=130bf69143ad87cbe863d706ffb829a48f6e2c6c"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11vmv52/ummm_guys_this_seems_to_be_a_downgrade/",
-          "author": null,
-          "description": "submitted by    /u/sjalekin  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11vmv52/ummm_guys_this_seems_to_be_a_downgrade/",
-          "publishedOn": "2023-03-19T14:28:49.000Z",
-          "wordCount": 15189,
-          "title": "Ummm... Guys.... This seems to be a downgrade.....",
-          "imageUrl": "https://preview.redd.it/k83pt6p5zqoa1.jpg?auto=webp&v=enabled&s=193234a5fb061977214b4d2e6cef29c6f107ded1"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11vkvsy/gender_disparity_in_vietnam/",
-          "author": null,
-          "description": "It probably hasnt been discussed on here much, but curious to see thoughts on the gender disparity.\n Vietnam has the 5th highest in the world , with 111.4 male births (currently) to every 100 females: https://ourworldindata.org/grapher/sex-ratio-at-birth?tab=table\n This has been a social trend in the country for 30-35 years, but it has accelerated dramatically over the past 10-20 years. https://en.wikipedia.org/wiki/Demographics_of_Vietnam#/media/File%3AVietnam_population_pyramid_01.04.2019.png\n Any thoughts on this? I can imagine some pretty concerning social issues arising from this in future (if not already)\n    submitted by    /u/morethanfair111  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11vkvsy/gender_disparity_in_vietnam/",
-          "publishedOn": "2023-03-19T13:03:56.000Z",
-          "wordCount": 15112,
-          "title": "Gender disparity in Vietnam",
-          "imageUrl": "https://external-preview.redd.it/ON8e-82A8cxCJFRftO8IJhnnRutmzyLUrMO_YKVtFng.jpg?auto=webp&v=enabled&s=d8d5287736d91695f97e4bd30670ef3de4b09475"
         }
       ]
     },
@@ -7005,6 +6975,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/deploy-nodejs-app-with-cloudformation/",
+          "author": "Arunachalam B",
+          "description": "Imagine you have built a great product and its user base is growing rapidly. You want to scale your product to be available to people around the world. To do this, you'll need good cloud infrastructure. But managing your cloud infrastructure manually can be exhausting. You might start wondering, \"how",
+          "link": "https://www.freecodecamp.org/news/deploy-nodejs-app-with-cloudformation/",
+          "publishedOn": "2023-04-18T18:03:26.000Z",
+          "wordCount": 3101,
+          "title": "How to Deploy a NodeJS App with AWS CloudFormation",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/CloudFormation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/invalid-html-syntax-examples-and-fixes/",
+          "author": "CHRISTINE T. BELZIE",
+          "description": "Remember those treehouses that we had as children and how the wood would wear, tear, and eventually collapse because we just would not stop jumping around inside it? Well that's kind of like HTML. This markup language is like the wood to your coding project. If it’s invalid, your solution",
+          "link": "https://www.freecodecamp.org/news/invalid-html-syntax-examples-and-fixes/",
+          "publishedOn": "2023-04-18T16:51:50.000Z",
+          "wordCount": 1682,
+          "title": "Common Causes of Invalid HTML Syntax – and How to Fix Them",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Blog-post-cover-for-FCC---2-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-the-dollar-sign-mean-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Operators are special symbols you can use to perform different operations on variables (operands) in programming.  Python has different operators like arithmetic operators, assignment operators, logical operators, boolean operators, comparison operators, bitwise operators, and so on.  Although you'll not come across the dollar sign ($) operator when learning",
+          "link": "https://www.freecodecamp.org/news/what-does-the-dollar-sign-mean-in-python/",
+          "publishedOn": "2023-04-18T16:39:34.000Z",
+          "wordCount": 1320,
+          "title": "What Does $ Mean in Python? Operator Meaning + String Formatting Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/what-does-the-dollar-sign-mean-in-python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-assigning-values-vs-assigning-references/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In JavaScript, variables can hold two types of data: primitive values and reference values. Understanding the difference between these two types of data is crucial for writing efficient and bug-free code.  In this short article, we will explore the difference between values and references in JavaScript. Table",
+          "link": "https://www.freecodecamp.org/news/javascript-assigning-values-vs-assigning-references/",
+          "publishedOn": "2023-04-18T16:31:17.000Z",
+          "wordCount": 2123,
+          "title": "JavaScript Primitive Values vs Reference Values – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-pedro-figueras-681447.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-module-not-found-error-solved/",
+          "author": "Shittu Olumide",
+          "description": "Errors are an inevitable part of programming, and every programmer will encounter them at some point in their career.  Errors in programming can take various forms, including syntax errors, logic errors, and runtime errors, and they can have a significant impact on the functioning of a program. Understanding the",
+          "link": "https://www.freecodecamp.org/news/python-module-not-found-error-solved/",
+          "publishedOn": "2023-04-17T23:55:53.000Z",
+          "wordCount": 1064,
+          "title": "ModuleNotFoundError: no module named 'requests' [Solved in Python Django]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Shittu-Olumide-ModuleNotFoundError-no-module-named--requests---Solved-in-Python-Django-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-devops-works/",
+          "author": "Satyam Tripathi",
+          "description": "When developers and operations teams work together, they can identify and solve problems more quickly. This helps them deliver software to users faster and with fewer errors.  This general practice is called DevOps. It involves using tools and techniques to automate tasks and make software development and deployment more",
+          "link": "https://www.freecodecamp.org/news/how-devops-works/",
+          "publishedOn": "2023-04-17T23:37:44.000Z",
+          "wordCount": 1782,
+          "title": "What is DevOps? How Development + Operations Helps Teams Work More Efficiently",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Getting-Started-With-DevOps--3--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-git-rebase/",
+          "author": "Nick Abbene",
+          "description": "The software engineering landscape is constantly changing. Staying up to date on new technologies is absolutely critical. But as developers, sometimes we forget how important it is to dig a bit deeper into the tried and true technologies that are the backbone of software development – such as version control",
+          "link": "https://www.freecodecamp.org/news/how-to-use-git-rebase/",
+          "publishedOn": "2023-04-17T22:17:32.000Z",
+          "wordCount": 1384,
+          "title": "How to Use Git Rebase – Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screenshot-2023-04-15-at-10.58.48-PM.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-protect-your-pwa/",
           "author": "Rahul",
