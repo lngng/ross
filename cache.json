@@ -12,6 +12,56 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642F368D4.WindAdvisory.126643003050CA.LOXNPWLOX.ce504f549e6c257ac395cd50ed1bd92f",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 10 PM PDT THIS EVENING... * WHAT...North winds 15 to 25 mph with gusts up to 40 mph expected. * WHERE...Santa Clarita Valley. * WHEN...Until 10 PM PDT this evening. * IMPACTS...Gusty winds will blow around unsecured objects and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642F368D4.WindAdvisory.126643003050CA.LOXNPWLOX.ce504f549e6c257ac395cd50ed1bd92f",
+          "publishedOn": "2023-04-19T21:25:00.000Z",
+          "wordCount": 146,
+          "title": "Wind Advisory issued April 19 at 2:25PM PDT until April 19 at 10:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642F368D4.WindAdvisory.12664300F3A0CA.LOXNPWLOX.e954559251428c40073dd6b7ac0bb0cc",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 3 AM PDT THURSDAY... * WHAT...North winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Southern Ventura County Mountains and Interstate 5 Corridor. * WHEN...Until 3 AM PDT Thursday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642F368D4.WindAdvisory.12664300F3A0CA.LOXNPWLOX.e954559251428c40073dd6b7ac0bb0cc",
+          "publishedOn": "2023-04-19T21:25:00.000Z",
+          "wordCount": 161,
+          "title": "Wind Advisory issued April 19 at 2:25PM PDT until April 20 at 3:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642F368D4.WindAdvisory.12664300F3A0CA.LOXNPWLOX.18be0bd3e4e791c3d87911b0f6ee9a9e",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 3 AM PDT THURSDAY... * WHAT...North winds 15 to 30 mph with gusts up to 45 mph. * WHERE...Western San Gabriel Mountains and Highway 14 Corridor. * WHEN...Until 3 AM PDT Thursday. * IMPACTS...Gusty winds will blow around unsecured objects and make driving difficult, especially for high profile vehicles.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642F368D4.WindAdvisory.12664300F3A0CA.LOXNPWLOX.18be0bd3e4e791c3d87911b0f6ee9a9e",
+          "publishedOn": "2023-04-19T21:25:00.000Z",
+          "wordCount": 158,
+          "title": "Wind Advisory issued April 19 at 2:25PM PDT until April 20 at 3:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642F368D4.WindAdvisory.12664300F3A0CA.LOXNPWLOX.20bb6f420a2aa2adc420b854cc4726f8",
+          "author": null,
+          "description": "...WIND ADVISORY IN EFFECT UNTIL 3 AM PDT THURSDAY... * WHAT...Northwest winds 20 to 30 mph with gusts up to 50 mph. * WHERE...Western Antelope Valley Foothills. * WHEN...Until 3 AM PDT Thursday. * IMPACTS...Gusty winds will blow around unsecured objects and make driving difficult, especially for high profile vehicles.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642F368D4.WindAdvisory.12664300F3A0CA.LOXNPWLOX.20bb6f420a2aa2adc420b854cc4726f8",
+          "publishedOn": "2023-04-19T21:25:00.000Z",
+          "wordCount": 145,
+          "title": "Wind Advisory issued April 19 at 2:25PM PDT until April 20 at 3:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642F368D4.WindAdvisory.12664300F3A0CA.LOXNPWLOX.3b84063486054392cd8794161ec28704",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 6 PM THIS EVENING TO 3 AM PDT THURSDAY... * WHAT...North winds 15 to 30 mph with gusts up to 45 mph expected. * WHERE...Eastern Santa Monica Mountains Recreational Area and Santa Susana Mountains.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642F368D4.WindAdvisory.12664300F3A0CA.LOXNPWLOX.3b84063486054392cd8794161ec28704",
+          "publishedOn": "2023-04-19T21:25:00.000Z",
+          "wordCount": 177,
+          "title": "Wind Advisory issued April 19 at 2:25PM PDT until April 20 at 3:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126642F02C50.WindAdvisory.126642F18A50CA.LOXNPWLOX.7fc5db454559009bea01d133a085c5a4",
           "author": null,
           "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 2 AM PDT WEDNESDAY... * WHAT...West winds 20 to 30 mph with gusts up to 45 mph. * WHERE...Western Antelope Valley Foothills and Antelope Valley. * WHEN...Until 2 AM PDT Wednesday. * IMPACTS...Gusty winds will blow around unsecured objects and make driving difficult, especially for high profile vehicles.",
@@ -560,76 +610,6 @@
           "wordCount": 392,
           "title": "Wind Advisory issued March 21 at 12:18PM PDT until March 21 at 11:00PM PDT by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D0CAB9C.HighWindWarning.12663D28FAE0CA.LOXNPWLOX.28af7e8ebcaf38e2f9df6e81fdb89555",
-          "author": null,
-          "description": "...HIGH WIND WARNING IN EFFECT FROM 7 AM TO 11 PM PDT TUESDAY... * WHAT...South winds 35 to 45 mph with gusts up to 65 mph expected. * WHERE...Western Antelope Valley Foothills, Eastern Antelope Valley Foothills and Antelope Valley. * WHEN...From 7 AM to 11 PM PDT Tuesday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D0CAB9C.HighWindWarning.12663D28FAE0CA.LOXNPWLOX.28af7e8ebcaf38e2f9df6e81fdb89555",
-          "publishedOn": "2023-03-20T20:47:00.000Z",
-          "wordCount": 197,
-          "title": "High Wind Warning issued March 20 at 1:47PM PDT until March 21 at 11:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D0CAB9C.WindAdvisory.12663D28FAE0CA.LOXNPWLOX.c4c3704b10e5157044daeb9964efb49d",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT FROM 7 AM TO 11 PM PDT TUESDAY... * WHAT...South winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Portions of southwest California. * WHEN...From 7 AM to 11 PM PDT Tuesday. * IMPACTS...Gusty winds will blow around unsecured objects and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D0CAB9C.WindAdvisory.12663D28FAE0CA.LOXNPWLOX.c4c3704b10e5157044daeb9964efb49d",
-          "publishedOn": "2023-03-20T20:47:00.000Z",
-          "wordCount": 391,
-          "title": "Wind Advisory issued March 20 at 1:47PM PDT until March 21 at 11:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D0CAB9C.WinterStormWarning.12663D383D20CA.LOXWSWLOX.5cdb272e5627eff4ab0c5480475826f6",
-          "author": null,
-          "description": "...WINTER STORM WARNING IN EFFECT FROM 7 AM TUESDAY TO 11 PM PDT WEDNESDAY... * WHAT...Heavy snow expected. Total snow accumulations of 2 to 5 feet above 6000 feet, 10-20 inches between 5000 and 6000 feet, and 2-10 inches between 3500 and 5000 feet. Southerly Winds gusting as high as 75 mph.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D0CAB9C.WinterStormWarning.12663D383D20CA.LOXWSWLOX.5cdb272e5627eff4ab0c5480475826f6",
-          "publishedOn": "2023-03-20T20:47:00.000Z",
-          "wordCount": 267,
-          "title": "Winter Storm Warning issued March 20 at 1:47PM PDT until March 22 at 11:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D0C9C60.HighSurfAdvisory.12663D392780CA.LOXCFWLOX.6032dd6cf39a915363c8b7ee3516348b",
-          "author": null,
-          "description": "...HIGH SURF ADVISORY NOW IN EFFECT FROM 2 AM WEDNESDAY TO 5 AM PDT THURSDAY... * WHAT...Large breaking waves of 4 to 8 feet with dangerous rip currents. Highest across west and southwest facing beaches. * WHERE...Malibu Coast and Los Angeles County Beaches. * WHEN...From 2 AM Wednesday to 5 AM PDT Thursday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D0C9C60.HighSurfAdvisory.12663D392780CA.LOXCFWLOX.6032dd6cf39a915363c8b7ee3516348b",
-          "publishedOn": "2023-03-20T20:08:00.000Z",
-          "wordCount": 193,
-          "title": "High Surf Advisory issued March 20 at 1:08PM PDT until March 23 at 5:00AM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D0C7CBC.FloodWatch.12663D28ACC0CA.LOXFFALOX.05466effa3f29b7b7f8b0624fb0ee287",
-          "author": null,
-          "description": "...FLOOD WATCH IN EFFECT FROM LATE TONIGHT THROUGH WEDNESDAY AFTERNOON... * WHAT...Flooding caused by excessive rainfall is possible. * WHERE...Most of Los Angeles, Ventura, Santa Barbara, and San Luis Obispo Counties. * WHEN...From late tonight through Wednesday afternoon.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D0C7CBC.FloodWatch.12663D28ACC0CA.LOXFFALOX.05466effa3f29b7b7f8b0624fb0ee287",
-          "publishedOn": "2023-03-20T19:27:00.000Z",
-          "wordCount": 164,
-          "title": "Flood Watch issued March 20 at 12:27PM PDT until March 21 at 9:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D0C7CBC.FloodWatch.12663D28FAE0CA.LOXFFALOX.fbc24d5df1c8fa1c7d6a6e937ba2dd9b",
-          "author": null,
-          "description": "...FLOOD WATCH IN EFFECT FROM LATE TONIGHT THROUGH WEDNESDAY AFTERNOON... * WHAT...Flooding caused by excessive rainfall is possible. * WHERE...Most of Los Angeles, Ventura, Santa Barbara, and San Luis Obispo Counties. * WHEN...From late tonight through Wednesday afternoon.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D0C7CBC.FloodWatch.12663D28FAE0CA.LOXFFALOX.fbc24d5df1c8fa1c7d6a6e937ba2dd9b",
-          "publishedOn": "2023-03-20T19:27:00.000Z",
-          "wordCount": 458,
-          "title": "Flood Watch issued March 20 at 12:27PM PDT until March 21 at 11:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D0C7CBC.FloodWatch.12663D383D20CA.LOXFFALOX.069cf728b5bf4ada94306d8449e37d64",
-          "author": null,
-          "description": "...FLOOD WATCH IN EFFECT FROM LATE TONIGHT THROUGH WEDNESDAY AFTERNOON... * WHAT...Flooding caused by excessive rainfall is possible. * WHERE...Most of Los Angeles, Ventura, Santa Barbara, and San Luis Obispo Counties. * WHEN...From late tonight through Wednesday afternoon.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D0C7CBC.FloodWatch.12663D383D20CA.LOXFFALOX.069cf728b5bf4ada94306d8449e37d64",
-          "publishedOn": "2023-03-20T19:27:00.000Z",
-          "wordCount": 208,
-          "title": "Flood Watch issued March 20 at 12:27PM PDT until March 22 at 11:00PM PDT by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -638,6 +618,186 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12sg53c/best_suit_tailor_in_hochi_minh/",
+          "author": null,
+          "description": "I am only going to be in Hochi Minh for 3 days. So thinking I may need to get them to post back to Australia (at my expense). Looking for a recommendation on the best tailor? \n Edit: I had been looking at Kim Bespoke, Pham Custom Tailor and Nhut Tailor. \n If you have any advice or info on these that would be great as well!\n    submitted by    /u/toothjones  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12sg53c/best_suit_tailor_in_hochi_minh/",
+          "publishedOn": "2023-04-20T00:39:56.000Z",
+          "wordCount": 2237,
+          "title": "Best suit tailor in Hochi Minh?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12sf0gt/local_here_looking_to_rent_a_motorcycle_for_long/",
+          "author": null,
+          "description": "Asking here because I suppose some foreigners in this chat would know some good rental places. I'm a local from Saigon, looking to rent a quality bike for some road trip riding. Preferably something like the Exciter or Winner because I'll be riding into the mountains in Central highlands.\n Rental duration probably 3 weeks or so. But mainly, I'm hoping to find somewhere that can offer a bit of flexibility, because you never know what happens on a road trip. A plus point would be towing/recovery insurance just in case.\n    submitted by    /u/Confused_AF_Help  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12sf0gt/local_here_looking_to_rent_a_motorcycle_for_long/",
+          "publishedOn": "2023-04-19T23:55:43.000Z",
+          "wordCount": 2267,
+          "title": "Local here, looking to rent a motorcycle for long road trip",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12sevem/suggestions_three_days_in_hanoi_is_a_day_trip_or/",
+          "author": null,
+          "description": "Hello!\n This summer my friend and I are traveling to Hanoi for three days. I have been doing a lot of research and scouring this subreddit looking for help with things to do. I know three days is not a lot of time but I am torn about whether a trip to Ha Long Bay is worth it. It looks absolutely stunning but I know it is a hike to get there from Old Quarter of Hanoi. Was wondering for people who have been to Hanoi -- is two days sufficient to see the main sights? or given our limited time the day trip to Ha Long isn't worth it? Would appreciate any insight from people who have been. Thank you and looking forward to my trip!\n    submitted by    /u/posthumus_manatee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12sevem/suggestions_three_days_in_hanoi_is_a_day_trip_or/",
+          "publishedOn": "2023-04-19T23:50:17.000Z",
+          "wordCount": 2312,
+          "title": "Suggestions: Three days in Hanoi - is a day trip or overnight cruise to Ha Long Bay worth it?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12sd0s7/need_help_translating_spices_to_vietnamese/",
+          "author": null,
+          "description": "hi! i’m making vietnamese labels for my spice jars and need help translating a few spices. i was able to translate most of it, but am having trouble with a few. i’m not even sure if these have direct translations:\n smoked paprika, ground cumin, oregano leaves, thyme leaves\n thanks in advance!\n    submitted by    /u/concerto9  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12sd0s7/need_help_translating_spices_to_vietnamese/",
+          "publishedOn": "2023-04-19T22:42:29.000Z",
+          "wordCount": 2223,
+          "title": "need help translating spices to vietnamese",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12scjxc/influencer_need_an_ass_whooping/",
+          "author": null,
+          "description": "submitted by    /u/Ramengeisha  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12scjxc/influencer_need_an_ass_whooping/",
+          "publishedOn": "2023-04-19T22:26:22.000Z",
+          "wordCount": 2219,
+          "title": "Influencer need an ass whooping",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12s4ro1/a_bengali_movie_from_india_%E0%A6%AA%E0%A6%B0%E0%A6%A4%E0%A6%A6%E0%A6%AC%E0%A6%A8%E0%A6%A6%E0%A6%AC_the_adversery/",
+          "author": null,
+          "description": "submitted by    /u/Max74215  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12s4ro1/a_bengali_movie_from_india_%E0%A6%AA%E0%A6%B0%E0%A6%A4%E0%A6%A6%E0%A6%AC%E0%A6%A8%E0%A6%A6%E0%A6%AC_the_adversery/",
+          "publishedOn": "2023-04-19T18:02:07.000Z",
+          "wordCount": 2185,
+          "title": "A Bengali movie from India - প্রতিদ্বন্দ্বী (The Adversery) [1970]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12s0qhd/bank_employees_quickly_spring_to_action_against_a/",
+          "author": null,
+          "description": "submitted by    /u/DQuiet1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12s0qhd/bank_employees_quickly_spring_to_action_against_a/",
+          "publishedOn": "2023-04-19T16:12:39.000Z",
+          "wordCount": 15249,
+          "title": "Bank employees quickly spring to action against a gunman.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12rwqxz/amazing_vietnamhcmc_listed_among_the_cities_with/",
+          "author": null,
+          "description": "Ho Chi Minh City is also among the fastest-growing cities, with an 82% increase in the number of people with a net worth of over $1 million (HNWI) over the past decade.\n    submitted by    /u/YourInsider  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12rwqxz/amazing_vietnamhcmc_listed_among_the_cities_with/",
+          "publishedOn": "2023-04-19T15:14:28.000Z",
+          "wordCount": 14748,
+          "title": "Amazing! Vietnam’HCMC listed among the cities with highest growth rate of millionaires in the world",
+          "imageUrl": "https://preview.redd.it/q6xerb7kfwua1.jpg?auto=webp&v=enabled&s=6918704b12ed9ab3923a55a1aa5beb0f191ef4bf"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12rvjip/where_can_i_buy_rice_wine_in_saigon/",
+          "author": null,
+          "description": "Hello, I am currently on holidays in Vietnam and my flight back is in two days. I wanted to take a few bottles of rice wine home as a gift. However I am unable to find it. I looked in the supermarkets near me and also in the Saigon Centre. My hotel is in Distrikt 1, near the Independance Palace.\n Any help is appreciated :)\n    submitted by    /u/BLURE4l  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12rvjip/where_can_i_buy_rice_wine_in_saigon/",
+          "publishedOn": "2023-04-19T14:43:07.000Z",
+          "wordCount": 2239,
+          "title": "Where can I buy rice wine in Saigon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12rpqde/this_lady_going_shopping_on_a_cyclo_makes_me_feel/",
+          "author": null,
+          "description": "submitted by    /u/lanhuevietnam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12rpqde/this_lady_going_shopping_on_a_cyclo_makes_me_feel/",
+          "publishedOn": "2023-04-19T11:16:21.000Z",
+          "wordCount": 2187,
+          "title": "This lady going shopping on a cyclo makes me feel so nostalgic.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12rpkr0/a_friend_of_mine_got_blocked_by_taylor_swift_on/",
+          "author": null,
+          "description": "submitted by    /u/notAssmin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12rpkr0/a_friend_of_mine_got_blocked_by_taylor_swift_on/",
+          "publishedOn": "2023-04-19T11:10:02.000Z",
+          "wordCount": 2195,
+          "title": "\"A friend of mine got blocked by Taylor Swift on Meta Messenger for using her inbox to take notes\" 😆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12rpi7z/australian_and_vietnamese_marriage/",
+          "author": null,
+          "description": "Hello I’m not really sure if this is right place to post and please let me know of there is somewhere better to post about this \n Long story short I am Australian and my dad (54M) started dating a Vietnamese woman (37F) right before Covid. How they met I believe was through an ex of his who was also Vietnamese. My dad went overseas a few times in 2019/2020 to visit her before Covid hit and the obviously couldn’t travel again. Then in late 2022 he moved the woman and her kid here into the family home despite myself and brother having never met them \n I am aware he was sending her money while she was overseas and since they have arrived in Australia money is a big source of argument. I believe he is still sending money to her family and that his wife still has a Vietnamese bank account and has asked for his password to his bank account. She has brought up multiple times to me that she had looked to live elsewhere in Australia or go back to Vietnam once the date is up that they meet their visa requirements \n This all seems very concerning to me but I’m interested to hear from the Vietnamese community if this is normal or if she is just using my dad for a visa and is going to leave?\n *Forgot to add they legally got married in Australia in February 2023. Did the fake wedding in Vietnam in 2022 which was to appease family apparently. My brother and I weren’t invited or asked to attend but then randomly two days before got asked write a speech for this woman we had never never met…\n    submitted by    /u/United_Natural_6689  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12rpi7z/australian_and_vietnamese_marriage/",
+          "publishedOn": "2023-04-19T11:07:00.000Z",
+          "wordCount": 16296,
+          "title": "Australian and Vietnamese marriage",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12rp6lj/voltage_stabilizer_regulator_%E1%BB%95_%C3%A1p/",
+          "author": null,
+          "description": "With it being so hot currently in VN. There doesn't seem to be enough electricity on the grid to run the AC properly cause everyone is running an AC. \n I want to get a electricity regulator but wife keeps saying not to. Main reason is she says electricity will be much more expensive. I ask her how much more but she isn't able to say.\n Does anyone know? So the reasoning is that let's say you use 1 million a month usually, with the regulator, it will make the electricity proper voltage so using more electricity even though your using the same.\n How much of an increase do you think that will be?\n    submitted by    /u/djle12  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12rp6lj/voltage_stabilizer_regulator_%E1%BB%95_%C3%A1p/",
+          "publishedOn": "2023-04-19T10:53:38.000Z",
+          "wordCount": 15224,
+          "title": "Voltage stabilizer / regulator. Ổ áp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12rm44p/dear_foreign_friend_who_has_been_traveling_in/",
+          "author": null,
+          "description": "And which dish makes a deep impression on you?\n    submitted by    /u/knighthuy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12rm44p/dear_foreign_friend_who_has_been_traveling_in/",
+          "publishedOn": "2023-04-19T08:33:51.000Z",
+          "wordCount": 2191,
+          "title": "Dear foreign friend who has been traveling in Vietnam, what do you think about local dishes?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12rjc33/does_it_get_better/",
+          "author": null,
+          "description": "I struggle to understand Vinalogic and it makes me upset. Terrible driving, disregard for other people, loud and shouting, obnoxiousness, eating with open mouths, i can keep going. \n At the start I looked over these things but it's starting to bother me more and more. i don't expect people to be like me and I don't expect Vietnam to behave like my home country. I'm not trying to change the Vietnamese people but trying to change the way I see things.\n This isn't a shit post or post to vent but more so a question of if it gets better or not.\n Im sure the bright eye bushy tail newbies will have something to say but I'm looking for advice from expats that have been here for 5 years or longer.\n    submitted by    /u/Expensive-Lab-1896  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12rjc33/does_it_get_better/",
+          "publishedOn": "2023-04-19T06:22:50.000Z",
+          "wordCount": 2301,
+          "title": "Does it get better?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12riu9d/and_can_i_also_have_%C4%91%C3%A1_me_kick_mom/",
+          "author": null,
+          "description": "submitted by    /u/anne_ngx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12riu9d/and_can_i_also_have_%C4%91%C3%A1_me_kick_mom/",
+          "publishedOn": "2023-04-19T05:59:46.000Z",
+          "wordCount": 2185,
+          "title": "And can I also have: Đá me (kick mom) 🥴",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12ri52r/urgent_how_sacred_is_the_midday_nap/",
+          "author": null,
+          "description": "So I need to get my clothes back from a laundry service, but the guy at the reception is taking a nap. I can see him sleeping behind the counter. Should I wake him up, or should I wait?\n I know it's a common thing to take a nap around 12, and I don't want to be rude. But I also need underwear 🥲 What's the etiquette in this situation?\n Edit: So I waited untill 01:30 before waking him up. The guy was a heavy sleeper, I had to make so much noise. He got up, apologized and gave me my laundry back - it was right under the counter, I could have just grabbed it 😭\n    submitted by    /u/Rez-Boa-Dog  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12ri52r/urgent_how_sacred_is_the_midday_nap/",
+          "publishedOn": "2023-04-19T05:27:22.000Z",
+          "wordCount": 2290,
+          "title": "Urgent! How sacred is the midday nap?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12rf8ju/trail_running_community_in_saigon/",
+          "author": null,
+          "description": "Hey everyone.\n I'm an Australian Vietnamese from Sydney. I might be relocating to Saigon shortly. Curious to whether there is a running or trail running communities in Saigon?\n Also where do you do long runs? \n Cheers\n Andrew\n    submitted by    /u/vuongers  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12rf8ju/trail_running_community_in_saigon/",
+          "publishedOn": "2023-04-19T03:28:51.000Z",
+          "wordCount": 14793,
+          "title": "Trail Running Community in Saigon?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/12r7fwt/i_got_free_cigarettes_when_i_wanted_to_buy_just_1/",
           "author": null,
@@ -6777,196 +6937,6 @@
           "wordCount": 15059,
           "title": "Anyone know a good place to buy leather shoes in HCM city",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11xexcv/marriage_age_superstition/",
-          "author": null,
-          "description": "Getting married to a Vietnamese lady. We are both 30 this year. I am curious about the whole marriage age superstition thing. We wanted to get married next year but we will be 33* (Vietnamese age plus 1 year for Tet) which is a no go according to her mum. I think we then said let’s do it this year but that was also bad and realistically my family couldn’t make it to Vietnam this year. However, we didn’t want to wait until 2025. So after some consultation with a pháp sư her mum said this year was ok and we will have ancestor welcoming (me?) into the family this year on the day of our legal marriage abroad and the wedding ceremony in Vietnam next year, but since it’s unlucky we are just having a “party” not a wedding ceremony. I just found the whole thing kinda confusing. Is this normal across Vietnam?\n    submitted by    /u/Impossible-Revenue66  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11xexcv/marriage_age_superstition/",
-          "publishedOn": "2023-03-21T12:09:08.000Z",
-          "wordCount": 15605,
-          "title": "Marriage Age Superstition",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11xdzpc/i_just_booked_a_flight_on_the_official_website/",
-          "author": null,
-          "description": "submitted by    /u/billiebust  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11xdzpc/i_just_booked_a_flight_on_the_official_website/",
-          "publishedOn": "2023-03-21T11:25:06.000Z",
-          "wordCount": 15302,
-          "title": "I just booked a flight, on the official website vietjetair.com, I click payed and submit but it displayed error message twice, but they charged my credit card the full amount yet no email sent to me? Anyone else have this problem? No number to call/ working. Help!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11xctxz/does_anybody_know_where_i_can_buy_a_white_singlet/",
-          "author": null,
-          "description": "submitted by    /u/nilsinhoni  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11xctxz/does_anybody_know_where_i_can_buy_a_white_singlet/",
-          "publishedOn": "2023-03-21T10:21:08.000Z",
-          "wordCount": 14888,
-          "title": "Does anybody know where I can buy a white singlet for men in Saigon?",
-          "imageUrl": "https://preview.redd.it/2s3aibis04pa1.jpg?auto=webp&v=enabled&s=9e89b6fd730bba79ea721a2a6ca0c35906d729c9"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11xbc4s/is_it_worth_going_on_a_overnight_cruise_on_halong/",
-          "author": null,
-          "description": "submitted by    /u/Prateeky007  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11xbc4s/is_it_worth_going_on_a_overnight_cruise_on_halong/",
-          "publishedOn": "2023-03-21T08:50:21.000Z",
-          "wordCount": 1928,
-          "title": "Is it worth going on a overnight cruise on Halong bay or a day cruise would be fine??",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11x9bk2/for_the_people_that_live_here_how_often_do_you/",
-          "author": null,
-          "description": "submitted by    /u/globetrottinggus  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11x9bk2/for_the_people_that_live_here_how_often_do_you/",
-          "publishedOn": "2023-03-21T06:57:51.000Z",
-          "wordCount": 1927,
-          "title": "For the people that live here, how often do you see a motorbike accident or motorbike/pedestrian accident?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11x7txp/special_home_made_vietnamese_c%C6%A1m_t%E1%BA%A5m/",
-          "author": null,
-          "description": "submitted by    /u/leprotelariat  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11x7txp/special_home_made_vietnamese_c%C6%A1m_t%E1%BA%A5m/",
-          "publishedOn": "2023-03-21T05:27:33.000Z",
-          "wordCount": 14816,
-          "title": "Special Home made Vietnamese cơm tấm",
-          "imageUrl": "https://preview.redd.it/3to32fpek2pa1.jpg?auto=webp&v=enabled&s=0ba704e1086ab857efc4f2c36321daabb6ee4de6"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11x7mx5/impressing_vietnamese_parents/",
-          "author": null,
-          "description": "I (18f) am trying to find ways to develop a relationship with my boyfriend’s (20m) parents. We’ve only been dating a couple months, but I’ve already met his parents, and while they are very kind to me, I haven’t had a full real conversation with them. It’s always in passing that we exchange words. I’m white and don’t know much about Vietnamese culture or customs, so I’m not sure exactly how to approach them for fear of accidentally coming off as rude or ignorant. I love my boyfriend a lot, and I go to his house and see them pretty often. He doesn’t have a very close relationship with his family, and even they don’t talk much outside of them asking if he’s eaten or where he is, so I’m not sure if he’d be able to help me here. It means a lot to me, having them like me, as I see us having a long future together. Does anyone have any tips or things I should know/necessary knowledge like what is or is not respectful? Or gift ideas to thank them for letting me stay at their house? Anything would be great. Thank you!\n    submitted by    /u/music-luvr  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11x7mx5/impressing_vietnamese_parents/",
-          "publishedOn": "2023-03-21T05:16:39.000Z",
-          "wordCount": 19527,
-          "title": "Impressing Vietnamese Parents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11x1aw8/making_friends_in_hcmc/",
-          "author": null,
-          "description": "hello good people of Vietnam. I fell in love with Saigon when I visited earlier this month, so much so that I am returning for a month early April.\n Aside from bars, coffee shops and language clubs, which I will definitely be making use of this time around, was wondering if anybody had any pointers for a 20-something to make friends in the area\n thank you 🙂\n    submitted by    /u/fuzziesox  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11x1aw8/making_friends_in_hcmc/",
-          "publishedOn": "2023-03-21T00:25:52.000Z",
-          "wordCount": 14648,
-          "title": "Making friends in HCMC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11x1ai4/are_there_any_anticafes_in_hanoi/",
-          "author": null,
-          "description": "submitted by    /u/BasisWestern2971  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11x1ai4/are_there_any_anticafes_in_hanoi/",
-          "publishedOn": "2023-03-21T00:25:26.000Z",
-          "wordCount": 14471,
-          "title": "Are there any anti-cafes in Hanoi?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11wzjy2/will_you_still_fly_vietnam_airlines_with_their/",
-          "author": null,
-          "description": "submitted by    /u/capmar  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11wzjy2/will_you_still_fly_vietnam_airlines_with_their/",
-          "publishedOn": "2023-03-20T23:16:14.000Z",
-          "wordCount": 14751,
-          "title": "Will you still fly Vietnam Airlines with their flight attendants smuggling drugs?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11wzju2/looking_for_some_friends_or_advice/",
-          "author": null,
-          "description": "I'm going to Hanoi for 5 days and HCMC for 5 days and I'd really appreciate knowing someone there who'd be willing to give me some opinions on places to go and things to do. \n I'd like to meet a fellow redditor over some drinks and food and hopefully make a new friend during my trip if you're comfortable with that as well. \n If not, I'd still appreciate the advice 🙂\n EDIT: As an introvert, it's a lot harder for me to make new friends and approach random people and start a conversation which is why I made the post.\n    submitted by    /u/mrgrey12321  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11wzju2/looking_for_some_friends_or_advice/",
-          "publishedOn": "2023-03-20T23:16:06.000Z",
-          "wordCount": 2025,
-          "title": "Looking for some friends or advice.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11wypl4/epic_reactions_of_a_traveler_who_is_visiting_da/",
-          "author": null,
-          "description": "submitted by    /u/vandanadiwan  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11wypl4/epic_reactions_of_a_traveler_who_is_visiting_da/",
-          "publishedOn": "2023-03-20T22:44:14.000Z",
-          "wordCount": 14524,
-          "title": "Epic reactions of a traveler who is visiting Da Nang, Vietnam for the first time",
-          "imageUrl": "https://external-preview.redd.it/4Q4qjN-HEz9eWJ2eCefAOcRRwe8WSF6Gu0AsSQr6Llw.jpg?auto=webp&v=enabled&s=5d14ac43247ec75e83c501c9bfc29b70226509a6"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11wyb3i/wedding_gift_when_not_invited_to_wedding/",
-          "author": null,
-          "description": "A friend of mine is Vietnamese and is getting married in Vietnam. I wasn't invited. What's culturally appropriate in Vietnam as far as sending wedding gifts (I understand that cash is often best) when you're not invited to the wedding?\n    submitted by    /u/deinonyme  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11wyb3i/wedding_gift_when_not_invited_to_wedding/",
-          "publishedOn": "2023-03-20T22:28:47.000Z",
-          "wordCount": 1966,
-          "title": "wedding gift when not invited to wedding?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11wsgd1/cham_bani_people_muslims_or_not/",
-          "author": null,
-          "description": "The Chams, if I remember right, with the fall of Champa, were separated into three groups practising different religions. The Central Chams have largely retained their Hindu belief, although this is practised under a form called \"Ba La Mon\". The Southern Chams in the Mekong Delta have largely adhered to Sunni Islam and they are the only ethnic group in Vietnam to be Muslims.\n The third Cham group, however, practise a complex religion called \"Bani\". It was thought to be traced from Persian traders (Persia/Iran was converted to Shia Islam by Shah Ismail I), who spread their Shia Islam to the community during the Vietnamese shogunates (Trinh-Nguyen). However, Bani is unique that it is so synchronised with other religions, such as Hinduism, Buddhism and even Han and Kinh (Vietnamese) people's folk traditions that it lost most of the original Islamic belief.\n The Bani community is small today but their religious practise has ignited discussions. Some groups believed that they are actually Muslims but with a different characteristic. But some other (including many Banis) disagree with the classification of Bani as a separate Shia Islam sect and instead insist that they are Banis and not Muslims. There is a 2006 documentary called \"A Strange Islam\" by Agnes De Feo about this community, which put their existence to spotlight.\n Question here is, are Bani people Shia Muslims or just Banis? And what kind of religion Bani is?\n    submitted by    /u/JoJo-Bizarre-1997  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11wsgd1/cham_bani_people_muslims_or_not/",
-          "publishedOn": "2023-03-20T19:10:20.000Z",
-          "wordCount": 2161,
-          "title": "Cham Bani people - Muslims or not?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11wqvqv/1mont_rentals_that_are_not_airbnb/",
-          "author": null,
-          "description": "Hey!\n Warning: tourist question. I'm heading to Vietnam and gonna stay for a month at a time. I'm looking for somewhere I can find reasonably priced 1-month rentals in a big city. I've used Airbnb before but it's overpriced usually. \n Anyone got any ideas, websites or groups I can check out? I have some vietnamese friends that can help me with interpreting if there are some good local alternatives. \n Thanks!\n    submitted by    /u/kaapplin  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11wqvqv/1mont_rentals_that_are_not_airbnb/",
-          "publishedOn": "2023-03-20T18:26:00.000Z",
-          "wordCount": 14765,
-          "title": "1-mont rentals that are not airbnb?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11wp3ts/is_there_any_overnight_cruise_in_halong_bay_at/",
-          "author": null,
-          "description": "submitted by    /u/Prateeky007  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11wp3ts/is_there_any_overnight_cruise_in_halong_bay_at/",
-          "publishedOn": "2023-03-20T17:25:22.000Z",
-          "wordCount": 14632,
-          "title": "Is there any overnight cruise in Halong Bay at 200 USD?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11wm4yb/vietnam_considers_extending_evisas_to_three/",
-          "author": null,
-          "description": "submitted by    /u/arvigeus  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11wm4yb/vietnam_considers_extending_evisas_to_three/",
-          "publishedOn": "2023-03-20T15:40:27.000Z",
-          "wordCount": 14778,
-          "title": "Vietnam considers extending e-visas to three months - VnExpress International",
-          "imageUrl": "https://external-preview.redd.it/I_W7kPUxlLSpYkeJ46LKwnzt5SzogS2amjIj4WuoeFo.jpg?auto=webp&v=enabled&s=3bf494d075d8adfc02f73603f7400cf88e547586"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11wlgq7/opinions_on_vinahouse_music/",
-          "author": null,
-          "description": "Expat living here for a few years , i must admit í cant stand it, is there a divided opinion about it ? Curious no judging !\n    submitted by    /u/Delicious-Collar8201  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11wlgq7/opinions_on_vinahouse_music/",
-          "publishedOn": "2023-03-20T15:16:34.000Z",
-          "wordCount": 15437,
-          "title": "Opinions on Vinahouse music ?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/11wk6l4/asking_about_the_cement_brand_vicem/",
-          "author": null,
-          "description": "Hi, I'm a redditor from outside Vietnam. I'm looking for a cement supplier and 2 suppliers offered me VICEM, saying it is Vietnam's top brand. This brand is very new here. I want to know if what they are saying is true and how's the performance of vicem, would you really recommend it? Thanks\n    submitted by    /u/wooden_slug  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/11wk6l4/asking_about_the_cement_brand_vicem/",
-          "publishedOn": "2023-03-20T14:20:40.000Z",
-          "wordCount": 1979,
-          "title": "Asking about the cement brand VICEM",
-          "imageUrl": null
         }
       ]
     },
@@ -6975,6 +6945,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-network-traffic-is-routed/",
+          "author": "David Clinton",
+          "description": "Moving around the internet – or even over a private local network – requires all kinds of magic wand waving and sorcery.  Or, in sightly more accurate terms, it requires the combination of sophisticated engineering and the existence of key standards, including network ports, the domain Name System (DNS)",
+          "link": "https://www.freecodecamp.org/news/how-network-traffic-is-routed/",
+          "publishedOn": "2023-04-19T22:23:29.000Z",
+          "wordCount": 1392,
+          "title": "How Network Traffic is Routed",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-barry-tan-7994953.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/collaborative-problem-solving-with-python/",
+          "author": "Alberto Gonzalez Rosales",
+          "description": "No matter how experienced of a developer you are, being interviewed for a new job is always stressful. This is certainly true from my own experience.  In my case, I have been working professionally as a Software Developer for two and a half years, and I've had to face",
+          "link": "https://www.freecodecamp.org/news/collaborative-problem-solving-with-python/",
+          "publishedOn": "2023-04-19T21:14:37.000Z",
+          "wordCount": 3773,
+          "title": "Developer Interview Prep – How to Use a Collaborative Approach to Problem-Solving",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/michal-czyz-ALM7RNZuDH8-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-box-shadow-generator-in-react/",
+          "author": "David Uzondu",
+          "description": "CSS is a powerful language for styling web pages. But when you're designing a website, things like box shadows can be particularly difficult to get right.  In this guide, you will learn how to create your own box shadow generator with React and Vite. Here is a preview [https://shadowgen.vercel.app/]",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-box-shadow-generator-in-react/",
+          "publishedOn": "2023-04-19T20:21:04.000Z",
+          "wordCount": 3163,
+          "title": "How to Build a Box Shadow Generator With React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Cover-Image-6.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-manage-state-in-react-apps-with-firebase-cloud-firestore/",
+          "author": "Olasunkanmi Balogun",
+          "description": "State management is essential in today's world of web development. If you do it well, it helps you create apps that are reliable and effective. Firebase [https://firebase.google.com/] is a Backend-as-a-Service platform that has gained popularity along with the emergence of serverless architecture and cloud technologies. And Cloud Firestore [https://firebase.google.com/docs/firestore] is",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-state-in-react-apps-with-firebase-cloud-firestore/",
+          "publishedOn": "2023-04-19T17:04:27.000Z",
+          "wordCount": 4659,
+          "title": "TypeScript in React – How to Manage State with Firebase Cloud Firestore",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-quintin-gellar-313782.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/",
+          "author": "Beau Carnes",
+          "description": "The world of artificial intelligence is ever-evolving, and the OpenAI API is at the forefront of it. As the technology becomes more sophisticated, it's imperative for developers and enthusiasts to understand and utilize its potential in various applications. We just published an OpenAI API course on the freeCodeCamp.org YouTube channel.",
+          "link": "https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/",
+          "publishedOn": "2023-04-19T15:15:05.000Z",
+          "wordCount": 973,
+          "title": "ChatGPT Course – Use the OpenAI API to Create Five Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/openai.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-godot-for-game-development/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in game development but don't know where to start? The Godot game engine is a popular open-source platform for game development, and our new video course on the freeCodeCamp.org YouTube channel will teach you everything you need to know to create your own platformer game. The course",
+          "link": "https://www.freecodecamp.org/news/learn-godot-for-game-development/",
+          "publishedOn": "2023-04-19T15:06:05.000Z",
+          "wordCount": 843,
+          "title": "Learn Godot for Game Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/godot.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/print-methods-in-java/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you're learning Java, you probably started your coding journey by printing the \"Hello World\" program in the console. And that's a great way to begin – but after that, you need to learn how print methods and functions actually work. Well, this article will show you how those print",
+          "link": "https://www.freecodecamp.org/news/print-methods-in-java/",
+          "publishedOn": "2023-04-19T14:28:53.000Z",
+          "wordCount": 1233,
+          "title": "Print Methods in Java – How to Print to the Terminal",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/tracy-adams-TEemXOpR3cQ-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-mean-in-regex/",
+          "author": "Kolade Chris",
+          "description": "The $ symbol is one of the most commonly used symbols in RegEx. It is used to match the end of a string. In this article, I’ll show you exactly what the dollar sign ($) does in RegEx and how to use it. What We'll Cover  * What is",
+          "link": "https://www.freecodecamp.org/news/what-does-mean-in-regex/",
+          "publishedOn": "2023-04-19T11:20:42.000Z",
+          "wordCount": 1350,
+          "title": "What Does '$' Mean in RegEx?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/start-graph--10-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-check-if-a-list-is-empty-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "A list [/news/how-to-make-a-list-in-python-declare-lists-in-python-example/] is one of the data structures in Python that you can use to store a collection of variables.  In some cases, you have to iterate through and perform an operation on the elements of a list. But you can't loop/iterate through a list if it has",
+          "link": "https://www.freecodecamp.org/news/how-to-check-if-a-list-is-empty-in-python/",
+          "publishedOn": "2023-04-19T04:52:49.000Z",
+          "wordCount": 1097,
+          "title": "Python isEmpty() equivalent – How to Check if a List is Empty in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/kelly-sikkema--1_RZL8BGBM-unsplash--1-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/deploy-nodejs-app-with-cloudformation/",
           "author": "Arunachalam B",
@@ -8354,116 +8414,6 @@
           "wordCount": 1068,
           "title": "Use OpenAI Gymnasium for Reinforcement Learning",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/gym.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/",
-          "author": "Dmitry Dragilev",
-          "description": "Online frauds and scams have shot past projections in the last decade, and no one seems to be immune to them—including developers.  The shift to serverless cloud management has opened doors for hackers to try new attack surfaces and the impact is right in front of us. 90% of",
-          "link": "https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/",
-          "publishedOn": "2023-03-20T22:32:41.000Z",
-          "wordCount": 2873,
-          "title": "How Developers Can Prevent Fraud and Stop Scammers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/48332996261_4f1a1657fc_b.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/nextjs-seo/",
-          "author": "Scott Gary",
-          "description": "Next.js is a popular React-based web framework that has gained popularity and a growing community in recent years. It's a powerful tool for building fast and SEO-friendly web applications with dynamic pages that work great on mobile devices.  Due to the complex nature of isomorphic system design, Next.js SEO",
-          "link": "https://www.freecodecamp.org/news/nextjs-seo/",
-          "publishedOn": "2023-03-20T21:17:55.000Z",
-          "wordCount": 3508,
-          "title": "Next.js SEO for Developers – How to Build Highly Performant Apps with Next",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-andrei-photo-2127783.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-operators-and-operator-precedence/",
-          "author": "Franklin Okolie",
-          "description": "A few months ago, I attempted to solve a math problem in my head before writing it in JavaScript. It was then that I received the most stunning revelation of my career, which was both shocking and eye-opening.  So what did I attempt to do? I made the following",
-          "link": "https://www.freecodecamp.org/news/javascript-operators-and-operator-precedence/",
-          "publishedOn": "2023-03-20T21:15:49.000Z",
-          "wordCount": 3505,
-          "title": "JavaScript Operators and Operator Precedence – Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/JavaScript_Operator_precedence.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/",
-          "author": "Houssein Badra",
-          "description": "JavaScript is a popular programming language that 78% of developers use. You can build almost anything with JavaScript. The problem is that many developers learn JavaScript in a very short period of time, without understanding some of the most essential features of the language. In this article, we will cover",
-          "link": "https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/",
-          "publishedOn": "2023-03-20T20:12:35.000Z",
-          "wordCount": 3139,
-          "title": "JavaScript Basics – How to Work with Strings, Arrays, and Objects in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/js.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-platformer-game-with-python/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to build a classic platformer game in Python from start to finish? If so, you're in the right place! We just published a video course on the freeCodeCamp.org YouTube channel that will teach you how to create a platformer game in Python using the Pygame library. We'll",
-          "link": "https://www.freecodecamp.org/news/create-a-platformer-game-with-python/",
-          "publishedOn": "2023-03-20T19:47:16.000Z",
-          "wordCount": 850,
-          "title": "Create a platformer game with Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/python-game.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/",
-          "author": "Zaira Hira",
-          "description": "In Linux, process automation relies heavily on shell scripting. This involves creating a file containing a series of commands that can be executed together. In this article, we'll start with the basics of bash scripting which includes variables, commands, inputs/ outputs, and debugging. We'll also see examples of each along",
-          "link": "https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/",
-          "publishedOn": "2023-03-20T17:35:58.000Z",
-          "wordCount": 4156,
-          "title": "Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Copy-of-Cast-a-Function-in-SQL---Convert-Char-to-Int-SQL-Server-Example.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/list-flatten-in-python-flattening-nested-lists/",
-          "author": "Kolade Chris",
-          "description": "Lists are one of the core data structures of Python. Due to their flexibility, there are a lot of things you can do with lists. And one of those things is turning a list of lists into a single list. It is also possible to turn a list of dictionaries,",
-          "link": "https://www.freecodecamp.org/news/list-flatten-in-python-flattening-nested-lists/",
-          "publishedOn": "2023-03-20T17:02:03.000Z",
-          "wordCount": 1681,
-          "title": "List Flatten in Python – Flattening Nested Lists",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/flattenList.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-react-forms-with-formik-library/",
-          "author": "Popoola Temitope",
-          "description": "Form building in React [https://reactjs.org/] can be complex and time-consuming, requiring state management, validation, and error handling.  To simplify this process, the Formik [https://formik.org/] library provides an intuitive solution for building forms in React. Formik has a straightforward API and built-in validation, making collecting and manipulating input data in",
-          "link": "https://www.freecodecamp.org/news/build-react-forms-with-formik-library/",
-          "publishedOn": "2023-03-20T16:56:05.000Z",
-          "wordCount": 1598,
-          "title": "How to Build React Forms with Formik",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Group-1--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/",
-          "author": "Michael Yuan",
-          "description": "Since OpenAI released an official API for ChatGPT [https://openai.com/blog/introducing-chatgpt-and-whisper-apis] in March 2023, many developers and entrepreneurs are interested in integrating it into their own business operations.  But some significant barriers remain that make it difficult for them to do this:  * OpenAI provides a simple stateless API",
-          "link": "https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/",
-          "publishedOn": "2023-03-20T16:52:42.000Z",
-          "wordCount": 1923,
-          "title": "How to Create a Serverless ChatGPT App in 10 Minutes",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/c0fd422e-f234-49e2-85a6-24f91b0b9991-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/django-model-relationships/",
-          "author": "Damilola Oladele",
-          "description": "Django [https://www.djangoproject.com/] is a free and open-source web framework written in Python. It helps with rapid web development and provides out-of-the-box web security. Websites must be able to store and retrieve data from databases. Django makes provisions for this. By default, Django operates a Relational Database Management System.  >",
-          "link": "https://www.freecodecamp.org/news/django-model-relationships/",
-          "publishedOn": "2023-03-20T16:05:18.000Z",
-          "wordCount": 1582,
-          "title": "How to Define Relationships Between Django Models",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Blog-Banner-560x315-px-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learning-to-code-tips/",
-          "author": "Justice Ekemezie",
-          "description": "Starting out on a new career path or picking up a new skill is an exciting and ambitious endeavour. But maintaining consistency can be a challenge. It's easy to get lost in the excitement of setting goals and creating strategies, but staying on track when no one is watching can",
-          "link": "https://www.freecodecamp.org/news/learning-to-code-tips/",
-          "publishedOn": "2023-03-20T14:34:43.000Z",
-          "wordCount": 2221,
-          "title": "Tips for Learning to Code – How to Stay Consistent and Enjoy Yourself",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/7-Ways-to--1-.png"
         }
       ]
     }
