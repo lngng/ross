@@ -12,6 +12,26 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126643302800.WindAdvisory.1266433DFCA0CA.LOXNPWLOX.b682a925e6157644797b28b5ee844aba",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 3 AM PDT MONDAY... * WHAT...West to northwest winds 20 to 30 mph with gusts up to 45 mph expected. * WHERE...Western Antelope Valley Foothills and Antelope Valley. * WHEN...Until 3 AM PDT Monday. * IMPACTS...Gusty winds will blow around unsecured objects and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126643302800.WindAdvisory.1266433DFCA0CA.LOXNPWLOX.b682a925e6157644797b28b5ee844aba",
+          "publishedOn": "2023-04-23T19:36:00.000Z",
+          "wordCount": 158,
+          "title": "Wind Advisory issued April 23 at 12:36PM PDT until April 24 at 3:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126643302800.WindAdvisory.1266433E4AC0CA.LOXNPWLOX.17370e36976908660f549de2c990d9ca",
+          "author": null,
+          "description": "...WIND ADVISORY IN EFFECT FROM 5 PM THIS AFTERNOON TO 5 AM PDT MONDAY... * WHAT...Northwest winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Interstate 5 Corridor. * WHEN...From 5 PM this afternoon to 5 AM PDT Monday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126643302800.WindAdvisory.1266433E4AC0CA.LOXNPWLOX.17370e36976908660f549de2c990d9ca",
+          "publishedOn": "2023-04-23T19:36:00.000Z",
+          "wordCount": 156,
+          "title": "Wind Advisory issued April 23 at 12:36PM PDT until April 24 at 5:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12664301E0BC.WindAdvisory.1266431035E0CA.LOXNPWLOX.920481b7124eeca830c830317a17e332",
           "author": null,
           "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 3 AM PDT FRIDAY... * WHAT...North winds 20 to 30 mph with gusts up to 45 mph. * WHERE...Interstate 5 Corridor. * WHEN...Until 3 AM PDT Friday. * IMPACTS...Gusty winds will blow around unsecured objects and make driving difficult, especially for high profile vehicles.",
@@ -460,46 +480,6 @@
           "wordCount": 140,
           "title": "Wind Advisory issued March 25 at 2:35PM PDT until March 26 at 9:00AM PDT by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D4940FC.WindAdvisory.12663D569A90CA.LOXNPWLOX.1e89a175cc0f24cb3ab32dc65385d50b",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 10 PM PDT THIS EVENING... * WHAT...West winds 25 to 35 mph with gusts up to 45 mph expected. * WHERE...Antelope Valley. * WHEN...Until 10 PM PDT this evening. * IMPACTS...Gusty winds will blow around unsecured objects and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D4940FC.WindAdvisory.12663D569A90CA.LOXNPWLOX.1e89a175cc0f24cb3ab32dc65385d50b",
-          "publishedOn": "2023-03-24T17:51:00.000Z",
-          "wordCount": 143,
-          "title": "Wind Advisory issued March 24 at 10:51AM PDT until March 24 at 10:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D4940FC.WindAdvisory.12663D584840CA.LOXNPWLOX.fa5f52d2520d667826020fc65c7fd473",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT FROM 7 PM THIS EVENING TO 9 AM PDT SATURDAY... * WHAT...North winds 20 to 30 mph with gusts up to 45 mph expected. Strongest in the mountains. * WHERE...Santa Clarita Valley, Eastern Santa Monica Mountains Recreational Area, Western San Fernando Valley and Santa",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D4940FC.WindAdvisory.12663D584840CA.LOXNPWLOX.fa5f52d2520d667826020fc65c7fd473",
-          "publishedOn": "2023-03-24T17:51:00.000Z",
-          "wordCount": 205,
-          "title": "Wind Advisory issued March 24 at 10:51AM PDT until March 25 at 9:00AM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D4940FC.WindAdvisory.12663D671550CA.LOXNPWLOX.94a2cdf49f5f1b5ace6ef6d762613d10",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 6 AM PDT SUNDAY... * WHAT...North winds 25 to 35 mph with gusts up to 55 mph. * WHERE...Santa Barbara County Interior Mountains, Southern Ventura County Mountains, Western San Gabriel Mountains and Highway 14 Corridor and Western Antelope Valley Foothills. * WHEN...Until 6 AM PDT Sunday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D4940FC.WindAdvisory.12663D671550CA.LOXNPWLOX.94a2cdf49f5f1b5ace6ef6d762613d10",
-          "publishedOn": "2023-03-24T17:51:00.000Z",
-          "wordCount": 208,
-          "title": "Wind Advisory issued March 24 at 10:51AM PDT until March 26 at 6:00AM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D4940FC.WindAdvisory.12663D671550CA.LOXNPWLOX.e4206b59059074ab3529e15bd4972c20",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT UNTIL 6 AM PDT SUNDAY... * WHAT...North winds 25 to 35 mph with gusts up to 55 mph. Strongest through the Interstate 5 corridor. * WHERE...Northern Ventura County Mountains and Interstate 5 Corridor. * WHEN...Until 6 AM PDT Sunday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12663D4940FC.WindAdvisory.12663D671550CA.LOXNPWLOX.e4206b59059074ab3529e15bd4972c20",
-          "publishedOn": "2023-03-24T17:51:00.000Z",
-          "wordCount": 165,
-          "title": "Wind Advisory issued March 24 at 10:51AM PDT until March 26 at 6:00AM PDT by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -508,6 +488,226 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12wwamy/vietnams_cursed_images_92/",
+          "author": null,
+          "description": "submitted by    /u/GodBlessHentai  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12wwamy/vietnams_cursed_images_92/",
+          "publishedOn": "2023-04-24T00:27:53.000Z",
+          "wordCount": 2169,
+          "title": "Vietnam's cursed images #92",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12wvnoe/where_to_buy_cheap_herbs_like_ginseng_coconut_oil/",
+          "author": null,
+          "description": "I like to buy herbs to make me healthy. \n What health stores or stores that sell affordable herbs? (no expat prices)\n Where to buy cheap herbs like Ginseng, Coconut Oil, Ashwangdha, Tumeric, etc in Saigon?\n    submitted by    /u/Logical_Ganache1929  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12wvnoe/where_to_buy_cheap_herbs_like_ginseng_coconut_oil/",
+          "publishedOn": "2023-04-24T00:06:23.000Z",
+          "wordCount": 14632,
+          "title": "Where to buy cheap herbs like Ginseng, Coconut Oil, Ashwangdha, Tumeric, etc in Saigon?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12wtt42/arrested_vietnamese_in_japan_feared_forced_return/",
+          "author": null,
+          "description": "submitted by    /u/servesrains  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12wtt42/arrested_vietnamese_in_japan_feared_forced_return/",
+          "publishedOn": "2023-04-23T23:06:04.000Z",
+          "wordCount": 15627,
+          "title": "Arrested Vietnamese in Japan feared forced return if her pregnancy was revealed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12wsky3/hcmc/",
+          "author": null,
+          "description": "First time in Saigon, going to be here for a week. What do you think I should do?\n    submitted by    /u/Ashamed-Community129  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12wsky3/hcmc/",
+          "publishedOn": "2023-04-23T22:24:53.000Z",
+          "wordCount": 2186,
+          "title": "HCMC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12wqocl/is_the_nightlife_in_hanoi_good_or_bad/",
+          "author": null,
+          "description": "submitted by    /u/OkStructure9387  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12wqocl/is_the_nightlife_in_hanoi_good_or_bad/",
+          "publishedOn": "2023-04-23T21:22:27.000Z",
+          "wordCount": 2173,
+          "title": "is the nightlife in hanoi good or bad?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12wnj33/anyone_know_whats_wrong_with_my_vietnamese_gourd/",
+          "author": null,
+          "description": "I got this vietnamese gourd from my partners mom. She told me to keep it on the windowsill until it's warm enough to plant it outside and to keep the dirt moist. I did as she told me and the plant did well the first couple of days but now it's starting to wilt and the leaves changed colors, got paler. She also has no idea what I did wrong. I didn't find any help on any other forum so I wanted to ask here, maybe someone has more experience with this plant.\n    submitted by    /u/revolutionarat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12wnj33/anyone_know_whats_wrong_with_my_vietnamese_gourd/",
+          "publishedOn": "2023-04-23T19:42:48.000Z",
+          "wordCount": 2269,
+          "title": "Anyone know what's wrong with my vietnamese gourd?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12wmj2c/ha_giang_loop/",
+          "author": null,
+          "description": "Hi guys, which tour company do you recommend for Ha Giang loop to do with the motorcycle? We are trying to avoid party hostels.\n Thank you!\n    submitted by    /u/Lgent  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12wmj2c/ha_giang_loop/",
+          "publishedOn": "2023-04-23T19:11:47.000Z",
+          "wordCount": 2196,
+          "title": "Ha Giang loop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12wlavh/is_yen_hao_dong_a_realistic_name_for_a_vietnamese/",
+          "author": null,
+          "description": "Hi, I'm asking this with utmost respect and hope I'm not offending anyone! I'm writing a play including a male Vietnamese character, and I don't want to pull a JK Rowling, so I wanted to ask actual Vietnamese people if that name makes sense and could be used.\n Yen Hao is supposed to be the first and middle name, Dong the surname. I know that with Vietnamese names, the surname usually comes first. But my play takes place in Czech Republic, and from what I've seen, Vietnamese people around here usually use the Czech order of names (so given name(s) first, surname second).\n If the name is incorrect, I'd be very glad to hear alternatives! He's based on the character of Yevgeni Dorn from Chekov's Seagull, so I'm looking for a name that sounds vaguely similar, although it's in a different language. Thanks for any help:)\n    submitted by    /u/wogk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12wlavh/is_yen_hao_dong_a_realistic_name_for_a_vietnamese/",
+          "publishedOn": "2023-04-23T18:34:05.000Z",
+          "wordCount": 2324,
+          "title": "Is Yen Hao Dong a realistic name for a Vietnamese character?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12wl6qg/prewar_money_mother_in_law_has_20000_of_these/",
+          "author": null,
+          "description": "submitted by    /u/NYL1210  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12wl6qg/prewar_money_mother_in_law_has_20000_of_these/",
+          "publishedOn": "2023-04-23T18:30:40.000Z",
+          "wordCount": 2208,
+          "title": "Pre-War Money - Mother in law has $20,000 of these bills. She left 2 weeks prior to fall of Saigon with $150k worth. But since then has given away to friends, kids, family as a souvenir. Wondering if there is any collector value?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12whnfy/can_someone_explain_these_horse_and_boat_models/",
+          "author": null,
+          "description": "submitted by    /u/Acanthus27  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12whnfy/can_someone_explain_these_horse_and_boat_models/",
+          "publishedOn": "2023-04-23T16:45:04.000Z",
+          "wordCount": 2192,
+          "title": "Can someone explain these horse and boat models in front of a temple near Tam Coc?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12weh2k/fascinating_vintage_photos_show_life_in_the_1960s/",
+          "author": null,
+          "description": "submitted by    /u/leandro2081  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12weh2k/fascinating_vintage_photos_show_life_in_the_1960s/",
+          "publishedOn": "2023-04-23T15:26:17.000Z",
+          "wordCount": 14989,
+          "title": "Fascinating Vintage Photos Show Life in the 1960s Vietnam",
+          "imageUrl": "https://external-preview.redd.it/udNkO1-YxYgmVqN4Oi-Sy0iA_SQjpDJK1AblAU_tL2w.jpg?auto=webp&v=enabled&s=0bd3e4d56315c10d8296fd405fc96c42ff3a7852"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12wd7i2/rtrochuyenlinhtinh_is_kinda_stupid/",
+          "author": null,
+          "description": "All I see on that sub reddit is people complaining about how bad Vietnam is, Vietnam this Vietnam that. If you don't like it here then why would you be living there huh? It's like the prime example of internet toxicity. Update: Yeah I looked at the replies and then looked at my post again, I do sound like a bloody hypocrite kek. Pardon me if you had to go through this kind of post. I'll try to, keep it to myself next time.\n    submitted by    /u/Front_Association998  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12wd7i2/rtrochuyenlinhtinh_is_kinda_stupid/",
+          "publishedOn": "2023-04-23T15:07:06.000Z",
+          "wordCount": 2255,
+          "title": "r/TroChuyenLinhTinh is kinda, stupid.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12wbdx6/how_to_register_for_saigon_peoples_committee_tour/",
+          "author": null,
+          "description": "The building will be open for tours on 29 and 30th April, but apparently you have to register in advance. No news outlet I've seen has provided any information whatsoever on how to register.\n Does anyone know how to?\n    submitted by    /u/Standard_Homework854  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12wbdx6/how_to_register_for_saigon_peoples_committee_tour/",
+          "publishedOn": "2023-04-23T14:39:19.000Z",
+          "wordCount": 2214,
+          "title": "How to register for Saigon People's Committee tour?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12w7ebu/im_traveling_to_vietnam_soon_need_help_on_pulling/",
+          "author": null,
+          "description": "Im visiting VietNam soon, I’ll bring some cash but do they have Chase bank in VietNam just incase I need to withdraw more cash?\n    submitted by    /u/ExpertAd9294  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12w7ebu/im_traveling_to_vietnam_soon_need_help_on_pulling/",
+          "publishedOn": "2023-04-23T12:45:09.000Z",
+          "wordCount": 2202,
+          "title": "Im traveling to Vietnam soon, need help on pulling money out",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12w4axq/what_exactly_is_%C4%91a_c%E1%BA%A5p/",
+          "author": null,
+          "description": "submitted by    /u/Alegatur  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12w4axq/what_exactly_is_%C4%91a_c%E1%BA%A5p/",
+          "publishedOn": "2023-04-23T10:38:17.000Z",
+          "wordCount": 2181,
+          "title": "What exactly is \"đa cấp\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12w2uwe/need_help_translating_this/",
+          "author": null,
+          "description": "Hi! I just had takeaway from my local Vietnam restaurant. This pork dish is probably the best pork I’ve ever had, but I’m not successful trying to google translate the name. I would like to know how to make this at home. Thanks!\n    submitted by    /u/kremgaas  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12w2uwe/need_help_translating_this/",
+          "publishedOn": "2023-04-23T09:36:20.000Z",
+          "wordCount": 2180,
+          "title": "Need help translating this!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12w1mw4/hu%E1%BA%BF_people_take_refuge_from_the_heat_in_the_parks/",
+          "author": null,
+          "description": "submitted by    /u/lanhuevietnam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12w1mw4/hu%E1%BA%BF_people_take_refuge_from_the_heat_in_the_parks/",
+          "publishedOn": "2023-04-23T08:44:43.000Z",
+          "wordCount": 2193,
+          "title": "Huế people take refuge from the heat in the parks along Hương River during these hot days.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12w0p49/no_clouds_i_guess/",
+          "author": null,
+          "description": "submitted by    /u/Fortune-Former  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12w0p49/no_clouds_i_guess/",
+          "publishedOn": "2023-04-23T08:03:40.000Z",
+          "wordCount": 2169,
+          "title": "No clouds (I guess)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12vysha/any_tourists_unfortunately_stuck_here_in_this/",
+          "author": null,
+          "description": "I ran out of people to complain the heat to it's freaking too hot\n    submitted by    /u/emsnu1995  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12vysha/any_tourists_unfortunately_stuck_here_in_this/",
+          "publishedOn": "2023-04-23T06:42:54.000Z",
+          "wordCount": 15851,
+          "title": "any tourists unfortunately stuck here in this weather?",
+          "imageUrl": "https://preview.redd.it/1pmk1trxfmva1.jpg?auto=webp&v=enabled&s=dfa8123ca4d91cb531b81673a7456b985a0d9ca0"
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12vxuht/shop_closes_at_6pm/",
+          "author": null,
+          "description": "My friends of mine recently came back from their business trip in Australia. They said that normally most of the shops close at 6-7pm and on weekend most of them are closed. I was kind of surprise hearing this, I also asked my friend living in Canada and he confirmed the similar thing. They all agreed that it was boring to live there. But for me, I feel sad for Vietnamese people who has to get up early to work or stay late to work too. I said to my friends, we are poorer so we spent all time in a day to work. They close shop at night and on weekend so they have quality time for them and they are not really obsessed of making money. What are your opinions on this, from outside and inside VN people?\n    submitted by    /u/ronnyvo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12vxuht/shop_closes_at_6pm/",
+          "publishedOn": "2023-04-23T06:02:20.000Z",
+          "wordCount": 2311,
+          "title": "Shop closes at 6pm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12vw96e/my_experience_learning_vietnamese/",
+          "author": null,
+          "description": "submitted by    /u/kirsion  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12vw96e/my_experience_learning_vietnamese/",
+          "publishedOn": "2023-04-23T04:57:28.000Z",
+          "wordCount": 2180,
+          "title": "My experience learning vietnamese",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/12vq786/vietnamese_movie_titles/",
+          "author": null,
+          "description": "submitted by    /u/GazzmanXe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/12vq786/vietnamese_movie_titles/",
+          "publishedOn": "2023-04-23T01:08:09.000Z",
+          "wordCount": 2179,
+          "title": "Vietnamese movie titles",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/12vooxs/phone_not_takingholding_a_charge/",
           "author": null,
@@ -6527,276 +6727,6 @@
           "wordCount": 15692,
           "title": "Working remotely, How's the internet doing at the moment?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/121kiu5/are_there_any_decent_barspubs_in_hanoi_that_play/",
-          "author": null,
-          "description": "submitted by    /u/Ancient_Thanks_4365  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/121kiu5/are_there_any_decent_barspubs_in_hanoi_that_play/",
-          "publishedOn": "2023-03-25T12:33:24.000Z",
-          "wordCount": 1963,
-          "title": "Are there any decent bars/pubs in Hanoi that play rock music anymore? Went to the Doors last night and it wasn't great. Hanoi Rock Central seems very acoustic this weekend (which I do love) but looking for something a bit more Queens of the Stone Age/Soundgarden or The Police Zeppelin kind of thing.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/121jas4/a_guide_to_vietnams_football_mismanagement/",
-          "author": null,
-          "description": "submitted by    /u/JoJo-Bizarre-1997  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/121jas4/a_guide_to_vietnams_football_mismanagement/",
-          "publishedOn": "2023-03-25T11:41:20.000Z",
-          "wordCount": 18811,
-          "title": "A guide to Vietnam's football mismanagement",
-          "imageUrl": "https://external-preview.redd.it/mdv94vGz-0ycuu9e8-zfl7HaVTe63WPJ3MQa5n_j0Jg.jpg?auto=webp&v=enabled&s=8cc1e42a9d7bfd098b2ea55ec95357cd6620b4cc"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/121i74g/m%E1%BB%99t_con_d%E1%BB%91c_nh%E1%BB%8F_%C4%91%C3%A0_l%E1%BA%A1t_vi%E1%BB%87t_nam/",
-          "author": null,
-          "description": "submitted by    /u/ohha_official  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/121i74g/m%E1%BB%99t_con_d%E1%BB%91c_nh%E1%BB%8F_%C4%91%C3%A0_l%E1%BA%A1t_vi%E1%BB%87t_nam/",
-          "publishedOn": "2023-03-25T10:51:17.000Z",
-          "wordCount": 14493,
-          "title": "Một con dốc nhỏ Đà Lạt, Việt Nam",
-          "imageUrl": "https://preview.redd.it/g0l4nqas7vpa1.jpg?auto=webp&v=enabled&s=cf90cd6187a24ce3e2501360bd3ecb98ec7f61c1"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/121heur/questionnaire_for_vietnamese_born_living_in/",
-          "author": null,
-          "description": "Please! Questionnaire only for Vietnamese born / living in Vietnam!!\n Hey guys! We are doing a market research about electromobility & customers' expectations in Vietnam! It is a school project. Could you guys please fill it in? We need at least 100 respondents. Thank you very much in advance!! \n https://forms.office.com/e/6K93WSc8Dk\n    submitted by    /u/mmkrystal  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/121heur/questionnaire_for_vietnamese_born_living_in/",
-          "publishedOn": "2023-03-25T10:12:03.000Z",
-          "wordCount": 14573,
-          "title": "Questionnaire for Vietnamese born & living in Vietnam abour electromobility",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/121hcti/is_this_a_legit_request/",
-          "author": null,
-          "description": "Booked an Airbnb in Hanoi and the host is asking for photos of passports of people who will be staying at the property, citing authority requirement. Is this a legit requirement?\n    submitted by    /u/Lukas316  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/121hcti/is_this_a_legit_request/",
-          "publishedOn": "2023-03-25T10:09:24.000Z",
-          "wordCount": 15710,
-          "title": "Is this a legit request",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/121h1y9/mego_to_vietnam/",
-          "author": null,
-          "description": "submitted by    /u/Succotash2637  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/121h1y9/mego_to_vietnam/",
-          "publishedOn": "2023-03-25T09:54:47.000Z",
-          "wordCount": 14927,
-          "title": "Me:go to Vietnam",
-          "imageUrl": "https://external-preview.redd.it/RdL4SopUJwtYGtoAUYLtq-pQX3XeK14ufuuLQ28AK1Q.png?format=pjpg&auto=webp&v=enabled&s=f0267d88b85eb2900d259068bdab01d94270a3bb"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/121ghjz/c%C3%A1c_con_gi%E1%BB%9Di_c%C3%B3_h%C3%B3ng_v%E1%BB%A5_n%C3%A0y_kg/",
-          "author": null,
-          "description": "submitted by    /u/Waste_Werewolf_2085  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/121ghjz/c%C3%A1c_con_gi%E1%BB%9Di_c%C3%B3_h%C3%B3ng_v%E1%BB%A5_n%C3%A0y_kg/",
-          "publishedOn": "2023-03-25T09:23:52.000Z",
-          "wordCount": 15224,
-          "title": "các con giời có hóng vụ này kg",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/121gdah/i_dont_know_who_is_sweating_more_me_or_my_beer/",
-          "author": null,
-          "description": "submitted by    /u/nomaddopamine  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/121gdah/i_dont_know_who_is_sweating_more_me_or_my_beer/",
-          "publishedOn": "2023-03-25T09:17:05.000Z",
-          "wordCount": 14935,
-          "title": "I don’t know who is sweating more. Me or my beer. 🥵",
-          "imageUrl": "https://preview.redd.it/ilj5ne5z8wpa1.jpg?auto=webp&v=enabled&s=f11216fc343aacf0362c75958dd218ee09ff38a2"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/121ftbk/riding_through_the_vibrant_nightlife_of_da_nang/",
-          "author": null,
-          "description": "submitted by    /u/gig970  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/121ftbk/riding_through_the_vibrant_nightlife_of_da_nang/",
-          "publishedOn": "2023-03-25T08:46:56.000Z",
-          "wordCount": 14561,
-          "title": "Riding through the Vibrant Nightlife of Da Nang on a Motorbike - 4K Video",
-          "imageUrl": "https://external-preview.redd.it/SHMnKDERVNV_0DYgrHSZLWaQX9C4L0KDR9eWRgwyk4g.jpg?auto=webp&v=enabled&s=0d2468e41a7eb143a6618f9ffc5cecfbfd8bbdd2"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/121fol2/special_home_made_sweet_potato_fries_with_sour/",
-          "author": null,
-          "description": "submitted by    /u/leprotelariat  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/121fol2/special_home_made_sweet_potato_fries_with_sour/",
-          "publishedOn": "2023-03-25T08:39:43.000Z",
-          "wordCount": 1931,
-          "title": "Special home made sweet potato fries with sour plum powder",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/121e16u/does_anyone_know_where_can_i_buy_school_uniform/",
-          "author": null,
-          "description": "submitted by    /u/Sweaty-Gift8832  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/121e16u/does_anyone_know_where_can_i_buy_school_uniform/",
-          "publishedOn": "2023-03-25T07:11:56.000Z",
-          "wordCount": 14575,
-          "title": "Does anyone know where can I buy school uniform in Saigon? Especially Le Quy don high in district 3 thanks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/121dyy2/how_to_do_the_hai_van_pass/",
-          "author": null,
-          "description": "I’m travelling from Hội An to Hue and was hoping to travel along the Hai Van Pass.\n Is there a way I can rent a motor bike in Hội An or Da Nang and return somewhere in Hue? I won’t have the time to return it back to the original place. \n Otherwise, would you recommend an alternative mode of transportation (like a bus) where I’d be able to stop and check out the view? \n For additional context - I’m a budget travel so kinda looking for an affordable way to travel. Also, I’m an exercised driver in Canada but motorbikes are new for me so I’m not sure if this is a beginner friendly route.\n    submitted by    /u/OrderGroundbreaking3  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/121dyy2/how_to_do_the_hai_van_pass/",
-          "publishedOn": "2023-03-25T07:08:51.000Z",
-          "wordCount": 15072,
-          "title": "How to do the Hai Van Pass?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/121cpz3/is_phongvu_trustworthy_for_pc_parts/",
-          "author": null,
-          "description": "I mean would they sell you a refurbished or open box one as new? I know tons of vietnamese shops do that. Anyone know about phongvu?\n    submitted by    /u/diffusedstability  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/121cpz3/is_phongvu_trustworthy_for_pc_parts/",
-          "publishedOn": "2023-03-25T06:06:46.000Z",
-          "wordCount": 1944,
-          "title": "Is phongvu trustworthy for pc parts?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/121bk18/ha_long_bay_filming_question/",
-          "author": null,
-          "description": "Hi everyone! This is directed at people who have traveled/are from Vietnam. \n So I'm going to Ha Long Bay with my university and as part of one of the classes were doing a project (mini doc) about community perception of UNESCO world heritage sites and was wondering if anyone knew what the laws around filming in that area are. I wasn't able to find much information other than for large film crews and as this is a school project where I and another classmate would be interviewing 2-3 locals I don't believe we fall into that category. The setup would be minimal with a tripod, camera, mic, and potentially a very small light if needed. Any help or pointers would be appreciated!\n If this is not an appropriate post in this subreddit feel free to delete it!\n    submitted by    /u/RevolutionaryAd9792  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/121bk18/ha_long_bay_filming_question/",
-          "publishedOn": "2023-03-25T05:12:18.000Z",
-          "wordCount": 2054,
-          "title": "Ha Long Bay filming question",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/121b5d3/is_bia_hoi_extinct_in_hanoi/",
-          "author": null,
-          "description": "Xin chào everybody. My friend and I are in Hanoi and after a long trip on the train to get here we’ve been very thirsty. \n We went to Beer Junction last night thinking we could hydrate with Bia Hoi but no one had heard of it!\n We asked around and looked online but there seems to be no sign of fresh keg beer. Don’t worry, we were able to hydrate with a few tasty green Saigon’s but today our pilgrimage continues. \n Can anyone help? Does Bia Hoi still exist? \n Thanks a lot 🍻\n    submitted by    /u/Edward_R  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/121b5d3/is_bia_hoi_extinct_in_hanoi/",
-          "publishedOn": "2023-03-25T04:54:30.000Z",
-          "wordCount": 15246,
-          "title": "Is Bia Hoi extinct in Hanoi?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1217mie/seriously_how_many_of_you_knew_bright_is_x%C3%A1n_l%E1%BA%A1n/",
-          "author": null,
-          "description": "submitted by    /u/NovaH000  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1217mie/seriously_how_many_of_you_knew_bright_is_x%C3%A1n_l%E1%BA%A1n/",
-          "publishedOn": "2023-03-25T02:27:50.000Z",
-          "wordCount": 15646,
-          "title": "Seriously, how many of you knew \"bright\" is \"xán lạn\" and not \"sáng lạn\"? Vietnamese is confusing sometimes",
-          "imageUrl": "https://preview.redd.it/m4cdmxez7upa1.png?auto=webp&v=enabled&s=39f75cb34fafe85736939565daef4e36543c7f8f"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1215n3r/can_anybody_share_what_happened_to_hanoi_in_the/",
-          "author": null,
-          "description": "Last time i visited was 2017. I went back and this placed changed!\n There seems to have been an explosion of wealth!\n So many luxury cars like mercedes, audi, ferraris, porche cayennes!\n Everyone is glued to their smartphones watching youtube on their \n And what happened to the opera house? Have they shut down? I cannot seem to get a booking for months!\n    submitted by    /u/sleighmeister55  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1215n3r/can_anybody_share_what_happened_to_hanoi_in_the/",
-          "publishedOn": "2023-03-25T01:10:34.000Z",
-          "wordCount": 14810,
-          "title": "Can anybody share what happened to Hanoi in the past 6 years?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1215e91/hoi_an_vietnam/",
-          "author": null,
-          "description": "submitted by    /u/paratharoll69  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1215e91/hoi_an_vietnam/",
-          "publishedOn": "2023-03-25T01:01:16.000Z",
-          "wordCount": 14686,
-          "title": "Hoi An, Vietnam",
-          "imageUrl": "https://preview.redd.it/ofmqnc2kstpa1.jpg?auto=webp&v=enabled&s=de3ce8d7af0bebee8f744000c5aea87588b6fd2b"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1212yii/does_vietnam_still_require_travel_insurance_when/",
-          "author": null,
-          "description": "I’m traveling on april 5 (staying for 8 days) from Philippines to hanoi. I just want to confirm if they require the tourist to have a travel insurance with Covid coverage. I read it somewhere in vietnam tourism website. But someone please confirm?\n    submitted by    /u/CrispyFriece  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1212yii/does_vietnam_still_require_travel_insurance_when/",
-          "publishedOn": "2023-03-24T23:33:20.000Z",
-          "wordCount": 14556,
-          "title": "Does Vietnam still require Travel Insurance when Entering?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/120x3xe/mobile_data/",
-          "author": null,
-          "description": "What is the best way to use/buy data for a phone and tablet in Vietnam using a UK carrier. Any advice would be appreciated. I've spoke to EE my provider and they have given me ridiculous prices (£5 for 4mb per day)\n    submitted by    /u/fhg219  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/120x3xe/mobile_data/",
-          "publishedOn": "2023-03-24T20:20:25.000Z",
-          "wordCount": 1956,
-          "title": "Mobile data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/120tlym/i_got_scammed_in_saigon/",
-          "author": null,
-          "description": "I understand 100% that people need to do what they need to do to make money in a highly populated city like HCM. I only lost 200,000 dong but I would like to share this so other travelers don’t make the same mistake. \n After the incident I noticed many more of these guys around the city all over the tourists areas in district 1. Also I’m sure this scam is all over in major cities across the country. \n SCAM VIDEO\n    submitted by    /u/kyros4444  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/120tlym/i_got_scammed_in_saigon/",
-          "publishedOn": "2023-03-24T18:39:39.000Z",
-          "wordCount": 14943,
-          "title": "I got scammed in Saigon.",
-          "imageUrl": "https://external-preview.redd.it/4KW-dStBt8XNlOvKz4lV8jOkHgtgKVf44jg6gnWWhoo.jpg?auto=webp&v=enabled&s=0f204be315ef0579ab4f8626335a64b1ac706972"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/120r561/what_kind_of_wasp_is_this_in_nghe_an/",
-          "author": null,
-          "description": "It was flying around my house very casually the whole day and I think my cat got hold of it.\n Does this thing sting and is it aggressive? I've seen a few of them recently.\n    submitted by    /u/shyzzs  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/120r561/what_kind_of_wasp_is_this_in_nghe_an/",
-          "publishedOn": "2023-03-24T17:16:42.000Z",
-          "wordCount": 14710,
-          "title": "What kind of wasp is this? In Nghe An",
-          "imageUrl": "https://preview.redd.it/z0ilafzmhrpa1.jpg?auto=webp&v=enabled&s=01daa02edf62fcdb7e261c66d6d92a59ee695f1f"
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/120px09/some_people_need_to_stop_criticizing_vietnamese/",
-          "author": null,
-          "description": "So I just came across a post in this sub asking about their experience being a Vietnamese. I and the OP don't have similar upbringings, so I don't, and won't, judge or say how they should feel.\n However, the comment section was flooded with people saying \"Vietnamese people are so money-focused, materialistic, etc etc\", in a quite derisive way. And not just in that post either, I've seen such comments on multiple occasions, and they pretty much annoyed me.\n Yes, I admit, a lot of Vietnamese people are materialistic. But do you know why they are that way?\n 1) We were poor. We were poor af. Just 40 years ago my grandparents' only livelihood was their garden, my grandma had to cycle 20km to go sell groceries to whoever would buy them, and my dad had to eat meals from rice mixed with corn and o…",
-          "link": "https://www.reddit.com/r/VietNam/comments/120px09/some_people_need_to_stop_criticizing_vietnamese/",
-          "publishedOn": "2023-03-24T16:44:02.000Z",
-          "wordCount": 19168,
-          "title": "Some people need to stop criticizing Vietnamese people for being money-focused",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/120pln5/is_it_difficult_for_a_foreigner_to_get_a_job_at_a/",
-          "author": null,
-          "description": "Let's say you go on a month's vacation in Vietnam and due to some unfortunate circumstances that you need to find some work. Would it be easy for a foreigner that speaks good English to get a job at these places?\n    submitted by    /u/capmar  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/120pln5/is_it_difficult_for_a_foreigner_to_get_a_job_at_a/",
-          "publishedOn": "2023-03-24T16:33:21.000Z",
-          "wordCount": 14947,
-          "title": "Is it difficult for a foreigner to get a job at a coffee shop or restaurant in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/120pjsi/ha_giang_loop/",
-          "author": null,
-          "description": "Hi! \n My girlfriend and I will be setting off on a 7 week trip in 2 weeks to South east Asia, including 3 weeks in Vietnam! Around week 5, we are hoping to take a 5 day trip round the Ha giang loop, and I wanted to discuss the logistics of this here. A few notes:\n  \nneither of us have ridden a motorcycle/moped before, but are confident car drivers. We have access to a 100cc motorbike for practice\n both of our UK drivers licences cover \"AM\" vehicles (motorbikes smaller than 50cc) but to ride up to 175cc, we need an A1 licence\n we plan to rent motorbikes in the islands of Thailand earlier in our trip, and gauge whether we think it is feasible to carry out 5 days of driving.\n We will be doing the Ha Giang Loop in early May\n  \nI guess my biggest question is what are our options?\n Should we try to get an A1 licence before we go? (It only takes a day AFAIK so we should be able to sort it before the trip) if we bother doing this, will we be able to get an IDP that works? I've heard conflicting reports regarding the state of IDPs\n Should we go as we are? In this case we'll need to pay off police I'm sure which isn't a huge deal but I'd be worried about getting our bikes impounded, especially half way through the loop\n Any suggestions/advice would be greatly appreciated!\n    submitted by    /u/quantThrowAway22  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/120pjsi/ha_giang_loop/",
-          "publishedOn": "2023-03-24T16:31:36.000Z",
-          "wordCount": 17104,
-          "title": "Ha Giang Loop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/120nor4/looking_for_information_on_trails_at_bach_ma/",
-          "author": null,
-          "description": "We will be visiting Bach Ma National Park in April and information is a little difficult to find. We initially thought we would do the five lakes trail, but since our daughter is only nine and, to be frank, rather short for her age, we don't feel comfortable with the climbing part, as we are not sure she will be able to reach for the ropes. There are, supposedly, two trails to reach five lakes - do you also have to climb when you take the easier one (that is, not the adventure trail)? And has anyone done the peasant trail? I have not been able to find any information on this trail, except that it ends in a water fall and has the best likelyhood to see birds (which would actually be super nice). Does this trail involve any climbing, too?\n    submitted by    /u/Erft  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/120nor4/looking_for_information_on_trails_at_bach_ma/",
-          "publishedOn": "2023-03-24T15:27:36.000Z",
-          "wordCount": 2062,
-          "title": "Looking for information on trails at Bach Ma",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/120jzj0/can_i_register_the_sim_i_bought_at_the_airport/",
-          "author": null,
-          "description": "So I bought a mobifone sim when I arrived at the airport and I've been getting messages about registering the sim. I tried updating it through the mobifone app but I keep getting an error message saying my document is not correct. The number seems to be under someone's name already and I've already used this number for my payroll account here in Vietnam. What should I do?\n    submitted by    /u/vlbonite  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/120jzj0/can_i_register_the_sim_i_bought_at_the_airport/",
-          "publishedOn": "2023-03-24T13:16:37.000Z",
-          "wordCount": 14892,
-          "title": "Can I register the sim I bought at the airport under my name as a foreigner? App throws an error about my passport",
-          "imageUrl": null
         }
       ]
     },
@@ -8154,26 +8084,6 @@
           "wordCount": 2584,
           "title": "How to Learn Different Tech Stacks IRL",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/ilya-pavlov-OqtafYT5kTw-unsplash-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/",
-          "author": "Shittu Olumide",
-          "description": "Pandas is a widely used open-source library in Python for data manipulation and analysis. It provides a range of data structures and functions for working with data, one of which is the DataFrame.  DataFrames are a powerful tool for storing and analyzing large sets of data, but they can",
-          "link": "https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/",
-          "publishedOn": "2023-03-24T18:06:00.000Z",
-          "wordCount": 1308,
-          "title": "Dataframe to CSV – How to Save Pandas Dataframes by Exporting",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Dataframe-to-CSV---How-to-Save-Pandas-Dataframes-by-Exporting.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/scroll-animations-with-javascript-intersection-observer-api/",
-          "author": "Mwendwa Bundi Emma",
-          "description": "Sometimes, when you visit a website, you'll notice that certain elements or a particular section gets revealed dynamically as you scroll.  It's like the contents of that particular section weren't available to view until you scrolled into the section – but now, because you're there, the website decides to",
-          "link": "https://www.freecodecamp.org/news/scroll-animations-with-javascript-intersection-observer-api/",
-          "publishedOn": "2023-03-24T17:42:18.000Z",
-          "wordCount": 1812,
-          "title": "How to Add Scroll Animations to a Page with JavaScript's Intersection Observer API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/observer-api.png"
         }
       ]
     }
