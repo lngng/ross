@@ -2,10 +2,350 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lngng.github.io/ross/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-30T01:00:09.223Z</updated>
+    <updated>2023-05-31T01:05:02.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://lngng.github.io/ross/index.html"/>
     <link rel="self" href="https://lngng.github.io/ross/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One of the top comment of r/askreddit. What is your experience with vietnamese traditional music ?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13w72aw/one_of_the_top_comment_of_raskreddit_what_is_your/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13w72aw/one_of_the_top_comment_of_raskreddit_what_is_your/"/>
+        <updated>2023-05-31T00:28:56.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Psychological_Dish75  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That’s mind blowing 🤯]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13w6and/thats_mind_blowing/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13w6and/thats_mind_blowing/"/>
+        <updated>2023-05-30T23:55:28.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/K4myk4ze  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for travel recommendations]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13w5zp3/looking_for_travel_recommendations/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13w5zp3/looking_for_travel_recommendations/"/>
+        <updated>2023-05-30T23:42:16.000Z</updated>
+        <summary type="html"><![CDATA[I’ve got a month off in August/September, flying in and out of HCMC. This will be my first time in South East Asia, so I’m looking for some recommendations for some less touristy places to see. I prefer nature activities, hiking, historical landmarks, temples etc over cities and urban areas. Would love to be able to do some hiking, and I’m also looking into the Ha Giang loop, but otherwise very open to suggestions.
+    submitted by    /u/olives59  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How rude is it to clean your nose (loudly) in public]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13w5qqu/how_rude_is_it_to_clean_your_nose_loudly_in_public/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13w5qqu/how_rude_is_it_to_clean_your_nose_loudly_in_public/"/>
+        <updated>2023-05-30T23:31:50.000Z</updated>
+        <summary type="html"><![CDATA[View Poll
+    submitted by    /u/Subscript5320  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Cookies to Customize a Web Page's Content]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-cookies-to-customize-web-page-content/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-cookies-to-customize-web-page-content/"/>
+        <updated>2023-05-30T22:04:35.000Z</updated>
+        <summary type="html"><![CDATA[If you develop websites or web apps, someday you’ll have to deal with cookies. That’s why I decided to write this tutorial on how to use cookies to customize a web page according to the previous web page the user comes from.  I wrote this tutorial using PHP, but]]></summary>
+        <author>
+            <name>Marco Venturi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Full-Stack Application with Next.js – A Step-By-Step Tutorial for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-full-stack-application-with-nextjs/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-full-stack-application-with-nextjs/"/>
+        <updated>2023-05-30T21:54:36.000Z</updated>
+        <summary type="html"><![CDATA[Next.js can seem intimidating at first, with so many new concepts to grasp. But don't worry – in this step-by-step tutorial, I will provide you with all the essential information you need to create your first modern full-stack application with Next.js. In this tutorial, I will take you through the]]></summary>
+        <author>
+            <name>Yazdun Fadali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create and Publish a Vue Component Library – 2023 Update]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-and-publish-a-vue-component-library-update/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-and-publish-a-vue-component-library-update/"/>
+        <updated>2023-05-30T20:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2020, I wrote a post [/news/how-to-create-and-publish-a-vue-component-library/] about building a Vue Component library. Since then the package I used has been deprecated, and the recommended way to build a library/package is to use Vite.  Getting Started I started off the project by running npm create vite@latest and naming]]></summary>
+        <author>
+            <name>Brian Barrow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Responsive Websites – Best Practices for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/responsive-design-best-practices/</id>
+        <link href="https://www.freecodecamp.org/news/responsive-design-best-practices/"/>
+        <updated>2023-05-30T20:04:07.000Z</updated>
+        <summary type="html"><![CDATA[The way we interact with the web has changed dramatically, and it will keep changing. In the past, most people used desktop computers to access the internet. But today, people are using a wide variety of devices, including laptops, tablets, and smartphones. This has resulted in a growing demand for]]></summary>
+        <author>
+            <name>Fakorede Damilola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESG investment conference in Vietnam, May 31st & June 1st, 2023]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13vzuyq/esg_investment_conference_in_vietnam_may_31st/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13vzuyq/esg_investment_conference_in_vietnam_may_31st/"/>
+        <updated>2023-05-30T19:38:17.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Tinan-Nguyen  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pink sunset on Huong river, Hue]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13vzq31/pink_sunset_on_huong_river_hue/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13vzq31/pink_sunset_on_huong_river_hue/"/>
+        <updated>2023-05-30T19:33:01.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/kimlogophile  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Struggling I’m Vietnam for being… western?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13vy5ij/struggling_im_vietnam_for_being_western/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13vy5ij/struggling_im_vietnam_for_being_western/"/>
+        <updated>2023-05-30T18:34:32.000Z</updated>
+        <summary type="html"><![CDATA[I know. Is a difficult topic. But I just need to understand. I’m Argentinian grown up in Italy and living in Spain since 20 years. Basically I’m always a foreign and I know “difficult” people are everywhere.. I’m in Vietnam at the moment and this is being a bit difficult. I always try to smile and Learn the language, at least to say “please” “thanks” “hello” “very good” etc. In HCMC starts with some yelling and pointing fingers and laughing. In Da Lat some being attended with angry looks. In Nha Trang at the bus counter they even don’t want to sell me the tickets for my next destination and turning the face like I wasn’t there… at the hotel, the manager, was asking me if I taken something from the “minibar” ( literally 4 Pepsi cans ) 4 time in a row aggressively and threatening with checking the room…. Should I assume that’s the treatment that I’ll have all around the country? Of course there where people that wanted to help, but at the moment seems they are the minority… and please don’t read this as pointing fingers or in any bad way. As I said I just want to understand. Thanks.
+    submitted by    /u/sidbichus  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphQL Tutorial – How to Query The Rick and Morty API]]></title>
+        <id>https://www.freecodecamp.org/news/graphql-queries-for-everyone/</id>
+        <link href="https://www.freecodecamp.org/news/graphql-queries-for-everyone/"/>
+        <updated>2023-05-30T18:07:33.000Z</updated>
+        <summary type="html"><![CDATA[I enjoy fictional books about greek gods, demigods, the oracle, and prophecies.  I am a huge fan of Rick Riordan's books. I recently came across Apollo's Trials, based on the greek god Apollo.  When I hear any mention of Apollo, my mind goes to the greek god who]]></summary>
+        <author>
+            <name>Velda Kiara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logical Operators in PHP – A Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/logical-operators-in-php/</id>
+        <link href="https://www.freecodecamp.org/news/logical-operators-in-php/"/>
+        <updated>2023-05-30T17:35:08.000Z</updated>
+        <summary type="html"><![CDATA[Logical operators play a key role in programming languages. They let you manipulate boolean values and evaluate logical conditions.  In PHP, there are four fundamental logical operators: AND, OR, NOT, and XOR. This guide will help you understand these operators, and I'll explain how they work using code examples]]></summary>
+        <author>
+            <name>Michael Para</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you help me estimate whether my Vietnamese course book is useful or no good?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13vu4gt/can_you_help_me_estimate_whether_my_vietnamese/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13vu4gt/can_you_help_me_estimate_whether_my_vietnamese/"/>
+        <updated>2023-05-30T15:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! I´m using the "Assimil" language course book for self study to learn Vietnamese. 
+ Yesterday tho, I watched a video about the usage of Vietnamese pronouns by Tieng Viet Oi, which is a YouTube channel dedicated to teaching Vietnamese, and they explained the use of the pronouns in a completely different way than my course book uses them!
+ Now I feel insecure and I don´t know, if I should keep on using my course book, because I don´t want to learn this major part of the language in a wrong way! I don´t doubt, that the infos given by Tieng Viet Oi are wrong, because they´re native speakers, but maybe my book uses rules that they left out? I don´t know! Can you native speakers out there tell me, if this use of the pronouns makes any sense, or if my course book isn´t a good source?
+ ​
+ 1.Dialogue:
+ Person1, Stranger: calls other cô / Person2, stranger: calls other ông - formal setting
+ 2.Dialogue
+ Person1, waiter: calls other bà / Person2, customer: calls other ông - restaurant order
+ 3.Dialogue
+ Person1, knows other person, not closest friends: calls other anh / Person2, same as other: calls other chi (dot under i) - colloquial talk
+ ​
+ --> also the book explains the pronouns as:
+ -cô: young women or women who aren´t married
+ -ông: men older than 40 years
+ -bà: elderly women or married women
+ -anh/chi(dot): people you know and that are around your age
+ ​
+ (it doesn´t really consider the relationship between the speaker and the other person!)
+ ​
+ I´m sorry for the long post! I´d really appreciate any adivce, because I fell in love with the Vietnamese language and I just want to keep on studying! Thanks a lot and have a wonderful day!
+    submitted by    /u/Isidida  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Setup a Windows Machine for Machine Learning/Deep Learning Using an Nvidia Graphics Card (CUDA)]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-setup-windows-machine-for-ml-dl-using-nvidia-graphics-card-cuda/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-windows-machine-for-ml-dl-using-nvidia-graphics-card-cuda/"/>
+        <updated>2023-05-30T14:58:31.000Z</updated>
+        <summary type="html"><![CDATA[If you are learning machine learning / deep learning, you may be using the free  Google Colab [https://colab.research.google.com/]. But you might wonder if the free version is adequate.  If you can afford a good Nvidia Graphics Card (with a decent amount of CUDA cores) then you can easily]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Abort Merge – How to Cancel a Merge in Git]]></title>
+        <id>https://www.freecodecamp.org/news/git-abort-merge-how-to-cancel-a-merge-in-git/</id>
+        <link href="https://www.freecodecamp.org/news/git-abort-merge-how-to-cancel-a-merge-in-git/"/>
+        <updated>2023-05-30T14:18:30.000Z</updated>
+        <summary type="html"><![CDATA[Version control is a system that helps manage changes to files and directories over time. It allows multiple people to collaborate on a project, keep track of modifications, and revert to previous versions if needed.  One of the most popular version control systems is Git. Git [https://git-scm.com/] is a]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M40 10 year relationship ended with trip in August planned with two of us to Vietnam/Thailand. Going separately now, never travelled alone before and we were introverted so used to always stay in hotels and do our own thing. Any advice?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13voquu/m40_10_year_relationship_ended_with_trip_in/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13voquu/m40_10_year_relationship_ended_with_trip_in/"/>
+        <updated>2023-05-30T12:19:56.000Z</updated>
+        <summary type="html"><![CDATA[We have travelled a lot all over the world together, and would do loads of activities during the day, chill on the beach, go for dinner and drinks in the evening. Obviously that has all changed, all of our plans have been cancelled so essentially starting from scratch except for the flights from Europe to Asia. It’s 3 weeks so was planning Hanoi, Chiang Mai, Koh Samui and Hoi An. Honestly my main worry is that I could be days not talking to people and be lonely. I’m introverted as is my partner but we always had each other, we are very friendly but in short conversations normally. I’m a bit lost as to what to do and half considering just not going and losing the money on the flights and maybe doing shorter trips around Europe. From being in a relationship so long it’s almost like you lose confidence alone I think and rely on the other person.
+    submitted by    /u/crillydougal  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hi, I need ideas for “nature” side trips that are near Hanoi & easy commute. We will be travelling (from Australia) with a 4 year old in October. She won’t be any good on long 3 hour bus/train rides so I am looking for something easier and kid friendly. Alternatively, something near Hoi An. Thanks!]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13vng4d/hi_i_need_ideas_for_nature_side_trips_that_are/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13vng4d/hi_i_need_ideas_for_nature_side_trips_that_are/"/>
+        <updated>2023-05-30T11:15:35.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/piglette12  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Birth control pills]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13vmp19/birth_control_pills/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13vmp19/birth_control_pills/"/>
+        <updated>2023-05-30T10:37:24.000Z</updated>
+        <summary type="html"><![CDATA[I saw online that the birth control pill that I take (ortho tri-cyclen) is available in Vietnam under the name Cilest, but I’ve been to like 10 pharmacies here in HCMC and none of them have it. 
+ Does anyone happen to take the same one and know where I could get some in HCMC or Hanoi?
+    submitted by    /u/k0kopuffs  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Very rural Vietnam (Ha Tinh province and Ninh Binh)]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13vls6u/very_rural_vietnam_ha_tinh_province_and_ninh_binh/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13vls6u/very_rural_vietnam_ha_tinh_province_and_ninh_binh/"/>
+        <updated>2023-05-30T09:45:37.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/TldrDev  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peak marketing designer moment]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13vlafe/peak_marketing_designer_moment/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13vlafe/peak_marketing_designer_moment/"/>
+        <updated>2023-05-30T09:16:37.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/GeForce_GTX_1050Ti  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What does the "Maximum call stack exceeded" error mean?]]></title>
+        <id>https://www.freecodecamp.org/news/what-does-the-maximum-call-stack-stack-exceeded-error-mean/</id>
+        <link href="https://www.freecodecamp.org/news/what-does-the-maximum-call-stack-stack-exceeded-error-mean/"/>
+        <updated>2023-05-30T07:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever gotten an error similar to this? This error occurs because the call stack has exceeded its limit. But what does this mean? First, let's understand what the call stack is. The Call Stack The call stack is a data structure in JavaScript that contains the function(s) being]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running from Hanoi to HCMC]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13vj6tc/running_from_hanoi_to_hcmc/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13vj6tc/running_from_hanoi_to_hcmc/"/>
+        <updated>2023-05-30T07:08:35.000Z</updated>
+        <summary type="html"><![CDATA[1700km along the coast from Hanoi to HCMC 
+ Recently I ran from Hue to DaNang(100km) in a day for charity. 
+ I’m now planning what to do next and am thinking Hanoi to HCMC would be great. 
+ Do you know anyone who has done this? If so, I’d love to talk with them about the challenge so I can be as prepared as possible. 
+ Id like to raise money for children in need here in Vietnam. What charities do you think need the most support? 
+ Does this sound like an event you would like to join or support? If so, message me. The bigger the tribe, the better the vibe. 
+ Thanks ya’ll
+    submitted by    /u/DJShears  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personal Credit Check from Vietnam]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13vifkg/personal_credit_check_from_vietnam/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13vifkg/personal_credit_check_from_vietnam/"/>
+        <updated>2023-05-30T06:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I am Thai and my husband is Irish. We both have been living in Vietnam for the past 6 years and will move back to Ireland this August. We plan to get a mortgage once we arrive, and one of the documents required from some Irish banks is a foreign credit check. 
+ Has anyone ever obtained this from Vietnam? We contacted our banks (Vietcomebank and standard chartered bank) and were told that they could not provide the credit check. Any lead would be appreciated.
+    submitted by    /u/aGirlHasNoName1991  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving to Vietnam]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13vhoir/moving_to_vietnam/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13vhoir/moving_to_vietnam/"/>
+        <updated>2023-05-30T05:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! I hope this is allowed. My partner and I are planning on moving to Vietnam in 2024 to teach. We’re from South Africa. We are aware that the school year starts around April but we would like to come sooner (Jan/Feb). We are considering volunteering through WorkAway for the first few months before trying to find jobs. We’re wondering how the visa process works: are we still only allowed to stay for 30 days on a tourist visa or is it possible to obtain an extended visa with the help of a host from WorkAway? Or will we have to do visa runs? Because we’re planning on finding jobs while in Vietnam, we’d also like to know what documents we’ll need to apply for jobs and obtain a long stay visa. We’d really appreciate any info and advise! TIA
+    submitted by    /u/waferstick7777  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vietnamese music Reddit?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13vevem/vietnamese_music_reddit/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13vevem/vietnamese_music_reddit/"/>
+        <updated>2023-05-30T03:12:06.000Z</updated>
+        <summary type="html"><![CDATA[Is there a Reddit thread specifically for Vietnamese music and musicians to collaborate?
+    submitted by    /u/Sunset-Jay  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rural Vietnamese YouTube women]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13vetfy/rural_vietnamese_youtube_women/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13vetfy/rural_vietnamese_youtube_women/"/>
+        <updated>2023-05-30T03:09:34.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I have enjoyed watching several YouTubers from Vietnam that live in the rural areas. They showcase their daily life and the beauty of the country. The most popular ones are Anh Bushcraft and Ana Bushcraft. Does anyone have any backstory on them ? Are these their personal channels or is it the tourism ministry ?
+    submitted by    /u/snoitsnoit  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lesbian Couples in Vietnam?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/13vciw2/lesbian_couples_in_vietnam/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/13vciw2/lesbian_couples_in_vietnam/"/>
+        <updated>2023-05-30T01:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! I'm going to Vietnam soon (I'm American) to meet my Vietnamese girlfriend's family. We've been together for a while and we're getting married soon. The thing is, her family might not be too accepting of our relationship because they have super traditional views. Her family matters to her a lot, and I want to give them a good impression (or at least not a horrible one). 
+ Any tips or suggestions on how I can approach this? Her family doesn't come from wealth, so I was thinking of giving a hundred or so USD dollars to each member of her close family (though I don't come from wealth either, a hundred goes a lot further over there than it does in the USA, and I thought it might be a good small amount), a couple nice gifts from America, and then of course showing respect and kindness at all times. 
+ But to be honest, I'm not sure where to go from there. Is there anything I can do to make them really like me despite their traditional views? Or at least even out the scale of hate vs. like haha?
+    submitted by    /u/lightningparab  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stuck in airport overnight]]></title>
         <id>https://www.reddit.com/r/VietNam/comments/13vbo0y/stuck_in_airport_overnight/</id>
@@ -9060,359 +9400,6 @@ Lowest Divorce Rate in the World Vietnam possesses the lowest divorce rate in th
  Not meant to be derogatory at all. This is just me expressing myself. I understand every culture is different and I've taken part in the drinking circle once with every new group I meet just to build that trust with them. But from then on I just refuse. It never just stops at 1-2 beers. 
  Also, ice in warm beer? Cold out of the fridge man. Cold out of the fridge. Completely ruins the taste for me.
     submitted by    /u/FoxResponsible4790  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Found a based Vietnam barrel in TLV]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/134lmwy/found_a_based_vietnam_barrel_in_tlv/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/134lmwy/found_a_based_vietnam_barrel_in_tlv/"/>
-        <updated>2023-05-01T12:50:51.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/ApartGlass1198  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hải Phòng món ăn gần đường tàu]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/134kfn7/h%E1%BA%A3i_ph%C3%B2ng_m%C3%B3n_%C4%83n_g%E1%BA%A7n_%C4%91%C6%B0%E1%BB%9Dng_t%C3%A0u/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/134kfn7/h%E1%BA%A3i_ph%C3%B2ng_m%C3%B3n_%C4%83n_g%E1%BA%A7n_%C4%91%C6%B0%E1%BB%9Dng_t%C3%A0u/"/>
-        <updated>2023-05-01T11:56:29.000Z</updated>
-        <summary type="html"><![CDATA[Mì Gà Tần Óc heo tần
-    submitted by    /u/EpalNguyen  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viet diaspora learning Vietnamese]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/134jbsp/viet_diaspora_learning_vietnamese/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/134jbsp/viet_diaspora_learning_vietnamese/"/>
-        <updated>2023-05-01T11:02:12.000Z</updated>
-        <summary type="html"><![CDATA[Hi, 
- Just want to ask all the Vietnamese born abroad a quick question: 
-  
-Are you learning Vietnamese at the moment and what is your current level?
- What are some types of content that you think are missing on the Internet/in textbooks that you really want to know about in terms of the Vietnamese language?
- If you can already speak Vietnamese to some extent, what kind of content/materials do you think would really help you become fluent?
-  
-   submitted by    /u/thuphgtrinh  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE MOST CURSED AO DAI DESIGN EVER!?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/134gxrh/the_most_cursed_ao_dai_design_ever/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/134gxrh/the_most_cursed_ao_dai_design_ever/"/>
-        <updated>2023-05-01T08:46:56.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/juche_potatoes  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are some good things to buy and bring back when traveling to Vietnam?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/134gt24/what_are_some_good_things_to_buy_and_bring_back/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/134gt24/what_are_some_good_things_to_buy_and_bring_back/"/>
-        <updated>2023-05-01T08:38:27.000Z</updated>
-        <summary type="html"><![CDATA[What kind of souvenirs or items are good to buy? What is your recommendation?
-    submitted by    /u/cool_core_down  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Vietnamese inventions that people should know about?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/134gc4b/what_vietnamese_inventions_that_people_should/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/134gc4b/what_vietnamese_inventions_that_people_should/"/>
-        <updated>2023-05-01T08:10:22.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Robotnere  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How can I ensure accuracy learning Vietnamese and stop stumbling so much?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/134foo1/how_can_i_ensure_accuracy_learning_vietnamese_and/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/134foo1/how_can_i_ensure_accuracy_learning_vietnamese_and/"/>
-        <updated>2023-05-01T07:30:10.000Z</updated>
-        <summary type="html"><![CDATA[I speak English originally but I would like to learn this language and visit Vietnam one day. Duolingo and the books I got are helping me understand grammar and how to read the language bit by bit, but I SUCK at speaking it, and I know I do. And I don't know any native speakers personally anymore to help correct my pronunciation. I think I end up overthinking and trying to implement the tones but in doing this I just mess the whole word up lol.
- I've tried saying phrases and words really slow then gradually increasing speed til at a normal speaking cadence and this helps a bit but I was wondering if there was something more efficient. Also I feel like due to my natural voice being kind of deep/bassy and the sort of hard way I tend to pronounce things the naturally softer or more nuanced sounds are kind of harsher than the audio samples I'm hearing. I'm just really having a hard time with this because my voice is deep and somewhat monotone unless I'm excited about something so it's hard to do the tones and when I do I feel like I'm over emphasizing them.
- It's bad enough I tend to even stutter a bit more than usual in English too but I completely butcher this beautiful language almost every time it comes out of my mouth. And I wanna be able to speak to native speakers but not laughably 💀 I know most people are gracious and kind enough to just appreciate you even took the time but still why do it if not correctly?
-    submitted by    /u/Fuckredditlowkey  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ốp la & Cafe sửa đá.]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/134f7dk/%E1%BB%91p_la_cafe_s%E1%BB%ADa_%C4%91%C3%A1/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/134f7dk/%E1%BB%91p_la_cafe_s%E1%BB%ADa_%C4%91%C3%A1/"/>
-        <updated>2023-05-01T07:02:02.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/bomh911  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What do you call these sauces (generally)]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/134dujl/what_do_you_call_these_sauces_generally/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/134dujl/what_do_you_call_these_sauces_generally/"/>
-        <updated>2023-05-01T05:42:33.000Z</updated>
-        <summary type="html"><![CDATA[I am in love with the sweet, spicy and tangy sauces in vietnam, not only these depicted on the photo. Does anyone have more information on sauces provided at food places?
-    submitted by    /u/skiezovb  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the Global Edition of Bilibili (bilibili.tv) blocked in Vietnam? Can’t seem to access it without a VPN.]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/134cx6s/is_the_global_edition_of_bilibili_bilibilitv/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/134cx6s/is_the_global_edition_of_bilibili_bilibilitv/"/>
-        <updated>2023-05-01T04:49:52.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Kisuzume  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vietnam Google Street View on Google Map]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/134bg03/vietnam_google_street_view_on_google_map/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/134bg03/vietnam_google_street_view_on_google_map/"/>
-        <updated>2023-05-01T03:29:44.000Z</updated>
-        <summary type="html"><![CDATA[Hello, I am planning to visit Vietnam soon for my vacation. I am also interested in exploring the possibility of adding 360-degree videos of public street locations to Google Street View that are currently not available on Google Maps. 
- As of now, I have noticed that only major roads have been filmed and added to Google Street View. However, I am curious about the feasibility of capturing more street locations and making them accessible on Google Maps. I understand that it is important to respect privacy and comply with any laws or regulations regarding photography in public spaces. 
- Therefore, I am seeking information on the legal implications of such a project in Vietnam. Specifically, I am interested in knowing if there are any restrictions on filming in public spaces and if capturing 360-degree videos of public street locations is allowed. I would also like to ensure that the project complies with local laws and respects the privacy of individuals. 
- Thank you for any guidance or information you can provide on this matter!
-    submitted by    /u/DT399  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vietnams rock scene]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/134beyv/vietnams_rock_scene/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/134beyv/vietnams_rock_scene/"/>
-        <updated>2023-05-01T03:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Just got back from my first trip to Vietnam and I found they have a steadily growing rock and hardcore scene. 
-    submitted by    /u/Sunset-Jay  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Vietnamese Student club at my university just posted this]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/134aoda/the_vietnamese_student_club_at_my_university_just/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/134aoda/the_vietnamese_student_club_at_my_university_just/"/>
-        <updated>2023-05-01T02:49:33.000Z</updated>
-        <summary type="html"><![CDATA[Is it common for the VSAs to express their political views on the behalf of the club? Why do they have to be so polarizing?
-    submitted by    /u/chouchou20  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Post your questions & inquiries here! - r/Vietnam monthly random discussion thread - F.A.Q]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13473tu/post_your_questions_inquiries_here_rvietnam/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13473tu/post_your_questions_inquiries_here_rvietnam/"/>
-        <updated>2023-05-01T00:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Lưu ý: Đây là thread chủ yếu dành cho người nước ngoài hoặc không nói tiếng Việt đặt câu hỏi. Nếu có thể, hãy trả lời giúp họ nhé.
- Please read the 3rd rule of the sub. Don't post your general questions & inquiries outside of this thread as they will be removed.
- Lots of your questions have been answered already so make sure you do a search before asking (how-to below).
-  
-To keep this subreddit tidy, we have this monthly thread that is open for random discussions and questions. If you post your basic/general questions outside of this thread they will be removed. Sorry, we want to make this sub friendly but also want it to be clean and organized.
- Some examples of the questions that should be posted here:
-  
-Questions that can be answered with just Yes/No
- Basic questions like "Where can I…]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursed pair of clothes]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/134712v/cursed_pair_of_clothes/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/134712v/cursed_pair_of_clothes/"/>
-        <updated>2023-04-30T23:57:55.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Routine_Storm_9597  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vietnam's cursed images #93]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/1346qhg/vietnams_cursed_images_93/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/1346qhg/vietnams_cursed_images_93/"/>
-        <updated>2023-04-30T23:44:54.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/GodBlessHentai  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smaller areas with nice beaches within a day of Ninh Binh that isn't Ha Long/Bai Tu Long]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13469wb/smaller_areas_with_nice_beaches_within_a_day_of/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13469wb/smaller_areas_with_nice_beaches_within_a_day_of/"/>
-        <updated>2023-04-30T23:25:21.000Z</updated>
-        <summary type="html"><![CDATA[We're debating foregoing Ha Long & Bai Tu Long area in November because we're reading/seeing so much about crowds and karaoke and the cruise/party isn't our thing. We'd rather be more remote.
- We'll be in Ninh Binh towards the end of our time and will have a couple of days we want to spend in the sun & sand. Resort not necessary. The smaller - or homestay-like, the better.
- 2 adults. November. Would appreciate your experience/advice.
-    submitted by    /u/notoriousbsr  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A.R.T. like massage in Hanoi]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/1345tdz/art_like_massage_in_hanoi/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/1345tdz/art_like_massage_in_hanoi/"/>
-        <updated>2023-04-30T23:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone, I'm going to be moving to Hanoi soon and was looking for massage reccomendations. I am dealing with some injurys but have had great success with Active Release Technique (or ART). I was wondering if anyone can reccomend a massage type/parlor that does something similar to this. I know that I probably won't be able to find an ART practicioner while in Hanoi so was wondering what the next best thing may be. For context ART basically involves hitting certain pressure points in soft tissue and manipulating the muscles around them through releases (i know just sounds a regular massage but it's been much more effective than say Thai massages I've had in the past). If anyone has any ideas I'd really appreciate it, thanks!
-    submitted by    /u/Civil_Nefariousness4  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best bar/lounge Ho Chi Minh?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/1345jyb/best_barlounge_ho_chi_minh/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/1345jyb/best_barlounge_ho_chi_minh/"/>
-        <updated>2023-04-30T22:54:09.000Z</updated>
-        <summary type="html"><![CDATA[Looking for a spot for me and my girlfriend to checkout with a dance floor. Every spot we’ve checked out in other cities require a table/booth with minimum spend. Is that also a thing in Ho Chi Minh?
-    submitted by    /u/Silver-Impression261  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you tell which region someone’s from by their last name?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/1345jwp/can_you_tell_which_region_someones_from_by_their/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/1345jwp/can_you_tell_which_region_someones_from_by_their/"/>
-        <updated>2023-04-30T22:54:04.000Z</updated>
-        <summary type="html"><![CDATA[Is there an easy way to tell where someone’s family is from in vietnam (or if they belong to a certain ethnic group, or are chinese-vietnamese) by looking at their last names? in general is there a pattern or indicators for the different regions? or last names that belong to certain groups?
-    submitted by    /u/Sugarcookies18  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are some areas to *definitely* avoid in mid-September?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13451tf/what_are_some_areas_to_definitely_avoid_in/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13451tf/what_are_some_areas_to_definitely_avoid_in/"/>
-        <updated>2023-04-30T22:32:34.000Z</updated>
-        <summary type="html"><![CDATA[I decided to book a spontaneous trip to Hanoi and will land on September 15th. I'm super confused by all the conflicting information online about where to go/not to go due to the rainy season. 
- E.g. I'd love to do Ninh Bing (both Tam Coc and Trang An) but some websites say definitely don't due to typhoons whilst others say it'll be good cos it's the low season. All i've got booked so far are 2 nights in Hanoi and have ~10 more days to plan. I'll be flying out from HMC September 30. 
- Basically where should I definitely avoid?
-    submitted by    /u/myusernamestaken  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gifts for Reunification day?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/1344cg0/gifts_for_reunification_day/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/1344cg0/gifts_for_reunification_day/"/>
-        <updated>2023-04-30T22:02:39.000Z</updated>
-        <summary type="html"><![CDATA[Curious to know if money or gifts are appropriate to give for the holiday? Or is that something that’s reserved for Tet?
-    submitted by    /u/ActAffectionate8439  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello comrades first post here]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13448id/hello_comrades_first_post_here/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13448id/hello_comrades_first_post_here/"/>
-        <updated>2023-04-30T21:58:16.000Z</updated>
-        <summary type="html"><![CDATA[Not sure what Vietnam people think of old war songs just wanted to know what y'all think about Vietnamese war songs https://youtu.be/465XsqgwQ5c
-    submitted by    /u/No_Trifle_1979  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wind Advisory issued April 30 at 2:00PM PDT until April 30 at 10:00PM PDT by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA1266439B37D0.WindAdvisory.126647D42690CA.LOXNPWLOX.1be16b853acfdbb8875fe4e0f4ba4a60</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA1266439B37D0.WindAdvisory.126647D42690CA.LOXNPWLOX.1be16b853acfdbb8875fe4e0f4ba4a60"/>
-        <updated>2023-04-30T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[...WIND ADVISORY REMAINS IN EFFECT UNTIL 10 PM PDT THIS EVENING... * WHAT...Southwest winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Western Antelope Valley Foothills and Eastern Antelope Valley Foothills. * WHEN...Until 10 PM PDT this evening.]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How's this for a 3 week vietnam trip?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/134257b/hows_this_for_a_3_week_vietnam_trip/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/134257b/hows_this_for_a_3_week_vietnam_trip/"/>
-        <updated>2023-04-30T20:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Ho Chi Minh -> 3 days, excursion to Mekong Delta 1 of those days
- Nha Trang -> 2 days
- Da Lat -> 4 days (doing elopement photography here, not really changeable)
- Hue -> 2 days 
- Hanoi -> 6 days, includes Sapa, Ninh Binh, and Ha long Bay, need to figure out how to divide these activities. not sure how much time we'll get in Hanoi. should we remove one of these?
-    submitted by    /u/ProGamerMatt  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-Viet people, how much did you spend on your wedding with a Viet (in Vietnam)]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/133zsy7/nonviet_people_how_much_did_you_spend_on_your/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/133zsy7/nonviet_people_how_much_did_you_spend_on_your/"/>
-        <updated>2023-04-30T18:51:17.000Z</updated>
-        <summary type="html"><![CDATA[My bf (Canadian) and I (Viet) is gonna have a wedding in Vietnam. We both like a cozy wedding and will likely have 90 guests (my family alone is big). Foreigners who had a wedding in Vietnam, how much did you spend and how many guests were there?
-    submitted by    /u/aurora-td  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosmetic surgery in Hanoi recommendation?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/133vvfr/cosmetic_surgery_in_hanoi_recommendation/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/133vvfr/cosmetic_surgery_in_hanoi_recommendation/"/>
-        <updated>2023-04-30T16:08:36.000Z</updated>
-        <summary type="html"><![CDATA[I am looking for recommendations for lower blepharoplasty in or around Hanoi, all opinions are appreciated!!
-    submitted by    /u/Legitimate_Lime_1901  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Must haves for a visit in July]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/133vi75/must_haves_for_a_visit_in_july/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/133vi75/must_haves_for_a_visit_in_july/"/>
-        <updated>2023-04-30T15:54:21.000Z</updated>
-        <summary type="html"><![CDATA[I am visiting my students in July 2023. I will be there for 2 weeks. Is there anything you would not travel there without? Id love any tips or hints. We will be around Ho Chi Minh.
- Also, would a Brita water filter bottle help with the water issue in an emergency? Thank You for any help you can provide. Thankies!
-    submitted by    /u/cdorise  
  [link]   [comments]]]></summary>
         <author>
             <name>Vietnam</name>
