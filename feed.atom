@@ -2,10 +2,301 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lngng.github.io/ross/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-22T01:04:49.044Z</updated>
+    <updated>2023-06-23T01:10:57.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://lngng.github.io/ross/index.html"/>
     <link rel="self" href="https://lngng.github.io/ross/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a ChatGPT Plugin – Case Study using PodcastAPI.com and Serverless Cloudflare Pages]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/"/>
+        <updated>2023-06-22T23:01:49.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT [https://chat.openai.com/] is a highly intelligent auto-completion tool. It takes instructions or questions in natural language and provides good enough text-based outputs.  But there’s a catch — ChatGPT’s knowledge only goes up until September 2021. So, as of writing this blog post (June 2023), the model itself is not aware of]]></summary>
+        <author>
+            <name>Wenbin Fang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Database Read-Only in MySQL]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/"/>
+        <updated>2023-06-22T22:49:49.000Z</updated>
+        <summary type="html"><![CDATA[If you are learning MySQL, then you are likely enjoying executing different commands and checking the results afterward.  But you may be working on a project where you have modified your database to an acceptable state and you're worried about altering it by mistake. This could happen when you're]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intro to Generative AI – 10 Free Courses by Google]]></title>
+        <id>https://www.freecodecamp.org/news/intro-to-generative-ai-10-free-courses-by-google/</id>
+        <link href="https://www.freecodecamp.org/news/intro-to-generative-ai-10-free-courses-by-google/"/>
+        <updated>2023-06-22T22:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Are you tired of all the AI talk yet? I am too, but I'm also intrigued by the technology behind it. If you'd like to dive into some of the details behind how AI actually works and take a break from the many creepy AI examples on the internet, check]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key Computer Science Concepts Every Software Engineer Should Know – and How to Learn Them]]></title>
+        <id>https://www.freecodecamp.org/news/what-every-software-engineer-should-know/</id>
+        <link href="https://www.freecodecamp.org/news/what-every-software-engineer-should-know/"/>
+        <updated>2023-06-22T22:06:46.000Z</updated>
+        <summary type="html"><![CDATA[If you're a software engineer, you may feel like you are in a bit of a rat race.  The rat race to learn the new technologies. A new frontend framework, a new database or even a new language which is a variation of another language. It's never ending and]]></summary>
+        <author>
+            <name>Tamerlan Gudabayev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Gnome Extensions For Developer Productivity]]></title>
+        <id>https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/</id>
+        <link href="https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/"/>
+        <updated>2023-06-22T22:02:31.000Z</updated>
+        <summary type="html"><![CDATA[If you're a beginner who's using a Gnome-based distro like Ubuntu, Fedora, Arch Linux, and so on, there are tons of extensions available from the Gnome community. Gnome is an open-source Linux-based distro desktop environment (operating system) maintained by a large number of developers. Choosing the right Gnome extension(s) can]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Banh Mi in Paris, best of both worlds, had this during the French Open]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14gf93n/banh_mi_in_paris_best_of_both_worlds_had_this/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14gf93n/banh_mi_in_paris_best_of_both_worlds_had_this/"/>
+        <updated>2023-06-22T21:14:19.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/jack_hudson2001  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an AI Tweet Generator Using LangChain]]></title>
+        <id>https://www.freecodecamp.org/news/create-an-ai-tweet-generator-openai-langchain/</id>
+        <link href="https://www.freecodecamp.org/news/create-an-ai-tweet-generator-openai-langchain/"/>
+        <updated>2023-06-22T20:20:04.000Z</updated>
+        <summary type="html"><![CDATA[I've got a fun tutorial for you today. If you've read my previous article on building custom-knowledge chatbots using LangChain [/news/langchain-how-to-create-custom-knowledge-chatbots/], then you must be bursting with ideas of great projects you can create. Well, I want to encourage your creativity and give a concrete example of what you can]]></summary>
+        <author>
+            <name>Shane Duggan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weather in Danang? Rain?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14g710n/weather_in_danang_rain/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14g710n/weather_in_danang_rain/"/>
+        <updated>2023-06-22T15:47:24.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone. I’m scheduling to vist Danang for 4 days next week. The weather forecast is saying that it’ll rain every single day while I’m there. What the rain looks like it Danang? Will it rain hard and long or just pouring down and stop? I’m a bit disappointed with the weather, to be honest. Thank you in advance.
+    submitted by    /u/bvkakalot  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(Hue) Hire grab drivers by the hour]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14g6rwk/hue_hire_grab_drivers_by_the_hour/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14g6rwk/hue_hire_grab_drivers_by_the_hour/"/>
+        <updated>2023-06-22T15:37:25.000Z</updated>
+        <summary type="html"><![CDATA[Hi all, is "Hire grab driver by the hour" service available and widely used in Hue? Thanks.
+    submitted by    /u/swaggyccccc  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buying GoPro in Ha Giang]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14g5wrt/buying_gopro_in_ha_giang/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14g5wrt/buying_gopro_in_ha_giang/"/>
+        <updated>2023-06-22T15:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Anybody know if there’s a store that sells GoPros in Ha Giang or Cao Bang?
+ Thanks!
+    submitted by    /u/Naysauce  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wow the heat!]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14g4mwm/wow_the_heat/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14g4mwm/wow_the_heat/"/>
+        <updated>2023-06-22T14:12:21.000Z</updated>
+        <summary type="html"><![CDATA[Well duh... It's south east Asia in June! 
+ I'm used to colder temperatures (19 Celsius) so hanoi was a big contrast. I like to go about early mornings and it's a lovely city. I was told "oh you'll get used to it". I noticed some of yall seem cool as a cucumber out in the unshaded areas, not a drop of sweat. Then I see others with fans out. Then I see others bolting into air conditioned buildings just drenched. How are y'all handling this heat? I've been handling it by just putting my hair up, going out and about earlier in the mornings, hydrating, fan and something to wipe my sweat up from my vitiligo'd face.
+    submitted by    /u/rocoonshcnoon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wind Advisory issued June 22 at 6:06AM PDT until June 22 at 9:00PM PDT by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12664F0BB1A8.WindAdvisory.12664F199200CA.LOXNPWLOX.5aa686ff5ca29ecbb9060fe3fbfda33c</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12664F0BB1A8.WindAdvisory.12664F199200CA.LOXNPWLOX.5aa686ff5ca29ecbb9060fe3fbfda33c"/>
+        <updated>2023-06-22T13:06:00.000Z</updated>
+        <summary type="html"><![CDATA[...WIND ADVISORY REMAINS IN EFFECT FROM 2 PM THIS AFTERNOON TO 9 PM PDT THIS EVENING... * WHAT...Southwest winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Western Antelope Valley Foothills and Eastern Antelope Valley Foothills.]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Pandas & Python for Data Analysis [Full Course]]]></title>
+        <id>https://www.freecodecamp.org/news/learn-pandas-for-data-science/</id>
+        <link href="https://www.freecodecamp.org/news/learn-pandas-for-data-science/"/>
+        <updated>2023-06-22T12:50:51.000Z</updated>
+        <summary type="html"><![CDATA[Pandas is an open source data analysis and manipulation tool. It is important to learn if you are interested in data science. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Pandas through interactive projects. You will develop 7 projects ranging from]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The number plates that make you soooo prettyyy]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14g26ql/the_number_plates_that_make_you_soooo_prettyyy/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14g26ql/the_number_plates_that_make_you_soooo_prettyyy/"/>
+        <updated>2023-06-22T12:26:47.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/tramendous  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Supabase, an Open-Source Firebase Alternative]]></title>
+        <id>https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/</id>
+        <link href="https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/"/>
+        <updated>2023-06-22T12:20:35.000Z</updated>
+        <summary type="html"><![CDATA[Supabase is an open-source Firebase alternative that is rapidly gaining popularity in the developer community. If you are looking to sharpen their backend skills, consider learning how to use Supabase. We just published a course on the freeCodeCamp.org channel that is designed to help you master Supabase. This course was]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hue motorbike Tour]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14g1yq5/hue_motorbike_tour/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14g1yq5/hue_motorbike_tour/"/>
+        <updated>2023-06-22T12:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Hi, 
+ I’ve signed up for a tour around Hue and surrounding areas tomorrow with a guy who approached us on the street. He had a photo album and multiple books of hand written testimonies, all very positive!
+ I’m now just wondering, was that kind of a dumb thing to do, not going through an official tour operator or is this kind of normal? 
+ Thanks!
+    submitted by    /u/uniquefoil0291  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One month later this year, working, beach life, where is best?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14g175y/one_month_later_this_year_working_beach_life/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14g175y/one_month_later_this_year_working_beach_life/"/>
+        <updated>2023-06-22T11:40:34.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I plan to stay and work (write) in Vietnam for a month. The earliest I can go is mid-October and the latest I can return is the first week of January. I want to mainly stay in one place. I'd really like to hit the beach maybe every second day as well. 
+ Is there any place that will have decent whether in Vietnam during this time, is good for digital nomads (mostly cafes or co-working spaces that are good for laptop -work) and near a beach?
+ I initially had planned to go to Da nang but now read that the weather will be very wet
+    submitted by    /u/AlexandraSolhere  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lương/kinh nghiệm làm việc 4ps pizza]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14g0nko/l%C6%B0%C6%A1ngkinh_nghi%E1%BB%87m_l%C3%A0m_vi%E1%BB%87c_4ps_pizza/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14g0nko/l%C6%B0%C6%A1ngkinh_nghi%E1%BB%87m_l%C3%A0m_vi%E1%BB%87c_4ps_pizza/"/>
+        <updated>2023-06-22T11:12:56.000Z</updated>
+        <summary type="html"><![CDATA[Mình mới ra trường và muốn làm việc trong môi trường dịch vụ tây hóa như 4Ps. Có ai đã từng làm việc ở 4Ps và biết mức lương khởi điểm tính theo giờ cho nhân viên phục vụ bàn bán thời gian nói tiếng Anh là bao nhiêu không? Ở lại và được thăng chức, người quản lý ca hoặc trưởng ca được trả mức lương hàng giờ là bao nhiêu?
+    submitted by    /u/phanlinh98  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Question on currency]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14fxkt6/question_on_currency/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14fxkt6/question_on_currency/"/>
+        <updated>2023-06-22T08:23:38.000Z</updated>
+        <summary type="html"><![CDATA[Are you likely to have a better rate in Vietnam or before you fly in?
+    submitted by    /u/That_Sweet_Science  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Store]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14fw6yc/samsung_store/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14fw6yc/samsung_store/"/>
+        <updated>2023-06-22T07:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Hi r/vietnam. I will be visiting HCM next week and I'm planning to buy a Samsung phone because it's cheaper there than here in the Philippines where I live. I was initially planning to order it online and have it delivered to Bitexco Tower or any nearby branch but I can't proceed with the website order page. From step 2 shipment details, it doesnt proceed to step 3 select payment. So I might just check and buy it in the actual Samsung Store. Is it true that you cannot buy in the Bitexco branch? The other nearest to my hotel is the 134 Nguyen Thai Hoc St. branch. Anyway, can anyone check the latest price of Samsung S23+ in HCM? I just wanted to check if it's the same as the one in store. Also, if this is the wrong sub to post this inquiry, please help me identify the correct one.
+ Since I'm already here, any tips on my upcoming trip? Previously went to Hanoi already. Can anyone perhaps help me identify the correct sequence of how I should plan my route/itinerary to visit the most famous spots in the city? Thanks in advance!
+    submitted by    /u/bingooo123  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Vietnamese word that is an adjective or verb that doesn’t exist in English?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14fw685/what_is_a_vietnamese_word_that_is_an_adjective_or/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14fw685/what_is_a_vietnamese_word_that_is_an_adjective_or/"/>
+        <updated>2023-06-22T07:03:36.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Bathsalttime  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help with explaining “em không biết ăn” to an English speaker]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14fvzwr/help_with_explaining_em_kh%C3%B4ng_bi%E1%BA%BFt_%C4%83n_to_an/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14fvzwr/help_with_explaining_em_kh%C3%B4ng_bi%E1%BA%BFt_%C4%83n_to_an/"/>
+        <updated>2023-06-22T06:54:30.000Z</updated>
+        <summary type="html"><![CDATA[Was talking with my partner about maybe going to a Japanese place to eat with their little brother, but I wasn’t sure if the little brother would necessarily like the place. I then asked, “Does he know how to eat it?”
+ And my partner seemed to be quite confused. They were just kind of like, “Yes, he knows how to use chopsticks?? And you just chew and swallow??”
+ There seems to be some confusion since I directly translated, “Biết ăn không?” into English as opposed to saying something like “Oh would this fit his palette?”
+ So my question is- how would you go about translating/explaining “biết ăn không?” to someone who doesn’t speak Vietnamese?
+    submitted by    /u/jaynonn  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Travel Tips From Cambodia into Vietnam]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14fush1/travel_tips_from_cambodia_into_vietnam/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14fush1/travel_tips_from_cambodia_into_vietnam/"/>
+        <updated>2023-06-22T05:46:47.000Z</updated>
+        <summary type="html"><![CDATA[Hello all!
+ I was wondering if someone could give me some advice on how to get from Siem Reap to Ho Chi Min City? Or what stops would be necessary along the way (like border crossing) to make it without breaking the bank? Options for busses seem pretty limited and but doable price wise, any suggestions would be appreciated!
+    submitted by    /u/Temp-Employ33  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2nd time in Danang and 10th in Vietnam overall. Love it more and more each time.]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14fs9l2/2nd_time_in_danang_and_10th_in_vietnam_overall/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14fs9l2/2nd_time_in_danang_and_10th_in_vietnam_overall/"/>
+        <updated>2023-06-22T03:36:10.000Z</updated>
+        <summary type="html"><![CDATA[I used to be undecided between Thailand and Vietnam but Vietnam takes it easily now. The warmth and welcome of the local people truly makes it more special than any other place.
+    submitted by    /u/Trafalgar_D_Lawe  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[looking for stories about xe ôm]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14fqio1/looking_for_stories_about_xe_%C3%B4m/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14fqio1/looking_for_stories_about_xe_%C3%B4m/"/>
+        <updated>2023-06-22T02:11:14.000Z</updated>
+        <summary type="html"><![CDATA[I’m researching for a documentary on xe ôm culture, alongside the popularity of grab. If anyone has any interesting or memorable experiences with such drivers or know them personally, please share or drop me a PM! thanks so much!
+    submitted by    /u/Norrington6007  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Where can I buy a local newspaper in English in Ho Chi Minh City?]]></title>
         <id>https://www.reddit.com/r/VietNam/comments/14fogld/where_can_i_buy_a_local_newspaper_in_english_in/</id>
@@ -8068,351 +8359,6 @@ Spend the time in South Vietnam, going furthest to muine/nha trang?
         <link href="https://www.reddit.com/r/VietNam/comments/13qml0j/the_model_of_this_power_socket_i_bought_from/"/>
         <updated>2023-05-24T14:00:55.000Z</updated>
         <summary type="html"><![CDATA[submitted by    /u/DogeoftheShibe  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Never drive alcohol if you drink motorbike 🤣]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13ql0gu/never_drive_alcohol_if_you_drink_motorbike/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13ql0gu/never_drive_alcohol_if_you_drink_motorbike/"/>
-        <updated>2023-05-24T13:00:19.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/K4myk4ze  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Musicians Wanted]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13qjf9d/musicians_wanted/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13qjf9d/musicians_wanted/"/>
-        <updated>2023-05-24T11:55:40.000Z</updated>
-        <summary type="html"><![CDATA[I was recently in Vietnam and got to experience a bit of the local Music scene while there would any other musicians want to work on some music or other projects?
- I'm located in Chicago but plan to go back Vietnam in a couple months
-    submitted by    /u/Sunset-Jay  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thrilled to see the UAE Ambassador and Vietnamese Minister of Industry and Trade joining forces to promote sustainable development and innovation. 🌱🚀 Together, we can drive positive change and build a greener, more prosperous future for both nations!🌏]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13qiodm/thrilled_to_see_the_uae_ambassador_and_vietnamese/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13qiodm/thrilled_to_see_the_uae_ambassador_and_vietnamese/"/>
-        <updated>2023-05-24T11:21:00.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/snottypolling830  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[me_irl]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13qgkmy/me_irl/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13qgkmy/me_irl/"/>
-        <updated>2023-05-24T09:23:46.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/mrtmdpro  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Please share the blacklist of worst apartment or crazy house owners in Vietnam]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13qgjwd/please_share_the_blacklist_of_worst_apartment_or/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13qgjwd/please_share_the_blacklist_of_worst_apartment_or/"/>
-        <updated>2023-05-24T09:22:31.000Z</updated>
-        <summary type="html"><![CDATA[: )
-    submitted by    /u/Necessary_Sock_4145  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking for someone I met on a night out in Hanoi]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13qg6g7/looking_for_someone_i_met_on_a_night_out_in_hanoi/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13qg6g7/looking_for_someone_i_met_on_a_night_out_in_hanoi/"/>
-        <updated>2023-05-24T09:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Hello, 
- First of all I spent 6 weeks in Vietnam and absolutely loved it the people are emazing, countryside beautiful as well as amazing food. I would love to revisit and go to the parts I didn't have time to see. 
- Im posting on here because I'm looking for a friend I met on a night out in Hanoi on the 4th May called Patrick who is Swedish. I'm female from the UK, we had a great time when we met but we didn't get chance to exchange any contact details. I think he's still in Vietnam in HCMC, I'm now not. If you're on here hit me up, it would be nice to see what you are up to. Absolute long shot and very unlikely they are on here (I probably won't ever find him.) 
- (I'm not sure if this is allowed on here and I will delete if not. Before I get any hate I understand that there are hundreds and thousands of tourists in Vietnam. Just thought I'd see if I could reconnect)
-    submitted by    /u/Psychological-Ad5642  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursed squid chips]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13qfrxi/cursed_squid_chips/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13qfrxi/cursed_squid_chips/"/>
-        <updated>2023-05-24T08:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Actually not bad, like a poor man's satay. gonna try with something spicier next time
-    submitted by    /u/decentralized_bass  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xanax(Alprazolam) in Vietnam. Where to buy]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13qf7jd/xanaxalprazolam_in_vietnam_where_to_buy/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13qf7jd/xanaxalprazolam_in_vietnam_where_to_buy/"/>
-        <updated>2023-05-24T08:03:06.000Z</updated>
-        <summary type="html"><![CDATA[I live in HCMC D7
- I been to 3 pharmacist and they all didn't have. The staffs seemed like they didn't know what xanax/alprazolam is.
- I have on/off anxiety issues and sometimes i need it to sleep and get through the day. 
- I've taken all the xans i brought back from my country(with prescription)
- I only take small dosage(0.25-0.5mg) and it's not for recreational use fyi.
-    submitted by    /u/Gold_Low_5348  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What do you wish your English teacher had taught you?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13qe0ii/what_do_you_wish_your_english_teacher_had_taught/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13qe0ii/what_do_you_wish_your_english_teacher_had_taught/"/>
-        <updated>2023-05-24T06:55:08.000Z</updated>
-        <summary type="html"><![CDATA[For Vietnamese people who moved abroad - what do you wish your English teacher had taught you? Is there any specific grammar, vocabulary, or pronunciation that comes up a lot in your life now but that you didn't learn in class? 
- I'm an English teacher for adults in HCMC and trying to find useful/interesting topics for my students. :
- I asked some Vietnamese friends and one mentioned the pronunciation of "calendar and lavender" and the use of "ish" (ie 'the party starts at ten-ish'). I'm looking for more examples.
-    submitted by    /u/tomtegubbe  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We were born in Vietnam, are now US citizens, how can I get a copy of my parents' marriage certificate and my birth certificate?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13qa3s9/we_were_born_in_vietnam_are_now_us_citizens_how/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13qa3s9/we_were_born_in_vietnam_are_now_us_citizens_how/"/>
-        <updated>2023-05-24T03:45:07.000Z</updated>
-        <summary type="html"><![CDATA[Parents: Born in Vietnam in 1930s-1940s, got married sometime in the 1980s
- Me: Born in late 1980s
- We immigrated to the USA in the mid 1990s and all became US citizens over the next 10-20 years. I'm trying to resolve a USA pension related issue for my parents and it has been a nightmare because they didn't keep copies of the forms that I need. Pretty much the only significant documentation I've gotten from them is my refugee card and my Certificate of Citizenship.
- I'm tried pretty much everything I can think of to prove their marriage status but unfortunately:
- 1) They never owned property
- 2) They don't have a copy of their last joint tax filing (which would be 2015 or 2016). I'm currently trying to track down where they filed their taxes to see if I can get a copy, I also plan to contact the IRS.
- 3) Social Security doesn't have them listed as each other's spouses even though they did provide me with a form that said my dad would translate for his wife, which is my mom (WHAT THE FUCK)
-    submitted by    /u/Zerole00  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hmmmm 🤔]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13q7ots/hmmmm/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13q7ots/hmmmm/"/>
-        <updated>2023-05-24T01:51:53.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Mr_Papayahead  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Any places where I can find those really cheap / fake clothes?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13q6x75/any_places_where_i_can_find_those_really_cheap/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13q6x75/any_places_where_i_can_find_those_really_cheap/"/>
-        <updated>2023-05-24T01:16:25.000Z</updated>
-        <summary type="html"><![CDATA[edit: forgot to mention I'm in HCMC Often on the internet you see pictures of clothing that is faked so badly that it's funny again or texts I really weird English or trying to mimic certain western cultures but completely misinterpreting them. I was always really intrigued by this I like this unintentional humor and how we often see eastern cultures from a western perspective but the other way around is rarely represented. So any places you would recommend to me to go shopping for "crappy ofbrands"?
-    submitted by    /u/knorxo  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What private car or limousine companies do you guys use?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13q55wz/what_private_car_or_limousine_companies_do_you/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13q55wz/what_private_car_or_limousine_companies_do_you/"/>
-        <updated>2023-05-23T23:58:36.000Z</updated>
-        <summary type="html"><![CDATA[Hello,
- For rides that are long and outside of the city, I plan to use a private car/limousine instead of a bus (I dont think Grab and Taxis are avaialble) . Wondering what the trusted ones are !]
- If it helps, I plan to go to areas outside of the cities like Phong Nha and drive to Da nang.
-    submitted by    /u/badboyzpwns  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[120 Free Online Math Courses from the World’s Top Universities]]></title>
-        <id>https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/</id>
-        <link href="https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/"/>
-        <updated>2023-05-23T22:12:28.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I compiled 120 free online courses offered by the 60 best universities in the world for studying math in 2023. I did so by combining popular university rankings to identify the best institutions, and then I used the Class Central database [https://www.classcentral.com/subjects] to find all their math]]></summary>
-        <author>
-            <name>Manoel Cortes Mendez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vietnam June/July]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13q15s8/vietnam_junejuly/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13q15s8/vietnam_junejuly/"/>
-        <updated>2023-05-23T21:19:44.000Z</updated>
-        <summary type="html"><![CDATA[Hey, going to ho chi Minh this summer (12june) for an internship (4weeks) & for two weeks of travel up north.
- They've said I can do my internship whenever I want, so I can decide when I travel. I don't know if it's best to travel in June 12-30 and then do my internship, or in July (after my internship)..or if there will be any difference at all 
- was hoping I'd be able to hike in sa pa and phong nha. I know it's rainy season,, but I am not sure if this means absolutely no hiking or nature ever, or if it'll just vary day by day ?
- :) I'm excited to live in HCMC
- I'm super keen to spend some time in jungles too--i wanted to do this tour, https://oxalisadventure.com/tour/hang-ba-deep-jungle-expedition/ but it's 2 grand ... Any tips ? If I find a tent and someone cool to come with me, ? 
- Would really appreciate Any advice/comments you have, and if you have any special places to recommend id be very very grateful :)
- Thanks
-    submitted by    /u/Electronic-Hat-9747  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What do in Vietnam with 28 days?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13q0qu2/what_do_in_vietnam_with_28_days/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13q0qu2/what_do_in_vietnam_with_28_days/"/>
-        <updated>2023-05-23T21:04:45.000Z</updated>
-        <summary type="html"><![CDATA[What are things I need to do? For how long? I’d like to stay a bit away from tourists, but I know it’s inevitable for some things like Ha Long Bay.
-    submitted by    /u/quickswitch123  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why are malls and supermarkets in Vietnam so much better and more interesting than in the US?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13pyziv/why_are_malls_and_supermarkets_in_vietnam_so_much/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13pyziv/why_are_malls_and_supermarkets_in_vietnam_so_much/"/>
-        <updated>2023-05-23T20:00:28.000Z</updated>
-        <summary type="html"><![CDATA[There's something about malls/supermarkets in Vietnam that makes me feel like it's more interesting and luxurious. In the US they just feel mainstream and "I go there just to buy stuff" kind of feeling. In Vietnam going to a supermarket is like being on a fun trip. For example a trip to Coop Mart was a lot more fascinating than walking around in Walmart. Maybe because I was young and poor so memories were more fond?
- ** Ok so I'm probably wrong about the malls. But what about the supermarkets? Is it fair to compare Walmart, Target and Costco to Coop Mart and Lotte Mart?
-    submitted by    /u/TiffanyHenry-Bryant  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Stream File Uploads to S3 Object Storage and Reduce Costs]]></title>
-        <id>https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/</id>
-        <link href="https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/"/>
-        <updated>2023-05-23T19:51:05.000Z</updated>
-        <summary type="html"><![CDATA[To support file uploads in your application, you will have to learn how to send files from the frontend [https://austingil.com/uploading-files-with-html/] and  receive files on the backend [https://austingil.com/file-uploads-in-node/].  This tutorial is going to take a step back and explore architectural changes that'll help you reduce costs when adding file]]></summary>
-        <author>
-            <name>Austin Gil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[this never gets old]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13py84i/this_never_gets_old/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13py84i/this_never_gets_old/"/>
-        <updated>2023-05-23T19:31:50.000Z</updated>
-        <summary type="html"><![CDATA[​
- https://preview.redd.it/86e73kuvum1b1.jpg?width=1280&format=pjpg&auto=webp&s=38bf220fbff89eed3cf0e855b96e0bc43faddac3
-    submitted by    /u/maainguyyen  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where To Buy A Bonsai Tree]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13pwxls/where_to_buy_a_bonsai_tree/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13pwxls/where_to_buy_a_bonsai_tree/"/>
-        <updated>2023-05-23T18:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone,
- Does anyone know of where I could get a bonsai tree in Saigon? 
- I’ve seen sellers on the sides of the road in areas like D12, Đào Tiên, and a few others spots but they’re hit or miss on what they have or if the trees are real, so I want to see if anyone here knows where to snag a good deal on a bonsai tree.
-    submitted by    /u/BungMyPung  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing a drone into the country for travel]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13pvwix/bringing_a_drone_into_the_country_for_travel/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13pvwix/bringing_a_drone_into_the_country_for_travel/"/>
-        <updated>2023-05-23T18:03:42.000Z</updated>
-        <summary type="html"><![CDATA[Hi r/VietNam, I have heard people getting their drone confiscated at Danang Intl. airport. I have alos heard people not getting a response from the office that is responsible for drone permits. I have a DJI mini drone and am wondering where I can apply for a permit (at least try to) and if I should be worried about getting my drone confiscated. I know there are other posts about this but i haven't got a definitive answer yet. Thanks for any help.
- Edit 1: I should also add that I do not plan to fly in, or close to any city, police or goverment building.
-    submitted by    /u/realtimewastaken  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In HCMC for a bit, anything I should look into if my interests are gaming, tech, or anime related?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13puwr8/in_hcmc_for_a_bit_anything_i_should_look_into_if/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13puwr8/in_hcmc_for_a_bit_anything_i_should_look_into_if/"/>
-        <updated>2023-05-23T17:25:44.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Al37  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are you familiar with this image? Tell me?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13pt7v2/are_you_familiar_with_this_image_tell_me/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13pt7v2/are_you_familiar_with_this_image_tell_me/"/>
-        <updated>2023-05-23T16:22:21.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/ThienMocNowhere  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rabies immunoglobulin in Hanoi?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13pr4xs/rabies_immunoglobulin_in_hanoi/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13pr4xs/rabies_immunoglobulin_in_hanoi/"/>
-        <updated>2023-05-23T15:05:09.000Z</updated>
-        <summary type="html"><![CDATA[Does anyone know where I can get a dose of rabies immunoglobulin in Hanoi? 
- I just got bitten by a dog today in Sapa. I got the first dose of the Abhayrab vaccine immediately (about 1 hour) after being bit. But the hospital here didn’t have immunoglobulin. Planning to head back to Hanoi tomorrow to try and find it. 
- Thanks
-    submitted by    /u/haraharabusiness  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use RabbitMQ with NodeJS to Send and Receive Messages]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/"/>
-        <updated>2023-05-23T14:45:51.000Z</updated>
-        <summary type="html"><![CDATA[If you're exploring the world of distributed systems and real-time data pipelines, you've probably come across the concept of message queues.  There are a number of tools in this field, but RabbitMQ and Apache Kafka are two of the most popular. While both are robust and reliable, they have]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninh Binh is terrible]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13pppja/ninh_binh_is_terrible/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13pppja/ninh_binh_is_terrible/"/>
-        <updated>2023-05-23T14:11:21.000Z</updated>
-        <summary type="html"><![CDATA[So many locals are constantly burning stuff like leaves, plastic, and other garbage. The air here is full of smog and is seriously unhealthy. Nature can’t be enjoyed like this at all.
-    submitted by    /u/Frankicks  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Any BLINKS here?]]></title>
-        <id>https://www.reddit.com/r/VietNam/comments/13pponm/any_blinks_here/</id>
-        <link href="https://www.reddit.com/r/VietNam/comments/13pponm/any_blinks_here/"/>
-        <updated>2023-05-23T14:10:26.000Z</updated>
-        <summary type="html"><![CDATA[I've heard rumors of Blackpink coming to Vietnam in March 2024 so I did some digging I found a video from Bao Tuoi Tre News stating such as well and I've heard it first hand from my niece who lives in Vietnam anyone know this is official or have any truth to it? Trying to see if I should go to the one in March as I went to the Dallas opening show and it was lit af
- ​
- Heres the link to the youtube video: https://www.youtube.com/watch?v=0A_fjdStW3Y
-    submitted by    /u/ResponsibleWolf5913  
  [link]   [comments]]]></summary>
         <author>
             <name>Vietnam</name>
