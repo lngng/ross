@@ -12,6 +12,86 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.HeatAdvisory.126654881A90CA.LOXNPWLOX.234d29b2550536cf4953fd2d719e24fa",
+          "author": null,
+          "description": "...HEAT ADVISORY REMAINS IN EFFECT FROM 10 AM THURSDAY TO 10 AM PDT FRIDAY... ...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING...",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.HeatAdvisory.126654881A90CA.LOXNPWLOX.234d29b2550536cf4953fd2d719e24fa",
+          "publishedOn": "2023-07-12T16:19:00.000Z",
+          "wordCount": 400,
+          "title": "Heat Advisory issued July 12 at 9:19AM PDT until July 14 at 10:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654B433A0CA.LOXNPWLOX.305fb1f8519ca2fa3dc45b7f6dc8dd68",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM FRIDAY MORNING THROUGH SUNDAY EVENING... * WHAT...Dangerously hot conditions with temperatures up to 107 possible. * WHERE...Lake Casitas, Ojai Valley, Central Ventura County Valleys, Calabasas and Agoura Hills, Southeastern Ventura",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654B433A0CA.LOXNPWLOX.305fb1f8519ca2fa3dc45b7f6dc8dd68",
+          "publishedOn": "2023-07-12T16:19:00.000Z",
+          "wordCount": 253,
+          "title": "Excessive Heat Watch issued July 12 at 9:19AM PDT until July 16 at 11:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654B433A0CA.LOXNPWLOX.563db425eba142e882a968ae074d935c",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM FRIDAY MORNING THROUGH SUNDAY EVENING... * WHAT...Dangerously hot conditions with temperatures up to 105 possible. * WHERE...Western Santa Monica Mountains Recreational Area and Eastern Santa Monica Mountains Recreational Area.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654B433A0CA.LOXNPWLOX.563db425eba142e882a968ae074d935c",
+          "publishedOn": "2023-07-12T16:19:00.000Z",
+          "wordCount": 224,
+          "title": "Excessive Heat Watch issued July 12 at 9:19AM PDT until July 16 at 11:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654B433A0CA.LOXNPWLOX.4ac962f39422128ebab5b9d9ccbd8885",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM FRIDAY MORNING THROUGH SUNDAY EVENING... * WHAT...Dangerously hot conditions with temperatures up to 108 possible. * WHERE...Western San Fernando Valley, Eastern San Fernando Valley and Los Angeles County San Gabriel Valley.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654B433A0CA.LOXNPWLOX.4ac962f39422128ebab5b9d9ccbd8885",
+          "publishedOn": "2023-07-12T16:19:00.000Z",
+          "wordCount": 230,
+          "title": "Excessive Heat Watch issued July 12 at 9:19AM PDT until July 16 at 11:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWarning.126654B5E150CA.LOXNPWLOX.b32e345949800a151c1f45c378455a24",
+          "author": null,
+          "description": "...HEAT ADVISORY REMAINS IN EFFECT FROM 10 AM THURSDAY TO 10 AM PDT FRIDAY... ...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING...",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWarning.126654B5E150CA.LOXNPWLOX.b32e345949800a151c1f45c378455a24",
+          "publishedOn": "2023-07-12T16:19:00.000Z",
+          "wordCount": 402,
+          "title": "Excessive Heat Warning issued July 12 at 9:19AM PDT until July 17 at 10:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWarning.126654B5E150CA.LOXNPWLOX.6f9a0e105d2a344c3630ca288dc7a933",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING... * WHAT...For the Excessive Heat Warning, dangerously hot conditions with high temperatures between 103 and 113 expected",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWarning.126654B5E150CA.LOXNPWLOX.6f9a0e105d2a344c3630ca288dc7a933",
+          "publishedOn": "2023-07-12T16:19:00.000Z",
+          "wordCount": 345,
+          "title": "Excessive Heat Warning issued July 12 at 9:19AM PDT until July 17 at 10:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654C375E0CA.LOXNPWLOX.f3f129ae679bc5b733adb8418d8665c1",
+          "author": null,
+          "description": "...HEAT ADVISORY REMAINS IN EFFECT FROM 10 AM THURSDAY TO 10 AM PDT FRIDAY... ...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING...",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654C375E0CA.LOXNPWLOX.f3f129ae679bc5b733adb8418d8665c1",
+          "publishedOn": "2023-07-12T16:19:00.000Z",
+          "wordCount": 402,
+          "title": "Excessive Heat Watch issued July 12 at 9:19AM PDT until July 17 at 11:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654C375E0CA.LOXNPWLOX.5759f822f07b6747ee1d4bbd65a390dc",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING... * WHAT...For the Excessive Heat Warning, dangerously hot conditions with high temperatures between 103 and 113 expected",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654C375E0CA.LOXNPWLOX.5759f822f07b6747ee1d4bbd65a390dc",
+          "publishedOn": "2023-07-12T16:19:00.000Z",
+          "wordCount": 345,
+          "title": "Excessive Heat Watch issued July 12 at 9:19AM PDT until July 17 at 11:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266545ADC88.HeatAdvisory.126654881A90CA.LOXNPWLOX.234d29b2550536cf4953fd2d719e24fa",
           "author": null,
           "description": "...HEAT ADVISORY IN EFFECT FROM 10 AM THURSDAY TO 10 AM PDT FRIDAY... ...EXCESSIVE HEAT WARNING IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING...",
@@ -418,6 +498,216 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14y6cgh/street_interview_youtube_channels/",
+          "author": null,
+          "description": "I'm mainly looking for listening practice. I've looked for a bit, but haven't found any street interview channels that are consistent or have recently uploaded.\n    submitted by    /u/iamyeezyy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14y6cgh/street_interview_youtube_channels/",
+          "publishedOn": "2023-07-13T01:04:58.000Z",
+          "wordCount": 2456,
+          "title": "Street Interview YouTube Channels?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14y4r8f/tipping_expectations_in_vn/",
+          "author": null,
+          "description": "Could someone outline some general rules when and for what service a tip is expected or not expected in vn ?\n From my experience, restaurant tips are definitely not expected. Taxi drivers, grab deliveries: sometime, e.g. when you let them wait for too long. How about hotel people, airport people, rental agents, barbers, etc …\n    submitted by    /u/Temporary-Smell-4321  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14y4r8f/tipping_expectations_in_vn/",
+          "publishedOn": "2023-07-12T23:47:49.000Z",
+          "wordCount": 2486,
+          "title": "Tipping expectations in Vn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14y448x/anyone_have_a_good_recipe_for_this_the_restaurant/",
+          "author": null,
+          "description": "submitted by    /u/davediggity  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14y448x/anyone_have_a_good_recipe_for_this_the_restaurant/",
+          "publishedOn": "2023-07-12T23:20:25.000Z",
+          "wordCount": 2468,
+          "title": "Anyone have a good recipe for this? The restaurant that made it (Minh Anh in Cleveland) closed when the owners retired and sold the lot to developers. I can't find it anywhere.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14y2jxv/going_to_vietnam_soongood_gift_idea_for_an_older/",
+          "author": null,
+          "description": "I'm soon going to Vietnam to visit a friend, but I want to bring something special for his mother...an older woman in her late 60's, little schooling, who has spent much of her life working in the rice fields. Any interesting suggestions...something that might not take up too much room on a carry on bag? What might she appreciate and/or actually use? Maybe it would be better to find something in Vietnam for her that would be appropriate? \n    submitted by    /u/Ufftaaa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14y2jxv/going_to_vietnam_soongood_gift_idea_for_an_older/",
+          "publishedOn": "2023-07-12T22:18:39.000Z",
+          "wordCount": 2515,
+          "title": "Going to Vietnam soon...good gift idea for an older lady?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14y1f6s/vietnamese_coconut_chicken_curry_c%C3%A0_ri_g%C3%A0_homemade/",
+          "author": null,
+          "description": "submitted by    /u/jack_hudson2001  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14y1f6s/vietnamese_coconut_chicken_curry_c%C3%A0_ri_g%C3%A0_homemade/",
+          "publishedOn": "2023-07-12T21:34:38.000Z",
+          "wordCount": 2433,
+          "title": "Vietnamese Coconut Chicken Curry (Cà Ri Gà) [homemade]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14y0jec/do_you_wait_to_be_seated_at_restaurant/",
+          "author": null,
+          "description": "When you go to a Vietnamese restaurant do you stand at the door and wait to be seated or do you just go in and sit wherever you like?\n In the US we always wait to be seated unless there is a sign that says \"seat yourself\".\n I'm a bit awkward so I don't want to just stand at the door like a moron waiting to be seated if I'm supposed to just seat myself anywhere.\n    submitted by    /u/Anal-Apple184  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14y0jec/do_you_wait_to_be_seated_at_restaurant/",
+          "publishedOn": "2023-07-12T21:00:52.000Z",
+          "wordCount": 2511,
+          "title": "Do you wait to be seated at restaurant?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14y0ha4/do_you_leave_a_tip_in_your_hotel_room/",
+          "author": null,
+          "description": "In the US, we always leave a few bucks in our hotel room for the maid when we checkout. \n Do we do the same in Vietnam?\n    submitted by    /u/Anal-Apple184  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14y0ha4/do_you_leave_a_tip_in_your_hotel_room/",
+          "publishedOn": "2023-07-12T20:58:39.000Z",
+          "wordCount": 2462,
+          "title": "Do you leave a tip in your hotel room?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14xyhb1/looking_for_most_popular_holy_books_of_vietnamese/",
+          "author": null,
+          "description": "I am looking for most popular holy books among ethnic Vietnamese people especially following Vietnamese folk religion, Mahayama Buddhism, Taoism etc. And are these books published in Vietnamese in Roman script ?\n    submitted by    /u/srmndeep  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14xyhb1/looking_for_most_popular_holy_books_of_vietnamese/",
+          "publishedOn": "2023-07-12T19:41:39.000Z",
+          "wordCount": 2468,
+          "title": "Looking for most popular holy books of Vietnamese people",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14xqed5/no_one_buy_black_pink_concert_ticket_ticket/",
+          "author": null,
+          "description": "Black Pink concert ticket were quickly sold out although IME, the organizers of the concert, was supporting the 9 dash map. Vietnamese express their disapointed with Vietnamese youth on every chanel. Just 1 day later people found out how tickets was sold out. 🤣 https://vietnamnet.vn/phe-ve-concert-blackpink-dieu-dung-can-rang-ban-thao-cat-lo-2163935.html\n    submitted by    /u/The_nobleliar  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14xqed5/no_one_buy_black_pink_concert_ticket_ticket/",
+          "publishedOn": "2023-07-12T14:39:00.000Z",
+          "wordCount": 2484,
+          "title": "No one buy Black pink concert ticket. Ticket hoader crying for help.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14xp5g7/does_your_post_cards_letter_get_lost_in_vietnam/",
+          "author": null,
+          "description": "I noticed that my postcard and letter gets lost in Vietnam often. However if I Registered the letter, it get delivers.\n    submitted by    /u/gav1n_n6  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14xp5g7/does_your_post_cards_letter_get_lost_in_vietnam/",
+          "publishedOn": "2023-07-12T13:50:22.000Z",
+          "wordCount": 2458,
+          "title": "Does your post cards & letter get lost in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14xovs3/soil_pollution/",
+          "author": null,
+          "description": "Currently, all over the world are having a headache about the problem of underground pollution. The cause is caused by human production activities such as the use of chemical drugs into the ground too much.Causing the phenomenon of barren land cannot be reused and that land becomes dead land. With the current population growth, the food problem is also a major problem, if the land cannot be reused, it will cause food shortage problems, and may also cause groundwater pollution in the underground.\n    submitted by    /u/DragonflySilent6453  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14xovs3/soil_pollution/",
+          "publishedOn": "2023-07-12T13:39:17.000Z",
+          "wordCount": 2514,
+          "title": "Soil pollution",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14xnyj8/which_direction_to_ride_the_train/",
+          "author": null,
+          "description": "Hello all!\n I hope you're well.\n I'm going to be in Vietnam for a few weeks in August and I was thinking of catching a train in a direction, for the experience of having done it. \n But I find myself stuck on which direction to go! I'm thinking of Hà Nội to Đà Nẵng or the other way around. What do you think? \n    submitted by    /u/PopeCaptain  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14xnyj8/which_direction_to_ride_the_train/",
+          "publishedOn": "2023-07-12T13:00:51.000Z",
+          "wordCount": 2494,
+          "title": "Which direction to ride the train?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14xnxb2/%C4%91au_vai_c%E1%BB%95_kh%C3%A1m_%E1%BB%9F_%C4%91%C3%A2u/",
+          "author": null,
+          "description": "Chả là mình bị đau vai cổ gáy mấy năm nay, có thử 1 lần khám đông y nhưng ko cải thiện, 1 lần qua tây y cũng không. Có ai từng có trải nghiệm chữa bệnh thành công không cho mình xin lời khuyên nên khám ở đâu với. Cám ơn\n    submitted by    /u/DonkeyHopeful7346  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14xnxb2/%C4%91au_vai_c%E1%BB%95_kh%C3%A1m_%E1%BB%9F_%C4%91%C3%A2u/",
+          "publishedOn": "2023-07-12T12:59:36.000Z",
+          "wordCount": 2485,
+          "title": "Đau vai cổ khám ở đâu?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14xnwq9/m%E1%BB%8Di_ng%C6%B0%E1%BB%9Di_ngh%C4%A9_sao_v%E1%BB%81_c%C6%A1_h%E1%BB%99i_vi%E1%BB%87c_l%C3%A0m_c%E1%BB%A7a_ng%C3%A0nh/",
+          "author": null,
+          "description": "Mình đang chuẩn bị vào chuyên ngành kĩ thuật phần mềm nhưng nhận thấy sự chạy theo ồ ạt về số lượng người theo học đi cùng với đó là việc tuyển nhân sự ngành này ngày càng đi xuống thì mình muốn chuyển sang ngành ai hoặc big data mọi người cho mình xin ý kiến được không\n    submitted by    /u/Expensive-Comb-7174  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14xnwq9/m%E1%BB%8Di_ng%C6%B0%E1%BB%9Di_ngh%C4%A9_sao_v%E1%BB%81_c%C6%A1_h%E1%BB%99i_vi%E1%BB%87c_l%C3%A0m_c%E1%BB%A7a_ng%C3%A0nh/",
+          "publishedOn": "2023-07-12T12:59:01.000Z",
+          "wordCount": 2504,
+          "title": "Mọi người nghĩ sao về cơ hội việc làm của ngành ai và big data tại việt nam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14xm3kt/my_favorite_hideaway/",
+          "author": null,
+          "description": "submitted by    /u/lanhuevietnam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14xm3kt/my_favorite_hideaway/",
+          "publishedOn": "2023-07-12T11:38:13.000Z",
+          "wordCount": 2439,
+          "title": "My favorite hideaway",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14xliyw/vietnamese_paypal/",
+          "author": null,
+          "description": "HI, I need an app to link a foreign card to it and make payments cashless payments, such as sending money from my foreign bank card to Vietnamese nationals' bank accounts.\n Asked some wallets such as Momo and Vnpay, they support only Vietnamese cards.\n Tried Paypal the fee is ~34% (took 0.34$ from 1.00$ test payment, also put the amount on hold for the reciever), so I'm looking for cheaper options.\n    submitted by    /u/Exotic-Stock  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14xliyw/vietnamese_paypal/",
+          "publishedOn": "2023-07-12T11:11:49.000Z",
+          "wordCount": 2501,
+          "title": "Vietnamese Paypal ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14xi6pk/is_this_a_scam/",
+          "author": null,
+          "description": "Hello friends\n I will be visiting Hanoi in September. I am looking to book a cruise to Halong Bay. I can see that there are loads of cruise operators and website advertising this. How do we check if they are legit, and what scams should we look out for? The reason why I am asking and abit weary is when I booked my hotel, my phone has been getting messages non stop from the hotel, telling us to book a tour with them instead and warning of scams from other operators.\n I am interested in this tour company is anybody able to tell me if it’s legit?\n https://www.cruisehalongbay.com\n I have attached some screenshots about some registration number that this business posses.\n Thank you very much!\n    submitted by    /u/Lomaikai131  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14xi6pk/is_this_a_scam/",
+          "publishedOn": "2023-07-12T08:23:03.000Z",
+          "wordCount": 2556,
+          "title": "Is this a scam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14xfxaz/what_is_appropriate/",
+          "author": null,
+          "description": "I am traveling in vietnam for the first time and I am overwhelmed by the country, the people and their warmth and friendliness and the food. Now I was a few nights in a cute homestay. I wanted to extend this by one night, but I could not, because the room has already been booked again. Now they have offered me a small apartment, which I gratefully accepted. I was brought there by a friend of the owner with the motorcycle (about 10 minutes drive). When I asked her how much I should pay for the ride, she replied that she wanted nothing. Tomorrow I will leave this apartment again. Now my question to you: should I leave her the money for the ride tomorrow or just a small tip for the apartment? If so, how much would be appropriate? Thanks a lot!\n    submitted by    /u/dontknow19639  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14xfxaz/what_is_appropriate/",
+          "publishedOn": "2023-07-12T06:15:52.000Z",
+          "wordCount": 2573,
+          "title": "What is appropriate?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14xfu70/how_common_and_severe_is_dedovshchina_within_the/",
+          "author": null,
+          "description": "Every time when the yearly mass military recruitment wave is approaching, people would bring up this topic to debate but after 1 or 2 weeks it'd fade away. Supposedly it's a major reason for people to bribe out of the service and funny enough it's actually easy to avoid the mandatory calling.\n    submitted by    /u/RollingTissues  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14xfu70/how_common_and_severe_is_dedovshchina_within_the/",
+          "publishedOn": "2023-07-12T06:11:06.000Z",
+          "wordCount": 2489,
+          "title": "How common and severe is Dedovshchina within the Vietnamese military?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14xdips/sting_identification/",
+          "author": null,
+          "description": "My friend got this sting 5 minutes ago, felt very sharp pain is going away after 5 mins but is still sore. It happened on this garden terrace in Sapa. \n Does anyone know what it could be and if he should be worried\n    submitted by    /u/Illustrious-Try7609  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14xdips/sting_identification/",
+          "publishedOn": "2023-07-12T04:09:00.000Z",
+          "wordCount": 2472,
+          "title": "Sting identification",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14xan89/bank_for_foreigners_in_vietnam/",
+          "author": null,
+          "description": "What do you recommend as bank for foreigners that can do money transfers to international accounts via their online platform? Because I'm so done with HSBC.\n I've been with HSBC for 4 years now for my salary account and their customer service is utterly disgusting. After 4 calls, 12 emails and a visit to the bank, they still aren't able to address my concern. My credit card will be blocked two days from now, and I had submitted all the documents 2 weeks before, but they still aren't processing it. All the email replies are canned templates and calling their hotlines cost a lot because it's just recorded music. The customer service representatives are clueless and they just keep repeating what is written on the website, and not answering my questions. It's so tiring to talk with them.\n No wonder they have mostly 1 star reviews on Google. All 206 reviews averaged to 1.7. What a joke for an \"international\" bank.\n I'm checking Citibank and Shinhan Bank, what do you guys recommend?\n    submitted by    /u/0192837465sfd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14xan89/bank_for_foreigners_in_vietnam/",
+          "publishedOn": "2023-07-12T01:59:49.000Z",
+          "wordCount": 2604,
+          "title": "Bank for Foreigners in Vietnam",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/14x8zxp/what_are_your_most_hated_things_about_motorbike/",
           "author": null,
@@ -6126,6 +6416,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/",
+          "author": "Quincy Larson",
+          "description": "We're bringing you a new season of insights from developers, entrepreneurs, and ambitious people getting into tech. I'm Quincy Larson, the teacher who founded freeCodeCamp.org. And I've been running around Dallas, San Francisco, and New York City interviewing fascinating people. And I'm excited to share these interviews with you. It's",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/",
+          "publishedOn": "2023-07-12T23:21:41.000Z",
+          "wordCount": 1234,
+          "title": "The freeCodeCamp Podcast Season #2: Quincy's Back to Interview Devs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/venti-views-R64qgQ6rr_o-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-arrays-work-in-python/",
+          "author": "David Fagbuyiro",
+          "description": "In this tutorial, you'll learn what an array is in Python. You'll also learn some possible ways to add elements to an existing array.  In Python, there is no need to use a specific data type for arrays. You can simply use a list with all the attributes of",
+          "link": "https://www.freecodecamp.org/news/how-arrays-work-in-python/",
+          "publishedOn": "2023-07-12T22:19:23.000Z",
+          "wordCount": 2119,
+          "title": "How Arrays Work in Python – Array Methods Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-andreas-fickl-4405941.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/",
+          "author": "Destiny Erhabor",
+          "description": "Building and publishing Docker images is a crucial aspect of modern software development. The traditional approach often involves writing complex Dockerfiles and managing dependencies. But in this tutorial post, I'll show you a simpler way that uses the Pack CLI. PackCLI leverages Cloud Native Buildpacks to transform your application source",
+          "link": "https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/",
+          "publishedOn": "2023-07-12T21:55:00.000Z",
+          "wordCount": 1667,
+          "title": "How to Automate Docker Image Building and Publishing with Pack CLI and GitHub Actions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-jiyoung-kim-4513940.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/",
+          "author": "Emmanuel Ohans",
+          "description": "Astro is a new UI framework that's designed for speed. And if you want to learn how to use it, you've come to the right place.  Table of Contents   1.  Introduction   2.  Chapter 1: Build your first Astro Application   3.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/",
+          "publishedOn": "2023-07-12T20:58:29.000Z",
+          "wordCount": 54606,
+          "title": "How to Use the Astro UI Framework [Full Book]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/large-heading.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/",
+          "author": "Hikmah Olawore",
+          "description": "Natural Language Processing (NLP) is a branch of Machine learning (ML) that is focused on making computers understand the human language. It is used to create language models, language translation apps like Google translate, and virtual assistants, among other things. This article takes you through one of the most basic",
+          "link": "https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/",
+          "publishedOn": "2023-07-12T14:31:24.000Z",
+          "wordCount": 2054,
+          "title": "NLP Tutorial – Text Pre-Processing Techniques for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/NLP-6.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/",
+          "author": "Bala Priya C",
+          "description": "When working with arrays, you’ll often have to search through them to check if they contain a target element. You can always run a sequential search—scanning the array from the beginning to the end—on the array. But if the array is sorted, running the binary search algorithm is much more",
+          "link": "https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/",
+          "publishedOn": "2023-07-12T14:26:58.000Z",
+          "wordCount": 1564,
+          "title": "Binary Search – Algorithm and Time Complexity Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/cover-img-search.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/",
           "author": "Yazdun Fadali",
           "description": "In today's JavaScript landscape, TypeScript is gaining more and more popularity. And React developers are starting to use it more and more. If you're a React developer looking to explore TypeScript or enhance your skills with it, this handbook is just for you. I'll guide you through using TypeScript in",
@@ -6754,56 +7104,6 @@
           "wordCount": 1520,
           "title": "Microsoft Power Platform Fundamentals Certification (PL-900) – Pass the Exam With This Free 4-Hour Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/powerfund.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/ai-in-google-sheets/",
-          "author": "Eamonn Cottrell",
-          "description": "It seems to be the year of AI. And my favorite tool, Google Sheets, is not to be left out of the fun. 🎉 Coefficient [https://coefficient.io/gpt-google-sheets] produced a Google sheets extension with the ability to use OpenAI's GPT models from within a spreadsheet. It’s called GPT Copilot and it’s available",
-          "link": "https://www.freecodecamp.org/news/ai-in-google-sheets/",
-          "publishedOn": "2023-06-12T22:10:01.000Z",
-          "wordCount": 1919,
-          "title": "AI in Google Sheets – How to Use GPT Copilot",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/ai-in-google-sheets-thumb.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-simplify-database-operations-using-mysql-stored-procedures/",
-          "author": "Arunachalam B",
-          "description": "In the realm of database management, MySQL has emerged as one of the most popular and reliable choices.  MySQL not only offers robust data storage capabilities but also provides a powerful feature called \"procedures\" that allows developers to streamline complex database operations.  In this tutorial, we will delve",
-          "link": "https://www.freecodecamp.org/news/how-to-simplify-database-operations-using-mysql-stored-procedures/",
-          "publishedOn": "2023-06-12T22:05:52.000Z",
-          "wordCount": 2197,
-          "title": "How to Use MySQL Stored Procedures to Simplify Database Operations",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/How-to-use-Mysql-procedure-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/upgrade-your-react-skills/",
-          "author": "Moyosore J Olaojo",
-          "description": "Since its announcement in 2013, React.js continues to be one of the most widely used JavaScript tools, thanks to its unmatched versatility and efficiency.  Backed by its component-based architecture and virtual DOM implementation, React.js excels in building modern and dynamic web applications. It enables developers to create reusable UI",
-          "link": "https://www.freecodecamp.org/news/upgrade-your-react-skills/",
-          "publishedOn": "2023-06-12T21:12:01.000Z",
-          "wordCount": 2683,
-          "title": "How to Upgrade Your React Skills with Three Helpful Tools",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/image_6483441.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/",
-          "author": "Kelvin Moses",
-          "description": "File uploading is a common requirement in web development projects. But handling file uploads in Node.js can be complex and time-consuming. That's where Multer comes in.  Multer is a powerful middleware for Node.js that simplifies the file upload process by handling multipart/form-data requests. In this tutorial, you will learn",
-          "link": "https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/",
-          "publishedOn": "2023-06-12T21:05:14.000Z",
-          "wordCount": 1940,
-          "title": "How to Streamline Your File Upload Process in Express.js with Multer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/file-stream.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/improve-tech-writing-skills-by-contributing-to-open-source/",
-          "author": "CHRISTINE T. BELZIE",
-          "description": "Have you been writing your tech blog posts on Hashnode [https://hashnode.com/about] or Dev.to [http://dev.to/], but you're itching to try something new? If so, there is something that can quench your thirst: contributing to open source.  I know, I know, you’ve probably heard “Contribute to open source!” countless times in",
-          "link": "https://www.freecodecamp.org/news/improve-tech-writing-skills-by-contributing-to-open-source/",
-          "publishedOn": "2023-06-12T18:15:16.000Z",
-          "wordCount": 2157,
-          "title": "How to Improve Your Technical Writing Skills by Contributing to Open Source Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Cover-image--2-.png"
         }
       ]
     }

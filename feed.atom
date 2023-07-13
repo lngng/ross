@@ -2,10 +2,417 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lngng.github.io/ross/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-12T01:10:57.008Z</updated>
+    <updated>2023-07-13T01:13:22.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://lngng.github.io/ross/index.html"/>
     <link rel="self" href="https://lngng.github.io/ross/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Street Interview YouTube Channels?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14y6cgh/street_interview_youtube_channels/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14y6cgh/street_interview_youtube_channels/"/>
+        <updated>2023-07-13T01:04:58.000Z</updated>
+        <summary type="html"><![CDATA[I'm mainly looking for listening practice. I've looked for a bit, but haven't found any street interview channels that are consistent or have recently uploaded.
+    submitted by    /u/iamyeezyy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tipping expectations in Vn]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14y4r8f/tipping_expectations_in_vn/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14y4r8f/tipping_expectations_in_vn/"/>
+        <updated>2023-07-12T23:47:49.000Z</updated>
+        <summary type="html"><![CDATA[Could someone outline some general rules when and for what service a tip is expected or not expected in vn ?
+ From my experience, restaurant tips are definitely not expected. Taxi drivers, grab deliveries: sometime, e.g. when you let them wait for too long. How about hotel people, airport people, rental agents, barbers, etc …
+    submitted by    /u/Temporary-Smell-4321  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The freeCodeCamp Podcast Season #2: Quincy's Back to Interview Devs]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/"/>
+        <updated>2023-07-12T23:21:41.000Z</updated>
+        <summary type="html"><![CDATA[We're bringing you a new season of insights from developers, entrepreneurs, and ambitious people getting into tech. I'm Quincy Larson, the teacher who founded freeCodeCamp.org. And I've been running around Dallas, San Francisco, and New York City interviewing fascinating people. And I'm excited to share these interviews with you. It's]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone have a good recipe for this? The restaurant that made it (Minh Anh in Cleveland) closed when the owners retired and sold the lot to developers. I can't find it anywhere.]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14y448x/anyone_have_a_good_recipe_for_this_the_restaurant/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14y448x/anyone_have_a_good_recipe_for_this_the_restaurant/"/>
+        <updated>2023-07-12T23:20:25.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/davediggity  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Arrays Work in Python – Array Methods Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-arrays-work-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-arrays-work-in-python/"/>
+        <updated>2023-07-12T22:19:23.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn what an array is in Python. You'll also learn some possible ways to add elements to an existing array.  In Python, there is no need to use a specific data type for arrays. You can simply use a list with all the attributes of]]></summary>
+        <author>
+            <name>David Fagbuyiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Going to Vietnam soon...good gift idea for an older lady?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14y2jxv/going_to_vietnam_soongood_gift_idea_for_an_older/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14y2jxv/going_to_vietnam_soongood_gift_idea_for_an_older/"/>
+        <updated>2023-07-12T22:18:39.000Z</updated>
+        <summary type="html"><![CDATA[I'm soon going to Vietnam to visit a friend, but I want to bring something special for his mother...an older woman in her late 60's, little schooling, who has spent much of her life working in the rice fields. Any interesting suggestions...something that might not take up too much room on a carry on bag? What might she appreciate and/or actually use? Maybe it would be better to find something in Vietnam for her that would be appropriate? 
+    submitted by    /u/Ufftaaa  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Docker Image Building and Publishing with Pack CLI and GitHub Actions]]></title>
+        <id>https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/</id>
+        <link href="https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/"/>
+        <updated>2023-07-12T21:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Building and publishing Docker images is a crucial aspect of modern software development. The traditional approach often involves writing complex Dockerfiles and managing dependencies. But in this tutorial post, I'll show you a simpler way that uses the Pack CLI. PackCLI leverages Cloud Native Buildpacks to transform your application source]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vietnamese Coconut Chicken Curry (Cà Ri Gà) [homemade]]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14y1f6s/vietnamese_coconut_chicken_curry_c%C3%A0_ri_g%C3%A0_homemade/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14y1f6s/vietnamese_coconut_chicken_curry_c%C3%A0_ri_g%C3%A0_homemade/"/>
+        <updated>2023-07-12T21:34:38.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/jack_hudson2001  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you wait to be seated at restaurant?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14y0jec/do_you_wait_to_be_seated_at_restaurant/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14y0jec/do_you_wait_to_be_seated_at_restaurant/"/>
+        <updated>2023-07-12T21:00:52.000Z</updated>
+        <summary type="html"><![CDATA[When you go to a Vietnamese restaurant do you stand at the door and wait to be seated or do you just go in and sit wherever you like?
+ In the US we always wait to be seated unless there is a sign that says "seat yourself".
+ I'm a bit awkward so I don't want to just stand at the door like a moron waiting to be seated if I'm supposed to just seat myself anywhere.
+    submitted by    /u/Anal-Apple184  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you leave a tip in your hotel room?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14y0ha4/do_you_leave_a_tip_in_your_hotel_room/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14y0ha4/do_you_leave_a_tip_in_your_hotel_room/"/>
+        <updated>2023-07-12T20:58:39.000Z</updated>
+        <summary type="html"><![CDATA[In the US, we always leave a few bucks in our hotel room for the maid when we checkout. 
+ Do we do the same in Vietnam?
+    submitted by    /u/Anal-Apple184  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Astro UI Framework [Full Book]]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/"/>
+        <updated>2023-07-12T20:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Astro is a new UI framework that's designed for speed. And if you want to learn how to use it, you've come to the right place.  Table of Contents   1.  Introduction   2.  Chapter 1: Build your first Astro Application   3.]]></summary>
+        <author>
+            <name>Emmanuel Ohans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for most popular holy books of Vietnamese people]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14xyhb1/looking_for_most_popular_holy_books_of_vietnamese/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14xyhb1/looking_for_most_popular_holy_books_of_vietnamese/"/>
+        <updated>2023-07-12T19:41:39.000Z</updated>
+        <summary type="html"><![CDATA[I am looking for most popular holy books among ethnic Vietnamese people especially following Vietnamese folk religion, Mahayama Buddhism, Taoism etc. And are these books published in Vietnamese in Roman script ?
+    submitted by    /u/srmndeep  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heat Advisory issued July 12 at 9:19AM PDT until July 14 at 10:00AM PDT by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.HeatAdvisory.126654881A90CA.LOXNPWLOX.234d29b2550536cf4953fd2d719e24fa</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.HeatAdvisory.126654881A90CA.LOXNPWLOX.234d29b2550536cf4953fd2d719e24fa"/>
+        <updated>2023-07-12T16:19:00.000Z</updated>
+        <summary type="html"><![CDATA[...HEAT ADVISORY REMAINS IN EFFECT FROM 10 AM THURSDAY TO 10 AM PDT FRIDAY... ...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING...]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excessive Heat Watch issued July 12 at 9:19AM PDT until July 16 at 11:00PM PDT by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654B433A0CA.LOXNPWLOX.305fb1f8519ca2fa3dc45b7f6dc8dd68</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654B433A0CA.LOXNPWLOX.305fb1f8519ca2fa3dc45b7f6dc8dd68"/>
+        <updated>2023-07-12T16:19:00.000Z</updated>
+        <summary type="html"><![CDATA[...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM FRIDAY MORNING THROUGH SUNDAY EVENING... * WHAT...Dangerously hot conditions with temperatures up to 107 possible. * WHERE...Lake Casitas, Ojai Valley, Central Ventura County Valleys, Calabasas and Agoura Hills, Southeastern Ventura]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excessive Heat Watch issued July 12 at 9:19AM PDT until July 16 at 11:00PM PDT by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654B433A0CA.LOXNPWLOX.563db425eba142e882a968ae074d935c</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654B433A0CA.LOXNPWLOX.563db425eba142e882a968ae074d935c"/>
+        <updated>2023-07-12T16:19:00.000Z</updated>
+        <summary type="html"><![CDATA[...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM FRIDAY MORNING THROUGH SUNDAY EVENING... * WHAT...Dangerously hot conditions with temperatures up to 105 possible. * WHERE...Western Santa Monica Mountains Recreational Area and Eastern Santa Monica Mountains Recreational Area.]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excessive Heat Watch issued July 12 at 9:19AM PDT until July 16 at 11:00PM PDT by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654B433A0CA.LOXNPWLOX.4ac962f39422128ebab5b9d9ccbd8885</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654B433A0CA.LOXNPWLOX.4ac962f39422128ebab5b9d9ccbd8885"/>
+        <updated>2023-07-12T16:19:00.000Z</updated>
+        <summary type="html"><![CDATA[...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM FRIDAY MORNING THROUGH SUNDAY EVENING... * WHAT...Dangerously hot conditions with temperatures up to 108 possible. * WHERE...Western San Fernando Valley, Eastern San Fernando Valley and Los Angeles County San Gabriel Valley.]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excessive Heat Warning issued July 12 at 9:19AM PDT until July 17 at 10:00AM PDT by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWarning.126654B5E150CA.LOXNPWLOX.b32e345949800a151c1f45c378455a24</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWarning.126654B5E150CA.LOXNPWLOX.b32e345949800a151c1f45c378455a24"/>
+        <updated>2023-07-12T16:19:00.000Z</updated>
+        <summary type="html"><![CDATA[...HEAT ADVISORY REMAINS IN EFFECT FROM 10 AM THURSDAY TO 10 AM PDT FRIDAY... ...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING...]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excessive Heat Warning issued July 12 at 9:19AM PDT until July 17 at 10:00AM PDT by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWarning.126654B5E150CA.LOXNPWLOX.6f9a0e105d2a344c3630ca288dc7a933</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWarning.126654B5E150CA.LOXNPWLOX.6f9a0e105d2a344c3630ca288dc7a933"/>
+        <updated>2023-07-12T16:19:00.000Z</updated>
+        <summary type="html"><![CDATA[...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING... * WHAT...For the Excessive Heat Warning, dangerously hot conditions with high temperatures between 103 and 113 expected]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excessive Heat Watch issued July 12 at 9:19AM PDT until July 17 at 11:00PM PDT by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654C375E0CA.LOXNPWLOX.f3f129ae679bc5b733adb8418d8665c1</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654C375E0CA.LOXNPWLOX.f3f129ae679bc5b733adb8418d8665c1"/>
+        <updated>2023-07-12T16:19:00.000Z</updated>
+        <summary type="html"><![CDATA[...HEAT ADVISORY REMAINS IN EFFECT FROM 10 AM THURSDAY TO 10 AM PDT FRIDAY... ...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING...]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excessive Heat Watch issued July 12 at 9:19AM PDT until July 17 at 11:00PM PDT by NWS]]></title>
+        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654C375E0CA.LOXNPWLOX.5759f822f07b6747ee1d4bbd65a390dc</id>
+        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.ExcessiveHeatWatch.126654C375E0CA.LOXNPWLOX.5759f822f07b6747ee1d4bbd65a390dc"/>
+        <updated>2023-07-12T16:19:00.000Z</updated>
+        <summary type="html"><![CDATA[...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING... * WHAT...For the Excessive Heat Warning, dangerously hot conditions with high temperatures between 103 and 113 expected]]></summary>
+        <author>
+            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No one buy Black pink concert ticket. Ticket hoader crying for help.]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14xqed5/no_one_buy_black_pink_concert_ticket_ticket/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14xqed5/no_one_buy_black_pink_concert_ticket_ticket/"/>
+        <updated>2023-07-12T14:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Black Pink concert ticket were quickly sold out although IME, the organizers of the concert, was supporting the 9 dash map. Vietnamese express their disapointed with Vietnamese youth on every chanel. Just 1 day later people found out how tickets was sold out. 🤣 https://vietnamnet.vn/phe-ve-concert-blackpink-dieu-dung-can-rang-ban-thao-cat-lo-2163935.html
+    submitted by    /u/The_nobleliar  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NLP Tutorial – Text Pre-Processing Techniques for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/"/>
+        <updated>2023-07-12T14:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Natural Language Processing (NLP) is a branch of Machine learning (ML) that is focused on making computers understand the human language. It is used to create language models, language translation apps like Google translate, and virtual assistants, among other things. This article takes you through one of the most basic]]></summary>
+        <author>
+            <name>Hikmah Olawore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binary Search – Algorithm and Time Complexity Explained]]></title>
+        <id>https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/</id>
+        <link href="https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/"/>
+        <updated>2023-07-12T14:26:58.000Z</updated>
+        <summary type="html"><![CDATA[When working with arrays, you’ll often have to search through them to check if they contain a target element. You can always run a sequential search—scanning the array from the beginning to the end—on the array. But if the array is sorted, running the binary search algorithm is much more]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does your post cards & letter get lost in Vietnam?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14xp5g7/does_your_post_cards_letter_get_lost_in_vietnam/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14xp5g7/does_your_post_cards_letter_get_lost_in_vietnam/"/>
+        <updated>2023-07-12T13:50:22.000Z</updated>
+        <summary type="html"><![CDATA[I noticed that my postcard and letter gets lost in Vietnam often. However if I Registered the letter, it get delivers.
+    submitted by    /u/gav1n_n6  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soil pollution]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14xovs3/soil_pollution/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14xovs3/soil_pollution/"/>
+        <updated>2023-07-12T13:39:17.000Z</updated>
+        <summary type="html"><![CDATA[Currently, all over the world are having a headache about the problem of underground pollution. The cause is caused by human production activities such as the use of chemical drugs into the ground too much.Causing the phenomenon of barren land cannot be reused and that land becomes dead land. With the current population growth, the food problem is also a major problem, if the land cannot be reused, it will cause food shortage problems, and may also cause groundwater pollution in the underground.
+    submitted by    /u/DragonflySilent6453  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which direction to ride the train?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14xnyj8/which_direction_to_ride_the_train/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14xnyj8/which_direction_to_ride_the_train/"/>
+        <updated>2023-07-12T13:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Hello all!
+ I hope you're well.
+ I'm going to be in Vietnam for a few weeks in August and I was thinking of catching a train in a direction, for the experience of having done it. 
+ But I find myself stuck on which direction to go! I'm thinking of Hà Nội to Đà Nẵng or the other way around. What do you think? 
+    submitted by    /u/PopeCaptain  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Đau vai cổ khám ở đâu?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14xnxb2/%C4%91au_vai_c%E1%BB%95_kh%C3%A1m_%E1%BB%9F_%C4%91%C3%A2u/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14xnxb2/%C4%91au_vai_c%E1%BB%95_kh%C3%A1m_%E1%BB%9F_%C4%91%C3%A2u/"/>
+        <updated>2023-07-12T12:59:36.000Z</updated>
+        <summary type="html"><![CDATA[Chả là mình bị đau vai cổ gáy mấy năm nay, có thử 1 lần khám đông y nhưng ko cải thiện, 1 lần qua tây y cũng không. Có ai từng có trải nghiệm chữa bệnh thành công không cho mình xin lời khuyên nên khám ở đâu với. Cám ơn
+    submitted by    /u/DonkeyHopeful7346  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mọi người nghĩ sao về cơ hội việc làm của ngành ai và big data tại việt nam]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14xnwq9/m%E1%BB%8Di_ng%C6%B0%E1%BB%9Di_ngh%C4%A9_sao_v%E1%BB%81_c%C6%A1_h%E1%BB%99i_vi%E1%BB%87c_l%C3%A0m_c%E1%BB%A7a_ng%C3%A0nh/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14xnwq9/m%E1%BB%8Di_ng%C6%B0%E1%BB%9Di_ngh%C4%A9_sao_v%E1%BB%81_c%C6%A1_h%E1%BB%99i_vi%E1%BB%87c_l%C3%A0m_c%E1%BB%A7a_ng%C3%A0nh/"/>
+        <updated>2023-07-12T12:59:01.000Z</updated>
+        <summary type="html"><![CDATA[Mình đang chuẩn bị vào chuyên ngành kĩ thuật phần mềm nhưng nhận thấy sự chạy theo ồ ạt về số lượng người theo học đi cùng với đó là việc tuyển nhân sự ngành này ngày càng đi xuống thì mình muốn chuyển sang ngành ai hoặc big data mọi người cho mình xin ý kiến được không
+    submitted by    /u/Expensive-Comb-7174  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My favorite hideaway]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14xm3kt/my_favorite_hideaway/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14xm3kt/my_favorite_hideaway/"/>
+        <updated>2023-07-12T11:38:13.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/lanhuevietnam  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vietnamese Paypal ?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14xliyw/vietnamese_paypal/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14xliyw/vietnamese_paypal/"/>
+        <updated>2023-07-12T11:11:49.000Z</updated>
+        <summary type="html"><![CDATA[HI, I need an app to link a foreign card to it and make payments cashless payments, such as sending money from my foreign bank card to Vietnamese nationals' bank accounts.
+ Asked some wallets such as Momo and Vnpay, they support only Vietnamese cards.
+ Tried Paypal the fee is ~34% (took 0.34$ from 1.00$ test payment, also put the amount on hold for the reciever), so I'm looking for cheaper options.
+    submitted by    /u/Exotic-Stock  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is this a scam]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14xi6pk/is_this_a_scam/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14xi6pk/is_this_a_scam/"/>
+        <updated>2023-07-12T08:23:03.000Z</updated>
+        <summary type="html"><![CDATA[Hello friends
+ I will be visiting Hanoi in September. I am looking to book a cruise to Halong Bay. I can see that there are loads of cruise operators and website advertising this. How do we check if they are legit, and what scams should we look out for? The reason why I am asking and abit weary is when I booked my hotel, my phone has been getting messages non stop from the hotel, telling us to book a tour with them instead and warning of scams from other operators.
+ I am interested in this tour company is anybody able to tell me if it’s legit?
+ https://www.cruisehalongbay.com
+ I have attached some screenshots about some registration number that this business posses.
+ Thank you very much!
+    submitted by    /u/Lomaikai131  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is appropriate?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14xfxaz/what_is_appropriate/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14xfxaz/what_is_appropriate/"/>
+        <updated>2023-07-12T06:15:52.000Z</updated>
+        <summary type="html"><![CDATA[I am traveling in vietnam for the first time and I am overwhelmed by the country, the people and their warmth and friendliness and the food. Now I was a few nights in a cute homestay. I wanted to extend this by one night, but I could not, because the room has already been booked again. Now they have offered me a small apartment, which I gratefully accepted. I was brought there by a friend of the owner with the motorcycle (about 10 minutes drive). When I asked her how much I should pay for the ride, she replied that she wanted nothing. Tomorrow I will leave this apartment again. Now my question to you: should I leave her the money for the ride tomorrow or just a small tip for the apartment? If so, how much would be appropriate? Thanks a lot!
+    submitted by    /u/dontknow19639  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How common and severe is Dedovshchina within the Vietnamese military?]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14xfu70/how_common_and_severe_is_dedovshchina_within_the/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14xfu70/how_common_and_severe_is_dedovshchina_within_the/"/>
+        <updated>2023-07-12T06:11:06.000Z</updated>
+        <summary type="html"><![CDATA[Every time when the yearly mass military recruitment wave is approaching, people would bring up this topic to debate but after 1 or 2 weeks it'd fade away. Supposedly it's a major reason for people to bribe out of the service and funny enough it's actually easy to avoid the mandatory calling.
+    submitted by    /u/RollingTissues  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sting identification]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14xdips/sting_identification/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14xdips/sting_identification/"/>
+        <updated>2023-07-12T04:09:00.000Z</updated>
+        <summary type="html"><![CDATA[My friend got this sting 5 minutes ago, felt very sharp pain is going away after 5 mins but is still sore. It happened on this garden terrace in Sapa. 
+ Does anyone know what it could be and if he should be worried
+    submitted by    /u/Illustrious-Try7609  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bank for Foreigners in Vietnam]]></title>
+        <id>https://www.reddit.com/r/VietNam/comments/14xan89/bank_for_foreigners_in_vietnam/</id>
+        <link href="https://www.reddit.com/r/VietNam/comments/14xan89/bank_for_foreigners_in_vietnam/"/>
+        <updated>2023-07-12T01:59:49.000Z</updated>
+        <summary type="html"><![CDATA[What do you recommend as bank for foreigners that can do money transfers to international accounts via their online platform? Because I'm so done with HSBC.
+ I've been with HSBC for 4 years now for my salary account and their customer service is utterly disgusting. After 4 calls, 12 emails and a visit to the bank, they still aren't able to address my concern. My credit card will be blocked two days from now, and I had submitted all the documents 2 weeks before, but they still aren't processing it. All the email replies are canned templates and calling their hotlines cost a lot because it's just recorded music. The customer service representatives are clueless and they just keep repeating what is written on the website, and not answering my questions. It's so tiring to talk with them.
+ No wonder they have mostly 1 star reviews on Google. All 206 reviews averaged to 1.7. What a joke for an "international" bank.
+ I'm checking Citibank and Shinhan Bank, what do you guys recommend?
+    submitted by    /u/0192837465sfd  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Vietnam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What are your most hated things about motorbike culture in Vietnam?]]></title>
         <id>https://www.reddit.com/r/VietNam/comments/14x8zxp/what_are_your_most_hated_things_about_motorbike/</id>
@@ -8384,56 +8791,6 @@ Does anyone recommend a place to get a custom motorcycle? I would like to get so
         <summary type="html"><![CDATA[Certifications like the Microsoft Power Platform Fundamentals can help you advance in your career. You can learn everything you need to know to earn the Microsoft Power Platform Fundamentals Certification by completing this free 4-hour course that we just posted on the freeCodeCamp.org YouTube channel. Andrew Brown created this course.]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI in Google Sheets – How to Use GPT Copilot]]></title>
-        <id>https://www.freecodecamp.org/news/ai-in-google-sheets/</id>
-        <link href="https://www.freecodecamp.org/news/ai-in-google-sheets/"/>
-        <updated>2023-06-12T22:10:01.000Z</updated>
-        <summary type="html"><![CDATA[It seems to be the year of AI. And my favorite tool, Google Sheets, is not to be left out of the fun. 🎉 Coefficient [https://coefficient.io/gpt-google-sheets] produced a Google sheets extension with the ability to use OpenAI's GPT models from within a spreadsheet. It’s called GPT Copilot and it’s available]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use MySQL Stored Procedures to Simplify Database Operations]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-simplify-database-operations-using-mysql-stored-procedures/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-simplify-database-operations-using-mysql-stored-procedures/"/>
-        <updated>2023-06-12T22:05:52.000Z</updated>
-        <summary type="html"><![CDATA[In the realm of database management, MySQL has emerged as one of the most popular and reliable choices.  MySQL not only offers robust data storage capabilities but also provides a powerful feature called "procedures" that allows developers to streamline complex database operations.  In this tutorial, we will delve]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Upgrade Your React Skills with Three Helpful Tools]]></title>
-        <id>https://www.freecodecamp.org/news/upgrade-your-react-skills/</id>
-        <link href="https://www.freecodecamp.org/news/upgrade-your-react-skills/"/>
-        <updated>2023-06-12T21:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Since its announcement in 2013, React.js continues to be one of the most widely used JavaScript tools, thanks to its unmatched versatility and efficiency.  Backed by its component-based architecture and virtual DOM implementation, React.js excels in building modern and dynamic web applications. It enables developers to create reusable UI]]></summary>
-        <author>
-            <name>Moyosore J Olaojo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Streamline Your File Upload Process in Express.js with Multer]]></title>
-        <id>https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/</id>
-        <link href="https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/"/>
-        <updated>2023-06-12T21:05:14.000Z</updated>
-        <summary type="html"><![CDATA[File uploading is a common requirement in web development projects. But handling file uploads in Node.js can be complex and time-consuming. That's where Multer comes in.  Multer is a powerful middleware for Node.js that simplifies the file upload process by handling multipart/form-data requests. In this tutorial, you will learn]]></summary>
-        <author>
-            <name>Kelvin Moses</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Your Technical Writing Skills by Contributing to Open Source Projects]]></title>
-        <id>https://www.freecodecamp.org/news/improve-tech-writing-skills-by-contributing-to-open-source/</id>
-        <link href="https://www.freecodecamp.org/news/improve-tech-writing-skills-by-contributing-to-open-source/"/>
-        <updated>2023-06-12T18:15:16.000Z</updated>
-        <summary type="html"><![CDATA[Have you been writing your tech blog posts on Hashnode [https://hashnode.com/about] or Dev.to [http://dev.to/], but you're itching to try something new? If so, there is something that can quench your thirst: contributing to open source.  I know, I know, you’ve probably heard “Contribute to open source!” countless times in]]></summary>
-        <author>
-            <name>CHRISTINE T. BELZIE</name>
         </author>
     </entry>
 </feed>
