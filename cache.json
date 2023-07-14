@@ -12,6 +12,86 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266547963C4.AirQualityAlert.12665488B6D0CA.LOXAQALOX.575aef61e8c6921f6004b4f8667f105d",
+          "author": null,
+          "description": "...AIR QUALITY ALERT FOR ELEVATED OZONE AIR POLLUTION... The South Coast AQMD has issued an air quality alert in inland areas of the South Coast Air Basin and the Coachella Valley due to high levels of ozone (smog). The air quality alert is in effect Friday at 2:00 PM through Tuesday at 8:00 PM. Elevated levels of ozone – the predominant summertime pollutant – are",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266547963C4.AirQualityAlert.12665488B6D0CA.LOXAQALOX.575aef61e8c6921f6004b4f8667f105d",
+          "publishedOn": "2023-07-13T20:57:00.000Z",
+          "wordCount": 549,
+          "title": "Air Quality Alert issued July 13 at 1:57PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654793AC0.HeatAdvisory.126654881A90CA.LOXNPWLOX.234d29b2550536cf4953fd2d719e24fa",
+          "author": null,
+          "description": "...HEAT ADVISORY REMAINS IN EFFECT UNTIL 10 AM PDT FRIDAY... ...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING... * WHAT...For the Excessive Heat Warning, dangerously hot",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654793AC0.HeatAdvisory.126654881A90CA.LOXNPWLOX.234d29b2550536cf4953fd2d719e24fa",
+          "publishedOn": "2023-07-13T19:52:00.000Z",
+          "wordCount": 392,
+          "title": "Heat Advisory issued July 13 at 12:52PM PDT until July 14 at 10:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654793AC0.HeatAdvisory.126654B433A0CA.LOXNPWLOX.1d405c54533c42dc48e557572bf24598",
+          "author": null,
+          "description": "...HEAT ADVISORY IN EFFECT FROM 10 AM FRIDAY TO 11 PM PDT SUNDAY... * WHAT...High temperatures up to 102 expected. Little in the way of relief is expected at night with lows in the mid 60s to low 70s. * WHERE...Santa Ynez Valley and Palos Verdes Hills.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654793AC0.HeatAdvisory.126654B433A0CA.LOXNPWLOX.1d405c54533c42dc48e557572bf24598",
+          "publishedOn": "2023-07-13T19:52:00.000Z",
+          "wordCount": 275,
+          "title": "Heat Advisory issued July 13 at 12:52PM PDT until July 16 at 11:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654793AC0.HeatAdvisory.126654B433A0CA.LOXNPWLOX.e2fe8e16170f59ae1b7c0688a25d4291",
+          "author": null,
+          "description": "...HEAT ADVISORY IN EFFECT FROM 10 AM FRIDAY TO 11 PM PDT SUNDAY... * WHAT...High temperatures up to 106 expected, hottest in elevated valleys and coastal foothills. Little in the way of relief is expected at night with lows in the mid 60s to low 70s. * WHERE...Portions of southwest California.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654793AC0.HeatAdvisory.126654B433A0CA.LOXNPWLOX.e2fe8e16170f59ae1b7c0688a25d4291",
+          "publishedOn": "2023-07-13T19:52:00.000Z",
+          "wordCount": 376,
+          "title": "Heat Advisory issued July 13 at 12:52PM PDT until July 16 at 11:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654793AC0.ExcessiveHeatWarning.126654B5E150CA.LOXNPWLOX.b32e345949800a151c1f45c378455a24",
+          "author": null,
+          "description": "...HEAT ADVISORY REMAINS IN EFFECT UNTIL 10 AM PDT FRIDAY... ...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING... * WHAT...For the Excessive Heat Warning, dangerously hot",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654793AC0.ExcessiveHeatWarning.126654B5E150CA.LOXNPWLOX.b32e345949800a151c1f45c378455a24",
+          "publishedOn": "2023-07-13T19:52:00.000Z",
+          "wordCount": 394,
+          "title": "Excessive Heat Warning issued July 13 at 12:52PM PDT until July 17 at 10:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654793AC0.ExcessiveHeatWarning.126654B5E150CA.LOXNPWLOX.6f9a0e105d2a344c3630ca288dc7a933",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING... * WHAT...For the Excessive Heat Warning, dangerously hot conditions with high temperatures between 104 and 114 expected",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654793AC0.ExcessiveHeatWarning.126654B5E150CA.LOXNPWLOX.6f9a0e105d2a344c3630ca288dc7a933",
+          "publishedOn": "2023-07-13T19:52:00.000Z",
+          "wordCount": 345,
+          "title": "Excessive Heat Warning issued July 13 at 12:52PM PDT until July 17 at 10:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654793AC0.ExcessiveHeatWatch.126654C375E0CA.LOXNPWLOX.f3f129ae679bc5b733adb8418d8665c1",
+          "author": null,
+          "description": "...HEAT ADVISORY REMAINS IN EFFECT UNTIL 10 AM PDT FRIDAY... ...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING... * WHAT...For the Excessive Heat Warning, dangerously hot",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654793AC0.ExcessiveHeatWatch.126654C375E0CA.LOXNPWLOX.f3f129ae679bc5b733adb8418d8665c1",
+          "publishedOn": "2023-07-13T19:52:00.000Z",
+          "wordCount": 394,
+          "title": "Excessive Heat Watch issued July 13 at 12:52PM PDT until July 17 at 11:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654793AC0.ExcessiveHeatWatch.126654C375E0CA.LOXNPWLOX.5759f822f07b6747ee1d4bbd65a390dc",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING... * WHAT...For the Excessive Heat Warning, dangerously hot conditions with high temperatures between 104 and 114 expected",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654793AC0.ExcessiveHeatWatch.126654C375E0CA.LOXNPWLOX.5759f822f07b6747ee1d4bbd65a390dc",
+          "publishedOn": "2023-07-13T19:52:00.000Z",
+          "wordCount": 345,
+          "title": "Excessive Heat Watch issued July 13 at 12:52PM PDT until July 17 at 11:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665469766C.HeatAdvisory.126654881A90CA.LOXNPWLOX.234d29b2550536cf4953fd2d719e24fa",
           "author": null,
           "description": "...HEAT ADVISORY REMAINS IN EFFECT FROM 10 AM THURSDAY TO 10 AM PDT FRIDAY... ...EXCESSIVE HEAT WARNING REMAINS IN EFFECT FROM 10 AM FRIDAY TO 10 AM PDT MONDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM MONDAY MORNING THROUGH MONDAY EVENING...",
@@ -498,6 +578,236 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14z1d5g/thank_you_for_the_explanation_my_friends_we_both/",
+          "author": null,
+          "description": "Damn west taiwan\n    submitted by    /u/haaakism  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14z1d5g/thank_you_for_the_explanation_my_friends_we_both/",
+          "publishedOn": "2023-07-14T00:31:01.000Z",
+          "wordCount": 2456,
+          "title": "Thank you for the explanation, My friends. We both know Who is the real villain.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14z11wi/bun_bo_hue_made_by_my_mom/",
+          "author": null,
+          "description": "submitted by    /u/danky_n  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14z11wi/bun_bo_hue_made_by_my_mom/",
+          "publishedOn": "2023-07-14T00:16:17.000Z",
+          "wordCount": 2443,
+          "title": "Bun Bo Hue made by my mom",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14yzyky/administrative_divisions_of_democratic_republic/",
+          "author": null,
+          "description": "submitted by    /u/Brightsea129  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14yzyky/administrative_divisions_of_democratic_republic/",
+          "publishedOn": "2023-07-13T23:27:53.000Z",
+          "wordCount": 2445,
+          "title": "Administrative divisions of Democratic Republic of Vietnam in 1968",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14yzvge/essentials_words_for_ho_chi_minh/",
+          "author": null,
+          "description": "Hey everyone. Im arriving in hcmc in one hour, and I just wanted to ask what are the basic vietnamese words i should be having in mind.\n Thanks\n    submitted by    /u/maalik_reluctant  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14yzvge/essentials_words_for_ho_chi_minh/",
+          "publishedOn": "2023-07-13T23:24:04.000Z",
+          "wordCount": 2461,
+          "title": "Essentials words for ho chi minh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14yzj0f/tourist_driver/",
+          "author": null,
+          "description": "Hi, I am planning fir a 7 day visit. Can a foreigner rent and drive a motorbike to get around?\n    submitted by    /u/tondoredditor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14yzj0f/tourist_driver/",
+          "publishedOn": "2023-07-13T23:09:08.000Z",
+          "wordCount": 2449,
+          "title": "Tourist Driver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14yzfms/dog_friendly_places_near_hcmc/",
+          "author": null,
+          "description": "I have a rescued dog, 8.5 kg (corgi mix). I have the weekends off, so somewhere close by is ideal. Preferably somewhere inexpensive, just want to relax and get my mind off for a day or two. Are locals open to couch surfing?\n    submitted by    /u/DelusionalBroccoli  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14yzfms/dog_friendly_places_near_hcmc/",
+          "publishedOn": "2023-07-13T23:05:11.000Z",
+          "wordCount": 2475,
+          "title": "Dog friendly places near HCMC?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14ythbt/ive_a_2_weeks_left_in_my_trip_in_vietnam_and_im/",
+          "author": null,
+          "description": "Currently in Ninh Binh and loving it!\n I fly home the 8th August. I’m trying to figure out where I should go next ? \n I’m a backpacker btw !\n    submitted by    /u/bygonesbebygones2021  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14ythbt/ive_a_2_weeks_left_in_my_trip_in_vietnam_and_im/",
+          "publishedOn": "2023-07-13T19:07:59.000Z",
+          "wordCount": 2472,
+          "title": "I’ve a 2 weeks left in my trip in Vietnam and I’m heading North ! Advice:)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14yozc2/da_nang_accent_similar_to_southern_or_northern/",
+          "author": null,
+          "description": "I’ve heard that Hanoi and HCMC have differing pronunciations/accents. How does Da Nang/central Vietnam compare? Is it more like southern or northern Vietnam? Thanks!\n    submitted by    /u/ChickenPotPie3  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14yozc2/da_nang_accent_similar_to_southern_or_northern/",
+          "publishedOn": "2023-07-13T16:11:28.000Z",
+          "wordCount": 2460,
+          "title": "Da Nang accent - similar to southern or northern?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14yonxe/best_hospital_for_arm_injuries_in_ho_chi_minh/",
+          "author": null,
+          "description": "I'm a tourist (with travel insurance), I hurt my elbow and am worried about nerve pinching (some of my fingers are feeling numb). Which hospital should I go to- I'm in Ho Chi Minh until 7/16. And how expensive would it be?\n Sorry for keeping this short, I damaged my dominant hand and typing is hard.\n    submitted by    /u/Jimothy-Goldenface  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14yonxe/best_hospital_for_arm_injuries_in_ho_chi_minh/",
+          "publishedOn": "2023-07-13T15:59:39.000Z",
+          "wordCount": 2492,
+          "title": "Best hospital for arm injuries in Ho Chi Minh?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14yluf2/gaming_centers_ho_chi_minh_city/",
+          "author": null,
+          "description": "Looking for gaming centers in Ho Chi Minh city. Want to spend a day with my gf in one and was wondering which ones are the best ones. Right now I’m located in District one so something close would be nice. Hopefully someone can help us out!\n    submitted by    /u/dfjbertram  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14yluf2/gaming_centers_ho_chi_minh_city/",
+          "publishedOn": "2023-07-13T14:06:58.000Z",
+          "wordCount": 2480,
+          "title": "Gaming center’s Ho Chi Minh city",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14yj5gd/american_war_veterans/",
+          "author": null,
+          "description": "As an American, we hear so much about the veterans of the Vietnam war facing PTSD, housing instability, prejudice etc. I’m curious about what life was/is like for the Vietnamese men and women who were involved, especially whether they experienced PTSD or something similar.\n Are there any books, films, interviews about what they had to go through? Anyone with anecdotes from friends or family members that you’d be willing to share?\n    submitted by    /u/ironypoisonedwhore  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14yj5gd/american_war_veterans/",
+          "publishedOn": "2023-07-13T12:10:41.000Z",
+          "wordCount": 2501,
+          "title": "American war veterans?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14yinoo/buying_a_property_in_vietnam_da_nang_or_hanoi/",
+          "author": null,
+          "description": "Hi Guys,\n Need honest and straight forward advice please.\n My girlfriend is Vietnamese, and I am looking to settle in Vietnam as my girlfriend don't want to move overseas. I currently visit Vietnam every 2nd month on tourist visa.\n I don't want to marry her just to buy a property sooner so looking for ways to find a property. I want to marry her at the right time and for good reasons.\n - Searching online doesn't help as I have only been finding properties in USD\n - I will happily buy property together with her as long as it's in both of our names and not just one name only\n If anyone can provide any guidance - I have simply read that foreigners can buy property in new projects/developments but that doesn't help much as all the properties advertised in English seems to be spiked in price in USD.\n Would prefer property price of up to 1.8 billion VND and if I/we can get a home loan too, that would be absolutely perfect\n ​\n    submitted by    /u/techie_mate  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14yinoo/buying_a_property_in_vietnam_da_nang_or_hanoi/",
+          "publishedOn": "2023-07-13T11:47:10.000Z",
+          "wordCount": 2609,
+          "title": "Buying a property in Vietnam (Da Nang or Hanoi)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14yh7hf/how_do_young_vietnamese_feel_about_france_or/",
+          "author": null,
+          "description": "As a young Korean, my feelings about Japan are complicated, I don't like what they've done to us in the past, but now I enjoy their culture and travel there often. And to be honest, I think we should cooperate more closely as long as have common enemies like North Korea and especially China. Vietnamese friends, what about you?\n    submitted by    /u/haaakism  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14yh7hf/how_do_young_vietnamese_feel_about_france_or/",
+          "publishedOn": "2023-07-13T10:33:26.000Z",
+          "wordCount": 2495,
+          "title": "How do young Vietnamese feel about France or French?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14ydwcc/phone_stolen/",
+          "author": null,
+          "description": "My wife’s iphone was stolen from the old quarter in Hanoi. This happened a block or two away from the water puppet theater. The thief took great advantage of us being vulnerable as it was raining, we were trying to manage our two kids and looking for a place to eat. Find my iPhone located it near a pawn shop 3 kms away from where we were. We were so tired and frustrated from our trip + the hotel staff advised us that there is no point pursuing the phone or the police. Later, a shop owner told us to w should have gone to the police and they might have been able to help. Whatever. Now we are back in our country. It is what it is but as much as I don’t want it does affect our emotions and feelings towards Hanoi and touristy areas. This can happen in many places and in many countries but still when it happens to one personally, it’s hard to not be biased. We had overall pretty good time in Vietnam, esp in Saigon and DaNang.\n Have things like this happened to any of you?\n    submitted by    /u/HinderedJoy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14ydwcc/phone_stolen/",
+          "publishedOn": "2023-07-13T07:24:49.000Z",
+          "wordCount": 2622,
+          "title": "Phone stolen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14ydcmg/why_is_it_so_much_harder_to_find_a_mental_health/",
+          "author": null,
+          "description": "submitted by    /u/WhippedCreamW  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14ydcmg/why_is_it_so_much_harder_to_find_a_mental_health/",
+          "publishedOn": "2023-07-13T06:54:22.000Z",
+          "wordCount": 2440,
+          "title": "Why is it so much harder to find a mental health therapist here in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14ycyvu/cute_activities_or_shops_in_hcm/",
+          "author": null,
+          "description": "My family is in HCM for 2 weeks and my little sister is bored to death with the sight-seeing and stressful shopping at big marketplaces. We found a cute stationary/gift shop called Ốc Sên Shop that she absolutely LOVED and a cat cafe that featured rescue cats which she stayed hours at. \n Do you guys have any recommendations of activities or shops that are similar? We stopped by Rách Gia earlier last week and found a boutique called Barbie House which she also expressed interest in. So I guess any cute gift shops / clothing boutiques / fun activities around here that would interest a late teens sister. \n Thanks in advance!!\n    submitted by    /u/dontcallmeknee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14ycyvu/cute_activities_or_shops_in_hcm/",
+          "publishedOn": "2023-07-13T06:32:24.000Z",
+          "wordCount": 2544,
+          "title": "‘Cute’ Activities or Shops in HCM?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14ybj6s/c%C3%A1c_b%E1%BA%A1n_ngh%C4%A9_sao_v%E1%BB%81_tr%C3%A0o_l%C6%B0u_n%E1%BA%B1m_y%C3%AAn_m%E1%BA%B7c_k%E1%BB%87_%C4%91%E1%BB%9Di/",
+          "author": null,
+          "description": "https://youtu.be/MVAzpxys_-M\n ​\n https://preview.redd.it/x1l4oq7a2obb1.png?width=620&format=png&auto=webp&s=fe849886c3e0238255e6c4bc9eabbf99f5435e94\n    submitted by    /u/tulinh123  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14ybj6s/c%C3%A1c_b%E1%BA%A1n_ngh%C4%A9_sao_v%E1%BB%81_tr%C3%A0o_l%C6%B0u_n%E1%BA%B1m_y%C3%AAn_m%E1%BA%B7c_k%E1%BB%87_%C4%91%E1%BB%9Di/",
+          "publishedOn": "2023-07-13T05:15:26.000Z",
+          "wordCount": 2447,
+          "title": "Các bạn nghĩ sao về Trào lưu \"nằm yên mặc kệ đời\" của giới trẻ Trung Quốc | VTV24",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14yaou3/should_this_be_our_subreddit_avatar_going_forward/",
+          "author": null,
+          "description": "submitted by    /u/monchestor_hl  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14yaou3/should_this_be_our_subreddit_avatar_going_forward/",
+          "publishedOn": "2023-07-13T04:31:53.000Z",
+          "wordCount": 2444,
+          "title": "Should this be our subreddit avatar going forward?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14yamta/philippines_found_no_evidence_of_the_9_dash_line/",
+          "author": null,
+          "description": "Vietnam saw dashes on the map and immediately lost it, i guess all the dash lines I saw learning geography at school is illegal, every time I draw dash lines for the sun rays when I was a kid is also illegal now.\n    submitted by    /u/Mackey_Nguyen  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14yamta/philippines_found_no_evidence_of_the_9_dash_line/",
+          "publishedOn": "2023-07-13T04:29:06.000Z",
+          "wordCount": 2504,
+          "title": "Philippines found no evidence of the “9 dash line” within the entire movie, so Philippines had allowed the screening of the movie “Barbie”.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14y8j2i/meeting_my_vietnamese_gfs_family_for_the_first/",
+          "author": null,
+          "description": "Is it normal to bring gifts the first time you meet your gf's family? What kind of gifts are normal to give? Alcohol? Fruit? Cakes?\n In my culture this is not really a thing, and we don't usually bring gifts... but I know it's common in southeast Asian culture and I don't want to offend anyone.\n My gf is telling me I don't have to bring anything, but her sisters Vietnamese boyfriends all brought some food or alcohol the first time they visited her family according to her lol.\n I've been in Vietnam for several months now and known my gf for over a year.\n Any help/advice is appreciated:)\n    submitted by    /u/kaapplin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14y8j2i/meeting_my_vietnamese_gfs_family_for_the_first/",
+          "publishedOn": "2023-07-13T02:46:22.000Z",
+          "wordCount": 2549,
+          "title": "Meeting my Vietnamese gf's family for the first time. What should I bring?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14y8dxs/i_was_born_in_australia_with_cousins_and_uncles/",
+          "author": null,
+          "description": "Real talk, being Vietnamese in Australia I always kind of didn't really care about connecting with extended family in VN because they were so far away. \n I was just focused on developing my career and achieving 'white people' success in mum and dad's eyes I didn't really put in the effort to connect ... I came by this track recently and it got me in the feels: \n https://www.youtube.com/watch?v=jwJKjRfhTxA\n Does anyone feel like they could have put in more effort into learning Vietnamese to connect with family members now that we're older (25 and up) ... sometimes I feel bad about this 😕\n    submitted by    /u/Actual_Complaint_348  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14y8dxs/i_was_born_in_australia_with_cousins_and_uncles/",
+          "publishedOn": "2023-07-13T02:39:48.000Z",
+          "wordCount": 2555,
+          "title": "I was born in Australia with cousins and uncles in Vietnam that I couldn't really connect with when I was younger, did anyone feel the same?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14y7hyp/so_donut_a_large_western_car_youtube_channel_just/",
+          "author": null,
+          "description": "Link\n    submitted by    /u/Legitimate-Ad-3302  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14y7hyp/so_donut_a_large_western_car_youtube_channel_just/",
+          "publishedOn": "2023-07-13T01:58:50.000Z",
+          "wordCount": 2447,
+          "title": "So Donut, a large Western car YouTube channel, just reviewed the VinFast VF8, and it didn't go very well.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/14y792w/theres_no_other_balm_in_the_entire_world_thats/",
+          "author": null,
+          "description": "submitted by    /u/John_Starkey  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/14y792w/theres_no_other_balm_in_the_entire_world_thats/",
+          "publishedOn": "2023-07-13T01:47:13.000Z",
+          "wordCount": 2477,
+          "title": "There’s no other balm in the entire world that’s better than cao Sao Vàng and I can’t thank the beautiful nation of Vietnam enough for it ❤️🇻🇳❤️ If you use Golden Star, what do you find it best for and why?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/14y6cgh/street_interview_youtube_channels/",
           "author": null,
@@ -6416,6 +6726,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-terraform-to-deploy-a-site-on-google-cloud-platform/",
+          "author": "Beau Carnes",
+          "description": "Modern cloud technologies have revolutionized the way we develop and deploy applications. But managing complex infrastructure can still be a daunting task, especially when working at scale. The solution? Infrastructure as Code (IaC) — an approach that brings programming paradigms to infrastructure management, thereby enhancing efficiency, repeatability, and agility. With",
+          "link": "https://www.freecodecamp.org/news/how-to-use-terraform-to-deploy-a-site-on-google-cloud-platform/",
+          "publishedOn": "2023-07-13T21:46:56.000Z",
+          "wordCount": 985,
+          "title": "How to Use Terraform to Deploy a Site on Google Cloud Platform",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/terrafromgcp.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/getting-started-with-javascript/",
+          "author": "David Clinton",
+          "description": "Just in case you haven't yet been properly introduced, JavaScript is a powerful programming language that provides significant value in web development. Its benefits include:  * Server-side development through Node.js  * Client-side interactivity where scripts run directly within your users'    browsers  * Responsive and",
+          "link": "https://www.freecodecamp.org/news/getting-started-with-javascript/",
+          "publishedOn": "2023-07-13T20:22:41.000Z",
+          "wordCount": 2060,
+          "title": "How to Start Learning JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-mikhail-nilov-6968122.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-steganography-hide-data-inside-data/",
+          "author": "Daniel Iwugo",
+          "description": "Ladies and Gentlemen, welcome to the world of Spies 🕵️. In the movie Uncharted (great movie by the way), Tom Holland and his brother have a secret form of communication. They would write a message on a plain postcard with special ink that became invisible and then send it to",
+          "link": "https://www.freecodecamp.org/news/what-is-steganography-hide-data-inside-data/",
+          "publishedOn": "2023-07-13T17:15:06.000Z",
+          "wordCount": 2140,
+          "title": "What is Steganography? How to Hide Data Inside Data",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/steganography-image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/open-source-ai/",
+          "author": "Shane Duggan",
+          "description": "If you've been developing your coding skills so you can work on AI projects, you've probably come across some open source AI resources. I know I have. In fact, I think I use open source more than I do APIs and proprietary software these days.  When it comes to",
+          "link": "https://www.freecodecamp.org/news/open-source-ai/",
+          "publishedOn": "2023-07-13T16:01:02.000Z",
+          "wordCount": 2875,
+          "title": "Open Source AI Projects and Tools to Try in 2023",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/cover--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/",
+          "author": "Rahul",
+          "description": "Do you have an old computer that’s showing its age but you still want to get some use out of it? Don't throw it out just yet!  There are lightweight Linux distributions designed to breathe new life into older hardware. These operating systems are streamlined to use limited system",
+          "link": "https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/",
+          "publishedOn": "2023-07-13T15:37:31.000Z",
+          "wordCount": 2360,
+          "title": "Lightweight Linux Distributions For Older PCs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/lukas-NLSXFjl_nhc-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/master-api-testing-with-postman/",
+          "author": "Beau Carnes",
+          "description": "If you've been hunting for a comprehensive course that dives deep into the world of API testing and automation, your search ends here. We just posted a new course on the freeCodeCamp.org YouTube channel that will teach you how to use Postman to write and automate API tests. The course",
+          "link": "https://www.freecodecamp.org/news/master-api-testing-with-postman/",
+          "publishedOn": "2023-07-13T13:14:59.000Z",
+          "wordCount": 1007,
+          "title": "Master API Testing with Postman",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/postman.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/",
           "author": "Quincy Larson",
           "description": "We're bringing you a new season of insights from developers, entrepreneurs, and ambitious people getting into tech. I'm Quincy Larson, the teacher who founded freeCodeCamp.org. And I've been running around Dallas, San Francisco, and New York City interviewing fascinating people. And I'm excited to share these interviews with you. It's",
@@ -7074,36 +7444,6 @@
           "wordCount": 2145,
           "title": "What is Infrastructure as Code? Explained for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/cover-5.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/html-page-elements/",
-          "author": "David Clinton",
-          "description": "HTML, which stands for Hypertext Markup Language, is the standard markup language used for creating web pages and structuring their content on the World Wide Web.  HTML serves as the backbone of web development and acts as a fundamental building block for creating web-based documents. Let's take a quick",
-          "link": "https://www.freecodecamp.org/news/html-page-elements/",
-          "publishedOn": "2023-06-13T21:01:13.000Z",
-          "wordCount": 1740,
-          "title": "HTML Page Elements – Explained for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-joshua-135018.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/guide-to-javascript-promises/",
-          "author": "Amazing Enyichi Agu",
-          "description": "JavaScript has the ability to carry out asynchronous (or async) instructions. These instructions run in the background until they have finished processing.  Asynchronous instructions do not stop the JavaScript engine from actively accepting and processing more instructions. This is why JavaScript is non-blocking in nature. There are a few",
-          "link": "https://www.freecodecamp.org/news/guide-to-javascript-promises/",
-          "publishedOn": "2023-06-13T16:35:33.000Z",
-          "wordCount": 5419,
-          "title": "How Promises Work in JavaScript – A Comprehensive Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/promises.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/microsoft-power-platform-fundamentals-certification-pl-900/",
-          "author": "Beau Carnes",
-          "description": "Certifications like the Microsoft Power Platform Fundamentals can help you advance in your career. You can learn everything you need to know to earn the Microsoft Power Platform Fundamentals Certification by completing this free 4-hour course that we just posted on the freeCodeCamp.org YouTube channel. Andrew Brown created this course.",
-          "link": "https://www.freecodecamp.org/news/microsoft-power-platform-fundamentals-certification-pl-900/",
-          "publishedOn": "2023-06-13T14:28:52.000Z",
-          "wordCount": 1520,
-          "title": "Microsoft Power Platform Fundamentals Certification (PL-900) – Pass the Exam With This Free 4-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/powerfund.png"
         }
       ]
     }
