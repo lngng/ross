@@ -12,6 +12,46 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126655020E7C.ExcessiveHeatWarning.1266551E8E30CA.LOXNPWLOX.635158d0ffe92a7991279ea27a42bfcc",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT UNTIL 8 PM PDT SUNDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM SUNDAY EVENING THROUGH MONDAY EVENING... * WHAT...For the Excessive Heat Warning, dangerously hot conditions with temperatures up to 105. For the Excessive Heat",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126655020E7C.ExcessiveHeatWarning.1266551E8E30CA.LOXNPWLOX.635158d0ffe92a7991279ea27a42bfcc",
+          "publishedOn": "2023-07-22T16:23:00.000Z",
+          "wordCount": 326,
+          "title": "Excessive Heat Warning issued July 22 at 9:23AM PDT until July 23 at 8:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126655020E7C.ExcessiveHeatWarning.1266551E8E30CA.LOXNPWLOX.6b82fe2378be84d0c5874cc4802820fb",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT UNTIL 8 PM PDT SUNDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM SUNDAY EVENING THROUGH MONDAY EVENING... * WHAT...For the Excessive Heat Warning, dangerously hot conditions with temperatures up to 110. For the Excessive Heat",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126655020E7C.ExcessiveHeatWarning.1266551E8E30CA.LOXNPWLOX.6b82fe2378be84d0c5874cc4802820fb",
+          "publishedOn": "2023-07-22T16:23:00.000Z",
+          "wordCount": 311,
+          "title": "Excessive Heat Warning issued July 22 at 9:23AM PDT until July 23 at 8:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126655020E7C.ExcessiveHeatWatch.1266552DD070CA.LOXNPWLOX.af840748011bd73f8cc919fefda3970f",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT UNTIL 8 PM PDT SUNDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM SUNDAY EVENING THROUGH MONDAY EVENING... * WHAT...For the Excessive Heat Warning, dangerously hot conditions with temperatures up to 105. For the Excessive Heat",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126655020E7C.ExcessiveHeatWatch.1266552DD070CA.LOXNPWLOX.af840748011bd73f8cc919fefda3970f",
+          "publishedOn": "2023-07-22T16:23:00.000Z",
+          "wordCount": 326,
+          "title": "Excessive Heat Watch issued July 22 at 9:23AM PDT until July 24 at 8:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126655020E7C.ExcessiveHeatWatch.1266552DD070CA.LOXNPWLOX.195a25f8dcd6d622ebd841f36279654e",
+          "author": null,
+          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT UNTIL 8 PM PDT SUNDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM SUNDAY EVENING THROUGH MONDAY EVENING... * WHAT...For the Excessive Heat Warning, dangerously hot conditions with temperatures up to 110. For the Excessive Heat",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126655020E7C.ExcessiveHeatWatch.1266552DD070CA.LOXNPWLOX.195a25f8dcd6d622ebd841f36279654e",
+          "publishedOn": "2023-07-22T16:23:00.000Z",
+          "wordCount": 311,
+          "title": "Excessive Heat Watch issued July 22 at 9:23AM PDT until July 24 at 8:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.HeatAdvisory.1266550F4BF0CA.LOXNPWLOX.5e68a7110f48cba2d15518287a0933c8",
           "author": null,
           "description": "...HEAT ADVISORY REMAINS IN EFFECT UNTIL 8 PM PDT SATURDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM SATURDAY EVENING THROUGH SUNDAY EVENING... * WHAT...For the Heat Advisory, temperatures up to 96. For the Excessive Heat Watch, dangerously hot conditions with temperatures up to 100 possible.",
@@ -930,16 +970,6 @@
           "wordCount": 299,
           "title": "Heat Advisory issued June 29 at 1:35PM PDT until July 02 at 8:00PM PDT by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12664F0BB1A8.WindAdvisory.12664F199200CA.LOXNPWLOX.5aa686ff5ca29ecbb9060fe3fbfda33c",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 2 PM THIS AFTERNOON TO 9 PM PDT THIS EVENING... * WHAT...Southwest winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Western Antelope Valley Foothills and Eastern Antelope Valley Foothills.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12664F0BB1A8.WindAdvisory.12664F199200CA.LOXNPWLOX.5aa686ff5ca29ecbb9060fe3fbfda33c",
-          "publishedOn": "2023-06-22T13:06:00.000Z",
-          "wordCount": 174,
-          "title": "Wind Advisory issued June 22 at 6:06AM PDT until June 22 at 9:00PM PDT by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -948,6 +978,216 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15707yv/hi_everyone_can_you_all_help_us_put_the_vn_in_the/",
+          "author": null,
+          "description": "submitted by    /u/Seanaechan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15707yv/hi_everyone_can_you_all_help_us_put_the_vn_in_the/",
+          "publishedOn": "2023-07-23T00:36:04.000Z",
+          "wordCount": 2512,
+          "title": "Hi everyone, can you all help us put the VN in the corner? 🇻🇳It would be appreciated if you could lend a hand.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156ygr5/eps_36_l%E1%BA%A1ng_s%C6%A1n/",
+          "author": null,
+          "description": "submitted by    /u/Baosia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156ygr5/eps_36_l%E1%BA%A1ng_s%C6%A1n/",
+          "publishedOn": "2023-07-22T23:17:53.000Z",
+          "wordCount": 2493,
+          "title": "Eps 36: Lạng Sơn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156vot4/finding_romantic_and_quiet_proposal_locations_in/",
+          "author": null,
+          "description": "Hey everyone, I'm currently on a mission to find the perfect spot for a special life event - proposing to my girlfriend of six years. We are going to travel to Vietnam in the middle of September, and we will start our trip in the north around Sa Pa. Then, we will probably continue gradually to the south.\n I don't think I will be able to keep this secret for so long, so I'm searching for a good, quiet, and romantic place, probably in the north of Vietnam. However, if there is something worth considering in the South, I will be open to it :)\n I would really appreciate your personal recommendations for a romantic location.\n Thanks in advance!\n    submitted by    /u/RinzlerLightCycle  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156vot4/finding_romantic_and_quiet_proposal_locations_in/",
+          "publishedOn": "2023-07-22T21:21:51.000Z",
+          "wordCount": 2607,
+          "title": "Finding Romantic and Quiet Proposal Locations in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156v7wc/what_its_like_to_have_a_vn_gf_in_canada/",
+          "author": null,
+          "description": "Love it\n    submitted by    /u/astrog52  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156v7wc/what_its_like_to_have_a_vn_gf_in_canada/",
+          "publishedOn": "2023-07-22T21:02:45.000Z",
+          "wordCount": 2503,
+          "title": "What its like to have a VN gf in Canada.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156ptob/if_you_had_to_stay_in_1_place_in_vietnam_for_a/",
+          "author": null,
+          "description": "For context, I have a month where I can work remotely and I was looking at Vietnam as I have already wanted to visit. Wherever I go will need good Wi-Fi. I say one place as it will be difficult to travel much (plane etc) between work commitments. Any advice appreciated!\n    submitted by    /u/Cold_Ad_5909  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156ptob/if_you_had_to_stay_in_1_place_in_vietnam_for_a/",
+          "publishedOn": "2023-07-22T17:19:45.000Z",
+          "wordCount": 2550,
+          "title": "If you had to stay in 1 place in Vietnam for a month where would you choose and why?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156o864/price_of_medication/",
+          "author": null,
+          "description": "So I recently went and got IV fluids and an antibiotic along with a 5 day antibiotics prescription, it came to 2,700,000 dong! I was a bit shocked considering it's Vietnam? Is this normal or was I scammed. It wasn't in a hospital it was in a pharmacy, not to mention it was cash only! I've no proof except their own written prescription for insurance to claim it back\n    submitted by    /u/Careful-Ad-9573  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156o864/price_of_medication/",
+          "publishedOn": "2023-07-22T16:15:27.000Z",
+          "wordCount": 2552,
+          "title": "Price of medication",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156mvrl/india_to_hand_over_missile_corvette_ins_kirpan_to/",
+          "author": null,
+          "description": "submitted by    /u/Stock-Salamander5050  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156mvrl/india_to_hand_over_missile_corvette_ins_kirpan_to/",
+          "publishedOn": "2023-07-22T15:21:02.000Z",
+          "wordCount": 2501,
+          "title": "India to hand over missile corvette INS Kirpan to Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156mfv9/someone_fix_the_star_pls/",
+          "author": null,
+          "description": "submitted by    /u/Opposite_Interest844  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156mfv9/someone_fix_the_star_pls/",
+          "publishedOn": "2023-07-22T15:03:26.000Z",
+          "wordCount": 2494,
+          "title": "Someone fix the star pls",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156l33h/%C3%A1o_d%C3%A0i_today/",
+          "author": null,
+          "description": "submitted by    /u/heeeeyboy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156l33h/%C3%A1o_d%C3%A0i_today/",
+          "publishedOn": "2023-07-22T14:07:54.000Z",
+          "wordCount": 2492,
+          "title": "Áo dài today",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156l2bp/i_met_a_girl_from_hanoi_but_my_moms_family_is/",
+          "author": null,
+          "description": "My mother was born and raised in Saigon and fled after the war to America. I'm American born and don't really speak Viet. Growing up, I remember tons of \"us vs. them\" stories and how the sound of northern accent can instantly put them (moms family) into an angry and aggressive mode. I never really gave it much thought because I'm American. I've only visited Vietnam twice years ago.\n Anyways I've lived in Japan for a few years and met a girl from Hanoi. I've never dated a Vietnamese girl before and honestly never thought I would. Conversation wise and personality wise, I think we get along quite well. It's funny because we have to communicate in Japanese, which is neither of our mother tongues. I'm now more motivated to improve my Vietnamese, and her English is making good progress too.\n We aren't dating officially, but both of us are definitely interested in next steps. We are both 30+ so I think we both recognize the need for discretion and caution, to respect each other's time, feelings, and limitations. I need to be in America for the time being so it would be long distance. \n My main concern is regarding potential culture clashes with her being from the north. I hate to say it but my family is so judgmental and can be blindly toxic. Im really worried how my mom would react. I know it's illogical and kinda racist behavior so before people attack my mother, please understand that she comes from war torn Vietnam and we have lost numerous family members during the war. They have serious trauma associated with the northern accent, and I would like to hear what others think and how their experiences have fared.\n Any thoughts, advice or discussion is welcome. Thank you for sharing your experiences and keeping it civil.\n    submitted by    /u/Bitter-Inspection136  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156l2bp/i_met_a_girl_from_hanoi_but_my_moms_family_is/",
+          "publishedOn": "2023-07-22T14:06:56.000Z",
+          "wordCount": 2811,
+          "title": "I met a girl from Hanoi, but my mom's family is originally from Saigon in the south. I'm worried about future conflicts. Any advice?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156kqno/why_was_vietnam_the_only_sinosphere_nation_to/",
+          "author": null,
+          "description": "It is said that after China was conquered by the Manchus, they were polluted by the barbarian culture. Many Sinosphere nations wanted to invade the Qing Dynasty and restore China. It is said that Gia Long planned an invasion, which never came to fruition. \n However, Vietnamese clothing showed signs of evolving to be more like the Manchu Qizhuang in the late-19th century for some reason.\n Before that, Vietnamese clothes were more flowy like Chinese and Korean ones. Japanese ones weren’t so flowy but they didn’t look like Manchu ones.\n Why?\n    submitted by    /u/MaxMaxMax_05  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156kqno/why_was_vietnam_the_only_sinosphere_nation_to/",
+          "publishedOn": "2023-07-22T13:53:25.000Z",
+          "wordCount": 2593,
+          "title": "Why was Vietnam the only Sinosphere nation to adopt Qing Dynasty attire?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156hzyx/saved_moment_from_rplace/",
+          "author": null,
+          "description": "submitted by    /u/reissmosley  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156hzyx/saved_moment_from_rplace/",
+          "publishedOn": "2023-07-22T11:47:33.000Z",
+          "wordCount": 2493,
+          "title": "Saved moment from r/place",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156hrvb/any_private_investigators_contacts_in_hanoi/",
+          "author": null,
+          "description": "A friend of mine needs help tracking down someone in Hanoi and is looking for a PI who can reliably get the job done. Any leads would be helpful.\n    submitted by    /u/VPee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156hrvb/any_private_investigators_contacts_in_hanoi/",
+          "publishedOn": "2023-07-22T11:35:59.000Z",
+          "wordCount": 2515,
+          "title": "Any private investigators contacts in Hanoi?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156hg80/just_a_bit_of_dessert_hunting_in_district_10_hcmc/",
+          "author": null,
+          "description": "submitted by    /u/inexistentia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156hg80/just_a_bit_of_dessert_hunting_in_district_10_hcmc/",
+          "publishedOn": "2023-07-22T11:19:04.000Z",
+          "wordCount": 2499,
+          "title": "Just a bit of dessert hunting in District 10, HCMC.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156gzx9/can_someone_help_me_find_an_old_friend/",
+          "author": null,
+          "description": "Im trying to find an old friend who I’ve lost touch with. Her name is Nguyen Ngoc Anh. She lived in Hanoi. We were studying together in Singapore in the early 2010-20’s. She was at NUS. I can’t find her on Facebook and don’t have a number. If anyone knows her and can help me please PM me.\n    submitted by    /u/trieuvietvuong  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156gzx9/can_someone_help_me_find_an_old_friend/",
+          "publishedOn": "2023-07-22T10:55:34.000Z",
+          "wordCount": 2546,
+          "title": "Can someone help me find an old friend",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156e385/my_first_workout_in_vietnam/",
+          "author": null,
+          "description": "I’m from a high-altitude, mountainous, dry state in the US, and two sets in to my workout here, I’m pouring sweat like I had worked out for an hour. 45 min into the workout and I’m scared I’m going to dehydrate and overheat. Rushed back to my hotel and downed a hydration pack. Is this normal? Does the body adjust? Everyone else at the gym had the normal amount of sweat. I didn’t even lift heavy!\n    submitted by    /u/Existforlove  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156e385/my_first_workout_in_vietnam/",
+          "publishedOn": "2023-07-22T08:10:28.000Z",
+          "wordCount": 2561,
+          "title": "My first workout in Vietnam…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156dq03/dirty_beaches/",
+          "author": null,
+          "description": "Why is there so much plastic pollution on the beaches in Vietnam? I recently traveled to Da Nang and Quy Nhon and was really upset to sea so much garbage on the beaches and in the ocean. Is there anything being done to improve the conditions of the beaches here?\n    submitted by    /u/Nice_Faithlessness49  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156dq03/dirty_beaches/",
+          "publishedOn": "2023-07-22T07:49:03.000Z",
+          "wordCount": 2532,
+          "title": "Dirty Beaches",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/156avwh/could_you_believe_people_in_your_gov_tried_to/",
+          "author": null,
+          "description": "submitted by    /u/leprotelariat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/156avwh/could_you_believe_people_in_your_gov_tried_to/",
+          "publishedOn": "2023-07-22T05:13:08.000Z",
+          "wordCount": 2509,
+          "title": "Could you believe people in your gov tried to make some extra bucks on your life amid the pandemic? #VietnameseRemember",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15683yu/update_vn_is_down_30/",
+          "author": null,
+          "description": "submitted by    /u/Technical_Steak_3634  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15683yu/update_vn_is_down_30/",
+          "publishedOn": "2023-07-22T02:50:57.000Z",
+          "wordCount": 2494,
+          "title": "update: vn is down 3-0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1567osq/why_is_the_coffee_at_resorts_in_vietnam_always/",
+          "author": null,
+          "description": "I love coffee in Vietnam. I've lived in Vietnam for 8 years now and coffee is 20℅ of the reason for that. I'm married and my wife and I have a daughter. \n We've travelled a lot and stayed at a lot of different hotels and resorts. One thing my wife and I have always noticed, the coffee at these resorts is terrible. \n How can a resort that charges 1.7 mill a night make worse coffee than Ca Phe 123 I can find down some random street who only charges 25k? \n My wife says it's becuase the resort wants to make it for western customers, but a place like Vin Pearl has 90℅ Vietnamese guests. \n Like, go to any cafe with plastic tables and chairs and I would bet money their coffee will be better than a 5 star resort. What's up with that?\n    submitted by    /u/Easy_Blackberry_4144  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1567osq/why_is_the_coffee_at_resorts_in_vietnam_always/",
+          "publishedOn": "2023-07-22T02:30:17.000Z",
+          "wordCount": 2633,
+          "title": "Why is the coffee at resorts in Vietnam always terrible?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1566y16/are_people_in_vietnam_currently_supporting_the/",
+          "author": null,
+          "description": "The current game of Vietnam vs the USA has all the makings of a possible upset. I have not heard much hype from my Vietnamese friends and coworkers. Sadly they seemed more excited about Messi debuting for Miami. I would hope that there are world cup viewings setup in Ho Chi Minh and other major cities; to show support for these women.\n    submitted by    /u/Blue_blur22  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1566y16/are_people_in_vietnam_currently_supporting_the/",
+          "publishedOn": "2023-07-22T01:54:34.000Z",
+          "wordCount": 2552,
+          "title": "Are people in Vietnam currently supporting the women's soccer team?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/1565mt1/whats_with_the_sexpat_accusations_on_this_board/",
           "author": null,
@@ -7077,126 +7317,6 @@
           "wordCount": 2424,
           "title": "Grab availability in Nin Binh?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14gxmz5/v%C3%AC_s%E1%BA%BD_c%C3%B3_m%E1%BB%99t_nh%C3%B3m_t%C3%A0u_chi%E1%BA%BFn_hoa_k%E1%BB%B3_gh%C3%A9_th%C4%83m_c%E1%BA%A3ng/",
-          "author": null,
-          "description": "Mình muốn hỏi rằng mình có được phép lên thăm các tàu chiến hay không trong thời gian các tàu thăm cảng.\n    submitted by    /u/R2020TrnHngH  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14gxmz5/v%C3%AC_s%E1%BA%BD_c%C3%B3_m%E1%BB%99t_nh%C3%B3m_t%C3%A0u_chi%E1%BA%BFn_hoa_k%E1%BB%B3_gh%C3%A9_th%C4%83m_c%E1%BA%A3ng/",
-          "publishedOn": "2023-06-23T12:44:35.000Z",
-          "wordCount": 2416,
-          "title": "Vì sẽ có một nhóm tàu chiến Hoa Kỳ ghé thăm cảng Tiên Sa.....",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14gwtu3/anyone_able_to_identify_what_this_is_assumed_medal/",
-          "author": null,
-          "description": "submitted by    /u/mulymule  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14gwtu3/anyone_able_to_identify_what_this_is_assumed_medal/",
-          "publishedOn": "2023-06-23T12:05:14.000Z",
-          "wordCount": 2368,
-          "title": "Anyone able to identify what this is, assumed medal.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14gvtss/limited_money_and_want_to_learn_the_language/",
-          "author": null,
-          "description": "Hello! I have been in Vietnam for a month now, and want to learn the language better as I want to have better interactions with locals and respect their land. I want to show the people here that I’m not a foreigner who only speaks English.\n Here’s the thing - I’m doing job interviews at the moment trying to get a job, but have limited money at the moment. I did a trial lesson at a centre, and after the lesson they asked if I wanted to pay for my tuition fees then and there. The fees were 19.6 for 80 hours (I believe?) but I told them I don’t have the money for it currently due to finding work and not employed. I really want to start learning as soon as possible, but really struggle with apps such as Duolingo and resources like YouTube. I can’t learn anything from there - I get super distracted because of my ADHD and prefer in-class.\n Do you have any suggestions, or should I just wait until I start getting a salary and have more money? It’s making me a little sad that I only speak English and want to learn the language because I feel like I’m experience 1/50th of the life here…\n    submitted by    /u/sabethrowaway  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14gvtss/limited_money_and_want_to_learn_the_language/",
-          "publishedOn": "2023-06-23T11:14:59.000Z",
-          "wordCount": 2569,
-          "title": "Limited money and want to learn the Language",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14gq57x/my_wife_is_stuck_in_vietnam_please_help/",
-          "author": null,
-          "description": "Greetings. \n My wife is currently holds a U.S. green card but she is a Vietnamese citizen. She went to Vietnam in the beginning of May to visit her family after graduating and starting her job in August. She figured while she was there she would renew her passport (Expired in June of 2023). Unknown to us that there’s a shortage issue with the newer ID there and she can only renew her passport using that newer ID. It’s been a month and a half, there’s no sign of her getting the ID. Is there something she can do so that she can return back to the U.S. more urgently? Or rather what’s the average wait time for the ID to get processed, printed, and shipped? For future planning. \n Thank you in advance.\n    submitted by    /u/Web_Impressive  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14gq57x/my_wife_is_stuck_in_vietnam_please_help/",
-          "publishedOn": "2023-06-23T05:44:35.000Z",
-          "wordCount": 2490,
-          "title": "My wife is stuck in Vietnam. Please help.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14gpjq2/could_this_be_a_bat_bite_or_something_else_do/",
-          "author": null,
-          "description": "submitted by    /u/NylonYT  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14gpjq2/could_this_be_a_bat_bite_or_something_else_do/",
-          "publishedOn": "2023-06-23T05:10:41.000Z",
-          "wordCount": 2401,
-          "title": "could this be a bat bite? (or something else) do bats here have a high chance of having rabies? more info in comment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14gntwq/im_a_foreigner_and_i_recently_just_made_my_first/",
-          "author": null,
-          "description": "submitted by    /u/Clamidiaa  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14gntwq/im_a_foreigner_and_i_recently_just_made_my_first/",
-          "publishedOn": "2023-06-23T03:40:04.000Z",
-          "wordCount": 2380,
-          "title": "I'm a foreigner, and I recently just made my first full Vietnamese video asking people on Nguyen Hue street questions. Had a lot of fun making this. How many can you answer?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14gkwfh/what_to_bring_for_host_family/",
-          "author": null,
-          "description": "Hello! I will be living with a host family in Hanoi for the next year and I was wondering what is an appropriate gift to bring them according to the customs of the culture. It is a middle aged couple, husband and wife, no young children. Any recommendations are appreciated. Thank you! \n Xin chào! Tôi sẽ sống với một gia đình chủ nhà ở Hà Nội trong năm tới và tôi đã tự hỏi đâu là một món quà thích hợp để mang chúng theo phong tục của văn hóa. Đó là một cặp vợ chồng trung niên, chồng và vợ, không có con nhỏ. Bất kỳ khuyến nghị được đánh giá cao. Cảm ơn bạn!\n    submitted by    /u/lola-lola20  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14gkwfh/what_to_bring_for_host_family/",
-          "publishedOn": "2023-06-23T01:18:17.000Z",
-          "wordCount": 2472,
-          "title": "What to bring for host family?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14gf93n/banh_mi_in_paris_best_of_both_worlds_had_this/",
-          "author": null,
-          "description": "submitted by    /u/jack_hudson2001  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14gf93n/banh_mi_in_paris_best_of_both_worlds_had_this/",
-          "publishedOn": "2023-06-22T21:14:19.000Z",
-          "wordCount": 2373,
-          "title": "Banh Mi in Paris, best of both worlds, had this during the French Open",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14g710n/weather_in_danang_rain/",
-          "author": null,
-          "description": "Hi everyone. I’m scheduling to vist Danang for 4 days next week. The weather forecast is saying that it’ll rain every single day while I’m there. What the rain looks like it Danang? Will it rain hard and long or just pouring down and stop? I’m a bit disappointed with the weather, to be honest. Thank you in advance.\n    submitted by    /u/bvkakalot  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14g710n/weather_in_danang_rain/",
-          "publishedOn": "2023-06-22T15:47:24.000Z",
-          "wordCount": 2413,
-          "title": "Weather in Danang? Rain?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14g6rwk/hue_hire_grab_drivers_by_the_hour/",
-          "author": null,
-          "description": "Hi all, is \"Hire grab driver by the hour\" service available and widely used in Hue? Thanks.\n    submitted by    /u/swaggyccccc  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14g6rwk/hue_hire_grab_drivers_by_the_hour/",
-          "publishedOn": "2023-06-22T15:37:25.000Z",
-          "wordCount": 2404,
-          "title": "(Hue) Hire grab drivers by the hour",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14g5wrt/buying_gopro_in_ha_giang/",
-          "author": null,
-          "description": "Anybody know if there’s a store that sells GoPros in Ha Giang or Cao Bang?\n Thanks!\n    submitted by    /u/Naysauce  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14g5wrt/buying_gopro_in_ha_giang/",
-          "publishedOn": "2023-06-22T15:03:17.000Z",
-          "wordCount": 2371,
-          "title": "Buying GoPro in Ha Giang",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14g4mwm/wow_the_heat/",
-          "author": null,
-          "description": "Well duh... It's south east Asia in June! \n I'm used to colder temperatures (19 Celsius) so hanoi was a big contrast. I like to go about early mornings and it's a lovely city. I was told \"oh you'll get used to it\". I noticed some of yall seem cool as a cucumber out in the unshaded areas, not a drop of sweat. Then I see others with fans out. Then I see others bolting into air conditioned buildings just drenched. How are y'all handling this heat? I've been handling it by just putting my hair up, going out and about earlier in the mornings, hydrating, fan and something to wipe my sweat up from my vitiligo'd face.\n    submitted by    /u/rocoonshcnoon  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14g4mwm/wow_the_heat/",
-          "publishedOn": "2023-06-22T14:12:21.000Z",
-          "wordCount": 2470,
-          "title": "Wow the heat!",
-          "imageUrl": null
         }
       ]
     },
@@ -7934,66 +8054,6 @@
           "wordCount": 5635,
           "title": "How to Build a Shopping Cart with React and TypeScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/shopping-cart-app-article.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/",
-          "author": "Wenbin Fang",
-          "description": "ChatGPT [https://chat.openai.com/] is a highly intelligent auto-completion tool. It takes instructions or questions in natural language and provides good enough text-based outputs.  But there’s a catch — ChatGPT’s knowledge only goes up until September 2021. So, as of writing this blog post (June 2023), the model itself is not aware of",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/",
-          "publishedOn": "2023-06-22T23:01:49.000Z",
-          "wordCount": 1888,
-          "title": "How to Build a ChatGPT Plugin – Case Study using PodcastAPI.com and Serverless Cloudflare Pages",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/56ae8d3bf6a04a8b85c96c695f29643f.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you are learning MySQL, then you are likely enjoying executing different commands and checking the results afterward.  But you may be working on a project where you have modified your database to an acceptable state and you're worried about altering it by mistake. This could happen when you're",
-          "link": "https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/",
-          "publishedOn": "2023-06-22T22:49:49.000Z",
-          "wordCount": 1184,
-          "title": "How to Make a Database Read-Only in MySQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/altumcode-dMUt0X3f59Q-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/intro-to-generative-ai-10-free-courses-by-google/",
-          "author": "Eamonn Cottrell",
-          "description": "Are you tired of all the AI talk yet? I am too, but I'm also intrigued by the technology behind it. If you'd like to dive into some of the details behind how AI actually works and take a break from the many creepy AI examples on the internet, check",
-          "link": "https://www.freecodecamp.org/news/intro-to-generative-ai-10-free-courses-by-google/",
-          "publishedOn": "2023-06-22T22:22:52.000Z",
-          "wordCount": 1579,
-          "title": "Intro to Generative AI – 10 Free Courses by Google",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/gen-AI.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-every-software-engineer-should-know/",
-          "author": "Tamerlan Gudabayev",
-          "description": "If you're a software engineer, you may feel like you are in a bit of a rat race.  The rat race to learn the new technologies. A new frontend framework, a new database or even a new language which is a variation of another language. It's never ending and",
-          "link": "https://www.freecodecamp.org/news/what-every-software-engineer-should-know/",
-          "publishedOn": "2023-06-22T22:06:46.000Z",
-          "wordCount": 3015,
-          "title": "Key Computer Science Concepts Every Software Engineer Should Know – and How to Learn Them",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-christina-morillo-1181298--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/",
-          "author": "Rajdeep Singh",
-          "description": "If you're a beginner who's using a Gnome-based distro like Ubuntu, Fedora, Arch Linux, and so on, there are tons of extensions available from the Gnome community. Gnome is an open-source Linux-based distro desktop environment (operating system) maintained by a large number of developers. Choosing the right Gnome extension(s) can",
-          "link": "https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/",
-          "publishedOn": "2023-06-22T22:02:31.000Z",
-          "wordCount": 1265,
-          "title": "The Best Gnome Extensions For Developer Productivity",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/The-Best-Gnome-Extensions-For-Developer-Productivity.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-an-ai-tweet-generator-openai-langchain/",
-          "author": "Shane Duggan",
-          "description": "I've got a fun tutorial for you today. If you've read my previous article on building custom-knowledge chatbots using LangChain [/news/langchain-how-to-create-custom-knowledge-chatbots/], then you must be bursting with ideas of great projects you can create. Well, I want to encourage your creativity and give a concrete example of what you can",
-          "link": "https://www.freecodecamp.org/news/create-an-ai-tweet-generator-openai-langchain/",
-          "publishedOn": "2023-06-22T20:20:04.000Z",
-          "wordCount": 2390,
-          "title": "How to Create an AI Tweet Generator Using LangChain",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/cover.png"
         }
       ]
     }
