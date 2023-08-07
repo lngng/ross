@@ -12,6 +12,16 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665A048DA0.HeatAdvisory.12665A1108F0CA.LOXNPWLOX.08f1f232a140dd595824345b82c44e9d",
+          "author": null,
+          "description": "...HEAT ADVISORY REMAINS IN EFFECT UNTIL 8 PM PDT THIS EVENING... * WHAT...Temperatures up to 105 expected. Hottest in the western San Fernando Valley and southern Salinas Valley. Overnight lows in the foothills and mountains in the 70s to lower 80s. * WHERE...Portions of southwest California. * WHEN...Until 8 PM PDT this evening.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665A048DA0.HeatAdvisory.12665A1108F0CA.LOXNPWLOX.08f1f232a140dd595824345b82c44e9d",
+          "publishedOn": "2023-08-06T21:20:00.000Z",
+          "wordCount": 468,
+          "title": "Heat Advisory issued August 06 at 2:20PM PDT until August 06 at 8:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126659F4DF2C.HeatAdvisory.12665A1108F0CA.LOXNPWLOX.08f1f232a140dd595824345b82c44e9d",
           "author": null,
           "description": "...HEAT ADVISORY REMAINS IN EFFECT UNTIL 8 PM PDT SUNDAY... * WHAT...Temperatures up to 107 expected. Hottest in the western San Fernando Valley and southern Salinas Valley. Overnight lows in the foothills and mountains in the 70s to lower 80s. * WHERE...Portions of southwest California. * WHEN...Until 8 PM PDT Sunday.",
@@ -920,36 +930,6 @@
           "wordCount": 218,
           "title": "Excessive Heat Watch issued July 08 at 12:50PM PDT until July 15 at 10:00PM PDT by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266541DC258.ExcessiveHeatWatch.126654958810CA.LOXNPWLOX.c07ac6df066bcda2420e3a2261abf056",
-          "author": null,
-          "description": "...EXCESSIVE HEAT WATCH IN EFFECT TUESDAY THROUGH FRIDAY... * WHAT...Dangerously hot conditions with temperatures up to 106 possible. * WHERE...Santa Clarita Valley. * WHEN...From Tuesday through Friday. * IMPACTS...Extreme heat will significantly increase the",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266541DC258.ExcessiveHeatWatch.126654958810CA.LOXNPWLOX.c07ac6df066bcda2420e3a2261abf056",
-          "publishedOn": "2023-07-07T20:06:00.000Z",
-          "wordCount": 186,
-          "title": "Excessive Heat Watch issued July 07 at 1:06PM PDT until July 14 at 10:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266541DC258.ExcessiveHeatWatch.126654958810CA.LOXNPWLOX.38acc80069ddb704e5615b5c71ba503e",
-          "author": null,
-          "description": "...EXCESSIVE HEAT WATCH IN EFFECT TUESDAY THROUGH FRIDAY... * WHAT...Dangerously hot conditions with temperatures up to 107 possible. * WHERE...Interstate 5 Corridor and Western San Gabriel Mountains and Highway 14 Corridor, including Acton. * WHEN...From Tuesday through Friday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266541DC258.ExcessiveHeatWatch.126654958810CA.LOXNPWLOX.38acc80069ddb704e5615b5c71ba503e",
-          "publishedOn": "2023-07-07T20:06:00.000Z",
-          "wordCount": 215,
-          "title": "Excessive Heat Watch issued July 07 at 1:06PM PDT until July 14 at 10:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266541DC258.ExcessiveHeatWatch.126654958810CA.LOXNPWLOX.910670261ae841b7fa277ae270a14fa4",
-          "author": null,
-          "description": "...EXCESSIVE HEAT WATCH IN EFFECT TUESDAY THROUGH FRIDAY... * WHAT...Dangerously hot conditions with temperatures up to 110 possible. * WHERE...Western Antelope Valley Foothills, Eastern Antelope Valley Foothills and Antelope Valley. * WHEN...From Tuesday through Friday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266541DC258.ExcessiveHeatWatch.126654958810CA.LOXNPWLOX.910670261ae841b7fa277ae270a14fa4",
-          "publishedOn": "2023-07-07T20:06:00.000Z",
-          "wordCount": 212,
-          "title": "Excessive Heat Watch issued July 07 at 1:06PM PDT until July 14 at 10:00PM PDT by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -958,6 +938,226 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15k5t1q/how_old_do_you_start_school_at_in_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/ArmandoAlcaraz6  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15k5t1q/how_old_do_you_start_school_at_in_vietnam/",
+          "publishedOn": "2023-08-07T00:48:25.000Z",
+          "wordCount": 2463,
+          "title": "How old do you start school at in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15k55ho/what_percentage_of_vietnamese_speak_the_northern/",
+          "author": null,
+          "description": "Wherever I try to learn Vietnamese from, it's always the Northern accent that they teach.\n I'm curious if it really is the most widely spoken, or it just happens to be the one that's internationally recognized?\n    submitted by    /u/DeLannoy04  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15k55ho/what_percentage_of_vietnamese_speak_the_northern/",
+          "publishedOn": "2023-08-07T00:18:14.000Z",
+          "wordCount": 2500,
+          "title": "What percentage of Vietnamese speak the Northern accent?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15k3uex/things_to_do_in_hanoi_and_where_to_eat/",
+          "author": null,
+          "description": "Just looking for some advice on where to get some food around here? My niece is a very fussy eater so I need somewhere that she can eat that probably serves chips on the menu if all else fails. \n Also can anyone help me to build a 6 day itinerary while I’m here or recommend tour companies?\n    submitted by    /u/Beautiful-Housing901  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15k3uex/things_to_do_in_hanoi_and_where_to_eat/",
+          "publishedOn": "2023-08-06T23:20:18.000Z",
+          "wordCount": 2522,
+          "title": "Things to do in Hanoi and where to eat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jxq3a/what_is_something_that_is_unique_to_vietnam_only/",
+          "author": null,
+          "description": "Like animal fermentation or Vietnam's interesting dubbing method.\n    submitted by    /u/Totallynotttegegg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jxq3a/what_is_something_that_is_unique_to_vietnam_only/",
+          "publishedOn": "2023-08-06T19:09:06.000Z",
+          "wordCount": 2473,
+          "title": "What is something that is unique to Vietnam only?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jxkdh/fastest_time_taken_to_complete_ha_giang_loop/",
+          "author": null,
+          "description": "My partner and I have limited time in Hanoi and would love to explore the Ha Giang Loop before leaving the northern part of VN. \n What is the fastest time possible to safely complete the Ha Giang Loop or at least touch some base?\n Thanks in advance! 😌\n    submitted by    /u/lifeishardsuckitup  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jxkdh/fastest_time_taken_to_complete_ha_giang_loop/",
+          "publishedOn": "2023-08-06T19:02:22.000Z",
+          "wordCount": 2512,
+          "title": "Fastest time taken to complete Ha Giang Loop?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jw088/the_honey_today/",
+          "author": null,
+          "description": "submitted by    /u/heeeeyboy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jw088/the_honey_today/",
+          "publishedOn": "2023-08-06T17:58:53.000Z",
+          "wordCount": 2468,
+          "title": "The Honey today",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jvxqo/average_prorussian_vietnamese_be_like/",
+          "author": null,
+          "description": "https://www.youtube.com/watch?v=vVL7IFxq8k8\n ​\n    submitted by    /u/dominus108  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jvxqo/average_prorussian_vietnamese_be_like/",
+          "publishedOn": "2023-08-06T17:56:03.000Z",
+          "wordCount": 2462,
+          "title": "Average pro-russian Vietnamese be like",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jvo7x/first_time_coming_to_work_in_vietnam/",
+          "author": null,
+          "description": "Hello everyone,\n I'll be coming to Vietnam for work, and as a first-timer in the country, I want to make sure I'm well-prepared for my arrival, and I'm looking forward to your insights on what to expect and how to handle the arrival process smoothly.\n If you've been to Hanoi Airport before or have experience with arriving in Vietnam, I'd love to hear from you! What are the steps you recommend taking upon arrival at Hanoi Airport? Any tips for immigration, baggage claim, customs, currency exchange, transportation, and getting settled into accommodation would be greatly appreciated.\n Additionally, if you have any advice on local customs, cultural norms, or must-try experiences in Hanoi, I'm all ears. I believe that learning from others' experiences can truly enrich my journey.\n    submitted by    /u/Abdou_Kader23  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jvo7x/first_time_coming_to_work_in_vietnam/",
+          "publishedOn": "2023-08-06T17:45:30.000Z",
+          "wordCount": 2590,
+          "title": "First Time Coming to Work in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jvjbm/wire_transfer_service_from_south_korea_skw_to/",
+          "author": null,
+          "description": "Perhaps các bạn can help me with this question. We have family that is currently working abroad over in South Korea and would like to wire transfer funds back to Vietnam to their family. Is there currently a service that allows them to accomplish this? I've looked into Wise, Remitly, Sendwave and a few others but did not currently see SK as a outbound remmitance, but only inbound for receiving. Thanks in advance! \n    submitted by    /u/Canibizzle  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jvjbm/wire_transfer_service_from_south_korea_skw_to/",
+          "publishedOn": "2023-08-06T17:40:05.000Z",
+          "wordCount": 2539,
+          "title": "Wire transfer service from South Korea (SKW) to Vietnam (VND)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15juwij/best_brands_for_vietnamese_ground_coffee/",
+          "author": null,
+          "description": "I'm staying in HCMC for another week and planning on going to those big supermarket (i.e LotteMart...) to grab some Vietnamese ground coffee. There are so many choices to pick from which have made it difficult to choose.\n What are some of the brands you would recommend for quality Vietnamese ground coffee (Robusta)? If so, where to get them? Appreciate the help!\n    submitted by    /u/fleeingspirit  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15juwij/best_brands_for_vietnamese_ground_coffee/",
+          "publishedOn": "2023-08-06T17:14:26.000Z",
+          "wordCount": 2524,
+          "title": "Best brands for Vietnamese ground coffee?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jun01/why_is_extreme_metal_death_thrashblack_metal_not/",
+          "author": null,
+          "description": "But yet in other nearby countries like China, Thailand and Indonesia extreme underground metal is very popular?\n I read something somewhere that Vietnam is really culturally opposed to extreme metal. Why is this so?\n    submitted by    /u/Accountingisfun7  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jun01/why_is_extreme_metal_death_thrashblack_metal_not/",
+          "publishedOn": "2023-08-06T17:03:22.000Z",
+          "wordCount": 2501,
+          "title": "Why is extreme metal (death, thrash/black metal) not popular in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15juiqk/where_to_find_good_american_new_york_style_pizza/",
+          "author": null,
+          "description": "I'm not talking Domino's, Pizza Hut, Pizza Company - they all use cheese and ingredients that is not the same taste made in America. Pizza 4P's is not really my style. Basta Hiro is better and cool but again not American style. I'm thinking to try Red and Round Restaurant soon. Anyone know of a good American or New York style Pizza joint around here?\n    submitted by    /u/vubitcry  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15juiqk/where_to_find_good_american_new_york_style_pizza/",
+          "publishedOn": "2023-08-06T16:58:57.000Z",
+          "wordCount": 2533,
+          "title": "Where to find good American / New York style Pizza in HCMC?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15js2ia/hey_can_anyone_tell_me_what_this_is_called_again/",
+          "author": null,
+          "description": "submitted by    /u/ApartGlass1198  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15js2ia/hey_can_anyone_tell_me_what_this_is_called_again/",
+          "publishedOn": "2023-08-06T15:15:21.000Z",
+          "wordCount": 2490,
+          "title": "Hey can anyone tell me what this is called again? a Vietnamese friend took me to try it, i think it was Taro or something?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jr13q/whats_the_tipping_etiquette_for_grab_drivers_and/",
+          "author": null,
+          "description": "My total was 497,000 and I gave him a 500,000 and he seemed bummed. I think I goofed and feel bad. 😞\n    submitted by    /u/Existforlove  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jr13q/whats_the_tipping_etiquette_for_grab_drivers_and/",
+          "publishedOn": "2023-08-06T14:30:27.000Z",
+          "wordCount": 2487,
+          "title": "What’s the tipping etiquette for Grab drivers and deliveries?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jqg75/what_to_eat_and_what_not_to_eat/",
+          "author": null,
+          "description": "Just landed in Vietnam and I haven’t had any specific injections before arriving, is there any foods or meats I should avoid eating?\n    submitted by    /u/Beautiful-Housing901  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jqg75/what_to_eat_and_what_not_to_eat/",
+          "publishedOn": "2023-08-06T14:04:09.000Z",
+          "wordCount": 2487,
+          "title": "What to eat and what not to eat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jocug/kinh_nghi%E1%BB%87m_v%E1%BB%9Bi_toxic_tr%C3%AAn_online_gaming/",
+          "author": null,
+          "description": "Tôi năm nay 20 tuổi muốn làm post này để nói kinh nghiệm đối đầu với toxic trên mạng .Tôi lúc nào chơi game Cs go gặp mấy đồng bào Việt Nam thì 80% là toxic cuối trận lúc nào cũng mắng khôn , cào phím . Trong lòng của tôi cũng rất là bực khi chơi game gặp phải mấy ông nội này nhưng mà tôi cũng nhận ra mình chỉ chơi game , chơi cho vui có gì đâu mà phải làm khó cho bản thân mình mà bực bội .Toxic có đầy ban cũng đâu hết được , quan trọng nhất là bản thân mình . Cứ chơi cho vui thôi , đừng để tâm mấy chuyện đó , cuối cùng nó cũng chỉ làm khó cho bản thân mình . Đôi khi người ta lỡ lời họ nói vậy hay họ thích gì họ nói đó . Đây là kinh nghiệm trong đời sống đừng để lòng mấy chuyện bực tức , cuối cùng mình là người gánh bệnh tật . \n    submitted by    /u/EitherTry1322  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jocug/kinh_nghi%E1%BB%87m_v%E1%BB%9Bi_toxic_tr%C3%AAn_online_gaming/",
+          "publishedOn": "2023-08-06T12:24:35.000Z",
+          "wordCount": 2639,
+          "title": "Kinh nghiệm với toxic trên online gaming .",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jmr1w/v%C5%A9ng_t%C3%A0u_is_it_nice/",
+          "author": null,
+          "description": "What's there to do in Vũng Tàu? Anyone have any tips or recommendations for visiting?\n    submitted by    /u/Duhrdy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jmr1w/v%C5%A9ng_t%C3%A0u_is_it_nice/",
+          "publishedOn": "2023-08-06T10:55:36.000Z",
+          "wordCount": 2476,
+          "title": "Vũng Tàu. Is it nice?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jmm7n/binh_thanhs_gloaming/",
+          "author": null,
+          "description": "I took this picture in the Vu Tung road where i living in. You can see this road have a quite differents from a crowded Sai Gon that we normaly see although this is one of the central district in this city.\n    submitted by    /u/SolidNose1568  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jmm7n/binh_thanhs_gloaming/",
+          "publishedOn": "2023-08-06T10:47:17.000Z",
+          "wordCount": 2512,
+          "title": "Binh Thanh’s Gloaming.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jlt6g/learning_vietnamese/",
+          "author": null,
+          "description": "Hi everyone! I’ll be visiting Vietnam during Christmas and I’d love to learn some Vietnamese to be able to speak to my partners family. \n I use Duolingo right now, however I feel like they don’t explain the language very well and I need my partner to explain everything to me. \n Does anyone know an app/book to help me learn basic conversations? \n Thanks in advance :)\n    submitted by    /u/https_m00nch1ld  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jlt6g/learning_vietnamese/",
+          "publishedOn": "2023-08-06T09:58:12.000Z",
+          "wordCount": 2523,
+          "title": "Learning Vietnamese!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jls9p/why_is_the_apple_keyboard_so_st_if_you_have/",
+          "author": null,
+          "description": "Any recommends on a decent app or what are bi-lingual Vietnamese doing . It’s a joke at this stage.\n    submitted by    /u/Hot-Tea159  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jls9p/why_is_the_apple_keyboard_so_st_if_you_have/",
+          "publishedOn": "2023-08-06T09:56:40.000Z",
+          "wordCount": 2500,
+          "title": "Why is the Apple keyboard so s**t . If you have English and Vietnamese on it and switch to either it can’t differentiate between .",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jkg17/eps_40_qu%E1%BA%A3ng_b%C3%ACnh/",
+          "author": null,
+          "description": "submitted by    /u/Baosia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jkg17/eps_40_qu%E1%BA%A3ng_b%C3%ACnh/",
+          "publishedOn": "2023-08-06T08:34:59.000Z",
+          "wordCount": 2469,
+          "title": "Eps 40: Quảng Bình",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15jcvs0/morning_in_saigon/",
+          "author": null,
+          "description": "submitted by    /u/T1000-Prototype  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15jcvs0/morning_in_saigon/",
+          "publishedOn": "2023-08-06T01:36:02.000Z",
+          "wordCount": 2468,
+          "title": "Morning in Saigon",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/15jasm8/lunch_lady_saigon/",
           "author": null,
@@ -7297,266 +7497,6 @@
           "wordCount": 2490,
           "title": "Big 4 Salary",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14u3fqt/freedom_in_vietnam/",
-          "author": null,
-          "description": "So i found this website that shows you the freedom rating of countries around the world, and you cant even access it without a VPN if youre in Vietnam which is already a major red flag. When i go to check what our rating is its 19/100 for global freedom and 22/100 for internet freedom which is way way worse than i had original thought (Though i can’t guarantee if the data is correct or not). I want to hear about your experiences living here and about how correct that is.\n P.S the website is called Freedom House\n    submitted by    /u/dkndbfj  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14u3fqt/freedom_in_vietnam/",
-          "publishedOn": "2023-07-08T12:50:14.000Z",
-          "wordCount": 2508,
-          "title": "Freedom in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14u2sin/bug_bite_rash/",
-          "author": null,
-          "description": "I know i probably shouldn't be asking the internet, but I'm currently in Vietnam and this has become a recent problem. Two days ago i woke up with this mark after sleeping in a hotel room in Vietnam (Nortern region). I didn't notice it until i saw it in the mirror but now it has become more irritated (probably because of the friction with my clothes). I don't know how i got it, what it is and how to take care of it. It's on my ribcage and is about 3 cm in hight, the redness has spread over time.\n First two pictures are current, third is what it looked like in the beginning.\n Thank you.\n    submitted by    /u/travellingdoor  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14u2sin/bug_bite_rash/",
-          "publishedOn": "2023-07-08T12:20:22.000Z",
-          "wordCount": 2526,
-          "title": "Bug bite? Rash?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14u2erc/would_you_choose_to_live_in_hanoi_or_hcmc_and_why/",
-          "author": null,
-          "description": "submitted by    /u/Whateverusaybroski  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14u2erc/would_you_choose_to_live_in_hanoi_or_hcmc_and_why/",
-          "publishedOn": "2023-07-08T12:02:27.000Z",
-          "wordCount": 2416,
-          "title": "Would you choose to live in hanoi or hcmc? And why?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14u222u/facebook_telegram_zalo_limited_business_reach_in/",
-          "author": null,
-          "description": "I notice that many businesses in Vietnam use Facebook as their \"only\" web presence. And either Facebook Messenger, Zalo, or Telegram as the \"only \" chat app to allow their prospective clients to reach them.\n If you don't have an active facebook account, you can't view their content freely. Facebook would keep on pestering you to login. ( I regularly face this problem. )\n Many businesses have websites, but instead of a regular inbuilt chat feature, there would be either Facebook Messenger, Zalo or Telegram. If you don't have one of these apps ; you can't contact them. ( My personal experience for 3 years) \n Does it ever occur to them that how many businesses they lose because of this limitation? Why not give multiple options to their clients? Why force them to download a new chat app?\n    submitted by    /u/tashu_gudokin  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14u222u/facebook_telegram_zalo_limited_business_reach_in/",
-          "publishedOn": "2023-07-08T11:46:22.000Z",
-          "wordCount": 2556,
-          "title": "Facebook + Telegram + Zalo : Limited Business reach in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tymgx/bun_bo_hue_been_a_long_time_and_quite_good_from/",
-          "author": null,
-          "description": "submitted by    /u/jack_hudson2001  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tymgx/bun_bo_hue_been_a_long_time_and_quite_good_from/",
-          "publishedOn": "2023-07-08T08:46:43.000Z",
-          "wordCount": 2429,
-          "title": "bun bo hue been a long time and quite good from this place",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tykqn/for_this_guy_does_any_one_know_where_this_is/",
-          "author": null,
-          "description": "submitted by    /u/TrainingAttempt8816  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tykqn/for_this_guy_does_any_one_know_where_this_is/",
-          "publishedOn": "2023-07-08T08:44:16.000Z",
-          "wordCount": 2415,
-          "title": "For this guy; does any one know where this is?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14ty0ob/as_china_reopens_borders_trafficking_of_women/",
-          "author": null,
-          "description": "Covid-19 and a daunting wall China erected along its southern border forced a virtual halt to the trafficking of Vietnamese girls and women into China, many of them for forced marriages with Chinese men. Now, signs are emerging that such trafficking has resumed.\n    submitted by    /u/Zestyclose_Honey9031  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14ty0ob/as_china_reopens_borders_trafficking_of_women/",
-          "publishedOn": "2023-07-08T08:13:21.000Z",
-          "wordCount": 2479,
-          "title": "As China Reopens Borders, Trafficking of Women Resumes.Many of them for forced marriages with Chinese men.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tu075/alright_who_did_this/",
-          "author": null,
-          "description": "submitted by    /u/randomredditguy94  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tu075/alright_who_did_this/",
-          "publishedOn": "2023-07-08T04:46:05.000Z",
-          "wordCount": 2436,
-          "title": "Alright who did this...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tr7ne/this_image_caused_barbie_to_be_banned_from_vietnam/",
-          "author": null,
-          "description": "submitted by    /u/UsaToVietnam  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tr7ne/this_image_caused_barbie_to_be_banned_from_vietnam/",
-          "publishedOn": "2023-07-08T02:32:31.000Z",
-          "wordCount": 2425,
-          "title": "This image caused Barbie to be banned from Vietnam.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tr5e8/is_it_actually_a_thing_that_theyre_selling_these/",
-          "author": null,
-          "description": "I have been to Sam Son 5 times before (don't ask why) but it's the first time I've seen someone selling these stones, and this is the only stall that had these stones. Like, why are they doing this, would anyone want to buy?\n    submitted by    /u/PatheticLoafOfBread  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tr5e8/is_it_actually_a_thing_that_theyre_selling_these/",
-          "publishedOn": "2023-07-08T02:29:57.000Z",
-          "wordCount": 2476,
-          "title": "Is it actually a thing that they're selling these \"weird stones\" in Sam Son?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tpkym/im_doing_a_tour_of_sea_ive_already_been_to/",
-          "author": null,
-          "description": "The karst formations in PH and TH are very similar to those in Ha Long Bay but the water seems much clearer and nice to swim in. Would it still be worth seeing Ha Long Bay after I’ve been to those places? I’ve heard the water is polluted and not swimmable. Should I spend my time seeing other part of VN? Thanks\n    submitted by    /u/Anxious_Airport618  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tpkym/im_doing_a_tour_of_sea_ive_already_been_to/",
-          "publishedOn": "2023-07-08T01:16:53.000Z",
-          "wordCount": 2498,
-          "title": "I’m doing a tour of SEA. I’ve already been to Palawan, Philippines, then I’m going to Southern Thailand, and then Vietnam. Would Ha Long Bay still be worth visiting?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tpcy6/crossfire/",
-          "author": null,
-          "description": "Hey guys… weird request/question, does anybody here have a SIM card that works in Vietnam. I’ve recently built my own computer and wanted to play crossfire like I did when I was in Vietnam, however the system requires me to text the automated sms system to confirm the account. I don’t live in Vietnam anymore and can’t figure out a way to do it online( all free websites only allow to send full number). Could I use your number to do it lol? 😅\n    submitted by    /u/US2537914  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tpcy6/crossfire/",
-          "publishedOn": "2023-07-08T01:06:34.000Z",
-          "wordCount": 2492,
-          "title": "Crossfire",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tnhe3/local_tour_guide_ha_long_ninh_binh/",
-          "author": null,
-          "description": "Hi all, me and a friend of mine are going to visit Vietnam in August. We are going to Ninh Binh and the Ha Long Bay. Do you know how to reach any local guide to tour us throught these places or if any of you is a local guide that would like to guide us?\n    submitted by    /u/Masterlife997  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tnhe3/local_tour_guide_ha_long_ninh_binh/",
-          "publishedOn": "2023-07-07T23:45:42.000Z",
-          "wordCount": 2471,
-          "title": "Local tour guide: Ha Long & Ninh Binh",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tl3jn/i_cannot_explain_how_impressed_i_am_with_this/",
-          "author": null,
-          "description": "submitted by    /u/MycologistR84  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tl3jn/i_cannot_explain_how_impressed_i_am_with_this/",
-          "publishedOn": "2023-07-07T22:10:23.000Z",
-          "wordCount": 2426,
-          "title": "I cannot explain how impressed I am with this :)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tg5ru/has_anyone_mastered_this_skill_yet_sorry_for/",
-          "author": null,
-          "description": "submitted by    /u/glutenbag  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tg5ru/has_anyone_mastered_this_skill_yet_sorry_for/",
-          "publishedOn": "2023-07-07T19:03:21.000Z",
-          "wordCount": 2415,
-          "title": "Has anyone mastered this skill yet? (sorry for loopy video)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tfwqi/danang_airport_sim_card_kiosk_hours/",
-          "author": null,
-          "description": "Hi,\n I'll be arriving in Danang a bit late (9:30pm). Does anyone know if the mobile SIM card kiosks will still be open? I'll be arriving from abroad and will need to hail a Grab to my hotel...so I'll need data to do that.\n If not available, is there wifi in the airport?\n Thanks.\n    submitted by    /u/refriedjinx  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tfwqi/danang_airport_sim_card_kiosk_hours/",
-          "publishedOn": "2023-07-07T18:54:35.000Z",
-          "wordCount": 2467,
-          "title": "Danang Airport SIM card kiosk hours",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tclnb/hanoi_best_food/",
-          "author": null,
-          "description": "What’s the best food in Hanoi? Please only recommend places you’ve personally been to somewhat recently and like. I’m delighted to hear everyone’s suggestions.\n I just got back and feel like some of my favorite places have gone downhill\n    submitted by    /u/Sensitive-Ad4113  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tclnb/hanoi_best_food/",
-          "publishedOn": "2023-07-07T16:48:54.000Z",
-          "wordCount": 2449,
-          "title": "Hanoi best food",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tcb09/can_i_exchange_indian_currency_to_vietnamese/",
-          "author": null,
-          "description": "Hi ! I’m coming from india for a tour in Hanoi . Can I exchange my currency over there? I heard the exchange rates are low there compared to here .\n    submitted by    /u/ImmediateDafuq  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tcb09/can_i_exchange_indian_currency_to_vietnamese/",
-          "publishedOn": "2023-07-07T16:38:12.000Z",
-          "wordCount": 2450,
-          "title": "Can I exchange indian currency to Vietnamese dollar after I reach here?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tbmcu/friends_in_hanoi_as_an_expat/",
-          "author": null,
-          "description": "What apps or events have you had luck with in making friends in Hanoi for someone on the introverted side?\n    submitted by    /u/pushforwards  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tbmcu/friends_in_hanoi_as_an_expat/",
-          "publishedOn": "2023-07-07T16:12:10.000Z",
-          "wordCount": 2433,
-          "title": "Friends in Hanoi as an expat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tb8di/10_days_in_hanoi_travel_recommendations/",
-          "author": null,
-          "description": "Hello,\n I'm planning to visit Vietnam in October. I'm preparing my trip and I've read plenty of recommendations on Reddit, what do you guys think of this itinerary:\n 2 days: Hanoi (arrival)\n 3 days tour to Ha Giang Loop Tour\n 2 days tour to Halong Bay\n 2 days tour to Ninh Binh\n 1 day: Hanoi (departure)\n I'm missing something?\n Thank you.\n    submitted by    /u/lelobeaxh  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tb8di/10_days_in_hanoi_travel_recommendations/",
-          "publishedOn": "2023-07-07T15:58:55.000Z",
-          "wordCount": 2474,
-          "title": "10 days in Hanoi: travel recommendations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14tb272/no_environmental_awareness/",
-          "author": null,
-          "description": "I was recently travelling in Southeast Asia and I was shocked by the behaviour of people (especially Vietnamese) regarding trash and plastic. I saw so many people (young and old) simply throwing their trash onto the street: people eating chips and dropping the bag in the sidewalk, a man putting deodorant and tossing it to the middle of the road, plastic bottles, bags, cans of drinks… basically litter everywhere. \n This is particularly disturbing in big cities like Hanoi and Saigon, which are apparently developed and everyone has a phone and internet, but no one seems to have environmental awareness about reducing and recycling their waste.\n I can understand that old habits die hard and older people continue doing that, but the younger ones seem to follow that path as well. \n Also, the amount of plastic is insane. Is there really a need to get a drink in a plastic cup, inside a plastic bag, sealed with a plastic lid and drink it from a plastic straw? Even if you drink it on the spot and not take away, they will still put the plastic lid with a machine. On top of that, after finishing the drink, all that plastic ends up being dumped on the street.\n I’m no environmental “freak” or entitled European, but I’m genuinely curious if this is an issue being addressed by Vietnamese people (in schools, public campaigns) or if they simply don’t care. Has there been any improvement in recent years? Do you think there will be?\n    submitted by    /u/DefinitionFlaky3448  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14tb272/no_environmental_awareness/",
-          "publishedOn": "2023-07-07T15:52:10.000Z",
-          "wordCount": 2661,
-          "title": "No environmental awareness?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14ta8yz/hiking_in_vietnam/",
-          "author": null,
-          "description": "Xin chào! What are nice spots/mountains for hiking in Vietnam? When I was there a few months ago, I was kinda disappointed. Not by the landscape and nature but rather by the accessibility and availability of tracks. I went hiking near Da Lat and Phan Thiet, which was great, but although the north is a lot more mountainous, they were barely accessible due to dense forests and lack of paths. Sometimes there was \"too easy\" access, which attracts tourists (e.g., viewpoint in Ninh Binh). Ofc Fansipan is an option but I'd rather do the tour by myself without a guide, also I heard it's quite touristic. Do you have any areas or specific mountains which you would recommend?\n    submitted by    /u/TacamoniacSmile  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14ta8yz/hiking_in_vietnam/",
-          "publishedOn": "2023-07-07T15:21:15.000Z",
-          "wordCount": 2528,
-          "title": "Hiking in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14t9z9r/studio_defends_barbie_movie_after_controversial/",
-          "author": null,
-          "description": "https://www.reddit.com/r/VietNamPolitics/comments/14t9yap/studio_defends_barbie_movie_after_controversial/\n What do you guys think?\n    submitted by    /u/SomeWeirdFruit  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14t9z9r/studio_defends_barbie_movie_after_controversial/",
-          "publishedOn": "2023-07-07T15:10:32.000Z",
-          "wordCount": 2423,
-          "title": "Studio defends Barbie movie after controversial map prompts Vietnam ban",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14t8st1/hnay_xem_c%E1%BA%A7u_r%E1%BB%93ng_phun_l%E1%BB%ADa_n%C3%A8_3/",
-          "author": null,
-          "description": "submitted by    /u/Dave_the_slayer  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14t8st1/hnay_xem_c%E1%BA%A7u_r%E1%BB%93ng_phun_l%E1%BB%ADa_n%C3%A8_3/",
-          "publishedOn": "2023-07-07T14:26:20.000Z",
-          "wordCount": 2413,
-          "title": "Hnay xem cầu rồng phun lửa nè :3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14t8n7h/how_to_obtain_birth_certificate_for_a_filipino/",
-          "author": null,
-          "description": "Hello. I would just make this post into a numbered list because I can't organize my thoughts well. I hope someone can help us 🙏\n  \nMy mother was born in Saigon in 1969.\n She was able to get a copy of her birth certificate from the Philippine Statistics Authority but it is illegible.\n We emailed the Philippine Embassy in Hanoi but they said there's no report of her birth in the archives.\n  \nIf the Philippine Embassy said her birth has no record, is there really no other way for her to get a legible copy of her birth certificate? The local registry here says she should send her personal documents to Vietnam for the correction of her birth certificate, but would it make sense to do that if her birth really has no record in the archives?\n    submitted by    /u/ReplacementNice9959  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14t8n7h/how_to_obtain_birth_certificate_for_a_filipino/",
-          "publishedOn": "2023-07-07T14:20:22.000Z",
-          "wordCount": 2557,
-          "title": "How to obtain birth certificate for a Filipino born in Vietnam in 1969",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/14t7xbm/bus_from_ao_tien_port_to_hanoi_airport/",
-          "author": null,
-          "description": "Ok. I’m sorry for posting here but need some help. My gf is Vietnamese and I’ve asked her but… well she’s not good at this things (according to her) \n We’re going from the new ao Tien port to Hanoi airport. I’ve googled my ass off but I can’t really find any buses form anything around that place…\n Any suggestion in what stations to check around the port? I can’t find anything. \n Thank you. And sorry for worthless post but Im actually struggling.\n    submitted by    /u/summerlad86  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/14t7xbm/bus_from_ao_tien_port_to_hanoi_airport/",
-          "publishedOn": "2023-07-07T13:52:11.000Z",
-          "wordCount": 2497,
-          "title": "Bus from Ao Tien port to Hanoi airport",
-          "imageUrl": null
         }
       ]
     },
@@ -8264,56 +8204,6 @@
           "wordCount": 2526,
           "title": "How to Use the TypeScript satisfies Operator",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Copy-of-Getting-Started-With-DevOps.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/check-python-version-how-to-check-py-in-mac-windows-and-linux/",
-          "author": "Shittu Olumide",
-          "description": "Python is a versatile and widely used programming language known for its simplicity and readability.  With its ever-evolving nature, different versions of Python are often released, each offering new features, enhancements, and bug fixes.  As a Python developer, it is crucial to be aware of the Python version",
-          "link": "https://www.freecodecamp.org/news/check-python-version-how-to-check-py-in-mac-windows-and-linux/",
-          "publishedOn": "2023-07-07T22:31:51.000Z",
-          "wordCount": 1827,
-          "title": "Check Python Version – How to Check Py in Mac, Windows, and Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Shittu-Olumide-Check-Python-Version---How-to-Check-Py-in-Mac--Windows--and-Linux.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-tier-list-maker/",
-          "author": "Atharva Shah",
-          "description": "Hello Pythonistas! Do you want to level up your Python and API skills while also building something really useful? Well, then you're in the right place. This hands-on tutorial showcases how to leverage Python's capabilities to code an interactive tiered list builder right within your terminal.  We'll use some",
-          "link": "https://www.freecodecamp.org/news/python-tier-list-maker/",
-          "publishedOn": "2023-07-07T20:48:16.000Z",
-          "wordCount": 4913,
-          "title": "How to Build a Tiered List Maker with Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/python-tier-list-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-list-to-string-how-to-convert-lists-in-python/",
-          "author": "Shittu Olumide",
-          "description": "Whether you need to save a list as a text file, display it in a user-friendly format, or pass it as a parameter to a function, knowing how to convert a list to a string is essential. In this tutorial, we will explore various methods to convert Python lists to",
-          "link": "https://www.freecodecamp.org/news/python-list-to-string-how-to-convert-lists-in-python/",
-          "publishedOn": "2023-07-07T18:10:59.000Z",
-          "wordCount": 2072,
-          "title": "Python List to String – How to Convert Lists in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Shittu-Olumide-Python-List-to-String---How-to-Convert-Lists-in-Python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/n-plus-one-query-problem/",
-          "author": "Mohamed Mayallo",
-          "description": "The N+1 query problem is a performance issue you might face while building APIs, regardless of whether they're GraphQL or REST APIs. In fact, this problem occurs when your application needs to return a set of data that includes related nested data – for example, a post that includes comments.",
-          "link": "https://www.freecodecamp.org/news/n-plus-one-query-problem/",
-          "publishedOn": "2023-07-07T17:59:59.000Z",
-          "wordCount": 2571,
-          "title": "How to Avoid the N+1 Query Problem in GraphQL and REST APIs [with Benchmarks]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/N-1-Query-Problem.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-come-up-with-coding-project-ideas/",
-          "author": "Erin Borders",
-          "description": "If you're a developer looking to improve your coding skills, building projects is a great way to do that. But coming up with project ideas that actually make you eager to start can be tough. That's why I wrote this article: to help you learn how to come up with",
-          "link": "https://www.freecodecamp.org/news/how-to-come-up-with-coding-project-ideas/",
-          "publishedOn": "2023-07-07T17:57:52.000Z",
-          "wordCount": 1572,
-          "title": "How to Come Up With Good Coding Project Ideas",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/steve-johnson-lPX6-ee-1zU-unsplash.jpg"
         }
       ]
     }
