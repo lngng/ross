@@ -12,6 +12,276 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA8374.FlashFloodWarning.12665AE66608CA.LOXFFSLOX.6698f6d75855f9dda9b33e68a1f47629",
+          "author": null,
+          "description": "...FLASH FLOOD WARNING REMAINS IN EFFECT UNTIL 630 PM PDT THIS EVENING FOR LOS ANGELES COUNTY... At 441 PM PDT, Doppler radar and automated rain gauges indicated that heavy rain was falling across the warned area. Between 2 and 5 inches of rain have fallen. Additional rainfall amounts of 2 to 4 inches are possible in the warned area. Flash flooding is already",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA8374.FlashFloodWarning.12665AE66608CA.LOXFFSLOX.6698f6d75855f9dda9b33e68a1f47629",
+          "publishedOn": "2023-08-20T23:41:00.000Z",
+          "wordCount": 291,
+          "title": "Flash Flood Warning issued August 20 at 4:41PM PDT until August 20 at 6:30PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA7F8C.FlashFloodWarning.12665AE692F4CA.LOXFFSLOX.d7b404429b5eac83e4a2293efd3729fc",
+          "author": null,
+          "description": "...FLASH FLOOD WARNING REMAINS IN EFFECT UNTIL 745 PM PDT THIS EVENING FOR SOUTHERN LOS ANGELES AND SOUTHEASTERN VENTURA COUNTIES... At 431 PM PDT, Doppler radar and automated rain gauges indicated that heavy rain was falling across the warned area. Between 1 and 2 inches of rain have fallen. Additional rainfall amounts of 1 to 3 inches are possible in the warned area. Flash flooding is already",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA7F8C.FlashFloodWarning.12665AE692F4CA.LOXFFSLOX.d7b404429b5eac83e4a2293efd3729fc",
+          "publishedOn": "2023-08-20T23:31:00.000Z",
+          "wordCount": 320,
+          "title": "Flash Flood Warning issued August 20 at 4:31PM PDT until August 20 at 7:45PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA52A0.FloodAdvisory.12665AE744B0CA.LOXFLSLOX.478a47a565a3992b5b8cf28000ca2b20",
+          "author": null,
+          "description": "...FLOOD ADVISORY REMAINS IN EFFECT UNTIL 9 PM PDT THIS EVENING... * WHAT...Flooding caused by excessive rainfall continues. * WHERE...Catalina Island of Los Angeles County. * WHEN...Until 900 PM PDT. * IMPACTS...Minor flooding in low-lying and poor drainage areas. Water over roadways. Overflowing poor drainage areas.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA52A0.FloodAdvisory.12665AE744B0CA.LOXFLSLOX.478a47a565a3992b5b8cf28000ca2b20",
+          "publishedOn": "2023-08-20T22:16:00.000Z",
+          "wordCount": 245,
+          "title": "Flood Advisory issued August 20 at 3:16PM PDT until August 21 at 12:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA3554.HurricaneLocalStatement.12665AE70824CA.LOXHLSLOX.9efe12e25b5b8d628d6bf20b5cbc3539",
+          "author": null,
+          "description": "This product covers Southwest California **TROPICAL STORM WARNING FOR ALL OF LOS ANGELES COUNTY...AS WELL AS THE MOUNTAINS...VALLEYS...AND FOOTHILLS OF VENTURA COUNTY** NEW INFORMATION --------------- * CHANGES TO WATCHES AND WARNINGS:",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA3554.HurricaneLocalStatement.12665AE70824CA.LOXHLSLOX.9efe12e25b5b8d628d6bf20b5cbc3539",
+          "publishedOn": "2023-08-20T21:41:00.000Z",
+          "wordCount": 1314,
+          "title": "Hurricane Local Statement issued August 20 at 2:41PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.2825d62a984ded6802e75b4d5e866c64",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Avalon * WIND - LATEST LOCAL FORECAST: Below tropical storm force wind - Peak Wind Forecast: 20-30 mph with gusts to 35 mph",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.2825d62a984ded6802e75b4d5e866c64",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 681,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.511b98b1216fcb90cdacd4f37bbdb0d3",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Lake Castaic - Newhall - Santa Clarita - Valencia",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.511b98b1216fcb90cdacd4f37bbdb0d3",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 610,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.e400ff064a012a0a8c6f63970f0c8c91",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Malibu - Pacific Palisades * WIND - LATEST LOCAL FORECAST: Below tropical storm force wind",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.e400ff064a012a0a8c6f63970f0c8c91",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 707,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.48e9b73d9168eabcbcca4d376f054789",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - LAX - Long Beach - Redondo Beach - Santa Monica",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.48e9b73d9168eabcbcca4d376f054789",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 700,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.e59f63d91cf1fb829c170da7b717da34",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Rancho Palos Verdes * WIND - LATEST LOCAL FORECAST: Below tropical storm force wind - Peak Wind Forecast: 15-25 mph with gusts to 30 mph",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.e59f63d91cf1fb829c170da7b717da34",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 585,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.f659d5e294a68c2e40b4fc03d510b206",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Beverly Hills - Compton - Culver City - Downey",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.f659d5e294a68c2e40b4fc03d510b206",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 607,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.c1baddf41b170a5dbf3df76c63134212",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Malibu Bowl * WIND - LATEST LOCAL FORECAST: Below tropical storm force wind - Peak Wind Forecast: 20-30 mph with gusts to 45 mph",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.c1baddf41b170a5dbf3df76c63134212",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 611,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.64aa24873d5af216fbb40b04fa21f1b3",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Topanga * WIND - LATEST LOCAL FORECAST: Below tropical storm force wind - Peak Wind Forecast: 20-30 mph with gusts to 40 mph",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.64aa24873d5af216fbb40b04fa21f1b3",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 608,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.9a30bc8eb725d7b645fa1041b50a1767",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Westlake Village - Malibou Lake * WIND - LATEST LOCAL FORECAST: Below tropical storm force wind",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.9a30bc8eb725d7b645fa1041b50a1767",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 587,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.cde730c6a1793afe74c6d695cf4ef688",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Northridge - Woodland Hills - Van Nuys - Chatsworth",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.cde730c6a1793afe74c6d695cf4ef688",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 579,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.215b2ebe7adc06789ca378dc04d407f5",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Burbank - Universal City - Glendale - Sunland",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.215b2ebe7adc06789ca378dc04d407f5",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 594,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.5091715b65143a5f4c1f337b29eb0a03",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Oat Mountain * WIND - LATEST LOCAL FORECAST: Below tropical storm force wind - Peak Wind Forecast: 20-30 mph with gusts to 45 mph",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.5091715b65143a5f4c1f337b29eb0a03",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 584,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.d29ddc06549f32ef2678b81c10b0f221",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Tejon Pass - Gorman - Pyramid Lake * WIND",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.d29ddc06549f32ef2678b81c10b0f221",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 608,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.34f42bc60a0379c6767bdae28279dbbd",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Acton - Warm Springs - Mill Creek * WIND",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.34f42bc60a0379c6767bdae28279dbbd",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 621,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.164adab6b9bb08620472c6a1552add8a",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Mount Wilson - Mount Baldy - Wrightwood - The Angeles Crest Highway",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.164adab6b9bb08620472c6a1552add8a",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 618,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.5d38f5abcd41356ebdb5d09b04bede24",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Elizabeth Lake - Lake Palmdale * WIND - LATEST LOCAL FORECAST: Below tropical storm force wind",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.5d38f5abcd41356ebdb5d09b04bede24",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 611,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.a5cfaeb53b34d3fb3f5009fc7f74c8e4",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Valyermo - Llano - Pearblossom * WIND",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.a5cfaeb53b34d3fb3f5009fc7f74c8e4",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 592,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.5c630539a7441973f1e05dc80dcab308",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - Palmdale - Lancaster - Lake Los Angeles * WIND",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.5c630539a7441973f1e05dc80dcab308",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 590,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.bcb22fa46cfcf36657346c5b3e153e93",
+          "author": null,
+          "description": "...TROPICAL STORM WARNING REMAINS IN EFFECT... * LOCATIONS AFFECTED - East Los Angeles - El Monte - Pasadena - Pomona",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665ADA2B90.TropicalStormWarning.12665AE70248CA.LOXTCVLOX.bcb22fa46cfcf36657346c5b3e153e93",
+          "publishedOn": "2023-08-20T21:16:00.000Z",
+          "wordCount": 604,
+          "title": "Tropical Storm Warning issued August 20 at 2:16PM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665AD8C688.FloodWatch.12665AE70248CA.LOXFFALOX.3e626f24c1bd567e9e50201bd838b524",
+          "author": null,
+          "description": "* WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...Ventura County and a portion of Santa Barbara County. * WHEN...From 4 PM PDT this afternoon through Monday morning. * IMPACTS...Excessive runoff from expected heavy rain may result in flooding of creeks, roads, urban areas, and other low-lying and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665AD8C688.FloodWatch.12665AE70248CA.LOXFFALOX.3e626f24c1bd567e9e50201bd838b524",
+          "publishedOn": "2023-08-20T12:02:00.000Z",
+          "wordCount": 228,
+          "title": "Flood Watch issued August 20 at 5:02AM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665AD8C688.FloodWatch.12665AE70248CA.LOXFFALOX.dd136bb6678c06818d8442a3c5d37900",
+          "author": null,
+          "description": "* WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...Los Angeles County. * WHEN...From 10 AM PDT this morning through Monday morning. * IMPACTS...Excessive runoff from expected heavy rain may result in flooding of creeks, roads, urban areas, and other low-lying and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665AD8C688.FloodWatch.12665AE70248CA.LOXFFALOX.dd136bb6678c06818d8442a3c5d37900",
+          "publishedOn": "2023-08-20T12:02:00.000Z",
+          "wordCount": 258,
+          "title": "Flood Watch issued August 20 at 5:02AM PDT until further notice by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665AD8C688.FloodWatch.12665AE70824CA.LOXFFALOX.79a06167f5dac3e812226ee517c5d69d",
+          "author": null,
+          "description": "* WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...Los Angeles County. * WHEN...From 10 AM PDT this morning through Monday morning. * IMPACTS...Excessive runoff from expected heavy rain may result in flooding of creeks, roads, urban areas, and other low-lying and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665AD8C688.FloodWatch.12665AE70824CA.LOXFFALOX.79a06167f5dac3e812226ee517c5d69d",
+          "publishedOn": "2023-08-20T12:02:00.000Z",
+          "wordCount": 301,
+          "title": "Flood Watch issued August 20 at 5:02AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665AD8C688.FloodWatch.12665AE80800CA.LOXFFALOX.f22a00335cb97e40b92c913e6e574abc",
+          "author": null,
+          "description": "* WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...Los Angeles County. * WHEN...From 10 AM PDT this morning through Monday morning. * IMPACTS...Excessive runoff from expected heavy rain may result in flooding of creeks, roads, urban areas, and other low-lying and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665AD8C688.FloodWatch.12665AE80800CA.LOXFFALOX.f22a00335cb97e40b92c913e6e574abc",
+          "publishedOn": "2023-08-20T12:02:00.000Z",
+          "wordCount": 213,
+          "title": "Flood Watch issued August 20 at 5:02AM PDT until August 21 at 5:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665AD6FD1C.SpecialWeatherStatement.12665AD71810CA.LOXSPSLOX.dacf559669c04fc0cca9c01b4dd529e7",
           "author": null,
           "description": "...A STRONG THUNDERSTORM WILL IMPACT NORTH CENTRAL LOS ANGELES COUNTY THROUGH 600 PM PDT... At 529 PM PDT, Doppler radar was tracking a strong thunderstorm 15 miles east of Lancaster, moving slowly to the north. HAZARD...Wind gusts up to 50 mph. SOURCE...Radar indicated.",
@@ -700,96 +970,6 @@
           "wordCount": 311,
           "title": "Excessive Heat Watch issued July 22 at 9:23AM PDT until July 24 at 8:00PM PDT by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.HeatAdvisory.1266550F4BF0CA.LOXNPWLOX.5e68a7110f48cba2d15518287a0933c8",
-          "author": null,
-          "description": "...HEAT ADVISORY REMAINS IN EFFECT UNTIL 8 PM PDT SATURDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM SATURDAY EVENING THROUGH SUNDAY EVENING... * WHAT...For the Heat Advisory, temperatures up to 96. For the Excessive Heat Watch, dangerously hot conditions with temperatures up to 100 possible.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.HeatAdvisory.1266550F4BF0CA.LOXNPWLOX.5e68a7110f48cba2d15518287a0933c8",
-          "publishedOn": "2023-07-21T21:29:00.000Z",
-          "wordCount": 339,
-          "title": "Heat Advisory issued July 21 at 2:29PM PDT until July 22 at 8:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.ExcessiveHeatWarning.1266551E8E30CA.LOXNPWLOX.b40bc71e99f1d09454fa90f2877b3a84",
-          "author": null,
-          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT UNTIL 8 PM PDT SUNDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM SUNDAY EVENING THROUGH MONDAY EVENING... * WHAT...Dangerously hot conditions with temperatures between 100 and 110 degrees likely. In addition, warm overnight low",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.ExcessiveHeatWarning.1266551E8E30CA.LOXNPWLOX.b40bc71e99f1d09454fa90f2877b3a84",
-          "publishedOn": "2023-07-21T21:29:00.000Z",
-          "wordCount": 358,
-          "title": "Excessive Heat Warning issued July 21 at 2:29PM PDT until July 23 at 8:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.ExcessiveHeatWarning.1266551E8E30CA.LOXNPWLOX.6b82fe2378be84d0c5874cc4802820fb",
-          "author": null,
-          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT UNTIL 8 PM PDT SUNDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM SUNDAY EVENING THROUGH MONDAY EVENING... * WHAT...Dangerously hot conditions with temperatures between 100 and 112 degrees likely. In addition, warm overnight low",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.ExcessiveHeatWarning.1266551E8E30CA.LOXNPWLOX.6b82fe2378be84d0c5874cc4802820fb",
-          "publishedOn": "2023-07-21T21:29:00.000Z",
-          "wordCount": 318,
-          "title": "Excessive Heat Warning issued July 21 at 2:29PM PDT until July 23 at 8:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.ExcessiveHeatWatch.1266551E8E30CA.LOXNPWLOX.fbcd583f7cb7592f723acff276580519",
-          "author": null,
-          "description": "...HEAT ADVISORY REMAINS IN EFFECT UNTIL 8 PM PDT SATURDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM SATURDAY EVENING THROUGH SUNDAY EVENING... * WHAT...For the Heat Advisory, temperatures up to 96. For the Excessive Heat Watch, dangerously hot conditions with temperatures up to 100 possible.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.ExcessiveHeatWatch.1266551E8E30CA.LOXNPWLOX.fbcd583f7cb7592f723acff276580519",
-          "publishedOn": "2023-07-21T21:29:00.000Z",
-          "wordCount": 341,
-          "title": "Excessive Heat Watch issued July 21 at 2:29PM PDT until July 23 at 8:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.HeatAdvisory.1266551E8E30CA.LOXNPWLOX.b85895cee37eb4dbdd0e044027ee4a50",
-          "author": null,
-          "description": "...HEAT ADVISORY REMAINS IN EFFECT UNTIL 8 PM PDT SUNDAY... * WHAT...Temperatures in the 90s are expected in the hottest locations. Overnight low temperatures will remain warm in some locations and add little relief from the heat. * WHERE...Palos Verdes Hills. * WHEN...Until 8 PM PDT Sunday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.HeatAdvisory.1266551E8E30CA.LOXNPWLOX.b85895cee37eb4dbdd0e044027ee4a50",
-          "publishedOn": "2023-07-21T21:29:00.000Z",
-          "wordCount": 252,
-          "title": "Heat Advisory issued July 21 at 2:29PM PDT until July 23 at 8:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.HeatAdvisory.1266551E8E30CA.LOXNPWLOX.bcb171e4e65b878a45a7b3791033ef9f",
-          "author": null,
-          "description": "...HEAT ADVISORY REMAINS IN EFFECT UNTIL 8 PM PDT SUNDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM SUNDAY EVENING THROUGH MONDAY EVENING... * WHAT...Temperatures in the mid 90s up to 104 degrees possible. Overnight low temperatures will remain warm in some locations and add little relief from the heat. Hot weather will likely",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.HeatAdvisory.1266551E8E30CA.LOXNPWLOX.bcb171e4e65b878a45a7b3791033ef9f",
-          "publishedOn": "2023-07-21T21:29:00.000Z",
-          "wordCount": 283,
-          "title": "Heat Advisory issued July 21 at 2:29PM PDT until July 23 at 8:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.ExcessiveHeatWatch.1266552DD070CA.LOXNPWLOX.b72a11933c982710dbc0903b6e0c045d",
-          "author": null,
-          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT UNTIL 8 PM PDT SUNDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM SUNDAY EVENING THROUGH MONDAY EVENING... * WHAT...Dangerously hot conditions with temperatures between 100 and 110 degrees likely. In addition, warm overnight low",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.ExcessiveHeatWatch.1266552DD070CA.LOXNPWLOX.b72a11933c982710dbc0903b6e0c045d",
-          "publishedOn": "2023-07-21T21:29:00.000Z",
-          "wordCount": 358,
-          "title": "Excessive Heat Watch issued July 21 at 2:29PM PDT until July 24 at 8:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.ExcessiveHeatWatch.1266552DD070CA.LOXNPWLOX.626b104b98fcba7720e74b389e05a004",
-          "author": null,
-          "description": "...HEAT ADVISORY REMAINS IN EFFECT UNTIL 8 PM PDT SUNDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM SUNDAY EVENING THROUGH MONDAY EVENING... * WHAT...Temperatures in the mid 90s up to 104 degrees possible. Overnight low temperatures will remain warm in some locations and add little relief from the heat. Hot weather will likely",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.ExcessiveHeatWatch.1266552DD070CA.LOXNPWLOX.626b104b98fcba7720e74b389e05a004",
-          "publishedOn": "2023-07-21T21:29:00.000Z",
-          "wordCount": 285,
-          "title": "Excessive Heat Watch issued July 21 at 2:29PM PDT until July 24 at 8:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.ExcessiveHeatWatch.1266552DD070CA.LOXNPWLOX.195a25f8dcd6d622ebd841f36279654e",
-          "author": null,
-          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT UNTIL 8 PM PDT SUNDAY... ...EXCESSIVE HEAT WATCH REMAINS IN EFFECT FROM SUNDAY EVENING THROUGH MONDAY EVENING... * WHAT...Dangerously hot conditions with temperatures between 100 and 112 degrees likely. In addition, warm overnight low",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126654F391E4.ExcessiveHeatWatch.1266552DD070CA.LOXNPWLOX.195a25f8dcd6d622ebd841f36279654e",
-          "publishedOn": "2023-07-21T21:29:00.000Z",
-          "wordCount": 318,
-          "title": "Excessive Heat Watch issued July 21 at 2:29PM PDT until July 24 at 8:00PM PDT by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -798,6 +978,226 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15wrppo/why_is_vietnam_still_using_this_type_of_police/",
+          "author": null,
+          "description": "Looks more like a militia than a professional clothing. \n ​\n https://preview.redd.it/vuycxjivwcjb1.jpg?width=660&format=pjpg&auto=webp&s=776bc780d55f64df8c23f96fcbadd66e0b90dc71\n    submitted by    /u/Regenereatior_88  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15wrppo/why_is_vietnam_still_using_this_type_of_police/",
+          "publishedOn": "2023-08-21T00:19:18.000Z",
+          "wordCount": null,
+          "title": "Why is Vietnam still using this type of police uniform?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15wrld4/i_got_a_minor_question/",
+          "author": null,
+          "description": "So ive been thinking about visiting vietnam through the cambodian-vietnamese border, can i bring my vape there? Its a YOOZ device so its pretty small\n    submitted by    /u/P4NH44KC00LGU7  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15wrld4/i_got_a_minor_question/",
+          "publishedOn": "2023-08-21T00:14:01.000Z",
+          "wordCount": null,
+          "title": "I got a minor question",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15wqzmo/jobs_for_living_in_vietnam/",
+          "author": null,
+          "description": "Hello everyone,\n I am a Vietnamese American who lived in the US for almost 18 years. I will be moving to live in Vietnam for 2-3 years soon. Over in the US, I worked in a logistics company for 2 years and I have my Bachelor's degree. \n My cousin who is in the logistic field recommends that I teach English instead ( I do not really want to continue my logistic career either tbh) because the job prospect in VN is not great for logistics.\n However, I do not want to teach large groups of people. Is it easy for new English teachers to find jobs teaching small groups or even 1-on1? Does anyone here teaches English but only work with small group or individuals?\n I heard being an English teaching assistant was decent, does anyone have experience in this job?\n What about teaching Vietnamese to foreigners in Vietnam? \n I am a little bit lost when thinking of jobs and it is creating some anxiety.\n Any help is greatly appreciated, thank you.\n ​\n    submitted by    /u/ConsciousTomorr0w  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15wqzmo/jobs_for_living_in_vietnam/",
+          "publishedOn": "2023-08-20T23:47:47.000Z",
+          "wordCount": null,
+          "title": "Jobs for living in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15wpp3e/moving_to_vietnam/",
+          "author": null,
+          "description": "I make passive income rn of $1700 a month. Could I and how would I move to Vietnam?\n    submitted by    /u/Ok-Mortgage-5936  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15wpp3e/moving_to_vietnam/",
+          "publishedOn": "2023-08-20T22:53:28.000Z",
+          "wordCount": null,
+          "title": "Moving to Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15wnv51/sunday_snack/",
+          "author": null,
+          "description": "😍 yum\n    submitted by    /u/beanygurl007  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15wnv51/sunday_snack/",
+          "publishedOn": "2023-08-20T21:40:09.000Z",
+          "wordCount": null,
+          "title": "Sunday snack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15wnntr/can_i_just_walk_into_the_jungleforest_in_northern/",
+          "author": null,
+          "description": "Next month I will be spending a month in Northern Vietnam as a tourist, specifically Ninh Binh but I also plan to visit other areas.\n I'm mostly planning the trip to relax and meditate.\n I was wondering if it's possible to travel up to forests with a scooter and just walk in a little bit, so I can sit there alone. Is it safe regarding animals, and how likely is it the forest is private property and I'm not supposed to be there?\n    submitted by    /u/Plus_Situation5693  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15wnntr/can_i_just_walk_into_the_jungleforest_in_northern/",
+          "publishedOn": "2023-08-20T21:32:08.000Z",
+          "wordCount": null,
+          "title": "Can I just walk into the jungle/forest in Northern Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15wmzhw/hcmc_hanoi_stops_along_the_way/",
+          "author": null,
+          "description": "I will be in Vietnam in late September, flying into HCMC from Phnom Penh. The plan is to work up north to Hanoi, to fly out to Chiang Mai.\n I’d like to stop off at some of the best spots along the way, some are set other’s Id like to hear what other tourists/locals think. Being from the U.K., I have 14 days to do everything visa free before moving on. \n HCMC - I’d like to spend 2/3 days here tbh. I lived in HCMC for 2 months, so I’d like to show my partner around the city, and also deal with some unfinished business (Suoi Tien!) \n Da Lat - I’d like to spend 1/2 days here. Some friends loved it here, I believe there’s a super cool maze themed bar. I’ve heard it’s quite a touristy place. But honestly, that’s okay. This trip is part of a 40/50 day trip with my partner who has never been to As…",
+          "link": "https://www.reddit.com/r/VietNam/comments/15wmzhw/hcmc_hanoi_stops_along_the_way/",
+          "publishedOn": "2023-08-20T21:05:58.000Z",
+          "wordCount": null,
+          "title": "HCMC -> HANOI, stops along the way?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15wk2as/i_need_a_translation_for_m%E1%BB%B9_%C4%91%C3%ACnh_hay_m%E1%BB%B9_tho_%E1%BA%A1/",
+          "author": null,
+          "description": "She asked if I was vietnamese, I said no, I was just american. She responded with “Mỹ đình hay mỹ tho ạ” thanks in advance :)\n    submitted by    /u/ilovepancakes54  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15wk2as/i_need_a_translation_for_m%E1%BB%B9_%C4%91%C3%ACnh_hay_m%E1%BB%B9_tho_%E1%BA%A1/",
+          "publishedOn": "2023-08-20T19:13:19.000Z",
+          "wordCount": null,
+          "title": "I need a translation for “Mỹ đình hay mỹ tho ạ”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15wjxos/north_or_south/",
+          "author": null,
+          "description": "Hi, \n I’m thinking about booking a flight to Vietnam in November and travel SEA countries while i’m there. \n Do you recommend visiting North(hanoi area) or South(hcmc area)? It’ll be my first time in Vietnam and I’m planning to stay there for about a week.\n    submitted by    /u/HolySexylatina  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15wjxos/north_or_south/",
+          "publishedOn": "2023-08-20T19:08:20.000Z",
+          "wordCount": null,
+          "title": "North or South",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15wfjw9/how_common_is_it_for_vietnamese_to_spend_the/",
+          "author": null,
+          "description": "I'm a 23M currently living in Hanoi. I'm the only male in my family, my mother has singlehandedly raised both me and my sister up. \n Anyone living in Vietnam, or especially the northern part of it, would certainly understand the pressure put down on the men in the family line to get married and have children. But the thing is that I'm gay, and I'm not planning anywhere in the future to deceive any girl into a marriage with a guy who doesn't love them, just for my selfish motivation, which is to \"fulfill responsibility.\" Despite having had many girls showing interests and some even confessing their love for me, it would just be a very cruel act to rob away a girl's chance of true love and happiness in life just for my selfish reason. \n And I don't want to have any kids either, even if I'm a straight guy. But my mother is getting older too, and she does deserve having a grandchild to care for, to have someone to brighten and bring her happiness at her later years. But even for that, I could just adopt a child, there's no need to lure a girl into marriage just to have a child.\n But I don't even want to adopt kids. Best case scenario, I found a guy who's my true love, we're both financially stable enough to be able to adopt and raise a child with love. Much more likely, I would end up alone, I much more prefer it that way though. Living to the very end of my 40s, then that's enough.\n Do you know anyone who's a Vietnamese, who chose to live like me, choosing to live alone for the rest of their lives? Do they got respected? Do other Vietnamese look down on them?\n    submitted by    /u/Affectionate-Bit9246  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15wfjw9/how_common_is_it_for_vietnamese_to_spend_the/",
+          "publishedOn": "2023-08-20T16:16:29.000Z",
+          "wordCount": null,
+          "title": "How common is it, for Vietnamese to spend the later half of their life living alone and being single? And what's the general attitude toward that lifestyle?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15wfdxv/in_1992_7_men_were_arrested_because_they_watched/",
+          "author": null,
+          "description": "submitted by    /u/Awesome-Adrian2021  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15wfdxv/in_1992_7_men_were_arrested_because_they_watched/",
+          "publishedOn": "2023-08-20T16:09:51.000Z",
+          "wordCount": null,
+          "title": "In 1992, 7 Men Were Arrested Because They Watched P*RN! LMAO🤣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15wab82/do_you_have_monday_blue/",
+          "author": null,
+          "description": "submitted by    /u/lanhuevietnam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15wab82/do_you_have_monday_blue/",
+          "publishedOn": "2023-08-20T12:37:12.000Z",
+          "wordCount": null,
+          "title": "Do you have Monday blue?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15wa6j0/a_fair_review_of_nha_trang/",
+          "author": null,
+          "description": "Seems like Nha Trang gets a lot of hate on this sub. I’ve been travelling SE Asia for a few months and decided, against advice, to stop in Nha Trang for two nights. I was super tired from travelling and just wanted to stop for a couple days before continuing on north. I actually thought it was a nice place for a stop over. It felt calm and I relaxed a bit, but I started feeling a bit disconnected after two nights so moved on to Danang.\n Pros:\n  \nsurprisingly calm place. I’ve been enjoying sitting in coffee shops in the streets set back from the beach which were actually quite nice to explore. Quite leafy and relaxed pace after coming from HCMC which I did not enjoy.\n \nnice people and a mix too. Honestly I’d heard so many negative things about Russians and Chinese. Russians largely keep to …",
+          "link": "https://www.reddit.com/r/VietNam/comments/15wa6j0/a_fair_review_of_nha_trang/",
+          "publishedOn": "2023-08-20T12:31:00.000Z",
+          "wordCount": null,
+          "title": "A fair review of Nha Trang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15wa0ky/i_need_help_what_is_this/",
+          "author": null,
+          "description": "Hello. I'm currently traveling through Vietnam (a beautiful country by the way). I came across a fried animal in front of a restaurant that I can't identify. can someone help me what this is?\n Thank you\n    submitted by    /u/mary-kate578  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15wa0ky/i_need_help_what_is_this/",
+          "publishedOn": "2023-08-20T12:22:58.000Z",
+          "wordCount": null,
+          "title": "I need help what is this?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15w9vlz/shocking_experience/",
+          "author": null,
+          "description": "I like many things about Vietmam, but....\n We were in one of the huge malls (Aeon mall) to have dinner. Public dining area was packed, but we managed to fine a table. The thing is the previous customers left their trash on the table, so we asked a cleaner to clean the table. Then, the most shocking and unacceptable thing had happened. Because the tissue paper dispenser was empty, the cleaner casually and probably out of habit took some tissues from the TRASH CAN and cleaned our table. Like what in the world! \n We just couldn't shake the experience off and duly reported it to the mall authorities. \n Wow! I just can't get over it somehow. It's like the experience has turned into a nasty core memory. 😂\n    submitted by    /u/Left_Resolve_7233  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15w9vlz/shocking_experience/",
+          "publishedOn": "2023-08-20T12:16:04.000Z",
+          "wordCount": null,
+          "title": "SHOCKING experience",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15w8cy9/ranting_about_entertainment_industry/",
+          "author": null,
+          "description": "I hate propaganda as much as the next guy, but the fact that modern Viet Nam don't have any good war, horror, fantasy, historical movies and tv shows, boggles my mind. You would assumed that with the long history of conflict, diverse culture, fantastic mythology, long history AND state funded is a thing AND modern technology AND already tried and succeed examples (see movies from China, Korea, Japan, UK) even countries like INDIA, NORWAY, TURKEY, are stepping up their game with movies and tv series. Same go for video games. Don't even get me started on the propaganda movies, especially with the propaganda movies, propaganda war movies about war heroes are the easiest to make IMHO, should be easily State funded, so many war heroes to take inspiration from ( and if you're saying they aren't real because their story are too crazy, remember Hacksaw Ridge is based on a real story), so many examples from successful movies to take notes. So stop making \"comedy\" and \"in-law drama\" please.\n    submitted by    /u/MasonParce  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15w8cy9/ranting_about_entertainment_industry/",
+          "publishedOn": "2023-08-20T10:54:16.000Z",
+          "wordCount": null,
+          "title": "Ranting about entertainment industry.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15w7ixv/da_nang_one_month_rental/",
+          "author": null,
+          "description": "Hi, I'm looking to stay 1 month in Da Nang, looking to book a 1 month rental, preferably something with kitchen. Any suggestions where I can do this online other than airbnb/ agoda/ booking? I'm looking for something on the cheap side, if I found something for 5 million I would be happy. Is it better to book online or go there and try to book it in person?\n Thanks!\n    submitted by    /u/Odd_Ad_3918  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15w7ixv/da_nang_one_month_rental/",
+          "publishedOn": "2023-08-20T10:05:21.000Z",
+          "wordCount": null,
+          "title": "Da Nang one month rental",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15w30y7/my_friend_said_it_is_possible_to_live_in_vietnam/",
+          "author": null,
+          "description": "I heard this from my friend who said that he plan to save a truckload of money then move back to Vietnam and put it into a saving account that have high interest to live out the rest of his day using the interest. What do you think, can he do it or the inflation gonna eat him alive ?\n    submitted by    /u/acidgolem213  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15w30y7/my_friend_said_it_is_possible_to_live_in_vietnam/",
+          "publishedOn": "2023-08-20T05:55:39.000Z",
+          "wordCount": null,
+          "title": "My friend said it is possible to live in Vietnam using only bank interest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15w2lki/how_to_not_feel_guilty_napping_lol/",
+          "author": null,
+          "description": "Personally I love that everyone relaxes or sleeps at noon. However, it's not common and even looked down upon in America, I used to be yelled at by my parents for it. Just like everyone else I try to nap after lunch but I'm getting anxiety like I'm not being productive so now I can't nap. Wondering if any other foreigners had this issue and if there's a mental pep talk to get over this lol. It's hot, things are closed and I want to enjoy this relaxing way of beating the heat.\n    submitted by    /u/didyouticklemynuts  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15w2lki/how_to_not_feel_guilty_napping_lol/",
+          "publishedOn": "2023-08-20T05:32:59.000Z",
+          "wordCount": null,
+          "title": "How to not feel guilty napping lol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15w0pp6/i_tried_tiet_canh_and_im_terrified_for_my_life/",
+          "author": null,
+          "description": "I went to someone’s house with my dad so I can at least get out and see people. Then my dad told me to come sit down at the table and forced me to eat this duck blood dish. I don’t know it’s origins and was scared to try because any raw blood can be harmful to the human body but I ate it anyways because I didn’t want to look bad in front of everyone. Now I’m home and I’m terrified for my life that I could’ve gotten infected with something. What should I know or do?\n    submitted by    /u/Acceptable-Object-78  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15w0pp6/i_tried_tiet_canh_and_im_terrified_for_my_life/",
+          "publishedOn": "2023-08-20T03:55:10.000Z",
+          "wordCount": null,
+          "title": "I tried Tiet canh and I’m terrified for my life.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15vzyam/execution/",
+          "author": null,
+          "description": "(it's a horse if anyone wondering)\n    submitted by    /u/No_Address4264  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15vzyam/execution/",
+          "publishedOn": "2023-08-20T03:16:32.000Z",
+          "wordCount": null,
+          "title": "Execution",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/15vz485/just_took_a_night_bus_as_a_foreigner_and_had_my/",
+          "author": null,
+          "description": "submitted by    /u/apresentformyfriends  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/15vz485/just_took_a_night_bus_as_a_foreigner_and_had_my/",
+          "publishedOn": "2023-08-20T02:35:12.000Z",
+          "wordCount": null,
+          "title": "Just took a night bus as a foreigner and had my shoes nicked and AirPods nicked while I was sleeping. Has anyone made a successful insurance claim for these situations?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/15vwvu3/three_kingdoms_in_vietnam/",
           "author": null,
@@ -5366,326 +5766,6 @@
           "publishedOn": "2023-07-22T13:53:25.000Z",
           "wordCount": 2593,
           "title": "Why was Vietnam the only Sinosphere nation to adopt Qing Dynasty attire?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/156hzyx/saved_moment_from_rplace/",
-          "author": null,
-          "description": "submitted by    /u/reissmosley  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/156hzyx/saved_moment_from_rplace/",
-          "publishedOn": "2023-07-22T11:47:33.000Z",
-          "wordCount": 2493,
-          "title": "Saved moment from r/place",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/156hrvb/any_private_investigators_contacts_in_hanoi/",
-          "author": null,
-          "description": "A friend of mine needs help tracking down someone in Hanoi and is looking for a PI who can reliably get the job done. Any leads would be helpful.\n    submitted by    /u/VPee  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/156hrvb/any_private_investigators_contacts_in_hanoi/",
-          "publishedOn": "2023-07-22T11:35:59.000Z",
-          "wordCount": 2515,
-          "title": "Any private investigators contacts in Hanoi?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/156hg80/just_a_bit_of_dessert_hunting_in_district_10_hcmc/",
-          "author": null,
-          "description": "submitted by    /u/inexistentia  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/156hg80/just_a_bit_of_dessert_hunting_in_district_10_hcmc/",
-          "publishedOn": "2023-07-22T11:19:04.000Z",
-          "wordCount": 2499,
-          "title": "Just a bit of dessert hunting in District 10, HCMC.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/156gzx9/can_someone_help_me_find_an_old_friend/",
-          "author": null,
-          "description": "Im trying to find an old friend who I’ve lost touch with. Her name is Nguyen Ngoc Anh. She lived in Hanoi. We were studying together in Singapore in the early 2010-20’s. She was at NUS. I can’t find her on Facebook and don’t have a number. If anyone knows her and can help me please PM me.\n    submitted by    /u/trieuvietvuong  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/156gzx9/can_someone_help_me_find_an_old_friend/",
-          "publishedOn": "2023-07-22T10:55:34.000Z",
-          "wordCount": 2546,
-          "title": "Can someone help me find an old friend",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/156e385/my_first_workout_in_vietnam/",
-          "author": null,
-          "description": "I’m from a high-altitude, mountainous, dry state in the US, and two sets in to my workout here, I’m pouring sweat like I had worked out for an hour. 45 min into the workout and I’m scared I’m going to dehydrate and overheat. Rushed back to my hotel and downed a hydration pack. Is this normal? Does the body adjust? Everyone else at the gym had the normal amount of sweat. I didn’t even lift heavy!\n    submitted by    /u/Existforlove  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/156e385/my_first_workout_in_vietnam/",
-          "publishedOn": "2023-07-22T08:10:28.000Z",
-          "wordCount": 2561,
-          "title": "My first workout in Vietnam…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/156dq03/dirty_beaches/",
-          "author": null,
-          "description": "Why is there so much plastic pollution on the beaches in Vietnam? I recently traveled to Da Nang and Quy Nhon and was really upset to sea so much garbage on the beaches and in the ocean. Is there anything being done to improve the conditions of the beaches here?\n    submitted by    /u/Nice_Faithlessness49  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/156dq03/dirty_beaches/",
-          "publishedOn": "2023-07-22T07:49:03.000Z",
-          "wordCount": 2532,
-          "title": "Dirty Beaches",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/156avwh/could_you_believe_people_in_your_gov_tried_to/",
-          "author": null,
-          "description": "submitted by    /u/leprotelariat  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/156avwh/could_you_believe_people_in_your_gov_tried_to/",
-          "publishedOn": "2023-07-22T05:13:08.000Z",
-          "wordCount": 2509,
-          "title": "Could you believe people in your gov tried to make some extra bucks on your life amid the pandemic? #VietnameseRemember",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15683yu/update_vn_is_down_30/",
-          "author": null,
-          "description": "submitted by    /u/Technical_Steak_3634  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15683yu/update_vn_is_down_30/",
-          "publishedOn": "2023-07-22T02:50:57.000Z",
-          "wordCount": 2494,
-          "title": "update: vn is down 3-0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1567osq/why_is_the_coffee_at_resorts_in_vietnam_always/",
-          "author": null,
-          "description": "I love coffee in Vietnam. I've lived in Vietnam for 8 years now and coffee is 20℅ of the reason for that. I'm married and my wife and I have a daughter. \n We've travelled a lot and stayed at a lot of different hotels and resorts. One thing my wife and I have always noticed, the coffee at these resorts is terrible. \n How can a resort that charges 1.7 mill a night make worse coffee than Ca Phe 123 I can find down some random street who only charges 25k? \n My wife says it's becuase the resort wants to make it for western customers, but a place like Vin Pearl has 90℅ Vietnamese guests. \n Like, go to any cafe with plastic tables and chairs and I would bet money their coffee will be better than a 5 star resort. What's up with that?\n    submitted by    /u/Easy_Blackberry_4144  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1567osq/why_is_the_coffee_at_resorts_in_vietnam_always/",
-          "publishedOn": "2023-07-22T02:30:17.000Z",
-          "wordCount": 2633,
-          "title": "Why is the coffee at resorts in Vietnam always terrible?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1566y16/are_people_in_vietnam_currently_supporting_the/",
-          "author": null,
-          "description": "The current game of Vietnam vs the USA has all the makings of a possible upset. I have not heard much hype from my Vietnamese friends and coworkers. Sadly they seemed more excited about Messi debuting for Miami. I would hope that there are world cup viewings setup in Ho Chi Minh and other major cities; to show support for these women.\n    submitted by    /u/Blue_blur22  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1566y16/are_people_in_vietnam_currently_supporting_the/",
-          "publishedOn": "2023-07-22T01:54:34.000Z",
-          "wordCount": 2552,
-          "title": "Are people in Vietnam currently supporting the women's soccer team?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1565mt1/whats_with_the_sexpat_accusations_on_this_board/",
-          "author": null,
-          "description": "I'm an American expat in Taiwan but my wife is Vietnamese hence why I lurk on this sub. I noticed that there seem to be a lot of salty redditors on this sub who seem to think that all white expats in Vietnam are sex tourists, and dating the locals is an expression of \"attempting to quench their thirst for submissive Asian girls\". Pretty much every post here where an expat gets scammed by a bar girl has at least one or two redditors celebrating their misfortune.\n I don't see this attitude nearly so much in Taiwan. Nobody seems to have much of a problem with expats dating and marrying locals, and I seldom here any accusations of less than honorable motivations for doing so. \n Is it that Vietnam attracts a particularly unsavory variety of expat? Are Vietnamese men more xenophobic than their Taiwanese counterparts? Is this particular subreddit just a little bit more toxic than it's Taiwanese counterpart? \n Partially curious just for shits and giggles, but also trying to get a feel for what living in Vietnam would be like and the attitudes of locals towards expats in case the misses and I ever decide to relocate there.\n    submitted by    /u/daniel_orourke_mma  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1565mt1/whats_with_the_sexpat_accusations_on_this_board/",
-          "publishedOn": "2023-07-22T00:53:03.000Z",
-          "wordCount": 2687,
-          "title": "What's with the sexpat accusations on this board?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1565ftd/what_is_ai_artificial_intelligence_the_ai_show/",
-          "author": null,
-          "description": "submitted by    /u/Comprehensive_Bat729  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1565ftd/what_is_ai_artificial_intelligence_the_ai_show/",
-          "publishedOn": "2023-07-22T00:43:50.000Z",
-          "wordCount": 2489,
-          "title": "What is AI ? ( Artificial Intelligence) | The AI Show",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1562m53/sugar_free_energy_drinks/",
-          "author": null,
-          "description": "Hello, does anyone know of any Asian brand sugar free energy drinks? Available in Saigon, or where I should look? The circle k (and similar) only have monster brand which is expensive and Asian brands have too much sugar, thank you\n    submitted by    /u/actuallykinjongun  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1562m53/sugar_free_energy_drinks/",
-          "publishedOn": "2023-07-21T22:40:06.000Z",
-          "wordCount": 2525,
-          "title": "Sugar free energy drinks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1561ujd/worlds_apart_cups_expansion_brings_the_games_of_a/",
-          "author": null,
-          "description": "submitted by    /u/Paper_Rain  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1561ujd/worlds_apart_cups_expansion_brings_the_games_of_a/",
-          "publishedOn": "2023-07-21T22:08:49.000Z",
-          "wordCount": 2499,
-          "title": "Worlds Apart: Cup’s Expansion Brings the Games of a Lifetime",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1561k2k/guys/",
-          "author": null,
-          "description": "r/place is here we neee to united and find a place to settle in\n    submitted by    /u/vietcongman__  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1561k2k/guys/",
-          "publishedOn": "2023-07-21T21:57:30.000Z",
-          "wordCount": 2495,
-          "title": "Guys",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15612dl/barbie_has_been_released_worldwide_does_anyone/",
-          "author": null,
-          "description": "submitted by    /u/YellowMathematician  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15612dl/barbie_has_been_released_worldwide_does_anyone/",
-          "publishedOn": "2023-07-21T21:38:53.000Z",
-          "wordCount": 2505,
-          "title": "Barbie has been released worldwide. Does anyone outside Vietnam spot nine-dash lines other than this scene?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1560htj/bun_thit_nuong_cha_gio_with_air_fryer/",
-          "author": null,
-          "description": "submitted by    /u/jack_hudson2001  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1560htj/bun_thit_nuong_cha_gio_with_air_fryer/",
-          "publishedOn": "2023-07-21T21:17:02.000Z",
-          "wordCount": 2486,
-          "title": "Bun Thit Nuong Cha Gio with air fryer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/155ye4w/requesting_reinforcement_for_rplace/",
-          "author": null,
-          "description": "submitted by    /u/binhan123ad  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/155ye4w/requesting_reinforcement_for_rplace/",
-          "publishedOn": "2023-07-21T19:58:24.000Z",
-          "wordCount": 2493,
-          "title": "Requesting reinforcement for r/place",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/155yccd/my_friend_is_on_holiday_in_ho_chi_minh_city_and/",
-          "author": null,
-          "description": "submitted by    /u/291192  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/155yccd/my_friend_is_on_holiday_in_ho_chi_minh_city_and/",
-          "publishedOn": "2023-07-21T19:56:23.000Z",
-          "wordCount": 2511,
-          "title": "My friend is on holiday in Ho Chi Minh City and he was wondering who this is when he was walking by.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/155xgzi/im_a_sucker/",
-          "author": null,
-          "description": "I got got. Booking girl from tinder brought me to sniff club/bar. Did no research. Oddly enough she didn't order any drink for herself. Just ordered one large gin and tonic. Out 30 USD but could have been worse. Never ran into this situation in other countries but seems extremely common in hanoi. \n Oh well. Live and learn.\n    submitted by    /u/colo3489  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/155xgzi/im_a_sucker/",
-          "publishedOn": "2023-07-21T19:23:11.000Z",
-          "wordCount": 2541,
-          "title": "I'm a sucker.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/155xeab/long_rant_what_is_up_with_the_vietnams_media/",
-          "author": null,
-          "description": "Welcome to my TED talk,\n My background: born and raised in Vietnam, studied and worked in the UK for 11 years. I'm planning to go back to Vietnam in near future and being super irritated at the quality of media being fed to the general public as a whole, especially younger generation in the country.\n Being out of the country for so long, I must confess of being completely out of touch with the media development in the last decade. To be fair, during my childhood in Vietnam from 2006 to 2012, I was much more inclined to consume western media like TV series and movies on HBO, Cinemax, Discovery Channels and listened to western music on MTV despite not understanding a word and have to use subtitle most of the time.\n - Movies: all Vietnamese movies showing in the cinema are either: 1. Remake f…",
-          "link": "https://www.reddit.com/r/VietNam/comments/155xeab/long_rant_what_is_up_with_the_vietnams_media/",
-          "publishedOn": "2023-07-21T19:20:23.000Z",
-          "wordCount": 3080,
-          "title": "Long Rant: What is up with the Vietnam's media products beeing fed to its population?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/155wwuc/any_body_in_nam_dinh/",
-          "author": null,
-          "description": "Hey guys we are a couple of officers laying over in nam dinh this week.\n If anyone speaks English and would like to have a few drinks and show us the cool places we would love that.\n Thankyou.\n    submitted by    /u/sgbearalex  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/155wwuc/any_body_in_nam_dinh/",
-          "publishedOn": "2023-07-21T19:02:21.000Z",
-          "wordCount": 2524,
-          "title": "Any body in Nam Dinh ?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/155vtsk/foreigner_purchasing_propertyapartment/",
-          "author": null,
-          "description": "One thing I find peculiar, from what I've been told, whether foreigner or citizen, all properties require a 30% upfront down payment in order to qualify for or be approved for a loan from a financial institution? Is this correct? Not yet in the process of buying but considering it among other options in VN and in the region. Can anyone share personal experiences of buying as a foreigner or married to VN partner? I understand that VN is a fast growing economy and the housing market is rapidly changing and have also heard many opinions on whether it is a financially sound decision in regards to the current and projected state of the market and quality of purchased unit. Can anyone share a personal experience?\n    submitted by    /u/Honest_Can2815  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/155vtsk/foreigner_purchasing_propertyapartment/",
-          "publishedOn": "2023-07-21T18:21:10.000Z",
-          "wordCount": 2609,
-          "title": "Foreigner purchasing property/apartment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/155vgc8/abandoned_hospital/",
-          "author": null,
-          "description": "why is there's alot of new and old cars there inside the abandoned hospital?\n https://youtu.be/b4GoiyCYOHU\n    submitted by    /u/crackers888  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/155vgc8/abandoned_hospital/",
-          "publishedOn": "2023-07-21T18:06:28.000Z",
-          "wordCount": 2508,
-          "title": "Abandoned Hospital",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/155u1r6/where_to_watch_womens_world_cup_match_vs_us_in_da/",
-          "author": null,
-          "description": "Couple of Americans in town for the 8am match but it seems like most bars open at 10am. Any ideas where we can watch publicly with a beer or two?\n    submitted by    /u/FredJackTurned  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/155u1r6/where_to_watch_womens_world_cup_match_vs_us_in_da/",
-          "publishedOn": "2023-07-21T17:13:48.000Z",
-          "wordCount": 2522,
-          "title": "Where to watch Women’s World Cup match vs. US in Da Nang",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/155tuwk/someone_wants_to_travel_here/",
-          "author": null,
-          "description": "submitted by    /u/Creative-Resident23  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/155tuwk/someone_wants_to_travel_here/",
-          "publishedOn": "2023-07-21T17:06:24.000Z",
-          "wordCount": 2494,
-          "title": "Someone wants to travel here...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/155sowq/want_to_see_how_foreign_policy_should_be_crafted/",
-          "author": null,
-          "description": "submitted by    /u/Humble1000  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/155sowq/want_to_see_how_foreign_policy_should_be_crafted/",
-          "publishedOn": "2023-07-21T16:22:02.000Z",
-          "wordCount": 2516,
-          "title": "Want to see how foreign policy should be crafted? Look to Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/155rtpt/just_started_using_shopee_vn/",
-          "author": null,
-          "description": "submitted by    /u/Anywae87  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/155rtpt/just_started_using_shopee_vn/",
-          "publishedOn": "2023-07-21T15:50:54.000Z",
-          "wordCount": 2484,
-          "title": "Just started using Shopee VN 🙃",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/155plbh/b%C3%BAn_c%C3%A1_today/",
-          "author": null,
-          "description": "submitted by    /u/heeeeyboy  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/155plbh/b%C3%BAn_c%C3%A1_today/",
-          "publishedOn": "2023-07-21T14:28:03.000Z",
-          "wordCount": 2492,
-          "title": "Bún cá today",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/155pkym/cortisone_injection_saigon/",
-          "author": null,
-          "description": "Wanting to get a cortisone injection in my foot as an old injury has flared up. Does anyone know anywhere in Saigon that provides this service?\n    submitted by    /u/loosemantis  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/155pkym/cortisone_injection_saigon/",
-          "publishedOn": "2023-07-21T14:27:38.000Z",
-          "wordCount": 2510,
-          "title": "Cortisone injection - Saigon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/155ouce/how_faircorrupt_is_the_court_system/",
-          "author": null,
-          "description": "Looking to hire a Saigon lawyer to navigate the court system.\n Any advice or recommendation for a lawyer dealing with property dispute?\n How fair/corrupt is the court system?\n Is it common in VN, for a lawyer to work for opposing sides?\n Do lawyer takes money/favors from both sides?\n Is it also common for judges accept bribery?\n Any experience would be useful.\n    submitted by    /u/SaigonViet500  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/155ouce/how_faircorrupt_is_the_court_system/",
-          "publishedOn": "2023-07-21T13:59:20.000Z",
-          "wordCount": 2547,
-          "title": "How fair/corrupt is the court system?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/155nuub/rplace_after_this_template_everyone/",
-          "author": null,
-          "description": "submitted by    /u/tiendung270804  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/155nuub/rplace_after_this_template_everyone/",
-          "publishedOn": "2023-07-21T13:19:52.000Z",
-          "wordCount": 2494,
-          "title": "R/place after this template everyone",
           "imageUrl": null
         }
       ]
