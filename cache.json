@@ -12,6 +12,16 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665FCCAA9C.HighSurfAdvisory.12665FF73280CA.LOXCFWLOX.6ff07cd891991ccdd8d0d8679690f0b3",
+          "author": null,
+          "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 5 PM PDT TUESDAY... * WHAT...Large breaking waves of 4 to 7 feet with local sets to 8 feet with dangerous rip currents. Highest surf across south facing beaches. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County Beaches.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665FCCAA9C.HighSurfAdvisory.12665FF73280CA.LOXCFWLOX.6ff07cd891991ccdd8d0d8679690f0b3",
+          "publishedOn": "2023-09-03T21:27:00.000Z",
+          "wordCount": 207,
+          "title": "High Surf Advisory issued September 03 at 2:27PM PDT until September 05 at 5:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665FBCF2C8.BeachHazardsStatement.12665FF73280CA.LOXCFWLOX.908e8e165def2d8b3f86eed39c52697b",
           "author": null,
           "description": "...BEACH HAZARDS STATEMENT NOW IN EFFECT THROUGH TUESDAY AFTERNOON... * WHAT...Dangerous rip currents and breaking waves due to elevated surf of 3 to 6 feet expected. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County Beaches.",
@@ -960,16 +970,6 @@
           "wordCount": 466,
           "title": "Heat Advisory issued August 05 at 11:43AM PDT until August 06 at 8:00PM PDT by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126659E5E210.HeatAdvisory.12665A1108F0CA.LOXNPWLOX.2f11cac514146405349f2619cf46ea92",
-          "author": null,
-          "description": "...HEAT ADVISORY IN EFFECT FROM 8 AM SATURDAY TO 8 PM PDT SUNDAY... * WHAT...Temperatures up to 107 expected. Hottest in the western San Fernando Valley and southern Salinas Valley. Overnight lows in the foothills and mountains in the 70s to lower 80s. * WHERE...Portions of southwest California.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126659E5E210.HeatAdvisory.12665A1108F0CA.LOXNPWLOX.2f11cac514146405349f2619cf46ea92",
-          "publishedOn": "2023-08-04T20:20:00.000Z",
-          "wordCount": 461,
-          "title": "Heat Advisory issued August 04 at 1:20PM PDT until August 06 at 8:00PM PDT by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -978,6 +978,226 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/169cfaq/unpopular_opinion_my_dad_used_to_say_this_when_he/",
+          "author": null,
+          "description": "\"Bố muốn con tốt nghiệp đại học chuyên ngành công nghệ/máy vi tính, và làm công việc thậm chí nếu chỉ có thể kiếm được 1/4 lương của người khác so với công việc làm nails và đứng quỳ xuống để lau chùi chân người khác nhưng có mức lương gấp 4 lần so sánh với một kỹ sư khoa học máy tính\"\n Explain. I'd love to hear your opinion and your family dynamics\n    submitted by    /u/zerof3565  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/169cfaq/unpopular_opinion_my_dad_used_to_say_this_when_he/",
+          "publishedOn": "2023-09-03T23:56:35.000Z",
+          "wordCount": 2679,
+          "title": "Unpopular Opinion: My Dad Used to Say This When He was Still Alive, Was He Right?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/169cf4x/diamond_ring/",
+          "author": null,
+          "description": "I’m looking to sell a Diamond ring. My mom suggested I sell it when I go back to Vietnam vs selling while I’m in the the US. She says I’ll get more money that way. I’m a little nervous about getting ripped off because its very obvious I’m a foreigner. Would I even get more money? Also if I wanted to buy a jewelry while I’m there, how often do you get sold fakes? I know nothing about jewelry and I feel like I could easily get dupped. Maybe I’m just too suspicious but she seems to think I’d get more of my moneys worth in Vietnam.\n    submitted by    /u/nguyetq  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/169cf4x/diamond_ring/",
+          "publishedOn": "2023-09-03T23:56:22.000Z",
+          "wordCount": 2698,
+          "title": "Diamond ring",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/169c0sa/recommended_places_to_travel_in_south_vietnam/",
+          "author": null,
+          "description": "Hi guys, just wanna ask, what are some recomended places to travel and eat in southern Vietnam🇻🇳?\n    submitted by    /u/SatisfactionSoggy347  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/169c0sa/recommended_places_to_travel_in_south_vietnam/",
+          "publishedOn": "2023-09-03T23:38:05.000Z",
+          "wordCount": 2613,
+          "title": "Recommended places to travel in South Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/169bqno/vietnams_cursed_images_103/",
+          "author": null,
+          "description": "submitted by    /u/GodBlessHentai  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/169bqno/vietnams_cursed_images_103/",
+          "publishedOn": "2023-09-03T23:25:35.000Z",
+          "wordCount": 2591,
+          "title": "Vietnam's cursed images #103",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1698owq/traveling_after_tet_holiday/",
+          "author": null,
+          "description": "I am hoping to travel to Vietnam mid to late February. I know tet is on the 10th so I’m wondering what traveling will be like in the week or so after that? I have read that Tet occurs for 9 days but have also seen that it could be longer so am hoping to get some insight on it. Will tours and resturaunts still be operating or will things still be pretty shut down? Any help is greatly appreciated, thanks in advance!\n    submitted by    /u/Junior_Crew3222  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1698owq/traveling_after_tet_holiday/",
+          "publishedOn": "2023-09-03T21:20:04.000Z",
+          "wordCount": 2676,
+          "title": "Traveling after Tet holiday",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16968fq/i_digitized_a_treasure_trove_of_200_ektachrome/",
+          "author": null,
+          "description": "submitted by    /u/liltrikz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16968fq/i_digitized_a_treasure_trove_of_200_ektachrome/",
+          "publishedOn": "2023-09-03T19:43:16.000Z",
+          "wordCount": 2629,
+          "title": "I digitized a treasure trove of 200+ Ektachrome slides from the Vietnam War",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1695esi/vaccines_when_travelling/",
+          "author": null,
+          "description": "Hi. I am travelling to Vietnam for 1 month in october. I have had all the vaccines my government says are essential, but there are some that are up to yourself to determine if you need them. These are the vaccines for rabies, japanese encephalitus and malaria. I tried asking in travel forums, but they say \"ask your doctor\", which I obviously already have, but it is up to me to determine these three on my own.\n What do you think is necessary? I am travelling throughout the country, National Parks, trekking in the northern region, but mostly tourist places.\n    submitted by    /u/Illustrious-Royal954  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1695esi/vaccines_when_travelling/",
+          "publishedOn": "2023-09-03T19:10:18.000Z",
+          "wordCount": 2692,
+          "title": "Vaccines when travelling",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1693g9c/buying_a_gift_from_aliexpress_to_someone_in/",
+          "author": null,
+          "description": "Will it work if i just put their address and phone number in the website?? and would they have to pay any taxes or anything extra for them to receive it? Thanks!\n    submitted by    /u/Norestfordrama  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1693g9c/buying_a_gift_from_aliexpress_to_someone_in/",
+          "publishedOn": "2023-09-03T17:54:24.000Z",
+          "wordCount": 2638,
+          "title": "Buying a gift from aliexpress to someone in vietnam while im in different country, does it work?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16924eg/real/",
+          "author": null,
+          "description": "please don’t take this seriously…\n    submitted by    /u/MikeThuyDa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16924eg/real/",
+          "publishedOn": "2023-09-03T17:00:59.000Z",
+          "wordCount": 2595,
+          "title": "Real",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16922n2/by_the_lake_ha_noi/",
+          "author": null,
+          "description": "submitted by    /u/Sergiomach5  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16922n2/by_the_lake_ha_noi/",
+          "publishedOn": "2023-09-03T16:59:08.000Z",
+          "wordCount": 2603,
+          "title": "By the lake, Ha Noi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1690jd7/people_need_to_learn_that_private_matter_is_none/",
+          "author": null,
+          "description": "Once a guy tried to sell me some boxing classes. I said i have a certain weight goal in mind. He said its impossible because i have kids, which i dont, he just assumes that base on my age.\n Today i went to a spa for a free facial treatment, the girl of course tried to sell me the package. By the end she said after the treatment you gonna look so beautiful im gonna introduce someone to you. Like i cant get a guy by myself or i need to change anything about myself to get a guy. I talked to another girl earlier i said im not sure i want to have kids, she said im so short sided.\n They are sales people, they need to focus on the product, not people personal life. There are zillion reasons why someone is where they are. If you dont know dont just make assumptions. I know the culture is nosy but assumption is not the answer.\n    submitted by    /u/BasilIllustrious8849  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1690jd7/people_need_to_learn_that_private_matter_is_none/",
+          "publishedOn": "2023-09-03T15:55:53.000Z",
+          "wordCount": 2767,
+          "title": "People need to learn that private matter is none of your business",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/168zboh/can_i_ask_for_vietnamese_mens_general_opinions_on/",
+          "author": null,
+          "description": "Most men I've met and talked to disapproved of them, saying that they're way too effeminate. \n Do most Vietnamese men hold the same opinion? I mean, Vietnam, or any Asian country for that matter, is heavily affected by Korea entertainment industry. Korea, in itself, is a kingdom and trend-setter in terms of entertainment and beauty, it's no doubt we are somewhat influenced by them. Most of our hairstyles, or fashion styles, right now follows what's trendy in Korea, which would affect what Vietnamese choose to wear and what clothes are produced and promoted for men fashion. \n I've heard Vietnamese men complaining complaining endlessly on Facebook too, wondering why women likes such girly boys. But I think if they don't have any appeal at all to women, they won't be that successful and loved. Maybe what men thinks women find attractive is drastically different than what women actually find attractive.\n For me, as a gay men and somewhat masculine, I find half of them very pleasing to the eyes, very \"pretty\", the other half too effeminate for my taste. They are \"beautiful\", but not \"hot.\" But it depends on which idol though, some has a perfect blend of masculinity and feminity, of handsomeness and gracefulness that makes them hotter than any 6-packs Western bros.\n Do Vietnamese men like the image of male K-pop idols?\n    submitted by    /u/Affectionate-Bit9246  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/168zboh/can_i_ask_for_vietnamese_mens_general_opinions_on/",
+          "publishedOn": "2023-09-03T15:05:26.000Z",
+          "wordCount": 2824,
+          "title": "Can I ask for Vietnamese men's general opinions on Korean male idols",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/168yt38/how_are_veterans_from_the_south_vietnamese/",
+          "author": null,
+          "description": "I am just curious if they are still upset about losing or if they are seen as traitors? Or has everyone just moved on from it and it's no longer thought about?\n    submitted by    /u/Diligent-Ice1276  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/168yt38/how_are_veterans_from_the_south_vietnamese/",
+          "publishedOn": "2023-09-03T14:44:04.000Z",
+          "wordCount": 2633,
+          "title": "How are veterans from the South Vietnamese military treated today in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/168wgbx/v%E1%BB%8B_th%C3%A1nh_c%E1%BB%A7a_c%C3%A1c_meme_%C4%91%C3%A3_qua_%C4%91%E1%BB%9Di/",
+          "author": null,
+          "description": "Sau thời gian dài chiến đấu với căn bệnh bạch cầu, chú chó nổi tiếng Cheems được chủ nhân xác nhận đã qua đời vào ngày 19/08 vừa qua. Dù bạn có thể không biết tên của chú chó này nhưng chắc hẳn ít nhất một lần bạn đã thấy ảnh chế trên mạng xã hội có hình ảnh chú chó shiba màu vàng với biểu cảm vô cùng đáng yêu. \n Lại có một meme đã còn là kỷ niệm :(\n #cheems #meme #cheemsdead\n    submitted by    /u/huyphamdev  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/168wgbx/v%E1%BB%8B_th%C3%A1nh_c%E1%BB%A7a_c%C3%A1c_meme_%C4%91%C3%A3_qua_%C4%91%E1%BB%9Di/",
+          "publishedOn": "2023-09-03T13:02:02.000Z",
+          "wordCount": 2682,
+          "title": "Vị thánh của các meme đã qua đời :(",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/168spwb/could_someone_help_me_figure_out_what_this_snack/",
+          "author": null,
+          "description": "submitted by    /u/LovelyChoux  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/168spwb/could_someone_help_me_figure_out_what_this_snack/",
+          "publishedOn": "2023-09-03T09:41:23.000Z",
+          "wordCount": 2613,
+          "title": "Could someone help me figure out what this snack is that I bought in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/168s1kt/help_me_with_this_dog/",
+          "author": null,
+          "description": "I bought this Keychain from night market as if looked cute. I am curious if it means soemthing? As in is it a charecter known or is it just a normal dog Keychain. I saw cow, pig etc too. The sentence down translation said \"I am dog\". Can you please help.\n    submitted by    /u/Street-Success-2214  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/168s1kt/help_me_with_this_dog/",
+          "publishedOn": "2023-09-03T09:00:26.000Z",
+          "wordCount": 2656,
+          "title": "Help me with this dog.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/168rgwd/what_are_these_yellow_bottles/",
+          "author": null,
+          "description": "I’m on a bus from Hoi An to Hue and noticed every little shop or restaurant has water bottles filled with some kind of yellow liquid on display outside. Some are in glass cabinets and some on racks. What is it?\n    submitted by    /u/Jack12468  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/168rgwd/what_are_these_yellow_bottles/",
+          "publishedOn": "2023-09-03T08:26:11.000Z",
+          "wordCount": 2646,
+          "title": "What are these Yellow Bottles?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/168pc91/happy_national_day/",
+          "author": null,
+          "description": "submitted by    /u/Fredrich-  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/168pc91/happy_national_day/",
+          "publishedOn": "2023-09-03T06:16:47.000Z",
+          "wordCount": 2601,
+          "title": "Happy National Day!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/168pb4y/visiting_my_friends_hometown_am_i_overreacting/",
+          "author": null,
+          "description": "this is going to be a long post, I am sorry.\n Backstory: I am not Vietnamese, don't have Vietnamese family and look European/American. A few years ago I met some Vietnamese friends in high school and my became interested in the country, culture and language. Last summer i came to Ho Chi Minh for two months to take Vietnamese classes (I am a university student so I came during my break), had a great time and met really nice people. I wasn't planning on coming back this summer but things worked out and I am back in Ho Chi Minh for a month, continuing my vietnamese classes.\n A friend that I met last summer and saw a few times the past two weeks, \"May\", invited me to her hometown this weekend for independence day weekend. She lives in the Mekong Delta River Region and said that she wanted me t…",
+          "link": "https://www.reddit.com/r/VietNam/comments/168pb4y/visiting_my_friends_hometown_am_i_overreacting/",
+          "publishedOn": "2023-09-03T06:15:02.000Z",
+          "wordCount": 3858,
+          "title": "Visiting my friend's hometown- am i overreacting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/168p2h2/happy_independence_day_from_ninh_b%C3%ACnh/",
+          "author": null,
+          "description": "submitted by    /u/Eight_Sneaky_Trees  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/168p2h2/happy_independence_day_from_ninh_b%C3%ACnh/",
+          "publishedOn": "2023-09-03T06:01:24.000Z",
+          "wordCount": 2605,
+          "title": "Happy Independence day, from Ninh Bình :)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/168nz58/how_importance_is_having_a_sona_male_heir_in_the/",
+          "author": null,
+          "description": "I've never understood people's obsession with having a son, a male heir. My father, for example, abandoned his previous wives because they couldn't bring him a son. It was not until my mother, and not until having 5 daughters prior to having me, did he have a son.\n But sadly, that son, which is me, is gay. Don't you think it's ironic? The way my father was obsessed with having a son, and he turned out to be gay? I guess it's his karma. Never mind, he abandoned my mother too and he has never existed to me in my mind.\n It's just that a family in my neighborhood, who are really poor, they have three young daughters already and they're still pushing for another one in hope it's a boy. Watching the mother with a big belly and three daughters already barely having enough to eat and study pains my heart. \n Why the obsession with having to have a boy? Um, he could be gay, you know? He could be a transgender. He could die young? He could be a drug addict and a failure, in which case you must have 3 or 4 sons in case then?\n    submitted by    /u/Affectionate-Bit9246  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/168nz58/how_importance_is_having_a_sona_male_heir_in_the/",
+          "publishedOn": "2023-09-03T04:59:28.000Z",
+          "wordCount": 2803,
+          "title": "How importance is having a son/a male heir in the general mindset of Vietnamese families?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/168k37h/nationality_noodles_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/NutmegOnEverything  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/168k37h/nationality_noodles_vietnam/",
+          "publishedOn": "2023-09-03T01:37:32.000Z",
+          "wordCount": 2601,
+          "title": "Nationality noodles: Vietnam",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/168j42m/good_guy_grab_guy/",
           "author": null,
@@ -5676,186 +5896,6 @@
           "publishedOn": "2023-08-05T13:09:54.000Z",
           "wordCount": 2569,
           "title": "Noticing a lot of women with professional photographers taking photos all over HCMC / Saigon. Is this typical?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15iul7l/no_context/",
-          "author": null,
-          "description": "submitted by    /u/bigmouthprick334  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15iul7l/no_context/",
-          "publishedOn": "2023-08-05T12:35:00.000Z",
-          "wordCount": 2467,
-          "title": "No context",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15iroxh/standards_and_quality_in_vietnam/",
-          "author": null,
-          "description": "Currently traveling around Vietnam for the first time and loving it. I work in construction in Australia and so some things stand out to me. I have noticed that many things are done to a certain level and then finished poorly. We went to My Son today and I overheard a tour guide telling his group that the Cham would complete tasks perfectly to 80% and then poorly the other 20%. So is that still a thing here?\n    submitted by    /u/ozzie_ostrich  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15iroxh/standards_and_quality_in_vietnam/",
-          "publishedOn": "2023-08-05T10:00:53.000Z",
-          "wordCount": 2539,
-          "title": "Standards and quality in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15iqntu/is_vietnam_a_hygienic_country_food_wise/",
-          "author": null,
-          "description": "I am travelling in Vietnam and I seem to have contracted food poisoning from somewhere. Of course I never think that something like this will happen until it does! I am wondering what does the sub think the level of hygiene is at in Vietnam in terms of food preparation? Also what are some of the places or foods I should avoid or signs to look out for to avoid this happening again?\n    submitted by    /u/PSmith4380  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15iqntu/is_vietnam_a_hygienic_country_food_wise/",
-          "publishedOn": "2023-08-05T09:02:09.000Z",
-          "wordCount": 2536,
-          "title": "Is Vietnam a hygienic country food wise?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15iqhi7/want_to_go_thrifting_in_ha_noi_ill_be_your/",
-          "author": null,
-          "description": "I'm a college student in Hanoi who is a thrift enthusiast and want to practice my English speaking skills.\n So I will volunteer to guide anyone who like thrifting to explore the real thrift markets in Ha Noi. I will help you bargain good price, find the place to shop for cool stuff, give you some tips to explore Hanoi, and maybe eat some street food while we go.\n Places im planning to go:\n - Đông Tác Market (all kind of second-hand stuff)\n - Đặng Văn Ngữ Market (cheaper than Đông Tác and has mostly women clothes)\n - Hoàng Tích Trí Street (leather goods)\n All of these places are in Đống Đa District\n Available time: 1 PM - 6:30 PM, every weekend\n Just sent me a message, I will create a group and then we will go together.\n    submitted by    /u/namnitro  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15iqhi7/want_to_go_thrifting_in_ha_noi_ill_be_your/",
-          "publishedOn": "2023-08-05T08:52:00.000Z",
-          "wordCount": 2606,
-          "title": "Want to go Thrifting in Ha Noi? I'll be your Volunteer Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15iq9a1/eps_39_b%C3%ACnh_%C4%91%E1%BB%8Bnh/",
-          "author": null,
-          "description": "submitted by    /u/Baosia  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15iq9a1/eps_39_b%C3%ACnh_%C4%91%E1%BB%8Bnh/",
-          "publishedOn": "2023-08-05T08:38:27.000Z",
-          "wordCount": 2469,
-          "title": "Eps 39: Bình Định",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15ip481/starbucks_vietnam_why_the_us_chain_cannot_crack_a/",
-          "author": null,
-          "description": "submitted by    /u/blorg  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15ip481/starbucks_vietnam_why_the_us_chain_cannot_crack_a/",
-          "publishedOn": "2023-08-05T07:31:45.000Z",
-          "wordCount": 2478,
-          "title": "Starbucks Vietnam: Why the US chain cannot crack a coffee-loving nation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15ioyvq/her_drawing_skill_is_even_better_than_selling_food/",
-          "author": null,
-          "description": "submitted by    /u/Routine_Storm_9597  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15ioyvq/her_drawing_skill_is_even_better_than_selling_food/",
-          "publishedOn": "2023-08-05T07:23:06.000Z",
-          "wordCount": 2474,
-          "title": "Her drawing skill is even better than selling food",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15inyiz/lovely/",
-          "author": null,
-          "description": "submitted by    /u/UhSaoCungDuoc  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15inyiz/lovely/",
-          "publishedOn": "2023-08-05T06:24:13.000Z",
-          "wordCount": 2467,
-          "title": "Lovely :)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15il6qy/literal_heavenbut_in_vn/",
-          "author": null,
-          "description": "submitted by    /u/Technical_Steak_3634  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15il6qy/literal_heavenbut_in_vn/",
-          "publishedOn": "2023-08-05T03:53:50.000Z",
-          "wordCount": 2469,
-          "title": "literal heaven...but in vn",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15ikan6/me_and_a_guy_interviewed_a_womens_football_team/",
-          "author": null,
-          "description": "submitted by    /u/Rebubliccountry  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15ikan6/me_and_a_guy_interviewed_a_womens_football_team/",
-          "publishedOn": "2023-08-05T03:08:52.000Z",
-          "wordCount": 2476,
-          "title": "Me and a guy interviewed a women's football team. Shame we couldn't get the video out before the VN team's last match",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15ice9b/anthony_bourdains_love_letter_to_vietnam/",
-          "author": null,
-          "description": "https://youtu.be/90k96AzFMwo\n Can you relate?\n “If I go back to Vietnam, could I go with this person? And you realize no. They would not make a good travel companion, they would not get it. And if they do not get Vietnam I don’t know whether I can be friends with them anymore. That’s a terrible thing to admit. Your perspective have shiftet. You cannot look at your old life the same way. When you know things could be different.”\n    submitted by    /u/BimBamBum13  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15ice9b/anthony_bourdains_love_letter_to_vietnam/",
-          "publishedOn": "2023-08-04T21:25:21.000Z",
-          "wordCount": 2540,
-          "title": "Anthony Bourdain’s Love Letter to Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15ibrec/anyone_able_to_fly_with_shih_tzu_into_vietnam/",
-          "author": null,
-          "description": "My mother is looking to move in September but am having trouble finding an airline that will allow to bring our family shih tzu along. He is a service dog and should be allowed in cabin. I have found a few that would allow him to travel to certain countries but is restricted when when it comes to flying into Vietnam. \n Anyone able to successfully travel with a similar snub nosed dog with them? If so which airlines did you use?\n    submitted by    /u/hellahomebody  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15ibrec/anyone_able_to_fly_with_shih_tzu_into_vietnam/",
-          "publishedOn": "2023-08-04T21:01:30.000Z",
-          "wordCount": 2546,
-          "title": "Anyone able to fly with Shih tzu into Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15ibjv2/how_do_i_get_to_ba_na_hills/",
-          "author": null,
-          "description": "I will be in Da Nang in September and what to visit Ba Na Hills. Ill be staying at an airbnb near Da Nang Cathedral. I am planning on taking a Grab. But I dont know to where exactly. \n Can I have a Grab take me to Sun World. I have fun there. And then can I walk to the Ga cáp treo Suối Mơ - Bà Nà Cable Car Station? And from there I will take the cable cars up to Ba Na Hills? And to return, I would take the cable cars back down, and have a Grab pick me up from around Sun World.\n Also, does anyone have any idea how long the cable car ride takes?\n    submitted by    /u/Ezhdehaa  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15ibjv2/how_do_i_get_to_ba_na_hills/",
-          "publishedOn": "2023-08-04T20:53:17.000Z",
-          "wordCount": 2584,
-          "title": "How Do I Get to Ba Na Hills?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15i52lh/travel_tips_for_two_girls_about_to_visit_vietnam/",
-          "author": null,
-          "description": "27 year old Female here. I am planning to travel to Vietnam in November along with my friend. We have not yet decided the dates. Is there any special time in November when events are occuring? For eg: events where we can witness fireworks?\n Also, in general, travel tips would really really help us! What places should we cover and what are absolute gems? Is safety a concern we should have? I am from India bdw. We are planning to book a return flight from a different city than the city we will be landing in since we wish to cover many places. Also, we will be in Vietnam for around 10 days. \n I also wanted to confirm if USD is accepted everywhere. We will also be carrying Forex cards. \n I really apologize for so many questions. This will be my first international trip. Really excited to visit your beautiful country and amazing people!!!\n Thank you in advance!\n    submitted by    /u/HealMySpirit  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15i52lh/travel_tips_for_two_girls_about_to_visit_vietnam/",
-          "publishedOn": "2023-08-04T16:42:39.000Z",
-          "wordCount": 2625,
-          "title": "Travel Tips For Two Girls About To Visit Vietnam In November",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15i3ige/does_anyone_travel_to_bangkok_soon_or_frequently/",
-          "author": null,
-          "description": "I have a multi drug resistant bacterial infection that has failed all treatment options in Thailand. There is an antibiotic sold in Vietnam that i can use as a 3rd line treatment. \n I am wondering i anyone who is traveling to Bangkok can buy it and take it with them. I will pay for the medications and give extra money. I am just very desperate at this point. I have suffered with this for months and I am afraid. \n Thanks.\n    submitted by    /u/VanillaStriking2472  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15i3ige/does_anyone_travel_to_bangkok_soon_or_frequently/",
-          "publishedOn": "2023-08-04T15:43:51.000Z",
-          "wordCount": 2551,
-          "title": "Does anyone travel to Bangkok soon or frequently? I urgently need an antibiotic from Vietnam.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15i23wj/hotel_h%E1%BA%A3i_l%C3%BD_2_today/",
-          "author": null,
-          "description": "submitted by    /u/heeeeyboy  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15i23wj/hotel_h%E1%BA%A3i_l%C3%BD_2_today/",
-          "publishedOn": "2023-08-04T14:49:47.000Z",
-          "wordCount": 2470,
-          "title": "Hotel Hải lý 2 today",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15hzpny/someone_told_him_to_buy_this_as_a_gift/",
-          "author": null,
-          "description": "Source: Facebook Vi Vu Ha Noi\n    submitted by    /u/LinhSex  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15hzpny/someone_told_him_to_buy_this_as_a_gift/",
-          "publishedOn": "2023-08-04T13:11:12.000Z",
-          "wordCount": 2483,
-          "title": "Someone told him to buy this as a gift 😂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/15hzmg9/my_city_in_minecraft/",
-          "author": null,
-          "description": "submitted by    /u/SiloughtStaff  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/15hzmg9/my_city_in_minecraft/",
-          "publishedOn": "2023-08-04T13:07:21.000Z",
-          "wordCount": 2469,
-          "title": "My city in Minecraft",
           "imageUrl": null
         }
       ]
