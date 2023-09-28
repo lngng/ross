@@ -12,6 +12,16 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266613A77EC.WindAdvisory.12666148B8C0CA.LOXNPWLOX.b65f6cdb74cfe40aaa6d6c694d8633f5",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 5 AM PDT THURSDAY... * WHAT...Northwest winds 25 to 35 mph with gusts up to 55 mph. * WHERE...Interstate 5 Corridor and Western Antelope Valley Foothills. * WHEN...Until 5 AM PDT Thursday. * IMPACTS...Gusty winds will blow around unsecured objects and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266613A77EC.WindAdvisory.12666148B8C0CA.LOXNPWLOX.b65f6cdb74cfe40aaa6d6c694d8633f5",
+          "publishedOn": "2023-09-27T18:59:00.000Z",
+          "wordCount": 176,
+          "title": "Wind Advisory issued September 27 at 11:59AM PDT until September 28 at 5:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266612B99AC.WindAdvisory.12666148B8C0CA.LOXNPWLOX.b65f6cdb74cfe40aaa6d6c694d8633f5",
           "author": null,
           "description": "...WIND ADVISORY IN EFFECT UNTIL 5 AM PDT THURSDAY... * WHAT...Northwest winds 25 to 35 mph with gusts up to 55 mph. * WHERE...Interstate 5 Corridor and Western Antelope Valley Foothills. * WHEN...Until 5 AM PDT Thursday. * IMPACTS...Gusty winds will blow around unsecured objects and",
@@ -200,26 +210,6 @@
           "wordCount": 373,
           "title": "Heat Advisory issued August 29 at 2:10PM PDT until August 30 at 8:00PM PDT by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665B535A38.ExcessiveHeatWarning.12665B6FFCB0CA.LOXNPWLOX.220ccb43213a736294b505f2c4cada45",
-          "author": null,
-          "description": "...EXCESSIVE HEAT WARNING REMAINS IN EFFECT UNTIL 8 PM PDT TUESDAY... * WHAT...Dangerously hot conditions with high temperatures of 98 to 109 degrees expected. Overnight low temperatures in the 70s to mid 80s in some locations will provide little relief from the heat.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665B535A38.ExcessiveHeatWarning.12665B6FFCB0CA.LOXNPWLOX.220ccb43213a736294b505f2c4cada45",
-          "publishedOn": "2023-08-28T15:34:00.000Z",
-          "wordCount": 375,
-          "title": "Excessive Heat Warning issued August 28 at 8:34AM PDT until August 29 at 8:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665B535A38.HeatAdvisory.12665B6FFCB0CA.LOXNPWLOX.6d44e6f6d444d5f8a0c87c9101db6b4e",
-          "author": null,
-          "description": "...HEAT ADVISORY REMAINS IN EFFECT UNTIL 8 PM PDT TUESDAY... * WHAT...High temperatures ranging from the 90s to around 105 degrees. Low temperatures expected to range between mid 60s to mid 70s, except around 80 degrees across portions of the mountains and foothills, providing little relief from the heat. * WHERE...Portions of southwest California.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12665B535A38.HeatAdvisory.12665B6FFCB0CA.LOXNPWLOX.6d44e6f6d444d5f8a0c87c9101db6b4e",
-          "publishedOn": "2023-08-28T15:34:00.000Z",
-          "wordCount": 454,
-          "title": "Heat Advisory issued August 28 at 8:34AM PDT until August 29 at 8:00PM PDT by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -228,6 +218,226 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tychd/psychedelic_bands/",
+          "author": null,
+          "description": "I’m going to be visiting next month and am curious if there’s any local Psych bands that I should make a point of seeing. Also curious if anyone has any bar/venue recommendations for a traveling head. Many thanks.\n    submitted by    /u/JunkWaxMillionaire  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tychd/psychedelic_bands/",
+          "publishedOn": "2023-09-27T22:31:30.000Z",
+          "wordCount": 2638,
+          "title": "Psychedelic Bands?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tv88j/looking_for_art_to_purches/",
+          "author": null,
+          "description": "Anyone know a place where i could purches some art from Vietnamn and ship it to europe. Handmade art? Really just anyone that got a tips on How i could get art from Vietnam without being there. \n Thanks\n    submitted by    /u/Ill-Professional-725  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tv88j/looking_for_art_to_purches/",
+          "publishedOn": "2023-09-27T20:33:49.000Z",
+          "wordCount": 2641,
+          "title": "Looking for art to purches.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tsmr4/any_vietnamese_friends_living_in_the_us/",
+          "author": null,
+          "description": "submitted by    /u/Ok_Landscape3405  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tsmr4/any_vietnamese_friends_living_in_the_us/",
+          "publishedOn": "2023-09-27T18:53:44.000Z",
+          "wordCount": 2615,
+          "title": "Any Vietnamese friends living in the US?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16trlk1/forms_of_address_siblingsinlaw/",
+          "author": null,
+          "description": "There seems to be a lot of regional variation. I think the standard rule (if there is such a thing), is to use the same address (anh, chi, em) based on one's own sibling's age. But what about if the husband or wife of your sibling is younger than you? In most traditions, you still follow the \"standard rules\", but I've met people who address the younger (in age) sibling-in-law as \"chu, cau, co, di\", as though they were addressing them in place of their children. What tradition do you follow, dear Redditors?\n    submitted by    /u/SoNowWhat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16trlk1/forms_of_address_siblingsinlaw/",
+          "publishedOn": "2023-09-27T18:04:11.000Z",
+          "wordCount": 2695,
+          "title": "Forms of address, siblings-in-law",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tqczk/what_medications_are_not_allowed_to_be_brought/",
+          "author": null,
+          "description": "I will be traveling to HCMC in December. I have a bunch of medications. Gabapentin, muscle relaxers, beta blockers, Ubrelvy for migraines, epi-pen and benedyl for food allergies, and Aleve and Tylenol. I wanted to make sure that bringing in medications like these are safe? I also have a cream that contains Ketamine but I would assume a med like this would cause problems. Any advice would be appreciated thank you so much. \n    submitted by    /u/x1amp98  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tqczk/what_medications_are_not_allowed_to_be_brought/",
+          "publishedOn": "2023-09-27T17:15:23.000Z",
+          "wordCount": 2681,
+          "title": "What medications are not allowed to be brought into Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tqc1b/looking_for_suggestions_on_finding_vietnamese/",
+          "author": null,
+          "description": "Where do I find? \n I’m looking for a female chef/home cook, from southern vietnam who can help preparing 3 meals a day, and can help with other kitchen chores for a working family (Vietnamese wife, husband, no children) \n This opportunity is based in Dubai, so visa, flights, good salary, private room etc is provided \n How do I find someone remotely? Any suggestions? \n I have tried Facebook groups but no luck.\n    submitted by    /u/Musaaafir  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tqc1b/looking_for_suggestions_on_finding_vietnamese/",
+          "publishedOn": "2023-09-27T17:14:24.000Z",
+          "wordCount": 2676,
+          "title": "Looking for suggestions on finding Vietnamese home cook/chef",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tq3ma/do_people_in_vietnam_use_dna_tests_if_so_which_one/",
+          "author": null,
+          "description": "I have a brother. My dad mentioned him once when I was young, didn’t bring him up for years, then finally told me about him again and confirmed it wasn’t a fever dream. \n My brother would be in his mid to late thirties. My dad was half white and was kicked out of the hospital by my brother’s grandma. He wasn’t allowed to see his son after that. My dad eventually made it to America but has always missed my brother. My grandma did not know of my brother because he was born out of wedlock. I accidentally let it slip. \n I’m contemplating doing a DNA test and potentially finding him. I want to do an American one as well since my grandpa (my dads father) was a lieutenant during the war. Though, I do want to meet my brother the most. To let him know my dad didn’t willingly abandon him. Have them meet. Help my grandma meet her first grandchild as she always thought I was the first. \n If anyone has any insight, that’ll be extremely helpful. Thank you.\n Edit: when I ask, “do people in Vietnam do these tests” it’s because I’m asking if it’s commonplace and if it’s as popular in other countries. I want to see if there is any percentage of a chance it’ll work.\n    submitted by    /u/Resident-Ad-8422  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tq3ma/do_people_in_vietnam_use_dna_tests_if_so_which_one/",
+          "publishedOn": "2023-09-27T17:05:25.000Z",
+          "wordCount": 2831,
+          "title": "Do people in Vietnam use DNA tests? If so, which one?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tpu56/be_app/",
+          "author": null,
+          "description": "Hi is there a way v to use a US # to verify with BE instead of a number from VN?\n    submitted by    /u/lurkinglurkerthrow  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tpu56/be_app/",
+          "publishedOn": "2023-09-27T16:55:27.000Z",
+          "wordCount": 2621,
+          "title": "Be app",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tpklm/t%C6%B0_duy_%C4%91%C6%B0%E1%BB%9Dng_x%C3%A1_k%C3%A9m/",
+          "author": null,
+          "description": "Các bác có ai bị mù phương hướng, tư duy đường xá, bản đồ kém không? Và các bác đã có cách khắc phục chưa, mình xin tips với\n    submitted by    /u/khanhtq79  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tpklm/t%C6%B0_duy_%C4%91%C6%B0%E1%BB%9Dng_x%C3%A1_k%C3%A9m/",
+          "publishedOn": "2023-09-27T16:45:07.000Z",
+          "wordCount": 2632,
+          "title": "Tư duy đường xá kém",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tot4n/desireable_neighborhoods_in_danang/",
+          "author": null,
+          "description": "In your opinion, other than the An Thuong area, what is a desirable neighorhood(s) in Danang for locals?\n An Nhon (near Korea town) seems pretty nice. Also the area near the Foreign Language University.\n But i have a hunch that I havnt really found the desirable, nice Danang neighborhood yet. Any tips where I can look?\n    submitted by    /u/refriedjinx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tot4n/desireable_neighborhoods_in_danang/",
+          "publishedOn": "2023-09-27T16:15:48.000Z",
+          "wordCount": 2658,
+          "title": "Desireable neighborhoods in Danang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tmsvi/disillusioned_after_buying_socalled_highend/",
+          "author": null,
+          "description": "submitted by    /u/Banhmiheo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tmsvi/disillusioned_after_buying_socalled_highend/",
+          "publishedOn": "2023-09-27T14:57:26.000Z",
+          "wordCount": 2607,
+          "title": "Disillusioned after buying so-called high-end apartments - VnExpress International",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tmqfn/birthday_in_hoi_an_recommendations/",
+          "author": null,
+          "description": "I am going to be in Hoi An in a couple of days with three other friends. It will be our friends birthday on Sunday, and I would love to surprise her with something unique and fun. Any recommendations? \n We love to drink and eat good food. She is very interested in renting a moped, but I can’t seem to find a tour where a guide takes us around and we drive them ourselves. Something unique would be awesome!!\n    submitted by    /u/ssbluegreen  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tmqfn/birthday_in_hoi_an_recommendations/",
+          "publishedOn": "2023-09-27T14:54:34.000Z",
+          "wordCount": 2682,
+          "title": "Birthday in Hoi An Recommendations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tmgue/local_perfume_edp_stores/",
+          "author": null,
+          "description": "I do this thing where I visit multiple countries and buy a perfume that’s of the region or has certain scents that’s only available in that region.\n I’m looking for a few perfume brands or stores you’d ecommend for me to check out.\n PS - not looking for Dior, Bvlgari, Chanel, RL, or any other commercial brands. Niche brands or scents in Vietnam please :)\n    submitted by    /u/More-Future4596  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tmgue/local_perfume_edp_stores/",
+          "publishedOn": "2023-09-27T14:43:34.000Z",
+          "wordCount": 2668,
+          "title": "Local perfume (edp) stores",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tiwh4/m%E1%BA%A5y_bro_c%C3%B3_bao_gi%E1%BB%9D_m%E1%BB%9F_g%C3%B3i_m%C3%AC_h%E1%BA%A3o_h%E1%BA%A3o_r%E1%BB%93i_th%E1%BA%A5y_2/",
+          "author": null,
+          "description": "submitted by    /u/crischutu07  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tiwh4/m%E1%BA%A5y_bro_c%C3%B3_bao_gi%E1%BB%9D_m%E1%BB%9F_g%C3%B3i_m%C3%AC_h%E1%BA%A3o_h%E1%BA%A3o_r%E1%BB%93i_th%E1%BA%A5y_2/",
+          "publishedOn": "2023-09-27T12:12:31.000Z",
+          "wordCount": 2615,
+          "title": "Mấy bro có bao giờ mở gói mì hảo hảo rồi thấy 2 gói sốt bao giờ chưa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tibna/trolling_a_scammer/",
+          "author": null,
+          "description": "I’m curious how far it could go. After a few chat I found their script is quite convincing and hard to play along. So I ask my GPT pal write for me 😬\n    submitted by    /u/tranducduy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tibna/trolling_a_scammer/",
+          "publishedOn": "2023-09-27T11:44:34.000Z",
+          "wordCount": 2646,
+          "title": "Trolling a scammer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tgpfu/vietnams_transport_infrastructure_is_totally/",
+          "author": null,
+          "description": "Firstly, let me preface this by saying I adore Vietnam, the culture, the strong will and tenacity of the people in the face of adversity, the dynamism, the air of progress, and the fascinating history, museums and sites. \n That said, I have one major point of complaint: the state of infrastructure - in particular - transport infrastructure - in the country, is totally unacceptable. \n Now I know Vietnam is still a relatively poor country, and is still significantly behind the likes of Thailand or Malaysia in economic development (although it is progressing rapidly). But even for a country at its income level (real per capita GDP of $15k), it’s still not good enough. And fixing it will be crucial if Vietnam is to have sustainable long run economic success and capitalise on current investment…",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tgpfu/vietnams_transport_infrastructure_is_totally/",
+          "publishedOn": "2023-09-27T10:17:30.000Z",
+          "wordCount": 3513,
+          "title": "Vietnam’s transport infrastructure is totally inadequate: it’s a ticking time-bomb",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16teftk/its_joever/",
+          "author": null,
+          "description": "​\n https://preview.redd.it/tilfnjqj7rqb1.png?width=1370&format=png&auto=webp&s=0724b3e3f892ea0c613d85fabbbf84f47f52e836\n    submitted by    /u/CreepyImprovement736  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16teftk/its_joever/",
+          "publishedOn": "2023-09-27T07:53:16.000Z",
+          "wordCount": 2599,
+          "title": "It's joever",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tcnej/traveling_to_ho_chi_minh/",
+          "author": null,
+          "description": "I’ll be traveling to Ho Chi Minh City from the US for 2 weeks with my girlfriend and her family (they are Vietnamese while I’m Hispanic). I’m looking for any tips regarding travel, airports, day-to-day life, do’s and don’ts, etc. This is my first experience traveling overseas. \n Also, what vaccines and over the counter medications are recommended? \n Thank you in advance! I can’t wait.\n    submitted by    /u/nautchiii  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tcnej/traveling_to_ho_chi_minh/",
+          "publishedOn": "2023-09-27T06:07:05.000Z",
+          "wordCount": 2667,
+          "title": "Traveling To Ho Chi Minh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tc0y0/its_me_who_wrote_under_250_words_about_190_in/",
+          "author": null,
+          "description": "2 weeks ago, I posted a post about my concern as I didn’t wrote enough words in the writing, and I assumed I would just get only 5 in that part. However, I just got the result this morning. Guess what, I got 6 with an overall score of 7. It took me 2 months to reach this score, and I’m so f cheerful about it. Anyway, i just want to spread my happiness.\n    submitted by    /u/Onetwothreefouru  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tc0y0/its_me_who_wrote_under_250_words_about_190_in/",
+          "publishedOn": "2023-09-27T05:34:01.000Z",
+          "wordCount": 2695,
+          "title": "It’s me, who wrote under 250 words (about 190) in Ielts writing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16tbii1/i_sent_a_link_to_my_exmade_ig_account_to_my_gf/",
+          "author": null,
+          "description": "Idk if this is the right place to post here. I feel like Zalo’s the most popular messaging app in Vietnam so maybe the story would make sense to some here, to some extent. \n For context: I broke up with my ex over 3 years ago and we haven’t talked ever since. It was a peaceful, face-to-face breakup. When we were together she made an IG for me bc I didn’t use IG (she only posted fluffy lovey dovey stuff of us there, I didn’t have access to it). I have been together with my current gf for almost 2 years. \n For the main story, I was using my gf’s phone and while on her app switcher screen, I saw she was browsing my ex-made instagram account on Zalo browser. I got startled and immediately went to the Zalo app to see how she came across it. \n Apparently “I” was the one who sent it to her on Zal…",
+          "link": "https://www.reddit.com/r/VietNam/comments/16tbii1/i_sent_a_link_to_my_exmade_ig_account_to_my_gf/",
+          "publishedOn": "2023-09-27T05:07:28.000Z",
+          "wordCount": 3025,
+          "title": "“I” sent a link to my ex-made IG account to my gf via Zalo. I didn’t do it.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16ta8er/question_about_giving_money_to_beggars/",
+          "author": null,
+          "description": "Once a week or so I try to make a habit of giving a little money to a beggar. I just want to check that in giving it to the people that need it the most. Are lotto ticket sellers basically verified as poor and are given those tickets by the government to sell? They only get a commission per ticket so it's better for them if I just give them the cash and let them keep the ticket?\n I've also been told to avoid giving money to women carrying drugged babies and children selling stuff, particularly around Bui Vien they are owned by mafia and don't get to keep the money themselves/ aren't allowed go to school.\n Correct me if I'm wrong with anything as I'm only going off what I'm told.\n    submitted by    /u/Individual-Sun-4857  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16ta8er/question_about_giving_money_to_beggars/",
+          "publishedOn": "2023-09-27T04:03:41.000Z",
+          "wordCount": 2738,
+          "title": "Question about giving money to beggars",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/16t7ki5/hanoi_was_reportedly_seeking_military_aid_from/",
+          "author": null,
+          "description": "submitted by    /u/Valanide  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/16t7ki5/hanoi_was_reportedly_seeking_military_aid_from/",
+          "publishedOn": "2023-09-27T02:03:09.000Z",
+          "wordCount": 2621,
+          "title": "Hanoi was reportedly seeking military 'aid' from both of Moscow and Washington",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/16t1lj8/unlocking_my_phone_in_hcmc/",
           "author": null,
@@ -6867,186 +7077,6 @@
           "wordCount": 2631,
           "title": "What is this and what’s the purpose of it?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/164h177/this_is_what_getting_kicked_out_of_saigon_for/",
-          "author": null,
-          "description": "submitted by    /u/FidelMarxlin  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/164h177/this_is_what_getting_kicked_out_of_saigon_for/",
-          "publishedOn": "2023-08-29T12:23:48.000Z",
-          "wordCount": 2599,
-          "title": "This is what getting kicked out of Saigon for collaborating with the American forces does to a mf...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/164eqru/luxury_apartment_buildings_in_saigon/",
-          "author": null,
-          "description": "Looking to rent a 1 bedroom apartment (12 month lease) in Saigon over the next month. Any suggestions on the best/most luxurious places where I would likely find a furnished unit? Thanks in advance!\n So far I've found the follow luxury properties:\n  \nCity Garden\n Sun Avenue\n Masteri Thao Dien\n Metropole\n The Marq\n Empire City\n Nassim\n Gateway Thao Dien\n  \n   submitted by    /u/ConfusedClevelander  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/164eqru/luxury_apartment_buildings_in_saigon/",
-          "publishedOn": "2023-08-29T10:30:59.000Z",
-          "wordCount": 2646,
-          "title": "Luxury Apartment Buildings in Saigon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/164eg7v/if_vietnam_gets_a_red_card_it_will_be_banned_from/",
-          "author": null,
-          "description": "submitted by    /u/MayHaBuoi  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/164eg7v/if_vietnam_gets_a_red_card_it_will_be_banned_from/",
-          "publishedOn": "2023-08-29T10:15:04.000Z",
-          "wordCount": 2610,
-          "title": "If Vietnam gets a ‘red card’, it will be banned from exporting seafood to the EU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/164cuuc/t%E1%BA%BFt_trung_thu_midautumn_festival/",
-          "author": null,
-          "description": "I will be traveling around Vietnam for 3 weeks and will be there during the Mid-Autumn Festival. I hear it's mostly for children so is it worth it to plan my trip around the holiday or not. What is the best city to be in to experience the festival? I am debating between Hoi An, Hue, or Hanoi.\n Would love to know any other tips or suggestions for the holiday. \n Thanks :) \n    submitted by    /u/wutevzforevz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/164cuuc/t%E1%BA%BFt_trung_thu_midautumn_festival/",
-          "publishedOn": "2023-08-29T08:43:35.000Z",
-          "wordCount": 2661,
-          "title": "🌕 Tết Trung Thu 🥮 Mid-Autumn Festival🏮",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1649tml/what_are_the_common_fashion_style_of_men_in/",
-          "author": null,
-          "description": "I wanna blend in once I visit Vietnam soon. please help me. =) if you can send some pics for reference purpose only. thanks \n Edit post: additional query: may i know what are the most effective meds you guys use in vietnam for headache? drowsiness? and stomachache? (in case of emergency though, thanks)\n    submitted by    /u/sherep_ng_kewpie  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1649tml/what_are_the_common_fashion_style_of_men_in/",
-          "publishedOn": "2023-08-29T05:46:59.000Z",
-          "wordCount": 2653,
-          "title": "what are the common fashion style of men in Vietnam nowadays?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1648ppj/23fhcmcvn_looking_for_gamers_pal/",
-          "author": null,
-          "description": "Hi, as the title suggests. A bit about myself: I'm a female located in HCMC and currently working as a Data Analyst. I have a knack for drawing and I'm working as a freelance 3D artist.\n The game titles I often play:\n  \nLeague of Legends (Mostly in Aram mode, I've reached Grandmaster rank as an ADC)\n Valorant\n Honkai Star Rail\n Genshin Impact\n I can play various games on Steam that support co-op mode.\n I'm fond of narrative-driven games like Cyberpunk 2077, Batman Trilogy, Final Fantasy...\n  \nI use Discord and I prefer playing games at home.\n I hope to find someone who would like to play with me after stressful working hours. \n I am indeed a real girl. I'm not transgender or anything like that. It's just that my gaming hobby and skills aren't common in my job and profession. I'm also pursuing a master's degree, so I don't have time to find gaming buddies. I've spent a lot of money to hire gaming partners, but I've realized that those relationships can be quite toxic. \n    submitted by    /u/Old_Negotiation_5064  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1648ppj/23fhcmcvn_looking_for_gamers_pal/",
-          "publishedOn": "2023-08-29T04:45:43.000Z",
-          "wordCount": 2768,
-          "title": "23F/HCMC/VN Looking for gamers pal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1643fsx/vietnam_cursed_images_1032/",
-          "author": null,
-          "description": "GodBlessHentai is back and bcus of that, my series will be alternative ver. (end with #105.2) Btw sr for late posting (usually on every Monday)\n    submitted by    /u/Spirited-Rip-9369  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1643fsx/vietnam_cursed_images_1032/",
-          "publishedOn": "2023-08-29T00:39:35.000Z",
-          "wordCount": 2612,
-          "title": "Vietnam Cursed Images #103.2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16431qi/question_on_marijuana_legalization_in_vietnam/",
-          "author": null,
-          "description": "Hello,\n I have come to understand that Vietnam has very strict laws against the usage of marijuana, but that these laws are rarely enforced. I am a foreigner - an American, and the situation is much the same in many parts of the country here. In addition to this, there has been a fairly constant push amongst some people to legalize marijuana here, and it seems likely to me that it will be made federally legal some time in the relatively near future (though I don't think the country is quite there yet). I was curious if it is the same for Vietnam - what is the general sentiment on marijuana laws? Do you believe marijuana should be legal in Vietnam, and do you think it will be soon, or do you think the current laws will remain in place for the foreseeable future, and why?\n    submitted by    /u/unnaturalfood  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16431qi/question_on_marijuana_legalization_in_vietnam/",
-          "publishedOn": "2023-08-29T00:23:00.000Z",
-          "wordCount": 2735,
-          "title": "Question on marijuana legalization in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1642s5y/chanhngot1_uy_t%C3%ADn_ch%E1%BA%A5t_l%C6%B0%E1%BB%A3ng_k%C3%A8o_th%C6%A1m_x%E1%BB%8Bn_nh%E1%BA%A5t_n%C4%83m/",
-          "author": null,
-          "description": "🔥🔥Tuyển Nhân Viên và Cộng Tác Viên - Tập Đoàn Win 888...\n 👉Yêu cầu:\n ✅Tuổi: 18 trở lên. ✅Không yêu cầu bằng cấp, trình độ học vấn. ✅Cần điện thoại thông minh hoặc thiết bị điện tử kết nối mạng. ✅Có tài khoản ngân hàng để nhận lương. 📢Nội dung công việc:\n 💥Phát quảng cáo trên các nền tảng mạng xã hội như Facebook, Zalo, Telegram, Instagram, Twitter, TikTok, YouTube. Lương thưởng:\n ✅Hoa hồng hấp dẫn: 60 ca/trên mỗi lượt đăng ký mới. Mỗi 5 lượt đăng ký mới cộng thêm 60 ca. 30 ca/mỗi bài đăng trên các nền tảng mạng xã hội. ✅Không giới hạn mức lương, bình quân 10 triệu/tháng. Chăm chỉ làm fulltime lương đạt 20 triệu trở lên + trợ cấp 200k cước mạng. 🔥Mức lương cao nhất có thể lên tới 1 tỷ.\n    submitted by    /u/Character-Agency1752  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1642s5y/chanhngot1_uy_t%C3%ADn_ch%E1%BA%A5t_l%C6%B0%E1%BB%A3ng_k%C3%A8o_th%C6%A1m_x%E1%BB%8Bn_nh%E1%BA%A5t_n%C4%83m/",
-          "publishedOn": "2023-08-29T00:11:49.000Z",
-          "wordCount": 2734,
-          "title": "chanhngot1 ( uy tín chất lượng ) kèo thơm xịn nhất năm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1640k0m/vietnamese_socialism_with_luna_oi/",
-          "author": null,
-          "description": "submitted by    /u/Humble1000  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1640k0m/vietnamese_socialism_with_luna_oi/",
-          "publishedOn": "2023-08-28T22:40:44.000Z",
-          "wordCount": 2596,
-          "title": "Vietnamese Socialism with Luna Oi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/163w8rk/i_dont_like_my_bil_vietnamese_girlfriend/",
-          "author": null,
-          "description": "This is a post for venting so I don’t really expect a lot of people to comment. It’s been bugging me for a while now and I don’t know what to do about my feelings towards her.\n My brother-in-law (26M) has been dating this Vietnamese girl (27F) for almost a year now. I’m a Vietnamese myself so it’s not a racial targeted post.\n Well… When they first started dating, I’ve noticed some red flags in the stories he told me and my husband about. Since maybe he was just trying to vent to us, I’m not gonna mention them. But that’s when I began to have bad feelings about this girl.\n A month or two into them seeing each other, he found out that she’s actually STILL MARRIED to another man and had a kid with him. When they met up to talk about it, she explained that her husband had a child with another …",
-          "link": "https://www.reddit.com/r/VietNam/comments/163w8rk/i_dont_like_my_bil_vietnamese_girlfriend/",
-          "publishedOn": "2023-08-28T19:58:11.000Z",
-          "wordCount": 3228,
-          "title": "I don’t like my bil Vietnamese girlfriend",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/163w3sh/need_a_good_translation_to_viet_for_the_following/",
-          "author": null,
-          "description": "Hi, just wanted to get a gift for someone and I want to engrave something in Vietnamese. I don't trust google translate to do it properly. \n It is \"You're my serendipity, I wasn't looking for you, I wasn't expecting you, But I am very lucky that i met you.\"\n Preferably in a endearing way. MUCH THANKS TO WHOEVER CAN HELP!\n    submitted by    /u/Lelwrektnub  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/163w3sh/need_a_good_translation_to_viet_for_the_following/",
-          "publishedOn": "2023-08-28T19:52:46.000Z",
-          "wordCount": 2653,
-          "title": "Need a good translation to viet for the following quote.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/163uy60/statement_by_press_secretary_karine_jeanpierre_on/",
-          "author": null,
-          "description": "I just thought this was interesting news that was reported not too long ago. Do people in Vietnam want continued attention from the US? In general the sentiment here seems pretty neutral about this topic.\n    submitted by    /u/9mmlove  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/163uy60/statement_by_press_secretary_karine_jeanpierre_on/",
-          "publishedOn": "2023-08-28T19:08:56.000Z",
-          "wordCount": 2647,
-          "title": "Statement by Press Secretary Karine Jean-Pierre on President Biden’s Travel to Vietnam | The White House",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/163trp0/sent_a_package_to_vn_through_usps_no_further/",
-          "author": null,
-          "description": "I've sent my package from the US to VN through USPS. It arrived at TSN airport after 5 days and somehow \"departed\". It's been 2 days since then, no further notice. Idk if it's been rejected or been through customs clearance. Who and what should I contact for my package. Thanks.\n    submitted by    /u/noucc  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/163trp0/sent_a_package_to_vn_through_usps_no_further/",
-          "publishedOn": "2023-08-28T18:24:40.000Z",
-          "wordCount": 2659,
-          "title": "Sent a package to VN through USPS. No further update upon arriving at VN.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/163s3zp/the_forbidden_homage_boba_tea/",
-          "author": null,
-          "description": "submitted by    /u/binhan123ad  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/163s3zp/the_forbidden_homage_boba_tea/",
-          "publishedOn": "2023-08-28T17:22:23.000Z",
-          "wordCount": 2607,
-          "title": "The forbidden homage Boba tea.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/163s3yt/anan_restaurant/",
-          "author": null,
-          "description": "I’m a foodie and would love to eat at Saigon’s only Michelin starred restaurant on my next trip. However, the Google reviews are rather lackluster. What are the VN foodies thoughts on this place? Normally $80-$125 tasting menu pricing isn’t that big of a deal in the west, but I feel I can better spend that money elsewhere. I had the million Dong pho from LM81 and thought it was a solid 7/10, but wouldn’t go out of my way to eat there again. \n Also, how far in advance do I need to make reservations? Thank you.\n    submitted by    /u/Createdtobebanned_TT  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/163s3yt/anan_restaurant/",
-          "publishedOn": "2023-08-28T17:22:22.000Z",
-          "wordCount": 2682,
-          "title": "AnAn Restaurant",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/163nqqp/i_just_came_back_from_vietnam_im_ready_to_book/",
-          "author": null,
-          "description": "I'm having Vietnam withdrawal right now. I was in VN for almost 2 months. Absolutely loved it.\n I'm ready to plan my next trip back, aiming for February 2024.\n Question: anyone with experience taking their dogs from the U.S to Vietnam. I'm scared that my dog won't do well with the sudden change in environment and most importantly the WEATHER!\n    submitted by    /u/alkjdasoad  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/163nqqp/i_just_came_back_from_vietnam_im_ready_to_book/",
-          "publishedOn": "2023-08-28T14:33:27.000Z",
-          "wordCount": 2656,
-          "title": "I just came back from Vietnam. I'm ready to book another flight 😭",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/163l98j/this_is_how_garbage_is_utilized_in_vietnam/",
-          "author": null,
-          "description": "submitted by    /u/weird_is_good  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/163l98j/this_is_how_garbage_is_utilized_in_vietnam/",
-          "publishedOn": "2023-08-28T12:50:56.000Z",
-          "wordCount": 2589,
-          "title": "This is how garbage is utilized in Vietnam",
-          "imageUrl": null
         }
       ]
     },
@@ -7055,6 +7085,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/self-taught-developer-fastest-way-to-learn-to-code/",
+          "author": "Quincy Larson",
+          "description": "This morning while I was eating breakfast, I opened YouTube and saw a video by self-taught developer Brian Cache: \"The FASTEST Way to Learn to Code and ACTUALLY Get a Developer Job\" (Capital letter emphasis is his own. The video is an 11 minute watch): I love watching these types",
+          "link": "https://www.freecodecamp.org/news/self-taught-developer-fastest-way-to-learn-to-code/",
+          "publishedOn": "2023-09-27T15:41:30.000Z",
+          "wordCount": 1602,
+          "title": "Self-Taught Developer's Fastest Path to a Developer Job",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Software-Engineer-Developer-Job.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-the-basics-of-java-programming/",
+          "author": "Beau Carnes",
+          "description": "Java has been a popular programming language for over two decades. Learning Java is a good way to mastering the fundamentals of modern coding practices.  We just posted a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Java programming. Alex Dobinca Cristian developed",
+          "link": "https://www.freecodecamp.org/news/learn-the-basics-of-java-programming/",
+          "publishedOn": "2023-09-27T14:40:30.000Z",
+          "wordCount": 1010,
+          "title": "Learn the Basics of Java Programming",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/javacrash.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/prismane-react-ui-library/",
+          "author": "Valentine Gatwiri",
+          "description": "Prismane is a free, comprehensive, have-it-all React UI library that provides a broad array of hooks, components, and form validators to help you build beautiful and functional user interfaces. Prismane was designed with performance in mind, ensuring lightning-fast loading times for a better user experience. In this article, you will",
+          "link": "https://www.freecodecamp.org/news/prismane-react-ui-library/",
+          "publishedOn": "2023-09-27T12:52:48.000Z",
+          "wordCount": 1495,
+          "title": "An Overview of Prismane  – An Open-Source React UI Library",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Screenshot-from-2023-09-26-15-16-49.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-html-elements/",
+          "author": "Joan Ayebola",
+          "description": "HTML, which stands for HyperText Markup Language, is the standard markup language used to create webpages. HTML provides a structured way to organize content on a webpage, allowing web developers to present text and media in a clear and meaningful way.  In this article, we'll explore three fundamental HTML",
+          "link": "https://www.freecodecamp.org/news/how-to-use-html-elements/",
+          "publishedOn": "2023-09-26T18:02:38.000Z",
+          "wordCount": 2146,
+          "title": "How to use HTML Elements – Headings, Paragraphs, and Text Formatting Elements Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Pink-Minimalist-Digital-Marketing-Presentation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/nuxt-3-course-for-beginners/",
+          "author": "Beau Carnes",
+          "description": "Nuxt.js has been making waves in the web development world, especially among Vue.js enthusiasts. With its unique capabilities for server-side rendering, static site generation, and single-page applications, Nuxt offers a robust set of features for developers looking to build modern web apps. We just posted a full course on Nuxt",
+          "link": "https://www.freecodecamp.org/news/nuxt-3-course-for-beginners/",
+          "publishedOn": "2023-09-26T15:37:16.000Z",
+          "wordCount": 833,
+          "title": "Nuxt 3 Course for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/nuxt.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-dynamic-programming-to-solve-the-0-1-knapsack-problem/",
           "author": "Beau Carnes",
@@ -7854,46 +7934,6 @@
           "wordCount": 7217,
           "title": "How to Build a Task Manager CLI Tool with Node.js",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Add-a-heading--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-date-time-dayjs/",
-          "author": "Grant Weatherston",
-          "description": "When it comes to handling dates and times in JavaScript, developers often find themselves grappling with the complexities of the built-in Date object. While vanilla JavaScript provides fundamental functionality, it can be quite cumbersome to work with, especially when dealing with parsing, formatting, and manipulating dates. This is where external",
-          "link": "https://www.freecodecamp.org/news/javascript-date-time-dayjs/",
-          "publishedOn": "2023-08-28T22:09:07.000Z",
-          "wordCount": 6067,
-          "title": "Javascript Dates – How to Use the DayJS Library to work with Date and Time in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/fcc_template--5-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-data-science-and-ai-handbook/",
-          "author": "Tatev Karen Aslanyan",
-          "description": "In this handbook, I'll show you how to use proven strategies and insights to get into the fields of AI and Data Science. I'll help you navigate the exciting world of Data Science and AI in 2023 so you can increase your chances of landing a job.  > Every",
-          "link": "https://www.freecodecamp.org/news/the-data-science-and-ai-handbook/",
-          "publishedOn": "2023-08-28T16:44:29.000Z",
-          "wordCount": 11548,
-          "title": "The Data Science and AI Handbook – How to Start a Career in Data Science",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/The-Data-Science-and-AI-Career-Guide-Handbook-Cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-functions-and-scope/",
-          "author": "Casmir Onyekani",
-          "description": "Welcome to the exciting world of JavaScript Functions and Scope. Have you ever wondered how programs remember things and do tasks over and over again? Well, that's where functions and scope come into play. Whether you're a curious beginner or someone looking to strengthen your coding skills, get ready to",
-          "link": "https://www.freecodecamp.org/news/javascript-functions-and-scope/",
-          "publishedOn": "2023-08-28T14:55:54.000Z",
-          "wordCount": 3970,
-          "title": "JavaScript Functions and Scope – a Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/learn-javascript-functions-and-scope-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/free-microsoft-c-sharp-certification/",
-          "author": "Quincy Larson",
-          "description": "I'm excited to announce that Microsoft and freeCodeCamp have teamed up to bring you a new free professional certification: the Foundational C# Certification. This professional certification includes 35 hours of training from Microsoft and an online certification exam by freeCodeCamp. By the end of this process, you'll have earned your",
-          "link": "https://www.freecodecamp.org/news/free-microsoft-c-sharp-certification/",
-          "publishedOn": "2023-08-28T12:53:25.000Z",
-          "wordCount": 1121,
-          "title": "Earn a Free C# Certification from Microsoft and freeCodeCamp",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Microsoft-C-Sharp-Certification-1.png"
         }
       ]
     }
