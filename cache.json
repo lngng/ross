@@ -12,6 +12,26 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126665E0E268.HeatAdvisory.126665FCA3E0CA.LOXNPWLOX.feb8d2339265a0540efc66d9e89fe02a",
+          "author": null,
+          "description": "...HEAT ADVISORY IN EFFECT UNTIL 7 PM PDT FRIDAY... ...WIND ADVISORY IS CANCELLED... * WHAT...Temperatures up to 101. Overnight lows in the foothills in the lower 80s * WHERE...Santa Clarita Valley, Ventura County Inland Coast, Central Ventura County Valleys, Western Santa Monica Mountains",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126665E0E268.HeatAdvisory.126665FCA3E0CA.LOXNPWLOX.feb8d2339265a0540efc66d9e89fe02a",
+          "publishedOn": "2023-10-05T20:10:00.000Z",
+          "wordCount": 321,
+          "title": "Heat Advisory issued October 05 at 1:10PM PDT until October 06 at 7:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126665E0E268.HeatAdvisory.126665FCA3E0CA.LOXNPWLOX.cf5377bae406102092eed1a8dcc8960e",
+          "author": null,
+          "description": "...HEAT ADVISORY IN EFFECT UNTIL 7 PM PDT FRIDAY... * WHAT...Temperatures up to 101. Overnight lows in the foothills in the lower 80s. * WHERE...Portions of southwest California. * WHEN...Until 7 PM PDT Friday. * IMPACTS...Hot temperatures may cause heat illnesses to occur.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126665E0E268.HeatAdvisory.126665FCA3E0CA.LOXNPWLOX.cf5377bae406102092eed1a8dcc8960e",
+          "publishedOn": "2023-10-05T20:10:00.000Z",
+          "wordCount": 481,
+          "title": "Heat Advisory issued October 05 at 1:10PM PDT until October 06 at 7:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266613A77EC.WindAdvisory.12666148B8C0CA.LOXNPWLOX.b65f6cdb74cfe40aaa6d6c694d8633f5",
           "author": null,
           "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 5 AM PDT THURSDAY... * WHAT...Northwest winds 25 to 35 mph with gusts up to 55 mph. * WHERE...Interstate 5 Corridor and Western Antelope Valley Foothills. * WHEN...Until 5 AM PDT Thursday. * IMPACTS...Gusty winds will blow around unsecured objects and",
@@ -98,6 +118,206 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170xtte/a_friend_bought_me_a_pipe_back_from_his_trip_to/",
+          "author": null,
+          "description": "Ps. I’m not even sure I’m holding it with the writing upright\n    submitted by    /u/lewiscbatt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170xtte/a_friend_bought_me_a_pipe_back_from_his_trip_to/",
+          "publishedOn": "2023-10-06T00:08:29.000Z",
+          "wordCount": 2621,
+          "title": "A friend bought me a pipe back from his trip to Vietnam about a decade ago, and on top of the piece where I think you’re meant to place whatever it is you’re smoking it has 4 symbols, I was wondering if anyone here could tell me what they mean?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170w8xx/th%C3%A2m_m%E1%BA%AFt/",
+          "author": null,
+          "description": "Tớ bị thâm mắt không biết có bạn nào biết cách hay sản phẩm gì để mắt bớt thâm không ?\n    submitted by    /u/Substantial_Map_778  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170w8xx/th%C3%A2m_m%E1%BA%AFt/",
+          "publishedOn": "2023-10-05T23:00:09.000Z",
+          "wordCount": 2572,
+          "title": "Thâm mắt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170w5mq/vietnamese_society_if_were_just_less_judgmental/",
+          "author": null,
+          "description": "If you ever look at the comments section in the Vietnamese internet space or listen to the neighborhood’ housewives gossip, you know what I’m talking about.\n Like c’mon, can we just not give a shit about how other people want to live their own life as long as they don’t harm others for a start?\n    submitted by    /u/GrapeJam-44-1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170w5mq/vietnamese_society_if_were_just_less_judgmental/",
+          "publishedOn": "2023-10-05T22:56:06.000Z",
+          "wordCount": 2624,
+          "title": "Vietnamese society if we’re just less judgmental and nosy.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170vaah/plug_type/",
+          "author": null,
+          "description": "Which plug type will be better while traveling around Vietnam? Its a USB-C outlet for my phone and watch\n    submitted by    /u/raptoranasta  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170vaah/plug_type/",
+          "publishedOn": "2023-10-05T22:21:01.000Z",
+          "wordCount": 2580,
+          "title": "Plug type",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170sij3/did_you_know_mark_wahlberg_hates_crime_so_much/",
+          "author": null,
+          "description": "submitted by    /u/burgernoisenow  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170sij3/did_you_know_mark_wahlberg_hates_crime_so_much/",
+          "publishedOn": "2023-10-05T20:32:16.000Z",
+          "wordCount": 2582,
+          "title": "Did you know Mark Wahlberg hates crime so much that he said he would've stopped 9/11 if he'd been there? If you want to know more just search \"Mark Wahlberg hates crime!\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170qqa2/driver_neededrecommendations_please/",
+          "author": null,
+          "description": "I'm going to be traveling to Vietnam for 2 weeks with a group of 6 people total. We're going to be in Ho Chi Minh City, Can Tho, Can Tao, Hue, and Hanoi. \n We're an English speaking group, looking for local drivers for each of the city for multiple days. \n There seems to be many to choose from, so we're looking for recommendations of people/company you've had great experiences with. The majority of the group are older and enjoys history, bonus if the drivers can provide some insight on local history.\n Thanks! \n    submitted by    /u/thuyhpham  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170qqa2/driver_neededrecommendations_please/",
+          "publishedOn": "2023-10-05T19:20:53.000Z",
+          "wordCount": 2643,
+          "title": "Driver needed/recommendations please",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170os7j/dont_know_what_to_do/",
+          "author": null,
+          "description": "My bf has just rented a property in D1 and the apartment is great, it's just there's really bad mold on ceiling and it's really smells after it rains heavily. Unsure if I can deal with, or I'm being paranoid. Do people live with these kind if problems in Vietnam? - am I being ridiculous to say I need to move out. Just worried it will get worse or atm is dangerous. We've just moved here aswell and planning to stay for 2 years. Any help or advice would be appreciated as I am anxious mess always so I never know if I'm over thinking...\n    submitted by    /u/Spiritual-Bimbo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170os7j/dont_know_what_to_do/",
+          "publishedOn": "2023-10-05T18:04:54.000Z",
+          "wordCount": 2670,
+          "title": "Don't know what to do :(",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170oczi/going_vn_1st_time_in_a_short_while_advice_please/",
+          "author": null,
+          "description": "So, am going soon on a tourist visa, from UK. Wondered how and if I found work, how I could go about the visa process for working while there? I have a degree, TEFL, many years of teaching experience. Just don't think I will be able to organise all the required paperwork before I leave in 4 weeks. Any advice? Thanks for reading.\n    submitted by    /u/qdr3  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170oczi/going_vn_1st_time_in_a_short_while_advice_please/",
+          "publishedOn": "2023-10-05T17:47:56.000Z",
+          "wordCount": 2622,
+          "title": "Going Vn 1st time in a short while.. advice please..",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170nu57/does_vietnam_allow_dual_citizenship_with_canada/",
+          "author": null,
+          "description": "I was born in Vietnam, lived there for 10 years. Both parents are Viet citizen only. Moved out for school, then moved to Canada. I just recently got my Canadian citizenship and passport. If I am to fly back to Vietnam, would that cause an issue? I will be flying in and out of Vietnam with my Vietnamese passport.\n    submitted by    /u/int2030  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170nu57/does_vietnam_allow_dual_citizenship_with_canada/",
+          "publishedOn": "2023-10-05T17:26:32.000Z",
+          "wordCount": 2608,
+          "title": "Does Vietnam allow dual citizenship with Canada?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170macp/can_children_be_adopted_domestically_from/",
+          "author": null,
+          "description": "Wondering about the process and any experiences adopting a child (any age) in Vietnam? Can children be adopted from an orphanage?\n I am originally from Vietnam, have lived in US for years and want to move back to VN. I've been told after 1 year of living in Vietnam I can adopt domestically, but curious to know if anyone has done this?\n    submitted by    /u/PressureCurrent2257  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170macp/can_children_be_adopted_domestically_from/",
+          "publishedOn": "2023-10-05T16:26:03.000Z",
+          "wordCount": 2619,
+          "title": "Can children be adopted domestically from orphanages in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170m4k0/is_it_normal_for_vietnamese_people_to_be/",
+          "author": null,
+          "description": "My mom told me the story of the time she first immigrated to america and had a hamburger. It was so bad that she threw up. My grandma ate american food around the same time and got so sick she was hospitalized and now can only eat white rice and meat. Did anyone else or your parents/grandparents experience this? I’m wondering if it’s less common now that american food franchises are popping up in vietnam.\n    submitted by    /u/boopthesnootnoot  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170m4k0/is_it_normal_for_vietnamese_people_to_be/",
+          "publishedOn": "2023-10-05T16:19:47.000Z",
+          "wordCount": 2635,
+          "title": "Is it normal for vietnamese people to be sensitive to american food?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170kpz9/sidewalk_land_mines_not_real/",
+          "author": null,
+          "description": "I think I can count at least 4 or 5 times (over of being randomly splashed with muddy water between the cracks of sidewalk tile squares. My guess is it’s the tiles that are sitting at an angle? \n It’s funny but also not so funny sometimes. Considering walking in the road more haha. \n Anyone else experience this? How many mines have you set off so far?\n    submitted by    /u/Anonymous-Spouse  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170kpz9/sidewalk_land_mines_not_real/",
+          "publishedOn": "2023-10-05T15:21:59.000Z",
+          "wordCount": 2619,
+          "title": "Sidewalk Land Mines (not real)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170ibx7/chinchilla_stuff_in_ho_chi_minh/",
+          "author": null,
+          "description": "Hey, I’ve been in Ho Chi Minh city for a few days and I was wondering if there is any Chinchilla related stuff to buy in the city? Shirts, pants, jackets, keycharms etc. thanks!\n    submitted by    /u/Muted-Training79  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170ibx7/chinchilla_stuff_in_ho_chi_minh/",
+          "publishedOn": "2023-10-05T13:41:45.000Z",
+          "wordCount": 2589,
+          "title": "Chinchilla stuff in Ho Chi Minh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170garu/selection_of_my_favourite_type_of_coffee_in_vn/",
+          "author": null,
+          "description": "Egg coffee. 2. Coconut coffee. 3. Avocado coffee. 4. Iced coffee. \n  \nVietnam surely has the best coffee in the world!\n    submitted by    /u/gll5dm85  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170garu/selection_of_my_favourite_type_of_coffee_in_vn/",
+          "publishedOn": "2023-10-05T12:08:23.000Z",
+          "wordCount": 2577,
+          "title": "Selection of my favourite type of coffee in Vn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170f2xs/da_nang_appreciation_post/",
+          "author": null,
+          "description": "So, I have only been here for 2 days. Call me crazy, but I feel like this is one of the nicest beach cities or beach/city that I have ever been to. I've lived in many places\n  \nSiargao Island, PH\n La Union Beach, PH\n Baler Beach, PH\n Cebu City, PH\n Bali, ID\n Jogja / Jogja Beaches, ID\n Hua Hin, TH (just 2 months)\n  \nPhilippines used to be my home until I lost my job/home/friends during COVID. It was extremely painful for me and I never found a foot in Indonesia after the borders opened up. Being here in Da Nang is the first time since 3 years ago when I lost my home/everything that I get a sense of home and comfort even though I really can't speak the language aside from a few phrases and tones are driving me crazy lol.\n It's really nice here in Da Nang. Vietnamese people are kinder than I expected (people here say a lot of negative things about VN people), the beach is much cleaner than I expected as well. I just came from the beach and feel so refreshed. I love this city after just two days. It's a wonderful setup that allows you to walk so easily north to south and hop into random coffee shops. I wish I could make this place my home. Although probably unlikely unless I move to HCM for a job but yea, this place is so great.\n The only thing that's terrifying AF is how crazy you people drive here LOL!\n    submitted by    /u/AndiGalster  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170f2xs/da_nang_appreciation_post/",
+          "publishedOn": "2023-10-05T11:04:00.000Z",
+          "wordCount": 2809,
+          "title": "Da Nang Appreciation post",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170eajl/dan_sihn_market_real_or_fake/",
+          "author": null,
+          "description": "Hello.\n I went to the Dan Sihn market today. Great experience and saw a lot of war memorabilia, but I checked online and one article claimed up to 99% of the stuff was fake and most of the authentic things were bought a long time ago. This seems like an absurd number, so perhaps people here know this better than me; how much of the stuff sold there is real? Would you buy anything there?\n Thanks in advance. Having a great time in this wonderful nation!\n    submitted by    /u/MarkyTeriyakiYouTube  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170eajl/dan_sihn_market_real_or_fake/",
+          "publishedOn": "2023-10-05T10:17:33.000Z",
+          "wordCount": 2641,
+          "title": "Dan Sihn Market - Real or Fake?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170dyxc/what_the_most_popular_underwear_brand_here/",
+          "author": null,
+          "description": "Let me know thanks\n    submitted by    /u/Diamond_On_My_Wrist  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170dyxc/what_the_most_popular_underwear_brand_here/",
+          "publishedOn": "2023-10-05T09:58:55.000Z",
+          "wordCount": 2559,
+          "title": "What the most popular underwear brand here?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170cmd9/why_is_it_so_ingrained_in_our_culture_to_respect/",
+          "author": null,
+          "description": "All my life I was taught to be polite and respectful to older people. But some older people are so rude but then if you say something back you’re hỗn láo bad guy\n  \nScenario 1: at Tan Son Nhat, in TSA line, this lady was extremely close to me. Every time I moved up, she inched up directly next to me. So I said “Cô, làm ơn đứng xa xa một chút giùm.” She stopped standing close to me and didn’t say anything but then started whispering about me to her husband saying “Con nhỏ mất dạy.” Like wtf did I do 😭 \n \nscenario 2: getting off the plane. I was removing my suitcase from the overhead compartment. You know viet aunties do that nudge thing if they need to get by or they’ll tap you and say move. Well this lady started to shove me aggressively. There was nowhere for me to move since the people in the row above me were in the aisle. The first one, two times I let it go, even the third. Then she kept doing it getting more aggressive each time. This is where I admit I was being really rude back. I turned to her and said “cái gì vậy.” She stopped shoving me and looked at me with full on rage in her eyes like this 😡. Like ma’am, you’re the one shoving me 😭 \n \n I used to always yield to older people but now I’m starting to talk back to them because they can’t demand respect without being polite to others first\n    submitted by    /u/shockedpikachu123  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170cmd9/why_is_it_so_ingrained_in_our_culture_to_respect/",
+          "publishedOn": "2023-10-05T08:30:07.000Z",
+          "wordCount": 2826,
+          "title": "Why is it so ingrained in our culture to respect elders even when they’re being rude?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170cfkv/most_delicious_800k_meal_for_vietnamese_young/",
+          "author": null,
+          "description": "What? Don’t you know how much groceries for children cost ? It costs 3 times the actual prices\n    submitted by    /u/GrapeJam-44-1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170cfkv/most_delicious_800k_meal_for_vietnamese_young/",
+          "publishedOn": "2023-10-05T08:17:02.000Z",
+          "wordCount": 2575,
+          "title": "Most delicious 800k meal for Vietnamese young athletes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/170ayc1/is_it_normal_to_gift_money_to_baby_here/",
+          "author": null,
+          "description": "In fact my baby is still in my body. My husband and I will probably meet him in December.\n Since I moved to Vietnam with my husband, many family relatives, friends of husband, co workers of parents in law have come to visit me and my unborn baby.\n They gave us many things like baby clothes, toys, nutritional food, baby care products,…. The new thing to me is that there is always an envelop of money attached in these gifts. It is often from 1 million to 5 million vnd. The old uncle of my husband even gifted me and baby 1000usd. It is quite strange to me. I feel shy when receiving easy money from people like this. Then, I behaved unnaturally when receiving the gifts from them.\n My husband family even say they may come back after baby is born.\n Why did they do that if they had already gifted us expensive tangible things?\n    submitted by    /u/Vivid_Vivia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/170ayc1/is_it_normal_to_gift_money_to_baby_here/",
+          "publishedOn": "2023-10-05T06:42:25.000Z",
+          "wordCount": 2713,
+          "title": "Is it normal to gift money to baby here?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/1703vq1/hanoi_or_hoi_an/",
           "author": null,
@@ -6697,256 +6917,6 @@
           "wordCount": 2962,
           "title": "In the long term, what prevents Vietnam from going the way of China?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16bifum/how_do_i_know_if_a_vietnamese_girl_really_likes/",
-          "author": null,
-          "description": "I’ve been close to this one vietnamese girl ( elder than me around 30’s) . I am really into her and i travelled to HCM just to see her. She works in malaysia and travel back everymonth. We are close sweet and everything but yet she just remains as friends because of her job. But I don’t get the fact that she cares differently and we argue alot when i do small mistakes. She acts like a small baby around me when we are together but texts like so boringly when on the phone. It’s my first time being with a Vietnamese girl so im still actually learning her culture. Anybody could give any advice?\n    submitted by    /u/Carthy53  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16bifum/how_do_i_know_if_a_vietnamese_girl_really_likes/",
-          "publishedOn": "2023-09-06T12:04:02.000Z",
-          "wordCount": 2723,
-          "title": "How do i know if a vietnamese girl really likes you",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16bicaz/fcking_bao_yen_buses/",
-          "author": null,
-          "description": "I hate these yellow ugly looking death trap buses of Bao Yen especially line 60A. Both drivers and bus boys have no manners. Always late (1 HOUR wait has become a norm this past 2 weeks) and drive the buses like it's a motorbike. On top of that, most have broken ACs or doors won't close completely. You can't track the buses accurately. Unfortunately VinBuses don't pass by Ciputra in Hanoi. I'd pay 20k for a premium bus experience. \n Fucking Bao Yen. \n END RANT\n    submitted by    /u/SuchALoserYeah  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16bicaz/fcking_bao_yen_buses/",
-          "publishedOn": "2023-09-06T11:59:42.000Z",
-          "wordCount": 2685,
-          "title": "F*cking Bao Yen Buses",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16beibn/facebook_error/",
-          "author": null,
-          "description": "Guys i need some help. What is facebook error. Who knows that just gimme way to fix ( cần anh em giúp sửa lỗi facebook )\n    submitted by    /u/Cautious_Region_8632  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16beibn/facebook_error/",
-          "publishedOn": "2023-09-06T08:20:02.000Z",
-          "wordCount": 2636,
-          "title": "Facebook error!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16bccxt/the_youth_outflow/",
-          "author": null,
-          "description": "Hello everyone!\n Do you think many young people are moving from Vietnam to other countries to work or study? \n Thank you for your opinion ❤️\n    submitted by    /u/Upper_Interaction_60  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16bccxt/the_youth_outflow/",
-          "publishedOn": "2023-09-06T06:09:28.000Z",
-          "wordCount": 2625,
-          "title": "The youth outflow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16bb5ag/do_you_feel_that_vietnamese_is_getting_more_and/",
-          "author": null,
-          "description": "I went to a public pool with my nephew yesterday, it was very crowded. And at the kid's pool area, I could notice that it's much harder for me to find a kid being in shape than to find a kid who's not. Almost every little kids I saw carried a big belly with them. There're so many adults who are overweights too.\n I know that one public pool with max of 100 people isn't exactly great of a sample size to draw conclusion for millions of Vietnamese. But it does raise some concern, because in my experience, Vietnamese parents don't really care much about diets, calories and nutrions. They all thought the fatter the kids, the better, and subsequently trying to feed them as much as possible. And if they aren't gaining in size and being underweigh, it's not their \"growing up times\" yet. Fast foods aren't really that popular, I think, so we can't blame it on them\n I was 173cm, 45kg for most of my childhood, throughout my earlier years, my parents and relatives has kept telling I'm not at my \"time\" yet, and kept taking me to doctors and they weirdly said the same, not \"my time\" yet. Turned out at 22 years old, I was still that skinny. It's not until I decided to eat like hell and learn nutrions did I gained 10kg in 2-3 months. They complmented me saying I'm finally \"at my time\", no I just ate like crazy.\n    submitted by    /u/Affectionate-Bit9246  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16bb5ag/do_you_feel_that_vietnamese_is_getting_more_and/",
-          "publishedOn": "2023-09-06T05:02:05.000Z",
-          "wordCount": 2855,
-          "title": "Do you feel that Vietnamese is getting more and more obese?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16bak73/tell_me_one_of_the_most_famous_if_notthings_about/",
-          "author": null,
-          "description": "Is he the true original vietnam chad 🍷🗿?\n    submitted by    /u/Low-Werewolf-2077  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16bak73/tell_me_one_of_the_most_famous_if_notthings_about/",
-          "publishedOn": "2023-09-06T04:30:42.000Z",
-          "wordCount": 2629,
-          "title": "Tell me one of the most famous if not,things about our legend here",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16b9mwt/how_is_it_that_100_of_the_time_i_go_to_relax_at_a/",
-          "author": null,
-          "description": "submitted by    /u/_Prncss_brde_sux_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16b9mwt/how_is_it_that_100_of_the_time_i_go_to_relax_at_a/",
-          "publishedOn": "2023-09-06T03:42:29.000Z",
-          "wordCount": 2618,
-          "title": "How is it that 100% of the time I go to relax at a coffee shop, someone is grinding something across the street?!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16b7cwm/i_just_had_the_worst_experience_in_tan_son_airport/",
-          "author": null,
-          "description": "I was going through the luggage scanner and I got pulled over by the lady for no reason. My luggage just had my clothes and random shampoo and body care stuff for my family. My Vietnamese is pretty good but not good enough to understand what she was trying to pull me over for. I remember my uncle saying something like if they give me a hard time just give them $20. I literally gave her $20 and she’s like no it’s $50. And to shove it discreetly in the drawer for her. I didn’t carry that much cash with me and was planning to withdraw some from the ATM. And I didn’t like how that lady was threatening me so I called my aunt. My aunt told me to ask her for the citation receipt and she said she was trying to help me but we can do it the “hard way” and I have to pay $200 wtf. My aunt wanted to speak to her and she told me to hang up and refused to talk to my aunt and told me I’m a grown adult to take care of it myself. Luckily my aunt knew someone in the airport and he spoke to them and they let me go without paying anything. I wasn’t annoyed they do shady stuff like that, I was annoyed how she spoke to me!\n Edit - I’d also like to point out that scanner lady is a complete moron because she asked for my passport and didn’t flip to the right page with all my info. She pretended to be all official demanding my documentations.\n    submitted by    /u/shockedpikachu123  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16b7cwm/i_just_had_the_worst_experience_in_tan_son_airport/",
-          "publishedOn": "2023-09-06T01:54:32.000Z",
-          "wordCount": 2880,
-          "title": "I just had the worst experience in Tan Son Airport",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16b6s6n/my_experience_with_having_mental_health_in_vietnam/",
-          "author": null,
-          "description": "In 2021-2022, I developed anxiety disorder with attacks, resulting from my undiagnosed ADHD. I knew immediately when I wanted treatment that I would never get it from any big or small general hospital. I found one that specialized in mental health and was able to get \"what I need\". Which means pills and an affirmation that I have what I suspect I have, nothing more. Still, that was better than other people's stories. One person shared that they were publicly mocked by the doctor in the mental health department of Bạch Mai for their suicidal tendency. My God, what the fk!\n Horribly, I told my parents, who were not equipped to handle this, so they reacted \"unhelpfully\".\n - They broadcasted my private situation whenever and to whoever they wanted, without me knowing. At the same time, they ke…",
-          "link": "https://www.reddit.com/r/VietNam/comments/16b6s6n/my_experience_with_having_mental_health_in_vietnam/",
-          "publishedOn": "2023-09-06T01:28:24.000Z",
-          "wordCount": 2983,
-          "title": "My experience with having mental health in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16b5hbl/vietnam_hold_a_lot_less_urge_to_other_race_than/",
-          "author": null,
-          "description": "As a Vietnamese, I notice this. And it not that long ago, just from our grandfather gerenation, France, US, Japan, China. But in our daily like we don't hold grudges or actively say hateful thing toward the nation and it people from the invaders day. Like in our daily life we still talk about them with no hate feeling and very neutral. Except for China, China still actively messing with us and have not give up. Even though, our economy is greatly effect, reply on China we aware of them.\n That my perspective as Vietnamese live our daily life. So what other nation is like, because it seems like China still hate Japan, media about Japan and protry Japan as bad where china kick their ass still very popular til today. From Japan media, it seem like Japan still effects by some contract with the US but from some Japanese movie it seem like also protray Japan have their sin. And worst of all is racist thing in America, black still hate white af and still think they are oppressed today. This remind me how different that is in Vietnam, because we also have minority. If you live in some era where you can still see some local people living among us, they look actually very different than the usual Vietnam people, some also have really dark skin and different hair, if you look in too school system there are also advance thing you can get if you are \"Dan toc thieu so\" (Wait a minutes, we too have black people). And if you take a look at history, we totally invaded them local, But we are never have racism or hear of them, Now they are one of us. We hate no one, except 36, which is by their own reputation so...\n    submitted by    /u/UOSenki  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16b5hbl/vietnam_hold_a_lot_less_urge_to_other_race_than/",
-          "publishedOn": "2023-09-06T00:31:49.000Z",
-          "wordCount": 2911,
-          "title": "Vietnam hold a lot less urge to other race than other country ?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16b43qq/buying_jewlery_as_a_tourist/",
-          "author": null,
-          "description": "Hi all, as a tourist about to visit Vietnam, I am planning on checking out the jewlery market scene. I read that tourists cannot leave the country if they have over 300g of gold without getting permission from the State Bank. I'm curious if anyone has gone through this experience with gold, or other precious metals like silver?\n    submitted by    /u/mikt23  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16b43qq/buying_jewlery_as_a_tourist/",
-          "publishedOn": "2023-09-05T23:33:53.000Z",
-          "wordCount": 2658,
-          "title": "Buying jewlery as a tourist?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16b3eyt/l%C3%A0m_cccd_cho_vi%E1%BB%87t_ki%E1%BB%81u_nh%C6%B0_th%E1%BA%BF_n%C3%A0o/",
-          "author": null,
-          "description": "Sắp tới tôi về VN chơi và tính làm CCCD luôn mà ko biết thủ tục như thế nào. Tôi có hộ chiếu nước ngoài và hộ chiếu VN (còn hạn sử dụng). Nhà ở VN đã bán lâu rồi (trên 10 năm). Tôi còn giữ sổ hộ khẩu cũ nhưng chắc bị cắt lâu rồi. Tôi vẫn còn họ hàng ở VN và sẽ ở nhà bà con. Tôi muốn hỏi muốn làm CCCD thì sẽ cần những gì?\n    submitted by    /u/minhtuanta  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16b3eyt/l%C3%A0m_cccd_cho_vi%E1%BB%87t_ki%E1%BB%81u_nh%C6%B0_th%E1%BA%BF_n%C3%A0o/",
-          "publishedOn": "2023-09-05T23:06:19.000Z",
-          "wordCount": 2683,
-          "title": "Làm CCCD cho Việt kiều như thế nào?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16b2e7e/tutorial_how_to_send_100_to_vietnam_for_only_80/",
-          "author": null,
-          "description": "I've seen several people asking about how to send money from the U.S. or Canada to Vietnam, so I thought I should put together this tutorial.\n And I can't believe that not enough folks are taking advantage of the promotion Remitly is running.\n  \nPay zero fees on your first transfer. Get $20 off your first transfer when you send $100 or more.\n  \nThe math: Send $100 from the U.S. to a Vietnamese bank account, cash pickup location, or home delivery, and it will only cost you $80. Remitly will cover the other $20. Oh, and there is no fee!\n So here we go...\n Step 1: Click here to sign up for a Remitly account (click the green \"Send Now\" button).\n Step 2: Enter your email address and password.\n https://i.imgur.com/64cNYLf.png\n Step 3: Once you created your Remitly account, select Send Money and …",
-          "link": "https://www.reddit.com/r/VietNam/comments/16b2e7e/tutorial_how_to_send_100_to_vietnam_for_only_80/",
-          "publishedOn": "2023-09-05T22:26:44.000Z",
-          "wordCount": 2948,
-          "title": "[Tutorial] How to Send $100 to Vietnam for Only $80!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16b27mq/medical_residency_in_vietnam_after_graduating/",
-          "author": null,
-          "description": "Hi everyone, I have been reading a lot about doing medical residency abroad specifically in Vietnam, but my questions are still unanswered. I am currently in a medical student in the U.S. Im Vietnamese-American, U.S. citizenship. I speak fluent English and Vietnamese. For a variety of reasons both family and personal aspirations, I am looking to do my medical residency in Vietnam after completing medical school in the U.S. After this I plan on going to Vietnam to do my residency.\n I know this is an odd route, going against the tide of people trying to into U.S. residency. \n I just have a couple of questions \n Are there institutions that accept foreign medical students for residency? \n How much is the tuition? \n Are residents paid if so around how much? \n What is the typical length of resid…",
-          "link": "https://www.reddit.com/r/VietNam/comments/16b27mq/medical_residency_in_vietnam_after_graduating/",
-          "publishedOn": "2023-09-05T22:20:03.000Z",
-          "wordCount": 3009,
-          "title": "Medical Residency in Vietnam After Graduating from U.S. medical school",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16b2719/travelling_to_vietnam_for_work_from_the_uk/",
-          "author": null,
-          "description": "Can anyone advise me what jobs they can provide in Vietnam as someone coming from the u.k I have experience in teaching but no qualifications within that field, if im correct there are orphanages i could work at? Im open to any other suggestions. \n ​\n Thanks. \n    submitted by    /u/Lazy-Job-9247  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16b2719/travelling_to_vietnam_for_work_from_the_uk/",
-          "publishedOn": "2023-09-05T22:19:26.000Z",
-          "wordCount": 2648,
-          "title": "Travelling to Vietnam for work from the U.K",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16azdc7/how_much_money_on_average_would_i_need_for_a/",
-          "author": null,
-          "description": "submitted by    /u/Billbillyboi  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16azdc7/how_much_money_on_average_would_i_need_for_a/",
-          "publishedOn": "2023-09-05T20:37:00.000Z",
-          "wordCount": 2606,
-          "title": "How much money on average would I need for a month travelling vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16aypxo/scary_silence_cheerful_darkness_sans_chaos_hcmc/",
-          "author": null,
-          "description": "​\n Scary silence. Cheerful Darkness. Sans Chaos ..... HCMC, Vietnam\n Even the most chaotic corner of the city , where I'm holed up in my my current Chaos Haven, slowly slips into scary silence , as the hour hand moves farther and farther from 12. \n Standing on the balcony I feel what Edvard Munch may have, before The Scream. Scary Silence . Cheerful Darkness\n ​\n The Scream: 1893 : Edvard Munch\n    submitted by    /u/tashu_gudokin  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16aypxo/scary_silence_cheerful_darkness_sans_chaos_hcmc/",
-          "publishedOn": "2023-09-05T20:12:48.000Z",
-          "wordCount": 2673,
-          "title": "Scary silence. Cheerful Darkness. Sans Chaos ..... HCMC, Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16axxag/beach_for_swimming_during_december_and_easy_to/",
-          "author": null,
-          "description": "Hi \n Me and my 10 year old son are planning to travel to Vietnam for Christmas holiday. We plan to fly to Hanoi (4 days) . Then we have 10 more days. We were planning to visit Ha long and stay there on rest of the days but I realised december is chilly. Then I accept to pay for another flight to Ho chi Min city to be closer to the beaches but I read here about Vung Tau, water is brownish and full of garbage. \n I checked some list of beaches but some beaches can be more suitable for surfers. I want to avoid them. There is never a clear info which beach is suitable for which purpose\n Do you have any idea where can we go for swimming for a week from Hanoi or Ho Chi Min city easily?\n Thanks in advance\n    submitted by    /u/InevitableSoil4330  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16axxag/beach_for_swimming_during_december_and_easy_to/",
-          "publishedOn": "2023-09-05T19:43:10.000Z",
-          "wordCount": 2748,
-          "title": "Beach for swimming during december and easy to access",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16awysj/looking_for_a_freelance_photo_videographer_in/",
-          "author": null,
-          "description": "submitted by    /u/pantofa  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16awysj/looking_for_a_freelance_photo_videographer_in/",
-          "publishedOn": "2023-09-05T19:06:56.000Z",
-          "wordCount": 2727,
-          "title": "Looking for a freelance photo & videographer in Hanoi in October",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16awgzb/moving_to_vietnam/",
-          "author": null,
-          "description": "Hello guys,\n I am from central EU and I am looking for a new place to live in for few years.\n Is it hard to get visa in Vietnam, is Vietnam safe to live in, what is the average cost of living in medium populated city?\n    submitted by    /u/Revolutionary-End840  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16awgzb/moving_to_vietnam/",
-          "publishedOn": "2023-09-05T18:47:48.000Z",
-          "wordCount": 2644,
-          "title": "Moving to Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16avjyt/advice/",
-          "author": null,
-          "description": "Has anyone ever told their parents you don't want kids and how was their reaction? For context Im a 22M, both my parents are very old school and conservative. I know I still got sometimes until this convo comes up but still wanna see if anyone has been thru this situations\n    submitted by    /u/Potential_Grocery787  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16avjyt/advice/",
-          "publishedOn": "2023-09-05T18:11:51.000Z",
-          "wordCount": 2647,
-          "title": "Advice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16auijg/booked_a_ha_long_cruise_am_i_about_to_get_scammed/",
-          "author": null,
-          "description": "Just after I booked via Booking.com (flexible rate, which I guaranteed with my credit card details) I got a message via Booking and received the following information, among others:\n PAYMENT TERMS: Since reservations via Booking.com are not yet PAID, so the payment must be PAID in Full in ADVANCE before the travel date. Basing on real past customers' experience and due to the busy and tight schedule and limitation of internet / 3gb connection in Halong bay to guarantee a smoothly trip we require the customer to make the payment completely in advance to avoid these common issues/ problems which will affect seriously your precious time with us such as: Unsuccessful payment due to the internet connection. Being stressful and confused about the payment method after the trip. Problem with customer own credit card (Invalid card, insufficient funds) Since credit card charging is no longer our payment method, we will send you the Invoice via Secured Online Payment Link: Just complete your payment by using VISA/ MASTER and JVC card (2.8 % bank charges)\n And, after asking something:\n “The card info that you provide on booking is just to ensure booking, It doesn't charge any amount. Guests will pay via a Government secured link, and we guarantee that you just pay One time for the trip, Never Double charge Do you have whatsapp to contact you better?“\n Is this common practice of handling a payment and I am too sceptical? It sounds a bit suspicious to me and I have booked a few other hotels for this trip but have not received such a payment method / request.\n Appreciate your help!!\n    submitted by    /u/Kartoffelbaum13  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16auijg/booked_a_ha_long_cruise_am_i_about_to_get_scammed/",
-          "publishedOn": "2023-09-05T17:32:14.000Z",
-          "wordCount": 2883,
-          "title": "Booked a Ha Long Cruise: Am I about to get scammed or is this a common practice?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16arq7y/sending_money_out_of_vietnam_to_canada_is_it_hard/",
-          "author": null,
-          "description": "My friends (two siblings) living in Canada (Ontario) originally from Vietnam. They’re saying that their father is having difficulty sending money to them. Is it difficult to send money? Is there a limit? Restrictions?\n    submitted by    /u/AdministrationOwn212  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16arq7y/sending_money_out_of_vietnam_to_canada_is_it_hard/",
-          "publishedOn": "2023-09-05T15:45:41.000Z",
-          "wordCount": 2639,
-          "title": "Sending money out of Vietnam to Canada. Is it hard?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16aqe95/eps_48_qu%E1%BA%A3ng_tr%E1%BB%8B/",
-          "author": null,
-          "description": "submitted by    /u/Baosia  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16aqe95/eps_48_qu%E1%BA%A3ng_tr%E1%BB%8B/",
-          "publishedOn": "2023-09-05T14:53:48.000Z",
-          "wordCount": 2608,
-          "title": "Eps 48: Quảng Trị",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16apxd2/please_recommend_some_good_vpop_songs_that_are/",
-          "author": null,
-          "description": "submitted by    /u/reddit_API_is_shit  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16apxd2/please_recommend_some_good_vpop_songs_that_are/",
-          "publishedOn": "2023-09-05T14:34:36.000Z",
-          "wordCount": 2606,
-          "title": "Please recommend some good Vpop songs that are catchy/ chill/ relaxing, thank you",
-          "imageUrl": null
         }
       ]
     },
@@ -6955,6 +6925,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers/",
+          "author": "Casmir Onyekani",
+          "description": "Imagine putting in a ton of work to build a web application. And then it works in the Chrome browser, but misbehaves in Mozilla, Safari, or any other browser. As a web developer, you're likely eager to create amazing web applications that reach users across the globe. But one major",
+          "link": "https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers/",
+          "publishedOn": "2023-10-05T23:40:10.000Z",
+          "wordCount": 3160,
+          "title": "Cross-Browser Compatibility Testing – Best Practices for Web Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/cross-browser-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/",
+          "author": "Tomer Ben Rachel",
+          "description": "Getting a user’s location can be a bit of hassle. Over the years, the permissions required to do this and the logic associated with it have changed quite drastically.  If your application depends on getting the user’s location, you want to ensure that the user has a good experience",
+          "link": "https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/",
+          "publishedOn": "2023-10-05T19:28:42.000Z",
+          "wordCount": 2480,
+          "title": "How to Request Location Permissions in Jetpack Compose",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/andrew-stutesman-l68Z6eF2peA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/",
+          "author": "Beau Carnes",
+          "description": "When learning how to build a web app it can be helpful to see how everything works together, instead of learning a lot of technologies individually. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build and deploy a full-stack e-commerce website with",
+          "link": "https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/",
+          "publishedOn": "2023-10-05T15:36:56.000Z",
+          "wordCount": 938,
+          "title": "Build and Deploy an Ecommerce Site with Next.js, Tailwind CSS, Prisma, Vercel, and daisyUI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/NEXTECOMMERCE.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-arduino-handbook/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Arduino is an open-source platform that combines hardware and software in designing and building electronic projects. Arduino can be applied in a variety of projects like:  * Home automation.  * Internet of Things (IoT).  * Audio and music.  * Automated and remote controlled systems.  *",
+          "link": "https://www.freecodecamp.org/news/the-arduino-handbook/",
+          "publishedOn": "2023-10-05T13:15:02.000Z",
+          "wordCount": 14249,
+          "title": "The Arduino Handbook – Learn Microcontrollers for Embedded Systems",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/The-Arduino-Handbook-Cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/html-lists-with-examples/",
           "author": "Joan Ayebola",
@@ -7764,106 +7774,6 @@
           "wordCount": 882,
           "title": "HTML, CSS, and JavaScript Project in Spanish – Create a Pokédex",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Thumbnail-Pokedex.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/full-stack-web-development-by-building-a-google-drive-clone-nextjs-firebase/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to take your web development skills to the next level and learn a bit about how platforms like Google Drive work under the hood?  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a Google Drive clone with",
-          "link": "https://www.freecodecamp.org/news/full-stack-web-development-by-building-a-google-drive-clone-nextjs-firebase/",
-          "publishedOn": "2023-09-06T12:38:00.000Z",
-          "wordCount": 1001,
-          "title": "Full Stack Web Dev with Next.js & Firebase – Google Drive Clone",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/drivenext.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/tdd-in-android-apps/",
-          "author": "Siamak Mahmoudi",
-          "description": "TDD, or Test-Driven Development, is a software development approach where tests are written before the actual code is implemented.  It requires a clear understanding of \"What\" and \"How\" in the the requirements of the project/feature.  TDD helps to write less, but enough code. It helps prevent common software",
-          "link": "https://www.freecodecamp.org/news/tdd-in-android-apps/",
-          "publishedOn": "2023-09-06T06:34:34.000Z",
-          "wordCount": 5109,
-          "title": "Test Driven Development in Android Apps – A Practical Guide to TDD",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/TDD--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-manage-users-in-linux/",
-          "author": "Destiny Erhabor",
-          "description": "Linux is an open-source operating system that is widely used in various applications due to its flexibility, stability, and security. One of the fundamental aspects of Linux is user management, which enables administrators to control access to resources and maintain security of the system. In the fast-paced world of technology,",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-users-in-linux/",
-          "publishedOn": "2023-09-06T00:08:04.000Z",
-          "wordCount": 3154,
-          "title": "How to Manage Users in Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/gabriel-heinzer-xbEVM6oJ1Fs-unsplash-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/accessibilty-websites-for-developers/",
-          "author": "Ilknur Eren",
-          "description": "Accessibility is never a \"nice-to-have\" requirement when it comes to developing websites and apps. It's a \"must-have\" that should be an integral part of your design and development process.  Ensuring good accessibility is a fundamental responsibility for developers. It can help their applications provide an equitable experience for all",
-          "link": "https://www.freecodecamp.org/news/accessibilty-websites-for-developers/",
-          "publishedOn": "2023-09-05T22:49:13.000Z",
-          "wordCount": 1515,
-          "title": "Accessibility Resources for Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/a11y.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-react-components/",
-          "author": "Casmir Onyekani",
-          "description": "If you're curious about web development, you've probably heard the buzz about React. React is an open-source JavaScript library used for building user interfaces (UIs) in web applications. It has taken the web development world by storm. One of the key concepts in React is components. In this tutorial, we'll",
-          "link": "https://www.freecodecamp.org/news/how-to-use-react-components/",
-          "publishedOn": "2023-09-05T22:21:24.000Z",
-          "wordCount": 2108,
-          "title": "How to Use React Components – Props, Default Props, and PropTypes Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/React-compo-2-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-ai-generated-code/",
-          "author": "Sonya Moisset",
-          "description": "At the heart of software development lies code. It's a set of sequential instructions that allow computers to run programs and applications.  The act of writing code has always rested squarely upon the shoulders of skilled programmers. It's been a distinctly human endeavor.  But the this process is",
-          "link": "https://www.freecodecamp.org/news/how-to-use-ai-generated-code/",
-          "publishedOn": "2023-09-05T20:46:49.000Z",
-          "wordCount": 4730,
-          "title": "How to Use AI-Generated Code in a Safe and Effective Way",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/programmer-cyberpunk-580033800-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/",
-          "author": "Beau Carnes",
-          "description": "Large Language Models like ChatGPT can be used to increase your productivity on a ton of different types of tasks. To use LLMs effectively, it is important to understand prompt engineering strategies.  We just published a crash course on the freeCodeCamp.org YouTube channel that will teach you how to",
-          "link": "https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/",
-          "publishedOn": "2023-09-05T17:23:37.000Z",
-          "wordCount": 780,
-          "title": "Learn Prompt Engineering – Full Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/prompt_engineering_course.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-animated-bubbles-with-html5-canvas-and-javascript/",
-          "author": "Shruti Kapoor",
-          "description": "Hello everyone! Welcome to this tutorial where we're going to dive into the world of creating fun bubbles in code using HTML canvas and JavaScript. The best part? We'll achieve all of this using just a touch of HTML and all JavaScript, no CSS. What we will learn In",
-          "link": "https://www.freecodecamp.org/news/how-to-create-animated-bubbles-with-html5-canvas-and-javascript/",
-          "publishedOn": "2023-09-05T14:08:02.000Z",
-          "wordCount": 2116,
-          "title": "How to Create Animated Bubbles with HTML5 Canvas and JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/shrutikapoor.dev--11-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/a-beginners-guide-to-sql/",
-          "author": "Lane Wagner",
-          "description": "SQL is everywhere these days. Whether you're learning backend development [https://www.boot.dev/], data engineering, DevOps, or data science, SQL is a skill you'll want in your toolbelt. This a free and open text-based handbook. If you want to get started, just scroll down and start reading. That said, there are two",
-          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-sql/",
-          "publishedOn": "2023-09-05T13:57:37.000Z",
-          "wordCount": 10247,
-          "title": "The SQL Handbook – A Free Course for Web Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/The-SQL-Handbook-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/databricks-sql-handbook/",
-          "author": "Atharva Shah",
-          "description": "Welcome to the Databricks Delta Lake with SQL Handbook! Databricks is a unified analytics platform that brings together data engineering, data science, and business analytics into a collaborative workspace.  Delta Lake, a powerful storage layer built on top of Databricks, provides enhanced reliability, performance, and data quality for big",
-          "link": "https://www.freecodecamp.org/news/databricks-sql-handbook/",
-          "publishedOn": "2023-09-05T13:57:32.000Z",
-          "wordCount": 7301,
-          "title": "How to Use Databricks Delta Lake with SQL – Full Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Databricks-Delta-Lake-with-SQL-Handbook-Cover.png"
         }
       ]
     }
