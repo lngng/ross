@@ -12,6 +12,16 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266661DD6B4.WindAdvisory.126666491630CA.LOXNPWLOX.0e4291e8f9a3731c45cf80ff729930a8",
+          "author": null,
+          "description": "...WIND ADVISORY IN EFFECT FROM 4 PM TUESDAY TO 8 PM PDT WEDNESDAY... * WHAT...West winds 20 to 30 mph with gusts up to 45 mph expected. * WHERE...Western Antelope Valley Foothills, Eastern Antelope Valley Foothills and Antelope Valley.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266661DD6B4.WindAdvisory.126666491630CA.LOXNPWLOX.0e4291e8f9a3731c45cf80ff729930a8",
+          "publishedOn": "2023-10-09T19:57:00.000Z",
+          "wordCount": 177,
+          "title": "Wind Advisory issued October 09 at 12:57PM PDT until October 11 at 8:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126665FF1F08.HeatAdvisory.1266660BE620CA.LOXNPWLOX.9e51080f472d8aba98f47068786cf3b7",
           "author": null,
           "description": "...HEAT ADVISORY REMAINS IN EFFECT UNTIL 7 PM PDT THIS EVENING... * WHAT...High temperatures in the upper 80s closer to the coast to around 100 inland. * WHERE...Santa Clarita Valley, Western Santa Monica Mountains Recreational Area, Eastern Santa Monica Mountains Recreational Area, Calabasas and Agoura Hills, Western San Fernando Valley,",
@@ -120,16 +130,6 @@
           "wordCount": 257,
           "title": "Beach Hazards Statement issued September 10 at 1:28PM PDT until September 11 at 5:00AM PDT by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666027CB84.HighSurfAdvisory.12666052C000CA.LOXCFWLOX.011f1461d21099534d196fbe3187ab04",
-          "author": null,
-          "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 5 PM PDT MONDAY... * WHAT...Large breaking waves of 5 to 8 feet with dangerous rip currents. * WHERE...Catalina and Santa Barbara Islands, Ventura County Beaches, Malibu Coast, Los Angeles County Beaches, San Miguel and Santa Rosa Islands and Santa Cruz and Anacapa Islands.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666027CB84.HighSurfAdvisory.12666052C000CA.LOXCFWLOX.011f1461d21099534d196fbe3187ab04",
-          "publishedOn": "2023-09-09T18:49:00.000Z",
-          "wordCount": 320,
-          "title": "High Surf Advisory issued September 09 at 11:49AM PDT until September 11 at 5:00PM PDT by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -138,6 +138,226 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1747kpx/im_recreating_part_of_1968_saigon_for_a_level_in/",
+          "author": null,
+          "description": "submitted by    /u/Bad-news-co  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1747kpx/im_recreating_part_of_1968_saigon_for_a_level_in/",
+          "publishedOn": "2023-10-10T00:21:36.000Z",
+          "wordCount": 2562,
+          "title": "I’m recreating part of 1968 Saigon for a level in a game in making 🫨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1746t5y/wife_cant_sleep_we_ran_out_of_phenergan/",
+          "author": null,
+          "description": "Wife likes Phenergan as it's the most effective for her, but it's hard to find it here or something similar for sleep. Were not asking for any crazy drugs, just what's the next best thing at the pharmacy or is there a pharmacy that sells it?\n    submitted by    /u/fourNtwentyz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1746t5y/wife_cant_sleep_we_ran_out_of_phenergan/",
+          "publishedOn": "2023-10-09T23:47:09.000Z",
+          "wordCount": 2618,
+          "title": "Wife can't sleep, we ran out of Phenergan (promethazine hydrochloride), we can't seem to get that here. What are other options similar for sleep?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1745jqk/my_mother_in_law_birthday_is_a_week_away_what_are/",
+          "author": null,
+          "description": "Any open idea and suggestion would be awesome thanks\n    submitted by    /u/Livid_Doughnut_7235  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1745jqk/my_mother_in_law_birthday_is_a_week_away_what_are/",
+          "publishedOn": "2023-10-09T22:52:04.000Z",
+          "wordCount": 2581,
+          "title": "My mother in law birthday is a week away, what are some idea I should get here, I'm in America while she's in vn.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17456pd/spot_to_watch_nba_games/",
+          "author": null,
+          "description": "Hi everyone!\n Curious if any NBA fan out there knows a good spot/sports bar to catch some games? I'll be in Saigon for a few weeks in Feb/Mar next year. Most games should be around 7/8am in Vietnam so I'm afraid that's too early for a lot of these places. TYIA\n    submitted by    /u/envyu27  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17456pd/spot_to_watch_nba_games/",
+          "publishedOn": "2023-10-09T22:36:16.000Z",
+          "wordCount": 2604,
+          "title": "Spot to watch NBA games",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1743i7d/is_there_a_minimum_amount_for_money_that_you_can/",
+          "author": null,
+          "description": "I'll be carrying usd, I don't want to exchange much at the airport I just need some for the bus to the city tbh. \n Also should I carry large bills for the exchange?\n    submitted by    /u/deadinside88888888  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1743i7d/is_there_a_minimum_amount_for_money_that_you_can/",
+          "publishedOn": "2023-10-09T21:25:43.000Z",
+          "wordCount": 2595,
+          "title": "Is there a minimum amount for money that you can exchange at the airport?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1743f2v/pillion_rider_or_easy_rider_hai_van_pass/",
+          "author": null,
+          "description": "Hello,\n Do you know of any service who would offer a tour as pillion rider/easy rider to do the Hai Van Pass as a round trip starting from da nang to hue and back. \n Is it possible to do such route in 1 day? \n    submitted by    /u/sujlic27  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1743f2v/pillion_rider_or_easy_rider_hai_van_pass/",
+          "publishedOn": "2023-10-09T21:22:15.000Z",
+          "wordCount": 2599,
+          "title": "pillion rider or easy rider hai van pass",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1741sk1/ha_giang_loop_safety_question/",
+          "author": null,
+          "description": "Hi all,\n I will be going on the Ha Giang Loop in December! Although I have not planned which agency or hostel I will be doing it with, I will definitely do it when I visit Vietnam in December!\n My question is, as amazing as it looks. There is one death road which does get me quite nervous. Its usually on day 2/3 which is just a narrow road with no gate and your basically at a cliff edge.\n My question is, are there any hostels which allow you to walk up this specific route? It's only a couple hundred meters but instead of being on a easy rider I would rather have much peace of mind walking up the route.\n Please let me know and any recommendations you may have! Thanks!\n    submitted by    /u/ShivHasArrived  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1741sk1/ha_giang_loop_safety_question/",
+          "publishedOn": "2023-10-09T20:15:48.000Z",
+          "wordCount": 2685,
+          "title": "Ha Giang Loop Safety Question?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1741a35/expat_man_upset_that_he_has_to_pay_the_equivalent/",
+          "author": null,
+          "description": "submitted by    /u/AnLe90  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1741a35/expat_man_upset_that_he_has_to_pay_the_equivalent/",
+          "publishedOn": "2023-10-09T19:55:06.000Z",
+          "wordCount": 2583,
+          "title": "Expat man upset that he has to pay the equivalent of $1 for parking, proceeds to say a bunch of vile things to a Vietnamese parking attendant. \"...I hope your family got shot in the Vietnam War...\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/173y2mm/vietnam_tried_to_hack_us_officials_cnn_with_posts/",
+          "author": null,
+          "description": "submitted by    /u/abc_abc_abc-  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/173y2mm/vietnam_tried_to_hack_us_officials_cnn_with_posts/",
+          "publishedOn": "2023-10-09T17:46:49.000Z",
+          "wordCount": 2572,
+          "title": "Vietnam tried to hack U.S. officials, CNN with posts on X, probe finds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/173woeg/does_a_landlord_have_to_treat_mold/",
+          "author": null,
+          "description": "Is a landlord in Vietnam obligated to take care of a mold problem? That shit is a health hazard right?\n    submitted by    /u/AkbarTheRed  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/173woeg/does_a_landlord_have_to_treat_mold/",
+          "publishedOn": "2023-10-09T16:50:40.000Z",
+          "wordCount": 2576,
+          "title": "Does a landlord have to treat mold?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/173u7mx/having_a_vietnamese_family_over_for_dinner/",
+          "author": null,
+          "description": "So I have been extremely lucky to become friends with a Vietnamese guy I work with. He has my wife and I over for food and karaoke multiple times a year with his whole family. We want to return the favor and have them over our house for dinner. I’m looking for suggestions on what American dishes I should make and which dishes I should stay away from? I’ve thought about trying my hand at some Vietnamese dishes but don’t want to insult them by possibly not making them right or whatever. I was thinking possibly going seafood route? Maybe some kind of seafood boil? Grilled fish? Maybe a pasta with clams? Or possibly smoking some beef ribs? I appreciate any input and suggestions. Thanks.\n    submitted by    /u/Cologio  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/173u7mx/having_a_vietnamese_family_over_for_dinner/",
+          "publishedOn": "2023-10-09T15:09:51.000Z",
+          "wordCount": 2674,
+          "title": "Having a Vietnamese family over for dinner",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/173tnzh/hello_everyone_i_found_this_photography_of_my/",
+          "author": null,
+          "description": "submitted by    /u/_Darsit_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/173tnzh/hello_everyone_i_found_this_photography_of_my/",
+          "publishedOn": "2023-10-09T14:47:39.000Z",
+          "wordCount": 2587,
+          "title": "Hello everyone. I found this photography of my grandma while she was still living in Viêt Nam. Can anyone identify where it could be ? It's maybe at Hanoï (1954)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/173s6g1/is_zika_still_a_thing_in_vietnam/",
+          "author": null,
+          "description": "Im traveling to Vietnam next month with my pregnant wife and daughter of 1 y.o. We'll be staying in Saigon for 9 days and Phu Quoc for 3 days. Today we got our travel consult and vaccinations for our trip and the doctor said that they do not recommend traveling there in first trimester of her pregnancy, mainly because of the risks regarding the Zika virus. Does anyone know if Zika is still active in Vietnam and if so how many cases are there? And how worried/careful should we be? \n Thanks in advance!\n    submitted by    /u/TakoyakiX  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/173s6g1/is_zika_still_a_thing_in_vietnam/",
+          "publishedOn": "2023-10-09T13:44:47.000Z",
+          "wordCount": 2648,
+          "title": "Is Zika still a thing in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/173qqmh/what_do_vietnamese_young_people_think_about/",
+          "author": null,
+          "description": "So this is something I’ve wanted to ask for a while. I am from Nepal but grew up in the US. Nepal had a lesser known People’s Revolution in 90s and 2010s. Currently I believe there are 3 major parties; “Maobadi” (far left, militant), Communist Party of Nepal (left), and Congress (center left). However I think a lot of younger Nepali people are starting to lose faith in leftist ideology. I am 24 now, and I feel like more and more I am shifting more towards the left politically, socially, and morally. But since you’ve guys had one of the largest revolutionary movements in history. What do YOU guys feel about it, is what I want to know. To be honest I don’t even know much about the politics of Vietnam and it’s society. So any input is valuable. Hope the mods allow this post.\n    submitted by    /u/SonGoku_USA  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/173qqmh/what_do_vietnamese_young_people_think_about/",
+          "publishedOn": "2023-10-09T12:37:15.000Z",
+          "wordCount": 2701,
+          "title": "What do Vietnamese young people think about Communism?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/173ngyj/average_motorcycle_in_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/Intelligent_Ask_9200  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/173ngyj/average_motorcycle_in_vietnam/",
+          "publishedOn": "2023-10-09T09:20:29.000Z",
+          "wordCount": 2562,
+          "title": "Average motorcycle in VietNam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/173kspz/man_upset_that_he_has_to_pay_the_equivalent_of_1/",
+          "author": null,
+          "description": "submitted by    /u/AlwaysBlue86  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/173kspz/man_upset_that_he_has_to_pay_the_equivalent_of_1/",
+          "publishedOn": "2023-10-09T06:16:43.000Z",
+          "wordCount": 2600,
+          "title": "\"Man upset that he has to pay the equivalent of $1 for parking, proceeds to say a bunch of vile things to a Vietnamese parking attendant.\" His youtube channel, vlogging a dead horse, shows he's still in VN, likely Ninh Binh.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/173k0gi/7500_for_lawyer_fees_am_i_getting_ripped_off/",
+          "author": null,
+          "description": "Hi. Viet Kieu looking to get a Vietnamese citizenship, lawyer quoted $7500 USD for doing the paperwork. Is that a rip offf? Does anyone know of any other lawyers in Saigon that can do it for cheaper? Asking for a friend.\n I have heard of other Viet Kieus paying agency to get their citizenship (passport, then CMND) ranging from $300 to $3000 USD.\n Edit: Some people are saying it's EASIER to do it while in Canada but why is it? Seems counter-intuitive, wouldn't it take longer because they want to see physical papers and that has to be sent from across the pond or no? \n    submitted by    /u/Odd_Introduction9656  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/173k0gi/7500_for_lawyer_fees_am_i_getting_ripped_off/",
+          "publishedOn": "2023-10-09T05:26:43.000Z",
+          "wordCount": 2656,
+          "title": "$7500 for lawyer fees, am I getting ripped off?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/173jw5o/vietnamese_adding_rocket_instead_of_t%C3%AAn_l%E1%BB%ADa/",
+          "author": null,
+          "description": "I was watching the news, Vietnamese news. They calling rốckết instead of “Tên lửa” and it’s really annoying me like all of them calling the same thing. Can you guys explains to me why are they calling like that?\n    submitted by    /u/Fortune-Former  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/173jw5o/vietnamese_adding_rocket_instead_of_t%C3%AAn_l%E1%BB%ADa/",
+          "publishedOn": "2023-10-09T05:19:06.000Z",
+          "wordCount": 2594,
+          "title": "Vietnamese adding “Rocket” instead of Tên lửa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/173i4tj/redgold/",
+          "author": null,
+          "description": "submitted by    /u/Miserable_Diet_4453  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/173i4tj/redgold/",
+          "publishedOn": "2023-10-09T03:34:02.000Z",
+          "wordCount": 2558,
+          "title": "RedGold ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/173i08h/if_the_consequences_for_not_following_food_safety/",
+          "author": null,
+          "description": "So for the context, there are too many cases involving food safety and the last case of food poisoning sent more than a hundred people into hospital. I remember the case of pate Minh Chay that caused death was also overlooked and they only fined $755. Why so many cases of food poisoning and they keep doing it? If this is not addressed probably, food poisoning will continue to rise even worse like the Banh Mi Phuong case. What do you think about this? \n https://tuoitrenews.vn/news/society/20230915/victims-of-banh-mi-food-poisoning-in-hoi-an-rise-to-141/75592.html\n https://vietnaminsider.vn/vi/minh-chay-vegan-pate-fined-755-after-causing-14-food-poisioning-cases/\n https://vietnaminsider.vn/vi/hoi-an-banh-mi-phuong-was-fined-110-million-vnd-and-suspended-operations-for-3-5-months/\n    submitted by    /u/sophiereadingabook  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/173i08h/if_the_consequences_for_not_following_food_safety/",
+          "publishedOn": "2023-10-09T03:27:18.000Z",
+          "wordCount": 2661,
+          "title": "If the consequences for not following food safety rules are light, many stores and restaurants that don't follow proper food safety will continue to do so.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/173hraq/what_is_this_dish_called_ate_in_hoi_an/",
+          "author": null,
+          "description": "I had this in Hoi An and it was very simple but one of my favorite meals I had in Vietnam. Trying to find the name so I can look up a recipe.\n    submitted by    /u/livefree27  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/173hraq/what_is_this_dish_called_ate_in_hoi_an/",
+          "publishedOn": "2023-10-09T03:13:36.000Z",
+          "wordCount": 2601,
+          "title": "What is this dish called? Ate in Hoi An.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/173ff2q/whats_the_purpose_of_these_signs/",
+          "author": null,
+          "description": "My first day in Vietnam I saw these signs. Who publishes them and what’s the purpose?\n    submitted by    /u/RabbitContrarian  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/173ff2q/whats_the_purpose_of_these_signs/",
+          "publishedOn": "2023-10-09T01:15:37.000Z",
+          "wordCount": 2570,
+          "title": "What’s the purpose of these signs?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/173dxyu/vietnams_cursed_images_108/",
           "author": null,
@@ -6677,206 +6897,6 @@
           "wordCount": 2645,
           "title": "Vietnam and USA enters into a Comprehensive Strategic Partnership, which is same level as Russia, China, India, South Korea.",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16ey9fg/ah_yes_this_is_indeed_the_newest_picture_from_the/",
-          "author": null,
-          "description": "submitted by    /u/anhkhoaO410  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16ey9fg/ah_yes_this_is_indeed_the_newest_picture_from_the/",
-          "publishedOn": "2023-09-10T11:46:54.000Z",
-          "wordCount": 2641,
-          "title": "Ah yes, this is indeed the newest picture from the Republic Of Chad. Good job Viet Journalists!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16ev8w9/to_what_extent_can_you_criticise_the_government/",
-          "author": null,
-          "description": "submitted by    /u/Liberty-Prime-Reddit  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16ev8w9/to_what_extent_can_you_criticise_the_government/",
-          "publishedOn": "2023-09-10T08:48:55.000Z",
-          "wordCount": 2627,
-          "title": "To what extent can you criticise the government in Vietnam without getting into trouble?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16etubo/coffee_table_thats_a_bed/",
-          "author": null,
-          "description": "Saw this and instantly recalled the shocking moment when I discovered I’d be sleeping on a concrete bed when I was in Vietnam hahah\n    submitted by    /u/mthtchr  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16etubo/coffee_table_thats_a_bed/",
-          "publishedOn": "2023-09-10T07:23:56.000Z",
-          "wordCount": 2655,
-          "title": "Coffee Table? That’s a bed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16equ3n/how_do_the_workers_actually_own_the_means_of/",
-          "author": null,
-          "description": "submitted by    /u/Liberty-Prime-Reddit  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16equ3n/how_do_the_workers_actually_own_the_means_of/",
-          "publishedOn": "2023-09-10T04:36:48.000Z",
-          "wordCount": 2626,
-          "title": "How do the workers actually own the means of production in Socialist Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16eqgd4/do_kids_have_to_learn_5_%C4%91i%E1%BB%81u_b%C3%A1c_h%E1%BB%93_d%E1%BA%A1y_in_school/",
-          "author": null,
-          "description": "submitted by    /u/kirsion  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16eqgd4/do_kids_have_to_learn_5_%C4%91i%E1%BB%81u_b%C3%A1c_h%E1%BB%93_d%E1%BA%A1y_in_school/",
-          "publishedOn": "2023-09-10T04:16:44.000Z",
-          "wordCount": 2636,
-          "title": "Do kids have to learn 5 điều Bác Hồ dạy in school?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16eq6xx/guess_what_is_wrong_with_this_map/",
-          "author": null,
-          "description": "Source: \"Cánh Diều\" Geography Textbook grade 11 page 6\n    submitted by    /u/MakeALiving1403  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16eq6xx/guess_what_is_wrong_with_this_map/",
-          "publishedOn": "2023-09-10T04:02:57.000Z",
-          "wordCount": 2587,
-          "title": "Guess what is wrong with this map",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16epou1/what_fruit_is_this/",
-          "author": null,
-          "description": "What is this? It’s all over the ground this time of year here in Da Nang, Vietnam 🇻🇳\n    submitted by    /u/fcgetsit  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16epou1/what_fruit_is_this/",
-          "publishedOn": "2023-09-10T03:37:02.000Z",
-          "wordCount": 2593,
-          "title": "What fruit is this?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16em3cc/need_help_finding_this_vietnamese_song/",
-          "author": null,
-          "description": "I tried recreating the melody to the best of my ability\n Song 1\n Thx for taking the time!\n ​\n    submitted by    /u/LumpySatisfaction615  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16em3cc/need_help_finding_this_vietnamese_song/",
-          "publishedOn": "2023-09-10T00:44:19.000Z",
-          "wordCount": 2639,
-          "title": "need help finding this Vietnamese song",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16elk0n/pet_vaccinationsrabies/",
-          "author": null,
-          "description": "I'd like to know from the locals of VN if you believe pet owners are vaccinating their pets. Such as, are owners more educated about the seriousness of rabies and are spending the money and taking the extra precautions to protect themselves from rabies and strangers from possible harm of rabies infections from their pets? Is vaccinating something you hear being discussed by friends, family or neighbors?\n    submitted by    /u/Latter-Project536  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16elk0n/pet_vaccinationsrabies/",
-          "publishedOn": "2023-09-10T00:20:40.000Z",
-          "wordCount": 2684,
-          "title": "Pet vaccinations(rabies)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16eko3b/decaf_coffee_in_h%E1%BB%99i_an_or_%C4%91%C3%A3_n%C3%A2ng/",
-          "author": null,
-          "description": "Are there any places that you can recommend that have decaf coffee in either of the two towns?\n Thanks\n    submitted by    /u/kl3ggy  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16eko3b/decaf_coffee_in_h%E1%BB%99i_an_or_%C4%91%C3%A3_n%C3%A2ng/",
-          "publishedOn": "2023-09-09T23:42:30.000Z",
-          "wordCount": 2642,
-          "title": "Decaf Coffee in Hội An or Đã Nâng?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16egf6f/rental_houseapartmentairbnb_for_a_month/",
-          "author": null,
-          "description": "Hi everyone,\n Our family is traveling to Viet Nam at the end of December & we’re wondering for a place to stay for a month. Since we have a baby and ,so looking more like a house or apartment which has 2-3 rooms. Our budget is around $300-400 in Saigon,preferably in Dist 1,3,5 or 6 as we have a relatives nearby those districts. What are your recommendations? Does airbnb work in VN? What are your experiences? TIA.\n    submitted by    /u/YuriNaaaaaa  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16egf6f/rental_houseapartmentairbnb_for_a_month/",
-          "publishedOn": "2023-09-09T20:51:31.000Z",
-          "wordCount": 2642,
-          "title": "Rental house/apartment/Airbnb for a month",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16efya7/rainy_season_travels/",
-          "author": null,
-          "description": "Hey all, I’ll be travelling to Vietnam Sept 20-Oct 19. Haven’t been to Vietnam for 20+yrs.\n I plan to do touristy things and travel all over Vietnam from South-Central-North amongst other fun things.\n I plan to be in Hoi An for the Lantern festival and Da Nang in the end of September to early October; Hanoi-HaLong-NinhBinh around mid October. Otherwise, I’ll be situated in HCM D1.\n How bad is the rainy season? Will the rainy season be so bad that I end up being indoors majority of the travels? \n Any advice or travel tips are much appreciated.\n    submitted by    /u/Whohuymii  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16efya7/rainy_season_travels/",
-          "publishedOn": "2023-09-09T20:32:36.000Z",
-          "wordCount": 2660,
-          "title": "Rainy Season travels",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16efpop/nc/",
-          "author": null,
-          "description": "submitted by    /u/giacuong1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16efpop/nc/",
-          "publishedOn": "2023-09-09T20:22:39.000Z",
-          "wordCount": 2570,
-          "title": "Nc",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16eeip5/your_government_wont_last_that_long_smiling_v%C3%B5/",
-          "author": null,
-          "description": "submitted by    /u/tientutoi  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16eeip5/your_government_wont_last_that_long_smiling_v%C3%B5/",
-          "publishedOn": "2023-09-09T19:33:35.000Z",
-          "wordCount": 2647,
-          "title": "“Your government won’t last that long” - smiling Võ Thi Thang says to US-backed regime judge in response to 20 year prison sentence.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16ec9ye/relationship_with_nonvietnamese/",
-          "author": null,
-          "description": "Hi, I’m 29F from Philippines and I am seeing this 30M Vietnamese for quite some time now. We are both professional and worked in the same industry. We are getting to know each other and our relationship is good so far. I’ve been to Vietnam few times already and also tried to stay for few weeks. I really like the food and the people, btw :) and he also visited my country. But the only problem is he cannot see the relationship to progress or lead to marriage because I’m from a different country, culture differences and he is thinking how will his family reacts to our relationship etc. Well, on my end there will be no issues as I think Filipino families are more open to this kind of setup. \n I know for sure that I don’t want to get married, (in near future at least) but of course we also respect and don’t want to waste each other’s time. I do like him and willing to make this relationship to work.\n I just want to ask some insights about this kind or relationship, is it not common or hard to accept in Vietnam? Should I give up? \n I really appreciate your time reading this. Please be kind in the comment section :)\n    submitted by    /u/thatwizardofoz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16ec9ye/relationship_with_nonvietnamese/",
-          "publishedOn": "2023-09-09T18:02:29.000Z",
-          "wordCount": 2777,
-          "title": "Relationship with Non-Vietnamese",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16eb8qo/what_is_the_medicine_i_keep_getting_prescribed/",
-          "author": null,
-          "description": "My husband and I have lived here for almost five years and regularly eat street food, so have pretty strong stomachs. However, sometimes we are bested by bad banh mi or xoi. When it (occasionally) strikes I just want loperamide or a similar drug so we can get on with our teaching. But the pharmacists always give me this? What is it actually? \n I have basic Vietnamese, like ordering food or instructing kids what to do, but no idea when it comes to medical stuff.\n    submitted by    /u/gruntledgirl  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16eb8qo/what_is_the_medicine_i_keep_getting_prescribed/",
-          "publishedOn": "2023-09-09T17:20:03.000Z",
-          "wordCount": 2668,
-          "title": "What is the medicine I keep getting prescribed for an upset stomach?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16eaaaj/whats_ng%C3%A1n_in_english/",
-          "author": null,
-          "description": "i’ve yet to find a good translation for ngán in english besides “i got sick/tired of this food” which is too long and also doesn’t really capture the feeling of being ngán/ ớn qúa. can anyone think of a better translation? or if you speak any languages other than english is there a better translation in another language?\n    submitted by    /u/superdinosaurs7  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16eaaaj/whats_ng%C3%A1n_in_english/",
-          "publishedOn": "2023-09-09T16:40:42.000Z",
-          "wordCount": 2677,
-          "title": "what’s “ngán” in english?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16eaa48/whats_with_nearly_every_security_worker_or/",
-          "author": null,
-          "description": "Is there a special relationship between Vietnam and Japan?\n    submitted by    /u/Dan6011  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16eaa48/whats_with_nearly_every_security_worker_or/",
-          "publishedOn": "2023-09-09T16:40:30.000Z",
-          "wordCount": 2643,
-          "title": "What's with nearly every security worker or maintenance worker that has both Viet and Japanese flag on their uniforms?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16ea50u/why_are_20_year_old_bikes_worth_nearly_the_same/",
-          "author": null,
-          "description": "I currently drive and own a 2003 Honda Future, it was a gift from someone who had a spare bike and after looking on Facebook marketplace out of curiosity I'm surprised on how much it's currently worth.\n For just a few million Vnd more you can get the same style bike (Semi auto underbone) whether it's a Honda Wave or Yamaha Sirius.\n Are the Facebook sellers being greedy or is it to do with the \"retro\" look?\n    submitted by    /u/Dan6011  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16ea50u/why_are_20_year_old_bikes_worth_nearly_the_same/",
-          "publishedOn": "2023-09-09T16:34:27.000Z",
-          "wordCount": 2705,
-          "title": "Why are 20 year old bikes worth nearly the same as new ones?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16e8ar2/free_sofa/",
-          "author": null,
-          "description": "submitted by    /u/ongtaydeptrai  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16e8ar2/free_sofa/",
-          "publishedOn": "2023-09-09T15:18:07.000Z",
-          "wordCount": 2626,
-          "title": "Free sofa.",
-          "imageUrl": null
         }
       ]
     },
@@ -6885,6 +6905,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/web-storage-localstorage-vs-sessionstorage-in-javascript/",
+          "author": "Oluwatobi Sofela",
+          "description": "Web Storage is what the JavaScript API [https://codesweetly.com/application-programming-interface-api-explained]  browsers provide for storing data locally and securely within a user’s browser. Session and local storage are the two main types of web storage. They are similar to regular properties objects [https://codesweetly.com/javascript-properties-object], but they persist (do not disappear) when the webpage",
+          "link": "https://www.freecodecamp.org/news/web-storage-localstorage-vs-sessionstorage-in-javascript/",
+          "publishedOn": "2023-10-09T16:45:31.000Z",
+          "wordCount": 4183,
+          "title": "Web Storage Explained – How to Use localStorage and sessionStorage in JavaScript Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/web-storage-explained-local-and-session-storage-objects-in-javascript-codesweetly.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-work-with-images-in-html/",
+          "author": "Joan Ayebola",
+          "description": "Images are an essential part of web development, adding visual appeal and context to your web pages.  In HTML, you can easily incorporate images to enhance the user experience. This article will guide you through the basics of working with images in HTML and help you understand images in",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-images-in-html/",
+          "publishedOn": "2023-10-09T15:33:43.000Z",
+          "wordCount": 2221,
+          "title": "How to Work with Images in HTML – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Beige-and-Blue-Minimal-Modern-Thesis-Defense-Presentation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/api-integration-patterns/",
+          "author": "Daniel Adetunji",
+          "description": "API stands for Application Programming Interface. The “I” in API is the key part that explains its purpose. The interface is what the software presents to other humans or programs, allowing them to interact with it.  A good analogy for an interface is a remote control. Imagine you have",
+          "link": "https://www.freecodecamp.org/news/api-integration-patterns/",
+          "publishedOn": "2023-10-09T15:14:33.000Z",
+          "wordCount": 2572,
+          "title": "API Integration Patterns – The Difference between REST, RPC, GraphQL, Polling, WebSockets and WebHooks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/FCC-cover--1-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-migrate-from-create-react-app-to-vite/",
           "author": "Saheed Oladele",
