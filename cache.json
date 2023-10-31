@@ -12,6 +12,76 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266675E8C44.RedFlagWarning.1266676B4F10CA.LOXRFWLOX.80e52dfe11b6ebe478309b61309bf030",
+          "author": null,
+          "description": "...RED FLAG WARNING EXTENDED THROUGH 2 PM TUESDAY FOR WIND PRONE MOUNTAINS AND VALLEYS OF LOS ANGELES AND VENTURA COUNTY... ...RED FLAG WARNING IN EFFECT THROUGH 10 PM FOR LESS WIND PRONE COASTS, MOST VALLEYS OF LA COUNTY, AND THE EASTERN SANTA MONICA MOUNTAINS... .Moderate Santa Ana winds and very dry conditions are expected to",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266675E8C44.RedFlagWarning.1266676B4F10CA.LOXRFWLOX.80e52dfe11b6ebe478309b61309bf030",
+          "publishedOn": "2023-10-30T21:37:00.000Z",
+          "wordCount": 322,
+          "title": "Red Flag Warning issued October 30 at 2:37PM PDT until October 30 at 10:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266675E8C44.RedFlagWarning.1266676B4F10CA.LOXRFWLOX.ced06816b916494fbf6969a1e60ffab5",
+          "author": null,
+          "description": "...RED FLAG WARNING EXTENDED THROUGH 2 PM TUESDAY FOR WIND PRONE MOUNTAINS AND VALLEYS OF LOS ANGELES AND VENTURA COUNTY... ...RED FLAG WARNING IN EFFECT THROUGH 10 PM FOR LESS WIND PRONE COASTS, MOST VALLEYS OF LA COUNTY, AND THE EASTERN SANTA MONICA MOUNTAINS... .Moderate Santa Ana winds and very dry conditions are expected to",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266675E8C44.RedFlagWarning.1266676B4F10CA.LOXRFWLOX.ced06816b916494fbf6969a1e60ffab5",
+          "publishedOn": "2023-10-30T21:37:00.000Z",
+          "wordCount": 360,
+          "title": "Red Flag Warning issued October 30 at 2:37PM PDT until October 30 at 10:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266675E8C44.RedFlagWarning.1266676DC010CA.LOXRFWLOX.64b9a1e9d3449df592c0c698070790c9",
+          "author": null,
+          "description": "...RED FLAG WARNING EXTENDED THROUGH 2 PM TUESDAY FOR WIND PRONE MOUNTAINS AND VALLEYS OF LOS ANGELES AND VENTURA COUNTY... ...RED FLAG WARNING IN EFFECT THROUGH 10 PM FOR LESS WIND PRONE COASTS, MOST VALLEYS OF LA COUNTY, AND THE EASTERN SANTA MONICA MOUNTAINS... .Moderate Santa Ana winds and very dry conditions are expected to",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266675E8C44.RedFlagWarning.1266676DC010CA.LOXRFWLOX.64b9a1e9d3449df592c0c698070790c9",
+          "publishedOn": "2023-10-30T21:37:00.000Z",
+          "wordCount": 423,
+          "title": "Red Flag Warning issued October 30 at 2:37PM PDT until October 31 at 2:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266675E1C8C.FreezeWarning.1266676CD5B0CA.LOXNPWLOX.b7bc690813a40794c221b549486528a7",
+          "author": null,
+          "description": "...FREEZE WARNING REMAINS IN EFFECT FROM 2 AM TO 8 AM PDT TUESDAY... * WHAT...Sub-freezing temperatures as low as 28 expected. * WHERE...Cuyama Valley, Southern Salinas Valley, San Luis Obispo County Interior Valleys and Antelope Valley. * WHEN...For the first Freeze Warning, until 8 AM PDT this",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266675E1C8C.FreezeWarning.1266676CD5B0CA.LOXNPWLOX.b7bc690813a40794c221b549486528a7",
+          "publishedOn": "2023-10-30T18:51:00.000Z",
+          "wordCount": 203,
+          "title": "Freeze Warning issued October 30 at 11:51AM PDT until October 31 at 8:00AM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266675E1C8C.WindAdvisory.1266676DE720CA.LOXNPWLOX.f4395d4e68c73788459cf5ac0f65d59e",
+          "author": null,
+          "description": "...WIND ADVISORY IN EFFECT UNTIL 3 PM PDT TUESDAY... * WHAT...Northeast winds 20 to 30 mph with gusts up to 45 mph. * WHERE...Santa Clarita Valley, Central Ventura County Valleys, Calabasas and Agoura Hills, Western San Fernando Valley and Southeastern Ventura County Valleys. * WHEN...Until 3 PM PDT Tuesday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266675E1C8C.WindAdvisory.1266676DE720CA.LOXNPWLOX.f4395d4e68c73788459cf5ac0f65d59e",
+          "publishedOn": "2023-10-30T18:51:00.000Z",
+          "wordCount": 204,
+          "title": "Wind Advisory issued October 30 at 11:51AM PDT until October 31 at 3:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266675E1C8C.WindAdvisory.1266676DE720CA.LOXNPWLOX.f00092077c8a8332392499593c5174e0",
+          "author": null,
+          "description": "...WIND ADVISORY NOW IN EFFECT UNTIL 3 PM PDT TUESDAY... * WHAT...Areas of north to northeast winds 20 to 30 mph with gusts to 45 mph. * WHERE...Ventura County Beaches, Ventura County Inland Coast, Eastern Santa Monica Mountains Recreational Area and Eastern San Fernando Valley.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266675E1C8C.WindAdvisory.1266676DE720CA.LOXNPWLOX.f00092077c8a8332392499593c5174e0",
+          "publishedOn": "2023-10-30T18:51:00.000Z",
+          "wordCount": 203,
+          "title": "Wind Advisory issued October 30 at 11:51AM PDT until October 31 at 3:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266675E1C8C.WindAdvisory.1266676DE720CA.LOXNPWLOX.0d1828add1941e89c87d2c8600c7dcd7",
+          "author": null,
+          "description": "...WIND ADVISORY IN EFFECT UNTIL 3 PM PDT TUESDAY... * WHAT...Northeast winds 20 to 30 mph with gusts up to 50 mph. * WHERE...Malibu Coast, Western Santa Monica Mountains Recreational Area, Santa Susana Mountains, Interstate 5 Corridor, Western San Gabriel Mountains and Highway 14 Corridor and Eastern San Gabriel Mountains.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266675E1C8C.WindAdvisory.1266676DE720CA.LOXNPWLOX.0d1828add1941e89c87d2c8600c7dcd7",
+          "publishedOn": "2023-10-30T18:51:00.000Z",
+          "wordCount": 227,
+          "title": "Wind Advisory issued October 30 at 11:51AM PDT until October 31 at 3:00PM PDT by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266674F00F8.FreezeWarning.1266675D9370CA.LOXNPWLOX.631fa9fae87174b595233afedee8349f",
           "author": null,
           "description": "...FREEZE WARNING REMAINS IN EFFECT FROM 2 AM TO 8 AM PDT MONDAY... * WHAT...Sub-freezing temperatures as low as 29 expected. * WHERE...Southern Salinas Valley, San Luis Obispo County Interior Valleys and Antelope Valley. * WHEN...For the first Freeze Warning, until 8 AM PDT this",
@@ -528,6 +598,206 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17k8gjk/iykyk/",
+          "author": null,
+          "description": "submitted by    /u/tankhuu3018  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17k8gjk/iykyk/",
+          "publishedOn": "2023-10-31T00:37:49.000Z",
+          "wordCount": 2554,
+          "title": "IYKYK",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17k5pjq/does_doctors_with_their_own_clinic_earn_a_lot/",
+          "author": null,
+          "description": "Just a question I'm curious about. I heard that doctors leaves a hospital to run their own clinic out of their own family house by themselves and earn only slightly better than what they usually get at hospitals.\n I thought doctors are generally paid really well. I'm trying to get an idea of how their pay would compare with a normal working person in vn.\n Do doctors usually have a decent salary/earning in Vietnam? \n    submitted by    /u/always_avg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17k5pjq/does_doctors_with_their_own_clinic_earn_a_lot/",
+          "publishedOn": "2023-10-30T22:32:10.000Z",
+          "wordCount": 2626,
+          "title": "Does doctors with their own clinic earn a lot?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17k54fm/how_do_you_become_rich_in_vietnam/",
+          "author": null,
+          "description": "Just curious how some people become rich. Is it through tech, or manufacturing, or government, or restaurants, or something else?\n    submitted by    /u/Disastrous-Week-5050  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17k54fm/how_do_you_become_rich_in_vietnam/",
+          "publishedOn": "2023-10-30T22:06:56.000Z",
+          "wordCount": 2570,
+          "title": "How do you become rich in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17k4wtv/phu_quoc_resort_advice_jw_or_regent/",
+          "author": null,
+          "description": "Travelling to HCMC end of December with 5 nights at a nice resort on Phu Quoc in the middle. Trying to decide between JW Marriott or Regent. Has anyone stayed at both and can advise. We’re a couple, no kids, in our 40’s. Plan is 50/50 relax / explore.\n    submitted by    /u/boffster999  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17k4wtv/phu_quoc_resort_advice_jw_or_regent/",
+          "publishedOn": "2023-10-30T21:58:20.000Z",
+          "wordCount": 2600,
+          "title": "Phu Quoc resort advice - JW or Regent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17k2vym/i_also_need_song_help/",
+          "author": null,
+          "description": "Growing up I would hear this song at the end of Vietnamese events in Canada. We're southern Vietnamese if it helps. \n It sounds very much like a marching band kind of song. \n It goes \"vietnam Vietnam da da da da\". The da da da da are the words I don't know. \n Lol that's all I got man. I know it's a long shot.\n    submitted by    /u/Disastrous-Week-5050  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17k2vym/i_also_need_song_help/",
+          "publishedOn": "2023-10-30T20:30:47.000Z",
+          "wordCount": 2611,
+          "title": "I also need song help.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17k1wsm/ha_giang_loop/",
+          "author": null,
+          "description": "Not sure if this is a silly question but what happens to your luggage/suitcase whilst you’re on tour? Do you take your luggage whilst on the motorcycle or do you leave your luggage somewhere and pick it up at the end of the tour?\n    submitted by    /u/That_Sweet_Science  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17k1wsm/ha_giang_loop/",
+          "publishedOn": "2023-10-30T19:49:35.000Z",
+          "wordCount": 2590,
+          "title": "Ha Giang Loop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17k0s1m/english_teacher/",
+          "author": null,
+          "description": "Best way to go about becoming English teacher here? Any organizations that I could go through for work as a English teacher?\n    submitted by    /u/Positive-Low-1875  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17k0s1m/english_teacher/",
+          "publishedOn": "2023-10-30T18:59:35.000Z",
+          "wordCount": 2561,
+          "title": "English Teacher",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17jy9p8/ha_long_town_any_new_stuff_to_see_or_do/",
+          "author": null,
+          "description": "Hi all! We’ll be visiting Ha long city for just an overnight and we’ll be staying around the Quang Ninh area near the Tuan Chau bridge, aside from taking a ferry to Cat Ba Island though will only probably do it for a nice view of the ocean and bay and then be back again to the town since we can’t ride a motorbike to explore the island. What else can we do around the town? Is there any cool cafes there? :) \n also, will probably just chill at the beach admiring the view haha\n    submitted by    /u/artisticsonofabitch  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17jy9p8/ha_long_town_any_new_stuff_to_see_or_do/",
+          "publishedOn": "2023-10-30T17:07:58.000Z",
+          "wordCount": 2648,
+          "title": "ha long town, any new stuff to see or do???",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17jvzks/advice_on_joining_exchange_program_in_germany/",
+          "author": null,
+          "description": "Hi all, I am a student in 2nd year at a university in Vietnam and I am hoping to qualify for exchange study in Osnabruck, Germany from February to July 2024.\n I want to ask those who had a chance to study abroad for such amount of time and/or live in Germany: Does it worth it? Can it really change yourself a whole lot, in terms of thinking, studying, relationships, etc? Can this experience somehow be helpful for some of my future plans like looking for Masters scholarships abroad or working in an international environment?\n    submitted by    /u/thongsucks000  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17jvzks/advice_on_joining_exchange_program_in_germany/",
+          "publishedOn": "2023-10-30T15:27:05.000Z",
+          "wordCount": 2645,
+          "title": "Advice on joining exchange program in Germany",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17juqgb/vietnamese_police_or_military_are_not_allowed_to/",
+          "author": null,
+          "description": "I know it's at least partially true. But what are the specifics of this regulation? And what is the justification given for it? (Presumably it originated in wartime, fear of recruitment by foreign powers, etc., but does this still convince in 2023?)\n Given that there are at least 2 million people belonging to either the military or the police, don't they ever think 'man, why can't I at least go to Thailand for a fun weekend'?\n [edit to summarize some good answers: it seems not to be forbidden per se, but can require very lengthy and annoying paperwork.]\n ​\n    submitted by    /u/legatrixx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17juqgb/vietnamese_police_or_military_are_not_allowed_to/",
+          "publishedOn": "2023-10-30T14:31:32.000Z",
+          "wordCount": 2657,
+          "title": "Vietnamese police or military are not allowed to holiday outside of Vietnam...how true is this?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17jtooa/in_need_of_some_advice/",
+          "author": null,
+          "description": "I'm a high school student, currently 12th grade.\n I have been struggling with school ever since 7th grade, and as far as it seems, it is only getting worse over time.\n I believe that I may have ADHD, or something of sort related to mentality. But I cannot confirm yet without a proper doctor checkup.\n I am too afraid to talk with my parents about it, as they are very keen on education, and I am scared that they would constantly scold me and make it worse if I were to talk to them about it.\n Right now, I don't have any motivation to continue school. The first mid-semester exam is coming and I cannot focus on a single thing for even a second.\n What can I do to help myself? Or what should I do to make my parents be understanding about my situation, and potentially do something about it?\n Any help will be appreciated.\n    submitted by    /u/Gestorium  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17jtooa/in_need_of_some_advice/",
+          "publishedOn": "2023-10-30T13:42:33.000Z",
+          "wordCount": 2704,
+          "title": "In need of some advice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17jrvyo/title/",
+          "author": null,
+          "description": "submitted by    /u/aphaland  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17jrvyo/title/",
+          "publishedOn": "2023-10-30T12:08:13.000Z",
+          "wordCount": 2552,
+          "title": "Title",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17jq8g7/vietnamese_christians_have_you_experienced_heavy/",
+          "author": null,
+          "description": "I brought up my upcoming baptism with my father and he was all angry and like \"you'll be blacklisted and work menial jobs forever because all Christians are secret spies working for foreign countries, they were all from Viet Nam Cộng Hòa and the priests are gonna be arrested any moment now\". \n    submitted by    /u/higakoryu1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17jq8g7/vietnamese_christians_have_you_experienced_heavy/",
+          "publishedOn": "2023-10-30T10:23:50.000Z",
+          "wordCount": 2602,
+          "title": "Vietnamese Christians, have you experienced heavy prejudices?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17jpmz6/where_in_vn_should_i_stay_if_i_need_to_work_on_pc/",
+          "author": null,
+          "description": "Don’t care much for intense activity. just chilling, enjoying food, relaxing.\n    submitted by    /u/pringles_bbq  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17jpmz6/where_in_vn_should_i_stay_if_i_need_to_work_on_pc/",
+          "publishedOn": "2023-10-30T09:42:42.000Z",
+          "wordCount": 2578,
+          "title": "Where in VN should I stay if I need to work on PC 10 hrs a day and still enjoy VN (free oin weekends)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17jp9ll/my_boat/",
+          "author": null,
+          "description": "submitted by    /u/dorathemon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17jp9ll/my_boat/",
+          "publishedOn": "2023-10-30T09:14:54.000Z",
+          "wordCount": 2553,
+          "title": "my BOAT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17jor1m/anybody_experienced_this/",
+          "author": null,
+          "description": "May I know if you were able to get it sorted out by going to a viettel store? Online process is too much of a hassle with language barrier. 😅 \n Cam on nhieu!\n    submitted by    /u/Left_Resolve_7233  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17jor1m/anybody_experienced_this/",
+          "publishedOn": "2023-10-30T08:36:32.000Z",
+          "wordCount": 2591,
+          "title": "Anybody experienced this?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17jn3m1/saw_this_in_a_cong_caphe_branch_in_malaysia/",
+          "author": null,
+          "description": "submitted by    /u/Dear_Archer7711  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17jn3m1/saw_this_in_a_cong_caphe_branch_in_malaysia/",
+          "publishedOn": "2023-10-30T06:28:27.000Z",
+          "wordCount": 2560,
+          "title": "Saw this in a Cong Caphe branch in Malaysia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17jmq1h/wheres_nam/",
+          "author": null,
+          "description": "submitted by    /u/SoloWingNICK  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17jmq1h/wheres_nam/",
+          "publishedOn": "2023-10-30T06:00:27.000Z",
+          "wordCount": 2553,
+          "title": "where's Nam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17jmbwl/learning_vietnamese/",
+          "author": null,
+          "description": "Xin chào, toi là Smokey. Toi muốn hoc noi tiếng viet. Toi di du lịch o đa nang in January. \n Question on my learning VN \n If I ask a question I put “phải không” at the end of it. \n While learning I found that its not necessary to use phải and you can use không? When should I be using không versus phải không when learning Vietnamese when asking a question. \n Examples:\n Lily muốn pho phai khong? Does Lily want noodles?\n Lily muốn pho khong? \n Does the above still work?\n    submitted by    /u/smokeybear610  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17jmbwl/learning_vietnamese/",
+          "publishedOn": "2023-10-30T05:31:51.000Z",
+          "wordCount": 2629,
+          "title": "Learning Vietnamese",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17jk0og/if_you_could_translate_honks_in_vn_to_words/",
+          "author": null,
+          "description": "If you could translate honks in VN to words. Here's mine:\n \"me first!\"\n    submitted by    /u/Large_Low9857  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17jk0og/if_you_could_translate_honks_in_vn_to_words/",
+          "publishedOn": "2023-10-30T03:08:15.000Z",
+          "wordCount": 2565,
+          "title": "If you could translate honks in VN to words.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/17jhbkd/a_month_in_ha_noi/",
           "author": null,
@@ -7077,256 +7347,6 @@
           "wordCount": 2673,
           "title": "Sketch of Somewhere in 129 Nguyễn Trãi, Thanh Xuân, Hà Nội, near that factory idk",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wy1sh/did_this_concept_photo_shoot_in_ho_chi_minh_at/",
-          "author": null,
-          "description": "So professional every step\n    submitted by    /u/C_K_2_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wy1sh/did_this_concept_photo_shoot_in_ho_chi_minh_at/",
-          "publishedOn": "2023-10-01T10:51:28.000Z",
-          "wordCount": 2620,
-          "title": "Did this concept photo shoot in Ho Chi Minh at Lungta Concept Studio.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wxpp5/why_are_there_so_many_michelin_starguide/",
-          "author": null,
-          "description": "Everywhere we go, there is Michelin sign outside of restaurants! Some are definitely justified some are questionable, wondering if anyone else feel the same?\n    submitted by    /u/mvchi_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wxpp5/why_are_there_so_many_michelin_starguide/",
-          "publishedOn": "2023-10-01T10:32:10.000Z",
-          "wordCount": 2636,
-          "title": "Why are there so many Michelin star/guide restaurants in Hanoi?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wx3ss/can_you_pls_share_the_exact_ingredients_in_this/",
-          "author": null,
-          "description": "This was as soo good!\n    submitted by    /u/bunchapanda  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wx3ss/can_you_pls_share_the_exact_ingredients_in_this/",
-          "publishedOn": "2023-10-01T09:57:03.000Z",
-          "wordCount": 2631,
-          "title": "Can you pls share the exact ingredients in this Vietnamese Pizza in Dalat?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wwle5/whats_up_with_all_the_why_vietnamese_insert/",
-          "author": null,
-          "description": "As per title, recently those type of questions pop up rather frequently in this sub to the point I find it unreasonable. \n The more of those questions pop up and the more I read into it, the less I see it is related to the Vietnamese country/ the culture/ the people.\n It might only have to do with that particular, very specific family/ relationship/ situation being in question. Regardless the whole nation is called into question for some behavior.\n You guys do know that Vietnam is a country of over 100m population, with polarized income and living conditions, plus having worldwide diasporas (in North America, Australia, European continent, African continent, East Asia, the Middle East) so finding an average Nguyen is nigh impossible, right???\n Instead of asking “Why my Vietnamese relative treat me like shit?” or “Why Vietnamese male drink coffee all morning and doesn’t go to work?” People can rephrase it such as “why my relative treat me like shit?” - does the fact that they are Vietnamese or Vietnamese immigrants play any roles in the question?\n    submitted by    /u/Tiberiux  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wwle5/whats_up_with_all_the_why_vietnamese_insert/",
-          "publishedOn": "2023-10-01T09:25:57.000Z",
-          "wordCount": 2791,
-          "title": "What’s up with all the “why Vietnamese [insert relative/males/friends/ husband/wife/brother] do this and that?” type of question",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16ww9ot/what_do_vietnamese_people_think_of_taiwan/",
-          "author": null,
-          "description": "Apologies if you are tired of recent threads with similar titles, but I am curious what perspectives Vietnamese people here can offer about my country and people. I have met many Việt kiều (越僑) over the years.\n    submitted by    /u/SHIELD_Agent_47  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16ww9ot/what_do_vietnamese_people_think_of_taiwan/",
-          "publishedOn": "2023-10-01T09:05:46.000Z",
-          "wordCount": 2646,
-          "title": "What do Vietnamese people think of Taiwan?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wsuwy/what_is_this_thing_i_found_at_my_grandmas_house/",
-          "author": null,
-          "description": "I found this near the altar. what's its purpose?\n    submitted by    /u/MochiMixMash  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wsuwy/what_is_this_thing_i_found_at_my_grandmas_house/",
-          "publishedOn": "2023-10-01T05:39:28.000Z",
-          "wordCount": 2633,
-          "title": "What is this thing I found at my grandma's house?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wpzd4/why_the_heck_is_my_vietnamese_family_like_this/",
-          "author": null,
-          "description": "long story short, i’m a 19 year old girl studying in America. My dad has 13 other siblings most of which live in America as well, and for whatever reason it’s like every week they pick and choose whether to treat me, my mom, and my dad like shit or not. it’s like a sick ranking! it’s horrible. especially after my dad died and they barely cared, he died in a horrible car accident too, and yet we barely get any phone calls, much less any sympathy at all from them. it’s been 10 months now that he’s gone and yet they always gossip, body-shame, manipulative, clout-chase, and make me and my mom feel horrible! and we didn’t even do anything… my mom is vietnamese too and she’s the sweetest person ever. just, why? why are they so mean? is it because they are vietnamese? or jealous? what’s going on? i always feel like i’m doing something wrong, like i’m actually too pu**y, but heck am i gonna say to them, i don’t like ur 30 LV bags?\n    submitted by    /u/Academic-Juggernaut5  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wpzd4/why_the_heck_is_my_vietnamese_family_like_this/",
-          "publishedOn": "2023-10-01T03:04:24.000Z",
-          "wordCount": 2790,
-          "title": "why the heck is my vietnamese family like this ??",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wn57j/httpswwwtiktokcomhoathinhtayduky123video7284761601/",
-          "author": null,
-          "description": "submitted by    /u/Lower_Toe_7352  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wn57j/httpswwwtiktokcomhoathinhtayduky123video7284761601/",
-          "publishedOn": "2023-10-01T00:47:30.000Z",
-          "wordCount": 2602,
-          "title": "https://www.tiktok.com/@hoathinhtayduky123/video/7284761601763216658?is_from_webapp=1&sender_device=pc&web_id=7209311219101353473",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wn55o/httpswwwtiktokcomhoathinhtayduky123video7284761601/",
-          "author": null,
-          "description": "submitted by    /u/Lower_Toe_7352  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wn55o/httpswwwtiktokcomhoathinhtayduky123video7284761601/",
-          "publishedOn": "2023-10-01T00:47:27.000Z",
-          "wordCount": 2602,
-          "title": "https://www.tiktok.com/@hoathinhtayduky123/video/7284761601763216658?is_from_webapp=1&sender_device=pc&web_id=7209311219101353473",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wn3wk/httpswwwtiktokcomhoathinhtayduky123video7284761601/",
-          "author": null,
-          "description": "https://www.tiktok.com/@hoathinhtayduky123/video/7284761601763216658?is_from_webapp=1&sender_device=pc&web_id=7209311219101353473,,,,,\n    submitted by    /u/Lower_Toe_7352  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wn3wk/httpswwwtiktokcomhoathinhtayduky123video7284761601/",
-          "publishedOn": "2023-10-01T00:45:50.000Z",
-          "wordCount": 2604,
-          "title": "https://www.tiktok.com/@hoathinhtayduky123/video/7284761601763216658?is_from_webapp=1&sender_device=pc&web_id=7209311219101353473",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wmaqy/vietnam_after_7_years/",
-          "author": null,
-          "description": "submitted by    /u/redditorspawnrandom  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wmaqy/vietnam_after_7_years/",
-          "publishedOn": "2023-10-01T00:08:32.000Z",
-          "wordCount": 2616,
-          "title": "Vietnam after 7 years",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wm4el/poker/",
-          "author": null,
-          "description": "Any good poker clubs or places to play poker in Saigon? I’m (20m) going to Saigon for 3 months in November to work.\n    submitted by    /u/Jyafo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wm4el/poker/",
-          "publishedOn": "2023-10-01T00:01:18.000Z",
-          "wordCount": 2627,
-          "title": "Poker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wm4au/post_your_questions_inquiries_here_rvietnam/",
-          "author": null,
-          "description": "Lưu ý: Đây là thread chủ yếu dành cho người nước ngoài hoặc không nói tiếng Việt đặt câu hỏi. Nếu có thể, hãy trả lời giúp họ nhé.\n Please read the 3rd rule of the sub. Don't post your general questions & inquiries outside of this thread as they will be removed.\n Lots of your questions have been answered already so make sure you do a search before asking (how-to below).\n  \nTo keep this subreddit tidy, we have this monthly thread that is open for random discussions and questions. If you post your basic/general questions outside of this thread they will be removed. Sorry, we want to make this sub friendly but also want it to be clean and organized.\n Some examples of the questions that should be posted here:\n  \nQuestions that can be answered with just Yes/No\n Basic questions like \"Where can I…",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wm4au/post_your_questions_inquiries_here_rvietnam/",
-          "publishedOn": "2023-10-01T00:01:12.000Z",
-          "wordCount": 3128,
-          "title": "Post your questions & inquiries here! - r/Vietnam monthly random discussion thread - F.A.Q",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wlxqj/is_my_vietnamese_family_jealous_of_my/",
-          "author": null,
-          "description": "Let me start by saying that I'm half Vietnamese, and I was not raised by my Vietnamese side. I'm the oldest of 6 kids my father had. Initially, my father didn't want any part of me when my mother got pregnant because I was an accident. He impregnated my mom when he was 25, and she was 15. Before I was born, he tried to persuade my mom to have an abortion. I met him for the first time at the age of 5 and then reconnected with the family at the age of 12. My stepmom is mostly the reason why I wasn't around, as my father lied to her and never disclosed my existence until my mom basically gave him an ultimatum to accept me as his son. If he didn't, she would take him to court for child support, which she did, and he paid until I turned 18. My stepmom is also the reason I re-entered the family …",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wlxqj/is_my_vietnamese_family_jealous_of_my/",
-          "publishedOn": "2023-09-30T23:53:02.000Z",
-          "wordCount": 3297,
-          "title": "Is my Vietnamese family jealous of my accomplishments? Why are they so distant now?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wk8ee/what_game_is_that/",
-          "author": null,
-          "description": "I've bought these playing cards a few months ago and I can't find the rules. It seems there are a lot of games looking like that one, and most of the rules sites are in vietnamese only Can anyone explain how i play this or point to a site where that is explained ? Thanks !\n    submitted by    /u/PlatypusEnraged  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wk8ee/what_game_is_that/",
-          "publishedOn": "2023-09-30T22:40:31.000Z",
-          "wordCount": 2674,
-          "title": "What game is that ?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wft2t/why_are_vietnamese_men_so_sexist/",
-          "author": null,
-          "description": "I’m a woman born in Europe and my parents are Vietnamese.\n My father teaches me that it’s a woman’s job to take care of the household and the kids. Meanwhile he expects me to do a master’s degree and work full time as well. He teaches me things like: - It’s fine for men to have a high body count before marriage but girls should keep themselves pure - It’s a woman’s job to do the cooking, cleaning, etc. (including things like having to cut my husband’s finger and toe nails) - I shouldn’t do a doctor’s degree because men are deterred from women with higher education - It’s justified if my husband cheats if I don’t provide him with a warm meal and children\n My mother works full time as well but he feels entitled to everything she does for him. If there’s no food or the food is too salty for example, he starts to shout and says “without me, you would be living in the streets.”\n Is that normal for our Vietnamese culture? I’ve never seen him grateful for how we support him.\n    submitted by    /u/sienenntmichpapi  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wft2t/why_are_vietnamese_men_so_sexist/",
-          "publishedOn": "2023-09-30T19:40:21.000Z",
-          "wordCount": 2790,
-          "title": "Why are Vietnamese men so sexist?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wdda9/best_city_to_visit_this_december/",
-          "author": null,
-          "description": "Hello! As the title already states, which city is the best to visit in December?\n My best friend and I haven't seen each other for years (we live in different countries now) and we're thinking of travelling and reuniting in Vietnam. \n We both would like to indulge ourselves in Vietnam's food and culture. We both enjoy long walks, have some drinks, and trying out some things new! (something more \"local\" and maybe not too touristy haha)\n Any recommendations and suggestions are highly appreciated. Thank you! :)\n    submitted by    /u/wengkwek  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wdda9/best_city_to_visit_this_december/",
-          "publishedOn": "2023-09-30T17:59:26.000Z",
-          "wordCount": 2694,
-          "title": "Best city to visit this December?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wclus/shoes_for_backpacking_in_vietnam_and_cambodia_are/",
-          "author": null,
-          "description": "I will be backpacking through Vietnam and Cambodia in November and am looking for what kind of shoes I should bring. Looking at a lot of reddit posts I'll probably bring some sandals (maybe Columbia Breaksiders?) for light walks and water activities but I will also go to Sa Pa and other places where I would like to hike. Since the weather won't be as hot as in the summer, do you guys think some light hiking boots would be a good idea as a second pair and if so do you have any suggestions (I looked at the Merrell Nova 3 Mid for example)? I like hiking shoes that go over your ankles to prevent injuries on rugged terrain.\n Thank you guys in advance!\n    submitted by    /u/itsArtis  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wclus/shoes_for_backpacking_in_vietnam_and_cambodia_are/",
-          "publishedOn": "2023-09-30T17:27:53.000Z",
-          "wordCount": 2740,
-          "title": "Shoes for backpacking in Vietnam and Cambodia, are hiking shoes a good idea?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wcaln/vietnamese_are_into_that_type_of_world_war_ii/",
-          "author": null,
-          "description": "submitted by    /u/Unlikely_Shoe_2046  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wcaln/vietnamese_are_into_that_type_of_world_war_ii/",
-          "publishedOn": "2023-09-30T17:14:53.000Z",
-          "wordCount": 2622,
-          "title": "Vietnamese are into \"that type\" of World War II merchandise? 🤔",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wc6i2/whats_going_on_at_district_7_heard_a_few_fire/",
-          "author": null,
-          "description": "Is there a fire going on? I'm near Kenh Te bridge.\n    submitted by    /u/Acceptable-Trainer15  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wc6i2/whats_going_on_at_district_7_heard_a_few_fire/",
-          "publishedOn": "2023-09-30T17:09:59.000Z",
-          "wordCount": 2625,
-          "title": "What's going on at District 7? Heard a few fire trucks and the air smells like smoke",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16wazhv/cat_ba_recommendations/",
-          "author": null,
-          "description": "Hey all,\n Not super interested in doing a cruise but a traveller in passing mentioned Cat Ba does fishing boat tours. Haven’t been able to find much information online about them, do they exist and what do they involve in finding out about them? Also any other general Cat Ba recommendations are welcome!\n    submitted by    /u/GreedE  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16wazhv/cat_ba_recommendations/",
-          "publishedOn": "2023-09-30T16:19:14.000Z",
-          "wordCount": 2658,
-          "title": "Cat Ba recommendations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16w8w0w/ha_long_bay_cruise_december/",
-          "author": null,
-          "description": "Planning on travelling to Ha Long Bay for Christmas this year and we are looking at 3 day cruises. Has anyone got any recommendations? We love kayaking and being active. \n We have seen Orchid Classic and Genesis Regal, any tips or recommendations would be greatly appreciated!\n    submitted by    /u/Dsullivan96  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16w8w0w/ha_long_bay_cruise_december/",
-          "publishedOn": "2023-09-30T14:53:53.000Z",
-          "wordCount": 2653,
-          "title": "Ha Long Bay cruise December",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16w82lc/objectively_correct_banh_trung_thu_tierlist/",
-          "author": null,
-          "description": "submitted by    /u/No_Address4264  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16w82lc/objectively_correct_banh_trung_thu_tierlist/",
-          "publishedOn": "2023-09-30T14:21:08.000Z",
-          "wordCount": 2617,
-          "title": "Objectively correct \"Banh Trung Thu\" tierlist",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16w7f16/wise_cards_for_us_accounts_dont_work_here/",
-          "author": null,
-          "description": "Hoping this messages helps other travelers - if you’re from the US and are trying to use your Wise card it’s not supported here. Cambodia too\n After reading that it’s not uncommon for foreign bank cards to not work at some ATMs, I laced up my walking shoes and tried literally 17 ATMs, all unsuccessfully. I always tried 2 mil, I tried adding money to my USD wallet, I tried walking to the CitiBank atm, nothing. Eventually I went to the Wise website to see if something was locked with my card and I stumbled on a support page that listed countries that US accounts won’t work in. \n I have a card from my US bank so I’ll probably just take the fee on the chin or consider using the Western Union app to send myself some money in the morning.\n    submitted by    /u/Mlrk3y  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16w7f16/wise_cards_for_us_accounts_dont_work_here/",
-          "publishedOn": "2023-09-30T13:52:37.000Z",
-          "wordCount": 2764,
-          "title": "Wise cards for US accounts don’t work here",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/16w65gn/be_careful_of_these_guys/",
-          "author": null,
-          "description": "Three compartment ants. If you crush them on your skin with look and feel as if you were burned.\n    submitted by    /u/Apprehensive_Gap_368  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/16w65gn/be_careful_of_these_guys/",
-          "publishedOn": "2023-09-30T12:56:08.000Z",
-          "wordCount": 2638,
-          "title": "Be careful of these guys!",
-          "imageUrl": null
         }
       ]
     },
@@ -7335,6 +7355,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-scrape-amazon-product-reviews-behind-a-login/",
+          "author": "Satyam Tripathi",
+          "description": "Amazon is the most popular e-commerce website for web scrapers, with billions of product pages being scraped every month.  It is also home to a vast database of product reviews, which can be very useful for market research and competitor monitoring.  You can extract relevant data from the",
+          "link": "https://www.freecodecamp.org/news/how-to-scrape-amazon-product-reviews-behind-a-login/",
+          "publishedOn": "2023-10-30T16:46:40.000Z",
+          "wordCount": 1923,
+          "title": "How to Scrape Amazon Product Reviews Behind a Login",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pexels-pixabay-159751--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/kotlin-and-android-development-build-a-chat-app/",
+          "author": "Beau Carnes",
+          "description": "Are you ready to dive into the world of Android development using Kotlin? We just posted a 10-hour Android course on the freeCodeCamp.org YouTube channel. Alexandru Cristian created this course. I will help you understand how to develop with Kotlin and Android. This course will take you on a journey",
+          "link": "https://www.freecodecamp.org/news/kotlin-and-android-development-build-a-chat-app/",
+          "publishedOn": "2023-10-30T16:24:23.000Z",
+          "wordCount": 937,
+          "title": "Kotlin and Android Development – Build a Chat App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/kotlinandroid.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/automate-data-exports-email-reports-with-python/",
+          "author": "Ashutosh Krishna",
+          "description": "In today's data-driven world, automation is key to streamlining tasks and saving time. In this beginner-friendly tutorial, I'll walk you through the process of automating data exports from a PostgreSQL database and sending them as an email attachment using Python.  This step-by-step guide will help you grasp the fundamentals",
+          "link": "https://www.freecodecamp.org/news/automate-data-exports-email-reports-with-python/",
+          "publishedOn": "2023-10-30T16:08:37.000Z",
+          "wordCount": 5007,
+          "title": "How to Automate Data Exports and Email Reports with Python – a Step-by-Step Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/report-automation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/css-frameworks-vs-custom-css/",
+          "author": "Joan Ayebola",
+          "description": "When it comes to styling web pages, CSS or Cascading Style Sheets is the go-to tool for web developers. CSS is what gives your website that visually appealing look and feel, from colors and fonts to layout and positioning.  But there are two distinct approaches to applying CSS: using",
+          "link": "https://www.freecodecamp.org/news/css-frameworks-vs-custom-css/",
+          "publishedOn": "2023-10-30T14:51:25.000Z",
+          "wordCount": 1659,
+          "title": "CSS Frameworks vs Custom CSS – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Vintage-Colors-Retro-Interactive--Icebreaker-Education-Presentation--1-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/podcast-kevin-miller-coder-conversations/",
           "author": "Quincy Larson",
@@ -7354,6 +7414,16 @@
           "wordCount": 2372,
           "title": "How to Write Good Documentation with Docsify",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/docsify.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/gql-design-and-implementation/",
+          "author": "Amr Hesham",
+          "description": "Hello everyone! I'm a Software engineer who's interested in low-level programming, compilers, and tool development.  Three months ago I decided to learn the Rust programming language and build a Git client that focuses on simplicity and productivity. ‌I started to think about how I could build the Git client",
+          "link": "https://www.freecodecamp.org/news/gql-design-and-implementation/",
+          "publishedOn": "2023-10-26T17:00:00.000Z",
+          "wordCount": 2278,
+          "title": "How I Created a SQL-like Language to Run Queries on Local Git Repositories",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/gitql_banner.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/learn-algorithmic-trading-using-python/",
@@ -8004,16 +8074,6 @@
           "wordCount": 1765,
           "title": "How to Create Links in HTML – Tutorial with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/White-Soft-Brown-Professional-Elegant-Marketing-Strategy-Presentation-169.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-computers-understand-language/",
-          "author": "Manish Shivanandhan",
-          "description": "",
-          "link": "https://www.freecodecamp.org/news/how-computers-understand-language/",
-          "publishedOn": "2023-09-30T14:31:13.000Z",
-          "wordCount": 1311,
-          "title": "From Text to Meaning: How Computers Understand Language",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/blog_img.jpeg"
         }
       ]
     }
