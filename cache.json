@@ -12,6 +12,36 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666BE66368.FireWeatherWatch.12666C204BA0CA.LOXRFWLOX.99c7abb071c35c8a45bbb62dde6ef84b",
+          "author": null,
+          "description": "CORRECTED TO ADD CALABASAS AND AGOURA HILLS ZONES ...FIRE WEATHER WATCH IN EFFECT FROM NOON WEDNESDAY UNTIL 6 PM THURSDAY FOR MOST MOUNTAIN AND VALLEY AREAS OF LA/VENTURA COUNTIES AS WELL AS THE MALIBU COAST DUE TO GUSTY SANTA ANA WINDS AND LOW HUMIDITY... .Another round of gusty Santa Ana winds and low humidities will",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666BE66368.FireWeatherWatch.12666C204BA0CA.LOXRFWLOX.99c7abb071c35c8a45bbb62dde6ef84b",
+          "publishedOn": "2023-11-06T22:50:00.000Z",
+          "wordCount": 409,
+          "title": "Fire Weather Watch issued November 06 at 2:50PM PST until November 09 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666BE66368.FireWeatherWatch.12666C204BA0CA.LOXRFWLOX.c2218d72671baff3c4896b963d49dd7c",
+          "author": null,
+          "description": "CORRECTED TO ADD CALABASAS AND AGOURA HILLS ZONES ...FIRE WEATHER WATCH IN EFFECT FROM NOON WEDNESDAY UNTIL 6 PM THURSDAY FOR MOST MOUNTAIN AND VALLEY AREAS OF LA/VENTURA COUNTIES AS WELL AS THE MALIBU COAST DUE TO GUSTY SANTA ANA WINDS AND LOW HUMIDITY... .Another round of gusty Santa Ana winds and low humidities will",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666BE66368.FireWeatherWatch.12666C204BA0CA.LOXRFWLOX.c2218d72671baff3c4896b963d49dd7c",
+          "publishedOn": "2023-11-06T22:50:00.000Z",
+          "wordCount": 471,
+          "title": "Fire Weather Watch issued November 06 at 2:50PM PST until November 09 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666BE66368.FireWeatherWatch.12666C204BA0CA.LOXRFWLOX.a86c59e9aa17cd360236665cb645dd5b",
+          "author": null,
+          "description": "CORRECTED TO ADD CALABASAS AND AGOURA HILLS ZONES ...FIRE WEATHER WATCH IN EFFECT FROM NOON WEDNESDAY UNTIL 6 PM THURSDAY FOR MOST MOUNTAIN AND VALLEY AREAS OF LA/VENTURA COUNTIES AS WELL AS THE MALIBU COAST DUE TO GUSTY SANTA ANA WINDS AND LOW HUMIDITY... .Another round of gusty Santa Ana winds and low humidities will",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666BE66368.FireWeatherWatch.12666C204BA0CA.LOXRFWLOX.a86c59e9aa17cd360236665cb645dd5b",
+          "publishedOn": "2023-11-06T22:50:00.000Z",
+          "wordCount": 381,
+          "title": "Fire Weather Watch issued November 06 at 2:50PM PST until November 09 at 6:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
           "author": null,
           "description": "",
@@ -580,26 +610,6 @@
           "wordCount": 177,
           "title": "Wind Advisory issued October 09 at 12:57PM PDT until October 11 at 8:00PM PDT by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126665FF1F08.HeatAdvisory.1266660BE620CA.LOXNPWLOX.9e51080f472d8aba98f47068786cf3b7",
-          "author": null,
-          "description": "...HEAT ADVISORY REMAINS IN EFFECT UNTIL 7 PM PDT THIS EVENING... * WHAT...High temperatures in the upper 80s closer to the coast to around 100 inland. * WHERE...Santa Clarita Valley, Western Santa Monica Mountains Recreational Area, Eastern Santa Monica Mountains Recreational Area, Calabasas and Agoura Hills, Western San Fernando Valley,",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126665FF1F08.HeatAdvisory.1266660BE620CA.LOXNPWLOX.9e51080f472d8aba98f47068786cf3b7",
-          "publishedOn": "2023-10-07T18:26:00.000Z",
-          "wordCount": 346,
-          "title": "Heat Advisory issued October 07 at 11:26AM PDT until October 07 at 7:00PM PDT by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126665FF1F08.HeatAdvisory.1266660BE620CA.LOXNPWLOX.0759b0f3d6f95745717a3e18636c13b2",
-          "author": null,
-          "description": "...HEAT ADVISORY FOR THE FOOTHILLS AND COASTAL SLOPES OF THE MOUNTAINS BELOW 4000 FEET ELEVATION REMAINS IN EFFECT UNTIL 7 PM PDT THIS EVENING... * WHAT...High temperatures in the the 90s to near 100. * WHERE...San Luis Obispo County Mountains, Santa Barbara County Interior Mountains, Southern Ventura County Mountains,",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126665FF1F08.HeatAdvisory.1266660BE620CA.LOXNPWLOX.0759b0f3d6f95745717a3e18636c13b2",
-          "publishedOn": "2023-10-07T18:26:00.000Z",
-          "wordCount": 333,
-          "title": "Heat Advisory issued October 07 at 11:26AM PDT until October 07 at 7:00PM PDT by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -608,6 +618,246 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17phuco/how_to_find_good_hotel_in_saigon/",
+          "author": null,
+          "description": "I've stayed at two hotels now and both were not good. They looked nothing like the pictures and even though they had good reviews, it seems like the reviews were lies. \n The rooms were terribly small. One had no window whatsoever. The \"pool\" was like 2 feet deep. The \"gym\" was two treadmills and a bike. The construction quality of the rooms and bathrooms were shoddy. Everything felt thin and cheap. You can hear everything happening through the walls. \n On the plus side, the staff were always extremely kind and helpful. I really loved the service. The breakfast nuggets were always good as well. \n Both hotels were half a million dong per night. \n Do I just need to find more expensive hotels? What's a good budget for something decent but not extravagant? A million dongs?\n    submitted by    /u/pally_hater_9854  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17phuco/how_to_find_good_hotel_in_saigon/",
+          "publishedOn": "2023-11-07T00:34:21.000Z",
+          "wordCount": 2697,
+          "title": "How to find good hotel in Saigon?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17ph73u/ba_na_hills/",
+          "author": null,
+          "description": "Is it a fun place for a tourist to check out? Most of our time will be in Hue and Da Nang. What mode of transportation do you suggest to go from those three locations? Is it by train? Is it by car? Thank you!\n    submitted by    /u/redditissocoolyoyo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17ph73u/ba_na_hills/",
+          "publishedOn": "2023-11-07T00:03:54.000Z",
+          "wordCount": 2597,
+          "title": "Ba Na Hills",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17pgitz/how_good_are_the_cellphone_sim_cards_at_the/",
+          "author": null,
+          "description": "flew into Saigon last week and staying Bien Hoa for about another week(2 weeks in total in vietnam). I've gotten horrible cellphone service since I've been here. only time I've gotten somewhat decent service is when I'm either on a wifi connection, or when I visited Vung Tau. \n I'm American and currently have AT&T cellphone service. wishing I had picked up a Vietnamese sim card before I left the airport. I rely heavily on Google translate to understand different people here.\n    submitted by    /u/Wafer_Stock  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17pgitz/how_good_are_the_cellphone_sim_cards_at_the/",
+          "publishedOn": "2023-11-06T23:32:03.000Z",
+          "wordCount": 2640,
+          "title": "how good are the cellphone sim cards at the airports?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17pg984/can_ninh_binh_be_skipped/",
+          "author": null,
+          "description": "Just want your thoughts on this. \n I’ll be spending some time up North doing the Ha Giang Loop and Ha Long Bay, I have a few days left to explore Hanoi and was thinking of doing a day trip to Ninh Binh though it could be quite tiring and was thinking of if I should skip that and spend some more time exploring in Hanoi.\n    submitted by    /u/That_Sweet_Science  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17pg984/can_ninh_binh_be_skipped/",
+          "publishedOn": "2023-11-06T23:20:04.000Z",
+          "wordCount": 2625,
+          "title": "Can Ninh Binh be skipped?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17pg7b5/family_honorifics_for_cousins/",
+          "author": null,
+          "description": "I ended up getting a little lost on Google reading about people explaining the terms you would use to talk to other people in Vietnamese (chị, cậu, etc.) and I got a bit curious since I didn't see anything about this: Is it common to address your cousins differently based on their parents' age in relation to your own parents? I will add that I am Vietnamese myself, and I call all my cousins whose parents are older than mine \"chị/anh\" (vice versa for younger and \"em\"), but is this the standard? Was curious since it does sometimes lead to me calling my cousins who are much older than me \"Em\" and my middle schooler cousins \"Anh\", and I always found it a bit funny\n    submitted by    /u/pweep_3001  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17pg7b5/family_honorifics_for_cousins/",
+          "publishedOn": "2023-11-06T23:17:35.000Z",
+          "wordCount": 2684,
+          "title": "Family honorifics for cousins?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17pfuks/found_this_wound_after_the_ha_long_bay_trip/",
+          "author": null,
+          "description": "Does anyone know what happened to my arm? A little bit stinging and itchy, it’s been 5 days. Did some research and my best guess is bitten by Hypoderma bovis.\n    submitted by    /u/eddykung  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17pfuks/found_this_wound_after_the_ha_long_bay_trip/",
+          "publishedOn": "2023-11-06T23:01:38.000Z",
+          "wordCount": 2588,
+          "title": "Found this wound after the Ha Long Bay trip",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17pe4qf/recommendations/",
+          "author": null,
+          "description": "Hello, \n I need some advice, please. I will stay in Hanoi for one and a half days, and I want to do a one-day trip. However, I'm a bit hesitant about which option to choose:\n 1) Halong Bay (Route 2)\n 2) Ninh Binh (Hoa Lu, Trang An, Tam Coc, Hang Mua)\n 3) Bai Dinh, Trang An, Mua Cave\n Thank you so much\n    submitted by    /u/ImpressiveWorth6802  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17pe4qf/recommendations/",
+          "publishedOn": "2023-11-06T21:48:56.000Z",
+          "wordCount": 2609,
+          "title": "Recommendations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17pcvaa/looking_for_brother/",
+          "author": null,
+          "description": "My daughter recently did a 23 & Me test and it shows that I have a brother that is Vietnamese/American. My dad served in Vietnam 69-71. Does anyone know of a forum to post or search for this type of thing? I would love to connect with him. We did try emailing him thru the 23 & Me site but his profile hasn't been active in a few weeks. His name is Kevin Nguyen. Any help would be great! \n    submitted by    /u/beckyp1234  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17pcvaa/looking_for_brother/",
+          "publishedOn": "2023-11-06T20:57:59.000Z",
+          "wordCount": 2637,
+          "title": "Looking for Brother",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17pc7d3/i_walked_100km_to_eat_b%C3%BAn_b%C3%B2_hu%E1%BA%BF/",
+          "author": null,
+          "description": "This guy amazing!\n    submitted by    /u/Any-Pain6938  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17pc7d3/i_walked_100km_to_eat_b%C3%BAn_b%C3%B2_hu%E1%BA%BF/",
+          "publishedOn": "2023-11-06T20:29:18.000Z",
+          "wordCount": 2567,
+          "title": "I Walked 100km To Eat Bún Bò Huế 🇻🇳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17pby9m/is_this_a_girl_bar_scam_im_walking_into/",
+          "author": null,
+          "description": "Convo up until this point have basically just been her stating her interests as liking wine and laughing gas balloons in broken English.\n    submitted by    /u/AnyEnvironment6889  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17pby9m/is_this_a_girl_bar_scam_im_walking_into/",
+          "publishedOn": "2023-11-06T20:18:25.000Z",
+          "wordCount": 2598,
+          "title": "Is this a girl bar scam I’m walking into?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17pbvlq/fake_certification_on_sale_wtf/",
+          "author": null,
+          "description": "Don't tell me why I hate google badly! They even put captcha and all kind of hard shit to prevent a fucking human report it.\n    submitted by    /u/ngdangtu  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17pbvlq/fake_certification_on_sale_wtf/",
+          "publishedOn": "2023-11-06T20:15:05.000Z",
+          "wordCount": 2596,
+          "title": "Fake certification on sale! WTF?!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17p3h31/i_love_this_country/",
+          "author": null,
+          "description": "submitted by    /u/Illustrious-Safe-536  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17p3h31/i_love_this_country/",
+          "publishedOn": "2023-11-06T14:05:55.000Z",
+          "wordCount": 2567,
+          "title": "I love this country",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17p2q7e/i_tried_tinder_and_wondering_whats_up_with_some/",
+          "author": null,
+          "description": "Ok I see the patterns. Whenever I matched them, they responses very fast, asked my age, my career, a contact right away like a heartbeat. I feel not normal since people like to have some more natural convos to get the “vibe” before asking contact.\n Anyone has or knows these scenarios? Does it sound scammy to y’all or I’m overthinking 😂\n Edit: they have the same career: “shareholder of my aunt’s business. And none of them had verified profile\n    submitted by    /u/Loveyou2022  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17p2q7e/i_tried_tinder_and_wondering_whats_up_with_some/",
+          "publishedOn": "2023-11-06T13:28:27.000Z",
+          "wordCount": 2645,
+          "title": "I tried Tinder and wondering what’s up with some Chinese/Koreans dude",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17p299m/why_do_locals_want_selfies_very_curious/",
+          "author": null,
+          "description": "Just arrived in Hoi An. Staying about 30 minutes away from the tourist part of the town and just stopped in a place with lots of locals having a drink. We have been asked for a picture by the owners for a pic of just us ( we thought maybe to put on their website or something like that ) but then also by someone in the bar who just wanted a selfie. This is our first time in Vietnam and just would like to know why. We dont care we laughed and also asked for a picture with them too just wanted some idea as to why. To preface we are very white with pale skin and from Liverpool which we did tell them- not sure if this is a reason but let us know if so !\n    submitted by    /u/Misterperson88  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17p299m/why_do_locals_want_selfies_very_curious/",
+          "publishedOn": "2023-11-06T13:03:51.000Z",
+          "wordCount": 2696,
+          "title": "Why do locals want selfies ? Very curious!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17p1w4s/what_are_they_thinking_is_it_all_money/",
+          "author": null,
+          "description": "exchanging nearly 4 hectares of world natural heritage buffer zone with beautiful landscapes for an urban area including: 451 villas and townhouses; rough construction and finishing of the exterior of 52 villas. There are also commercial and service projects, including 7-floors hotels.\n    submitted by    /u/Parasyte-vn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17p1w4s/what_are_they_thinking_is_it_all_money/",
+          "publishedOn": "2023-11-06T12:43:18.000Z",
+          "wordCount": 2606,
+          "title": "What are they thinking? is it all money? 🤬",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17p1kr0/do_people_seem_to_age_faster_in_saigon/",
+          "author": null,
+          "description": "I'm in my mid 30s and visiting Vietnam right now. I feel like I look so much younger than all the men here. I am constantly calling them anh. \n Seems like this is especially true in Saigon. Is it the pollution? The constant hustle of city life? The cigarette smoking? The beer consumption? Poor quality of food? \n In phu quoc, I notice ppl look a bit younger and overall happier.\n    submitted by    /u/pally_hater_9854  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17p1kr0/do_people_seem_to_age_faster_in_saigon/",
+          "publishedOn": "2023-11-06T12:25:32.000Z",
+          "wordCount": 2633,
+          "title": "Do people seem to age faster in Saigon?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17p0czy/17_tu%E1%BB%95i_cao_1m6_c%C3%B3_qu%C3%A1_t%E1%BB%87_ko/",
+          "author": null,
+          "description": "submitted by    /u/quibuda  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17p0czy/17_tu%E1%BB%95i_cao_1m6_c%C3%B3_qu%C3%A1_t%E1%BB%87_ko/",
+          "publishedOn": "2023-11-06T11:09:46.000Z",
+          "wordCount": 2561,
+          "title": "17 tuổi cao 1m6 có quá tệ ko??",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17p0ab8/can_you_tell_me_what_it_is_someone_gave_it_to_me/",
+          "author": null,
+          "description": "It was sweet, similar to mochi I would say.\n    submitted by    /u/ViolentNun  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17p0ab8/can_you_tell_me_what_it_is_someone_gave_it_to_me/",
+          "publishedOn": "2023-11-06T11:04:33.000Z",
+          "wordCount": 2585,
+          "title": "Can you tell me what it is, someone gave it to me and it was delicious.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17oznf1/honesty_a_taboo_in_vietnam/",
+          "author": null,
+          "description": "Example: A friend of mine wants to drop a invitation to another friend because he's tired, but still say yes because he's afraid to hurt the friend's feeling and that the friend might get offended. But they been meeting each other every weekend for like ever to sing karaoke and drink. This is just one prime examples of many I've encountered. If he is tired, then he should say he needs a time off.\n    submitted by    /u/Familiar_Ad_4885  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17oznf1/honesty_a_taboo_in_vietnam/",
+          "publishedOn": "2023-11-06T10:19:25.000Z",
+          "wordCount": 2634,
+          "title": "Honesty a taboo in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17oyehy/tips_how_to_stay_comfy_healthy_in_hanoi_in_autumn/",
+          "author": null,
+          "description": "submitted by    /u/pomegranatebasket  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17oyehy/tips_how_to_stay_comfy_healthy_in_hanoi_in_autumn/",
+          "publishedOn": "2023-11-06T08:40:52.000Z",
+          "wordCount": 2575,
+          "title": "TIPS: How to stay Comfy & Healthy in Hanoi in Autumn?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17oxx10/eight_provinces_of_korea_in_vietnamese_along_with/",
+          "author": null,
+          "description": "submitted by    /u/Brightsea129  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17oxx10/eight_provinces_of_korea_in_vietnamese_along_with/",
+          "publishedOn": "2023-11-06T08:04:57.000Z",
+          "wordCount": 2576,
+          "title": "\"Eight Provinces of Korea\" in Vietnamese along with Korean and Hanja/Hán Tự",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17ow293/waiters_servers_shop_staff_shadowing_you_in/",
+          "author": null,
+          "description": "Something I have noticed during my time in Vietnam is that in many of the stores, restaurants etc you go into (generally the more expensive ones) the staff give the ‘hello sir’ and then just sort of stand right near you and watch, as you browse, as you decide, as you calculate cash for the bill etc. I’ve even had it where there are multiple workers stood looking at me. I find it incredibly off-putting and it usually just makes me want to leave immediately as I feel under pressure.\n Has anybody else noticed this phenomena? Is it normal?\n    submitted by    /u/Calm_Bookkeeper_6336  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17ow293/waiters_servers_shop_staff_shadowing_you_in/",
+          "publishedOn": "2023-11-06T05:52:10.000Z",
+          "wordCount": 2662,
+          "title": "Waiters, servers, shop staff shadowing you in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17ovgup/endangered_redshanked_douc_spotted_in_da_nang/",
+          "author": null,
+          "description": "submitted by    /u/aWarrior_InTheGarden  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17ovgup/endangered_redshanked_douc_spotted_in_da_nang/",
+          "publishedOn": "2023-11-06T05:12:41.000Z",
+          "wordCount": 2572,
+          "title": "Endangered Red-shanked douc spotted in Da Nang, Vietnam! 🇻🇳 A rare and beautiful sight.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17oux5b/tan_son_nhat_saigon_airport_has_some_of_the/",
+          "author": null,
+          "description": "From my many years of travelling, visiting all of Southeast Asia except Laos and Myanmar, East Asia and India, it's my first time an airport staff aggressively shouted at me. \n After the Immigration, the guy who checks your passport and boarding pass in the final security check, alerted me that there's an issue with my check-in baggage. He told me to wait in the waiting area. I was very nervous since it's the first time that my baggage was questioned. And I kept thinking of worst case scenario like finding illegal items and being fined etc. I was waiting for a few minutes and asked politely (saying \"Sir\") and he said that the staff from the airline is arriving. There's no one at the security screening at that point and after several minutes, asked him politely again, and then he shouted in a loud aggressive voice \"I TOLD YOU TO WAIT HUH. WAIT!! \" and I was shocked by that aproach. Even his fellow staff looked at him. \n I was shaken by his aggressive reply and just sat in my seat while he just turned his back at me. Fortunately, the airline staff arrived and accompanied me at the baggage screening. It was a pocket wifi and it's carry on only. After clearing, I went to other side of security and went to boarding gates.\n (Also earlier, the lady at the check-in counter seems very testy, the way she processed the check-in procedures) \n The staff at Saigon Airport seems to be in a lot of stress and not very friendly. I really had a bad experience on this Airport and it made a pretty bad impression as a visitor, , unlike the ones in Hanoi and Da Nang.. Honestly, from the attitude of staff and the whole airport experience (queueing, check-in), it's much worse than the comparable NAIA (Manila) T3. Next time, I will choose Da Nang or Hanoi Airport.\n    submitted by    /u/winterreise_1827  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17oux5b/tan_son_nhat_saigon_airport_has_some_of_the/",
+          "publishedOn": "2023-11-06T04:39:10.000Z",
+          "wordCount": 2888,
+          "title": "Tan Son Nhat (Saigon) Airport has some of the rudest staff I encountered..",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/17oo5bf/any_other_town_or_village_that_is_a_must_see/",
           "author": null,
@@ -7187,206 +7437,6 @@
           "wordCount": 2650,
           "title": "Licensing / publishing of an academic textbook (English)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172wsgv/disgusting_behaviour_from_youtuber/",
-          "author": null,
-          "description": "Skip to 3:50 to hear absolutely appalling rant.\n    submitted by    /u/alvin_08  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172wsgv/disgusting_behaviour_from_youtuber/",
-          "publishedOn": "2023-10-08T11:23:13.000Z",
-          "wordCount": 2574,
-          "title": "Disgusting behaviour from YouTuber",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172w11e/rant_i_absolutely_despise_cong_nong_vehicle_with/",
-          "author": null,
-          "description": "For those who didn't know, it's a mini truck/tractor-like vehicle used for transporting materials for construction. Folks living in modern city areas might have the privilege of not having to witness or experience this atrocity.\n Man, screw this damned of an ancient, older than dino-fossil, out-dated, dirty vehicle that pumps out zillion tons of harmful smokes, from black to blue in color, to the atmosphere for every meter it goes.\n I live in a suburban area where construction of houses is frequent, and this damned vehicle goes rampant on the street, crossing my house once every 3-5 minutes for hours straight, that's how crazy and obnoxious it is. My biggest problem is not its noise, but the amount of godawful enormous smoke emissions it produces.\n Ever travel on a road when you're riding a bicycle BEHIND this monster ? Yeah dude, have fun inhaling ALL that smoke this vehicle constantly pumps out of itself all the way until you reach your destination. This thing should absolutely be banned for harmful effects to environment and people alike.\n That's it. Thanks for coming to my TEDx talk\n    submitted by    /u/reddit_API_is_shit  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172w11e/rant_i_absolutely_despise_cong_nong_vehicle_with/",
-          "publishedOn": "2023-10-08T10:37:16.000Z",
-          "wordCount": 2741,
-          "title": "Rant: I absolutely despise \"cong nong\" vehicle with every fiber of my being",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172vwc3/trying_to_summarize_common_nem_dishes_for_my_gf_i/",
-          "author": null,
-          "description": "submitted by    /u/IDontKnowVietnam  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172vwc3/trying_to_summarize_common_nem_dishes_for_my_gf_i/",
-          "publishedOn": "2023-10-08T10:28:55.000Z",
-          "wordCount": 2579,
-          "title": "Trying to summarize common nem dishes for my gf, i hope this is accurate. Is there anymore dishes that i should know?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172tmp3/getting_invited_to_girls_bars_in_da_nang/",
-          "author": null,
-          "description": "I arrived in Da Nang a few days ago and on Tinder basically all the girls I have matched with keep inviting me for drinks at the “bar” they work at. It seems like this is a scam or a ripoff at best. Does anyone have firsthand experience going to one of these places? If I go what can I expect? A semi-decent time or is it just something I should absolutely avoid like the plague?\n    submitted by    /u/waydethegreat  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172tmp3/getting_invited_to_girls_bars_in_da_nang/",
-          "publishedOn": "2023-10-08T08:04:28.000Z",
-          "wordCount": 2633,
-          "title": "Getting invited to girls bars in Da Nang",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172s0ii/in_vietnam_a_supermarket_provides_shock_discounts/",
-          "author": null,
-          "description": "submitted by    /u/Miserable_Diet_4453  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172s0ii/in_vietnam_a_supermarket_provides_shock_discounts/",
-          "publishedOn": "2023-10-08T06:20:55.000Z",
-          "wordCount": 2583,
-          "title": "In Vietnam, a supermarket provides shock discounts to encourage customers to shop during lean economic times. ( SỐC: KO GIẢM ~ Shock: No discount )",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172pb30/found_this_little_guy_he_has_been_here_since_the/",
-          "author": null,
-          "description": "what should i name him\n    submitted by    /u/MakeALiving1403  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172pb30/found_this_little_guy_he_has_been_here_since_the/",
-          "publishedOn": "2023-10-08T03:42:44.000Z",
-          "wordCount": 2576,
-          "title": "Found this little guy, he has been here since \"the flood of Hanoi\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172nuem/will_vietnam_economically_catch_up_to_east_asian/",
-          "author": null,
-          "description": "Much of the developed world is expected to have an impending population crisis due to very low fertility rates. Although Vietnam's fertility rate is below replacement level as well, it is still much higher than that of China/Japan/Korea/Taiwan/HK. There seems to have been a lot of economic growth and potential, but I don't know much about geopolitics and economics.\n    submitted by    /u/watersel  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172nuem/will_vietnam_economically_catch_up_to_east_asian/",
-          "publishedOn": "2023-10-08T02:27:05.000Z",
-          "wordCount": 2613,
-          "title": "Will Vietnam economically catch up to East Asian countries within this century?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172lrg2/m%E1%BB%A5t_m%C3%A0u_%C4%91%E1%BB%8F_n%E1%BB%95i_%E1%BB%9F_ng%E1%BB%B1c_red_pimples_on_chest/",
-          "author": null,
-          "description": "Xin chào các thành viên, tôi có nổi một số mụt đỏ ở ngực như thế này và không biết đó là gì, tôi khá lo lắng, có ai biết và cách khắc phục không, cảm ơn rất nhiều. \n Hello members, I have some red pimples on my chest like this and don't know what they are, I'm quite worried, does anyone know and how to treatment, thank you very much.\n    submitted by    /u/hanis-88  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172lrg2/m%E1%BB%A5t_m%C3%A0u_%C4%91%E1%BB%8F_n%E1%BB%95i_%E1%BB%9F_ng%E1%BB%B1c_red_pimples_on_chest/",
-          "publishedOn": "2023-10-08T00:44:02.000Z",
-          "wordCount": 2641,
-          "title": "Mụt màu đỏ nổi ở ngực / Red pimples on chest",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172lp2r/ph%E1%BA%A3i_l%C3%A0m_sao_%C4%91%C3%A2y/",
-          "author": null,
-          "description": "Hiện tại em đang quen 1 bạn bisexual ( là mqh đồng giới ạ), công việc của bạn ấy thì phải thường xuyên tiếp xúc với nữ và lâu lâu bạn ấy cũng xxx với nữ nữa, e biết bạn ấy là 1 bi và vẫn còn 1 phần thích nữ, tuy bạn ấy vẫn đối xử rất tốt với em,nhưng mà cái cảm giác mà biết ngiu mình làm chuyện ấy với người khác cứ khó chịu sao và buồn trong lòng, dẫu là biết khác giới nhưng e ko chịu được cảm giác đó ạ.E mong mọi người cho e ý kiến là có nên kết thúc mối tình này hay phải mở lòng cảm thông đây vậy ạ :((\n    submitted by    /u/Happy_Silver157  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172lp2r/ph%E1%BA%A3i_l%C3%A0m_sao_%C4%91%C3%A2y/",
-          "publishedOn": "2023-10-08T00:40:45.000Z",
-          "wordCount": 2675,
-          "title": "Phải Làm Sao Đây",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172j4dj/doubt_regarding_a_bamboo_airways_booking/",
-          "author": null,
-          "description": "Hey Guys, I'll be Visiting Vietnam in December, and booked a flight from Bamboo Airways for Phu Quoc to Ho Chi Minh. When i Booked, The website was set as Vietnam English (Locationa and Language) and I made the transaction in VND through an International Card. But when I'm checking the same flight through Trip.com or Global USD Mode of the Website, The prices are doubled. Did i just got a sweet deal or made a huge mistake? Will it be a problem if a foreigner has a ticket booked from the Website in VND? Please Help if you have some information regarding this. \n Chào các bạn, tháng 12 mình sẽ về thăm Việt Nam và đặt vé máy bay Bamboo Airways đi Phú Quốc đi Hồ Chí Minh. Khi tôi đặt chỗ, trang web được đặt là tiếng Việt (Vị trí và ngôn ngữ) và tôi đã thực hiện giao dịch bằng VNĐ thông qua Thẻ quốc tế. Nhưng khi tôi kiểm tra cùng một chuyến bay thông qua Trip.com hoặc Chế độ USD toàn cầu của Trang web, Giá sẽ tăng gấp đôi. Tôi vừa có được một thỏa thuận ngọt ngào hay đã phạm một sai lầm lớn? Sẽ có vấn đề gì nếu người nước ngoài đặt vé từ Trang web bằng VNĐ? Xin hãy giúp đỡ nếu bạn có một số thông tin liên quan đến điều này.\n    submitted by    /u/shashaank99  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172j4dj/doubt_regarding_a_bamboo_airways_booking/",
-          "publishedOn": "2023-10-07T22:41:58.000Z",
-          "wordCount": 2787,
-          "title": "Doubt regarding a Bamboo Airways Booking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172iefs/football_kits/",
-          "author": null,
-          "description": "Hello. I'm travelling to Hanoi and Da Nang next week from Australia. Can anyone recommend good places to buy football kits, premier league and local leagues? Thank you\n    submitted by    /u/Hungry_Objective_347  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172iefs/football_kits/",
-          "publishedOn": "2023-10-07T22:10:21.000Z",
-          "wordCount": 2578,
-          "title": "Football kits",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172fnlo/t%C3%B4i_y%C3%AAu_m%E1%BB%99t_c%C3%B4_g%C3%A1i_trong_gi%E1%BA%A5c_m%C6%A1/",
-          "author": null,
-          "description": "Tôi đã gặp một cô gái trong mơ, ở đó tôi có một thời gian ở bên cô ấy, đương nhiên là bây giờ khi ngồi đây tôi không thể nhớ rõ khuôn mặt của cô ấy ra sao nhưng tôi chỉ biết rằng cô ấy rất xinh và tôi yêu cô ấy Tôi có xem một video về giấc mơ rằng khi ta mơ những người ta gặp trong đó là những người chúng ta gặp được ở ngoài dù 1 lần dù chỉ lướt qua. Tôi chả biết là điều này đúng không nhưng tôi ước rằng sẽ được gặp em một lần nữa.\n    submitted by    /u/Ke_Meme  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172fnlo/t%C3%B4i_y%C3%AAu_m%E1%BB%99t_c%C3%B4_g%C3%A1i_trong_gi%E1%BA%A5c_m%C6%A1/",
-          "publishedOn": "2023-10-07T20:12:35.000Z",
-          "wordCount": 2663,
-          "title": "Tôi yêu một cô gái trong giấc mơ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172ehut/being_a_single_mother_in_vn/",
-          "author": null,
-          "description": "Is there any stigma against them here? I know a woman, 28, who has photos of herself with her younger sister. Considering their 19 year age gap though, I'm beginning to wonder if the younger sister is her daughter. It's the way she holds her that makes me consider this. \n I wonder if she disguises her daughter as a younger sister just to avoid potential stigma.\n    submitted by    /u/Palgan  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172ehut/being_a_single_mother_in_vn/",
-          "publishedOn": "2023-10-07T19:20:44.000Z",
-          "wordCount": 2620,
-          "title": "Being a single mother in VN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172bf7p/restaurant_names/",
-          "author": null,
-          "description": "Hi, I'm not sure this is the correct place to post but I will give it a try. Thinking bout opening up a Vietnamese restaurant in NY, looking for name recommendations for said restaurant. Looking for a simple and elegant name. Please help!\n Sorry forgot to mention, no pho in the name please. Kinda of played out 🤷‍♂️. Something simple but would represent Vietnam.\n    submitted by    /u/JimmyStacks78  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172bf7p/restaurant_names/",
-          "publishedOn": "2023-10-07T17:12:24.000Z",
-          "wordCount": 2608,
-          "title": "Restaurant Names",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172bcgl/nature_for_a_few_weeks_suggestions_please/",
-          "author": null,
-          "description": "Looking for a beautiful place in nature to spend a few weeks relaxing. And exploring. \n I like the sound of Phong Nha-Ke Bang National Park. Would prefer somewhere that’s calming, friendly locals and good nature to explore by bike. \n Any specific suggestions for both places, and lodgings, would be really appreciated. \n Thanks\n    submitted by    /u/AdEqual6191  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172bcgl/nature_for_a_few_weeks_suggestions_please/",
-          "publishedOn": "2023-10-07T17:09:12.000Z",
-          "wordCount": 2607,
-          "title": "Nature for a few weeks, suggestions please.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/172abv1/sacombank_atm_ate_my_card/",
-          "author": null,
-          "description": "So I’m an American traveling and got here in Da Nang. It’s Saturday night here in Da Nang. I used one of the Sacombank’s ATM and it ate my card. I called the number on the ATM and told my situation. He says I need to call my own bank and get a confirmation letter saying that it’s my card and take that letter to a Sacombank’s branch here on Monday. So I called my own bank (Citibank) and they tell me that they can only provide a Reference Letter with my account number (not the Debit Card number) and it will take a week to get that letter or they can expedite a card and send it by Tuesday. The issue is, I leave here Tuesday morning to Hanoi. That card is my only card for cash and what not. What the hell do I do?\n    submitted by    /u/Striking_Ring3863  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/172abv1/sacombank_atm_ate_my_card/",
-          "publishedOn": "2023-10-07T16:26:01.000Z",
-          "wordCount": 2700,
-          "title": "Sacombank ATM Ate my card",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17292li/is_there_a_tech_community_in_vietnam/",
-          "author": null,
-          "description": "I’ll be staying in Vietnam for a few months. I’m curious to find out if there are local communities of tech people who do meet-ups or learning groups. I took a look around “Meetup” app but not much to see there.\n    submitted by    /u/borderline-awesome-  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17292li/is_there_a_tech_community_in_vietnam/",
-          "publishedOn": "2023-10-07T15:29:49.000Z",
-          "wordCount": 2596,
-          "title": "Is there a tech community in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1728suf/how_to_make_vietnamese_friends/",
-          "author": null,
-          "description": "Chào mọi người!! Tôi mới sang Việt Nam và tôi đang là sinh viên người nước ngoài. Tôi chưa có bạn người việt nam.\n    submitted by    /u/Same_Duty_1169  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1728suf/how_to_make_vietnamese_friends/",
-          "publishedOn": "2023-10-07T15:17:35.000Z",
-          "wordCount": 2578,
-          "title": "How to make Vietnamese friends?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1728ssy/watched_hoang_thuy_linh_vietnamese_concert_as_a/",
-          "author": null,
-          "description": "Went to saigon just to watch HTL vietnamese concert. I just want to see her live and check on the concern scene.\n What I observed : \n The concert venue looks like an old gymnasium with pipes on the way inside the concert grounds which is unsafe since someone can trip over. \n But the stage and production value of the concert was superb. The stage has mulple large LED display panel, smoke effects and fire effects. There are orchestra situated in the back of large display panel. There is 3 or 4 different drones on the whole duration of the concert. And multiple cameras all over the place. \n The songs performed was on her album hoang and link and the encore song is an unreleased song together with the artist in Gieo Que. \n Most of the audience are singing along with the songs and they coordinatedly changing the color of their light sticks in the color of the LED display. \n I really enjoyed the arrangement of the songs in the last 5 songs since it has a live rock band feel specially with the drummers performance. \n About HTL performance though was underwhelming. Her voice feels to me is lipsynced (or maybe overprocessed?). There is no interaction with the audience and feels that it is a performance video and not a concert. I dont know if this a vietnamese thing since most of the concert i gone to has a least interaction to the fans / audience. \n Overall i enjoyed the concert despite some flaws.\n    submitted by    /u/djsensui  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1728ssy/watched_hoang_thuy_linh_vietnamese_concert_as_a/",
-          "publishedOn": "2023-10-07T15:17:32.000Z",
-          "wordCount": 2810,
-          "title": "Watched Hoang Thuy Linh Vietnamese concert as a foreigner.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1727x1l/whats_the_most_commonly_available_covid_19/",
-          "author": null,
-          "description": "Just generally curious. Here in US Jansen practically disappeared after the blood clot scare. Phizer and Moderna pretty much the only ones now\n    submitted by    /u/ThrowThisAccountAwav  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1727x1l/whats_the_most_commonly_available_covid_19/",
-          "publishedOn": "2023-10-07T14:39:14.000Z",
-          "wordCount": 2583,
-          "title": "What's the most commonly available covid 19 vaccine available in VN now?",
-          "imageUrl": null
         }
       ]
     },
@@ -7395,6 +7445,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/",
+          "author": "Andrico Karoulla",
+          "description": "The browser has a built-in way of writing reusable components in the form of web components. They’re an excellent choice for building interactive and reusable components that work in any frontend framework.  With that said, writing highly interactive and robust web components isn’t simple. They require a lot of",
+          "link": "https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/",
+          "publishedOn": "2023-11-06T20:25:12.000Z",
+          "wordCount": 3089,
+          "title": "How to Write Components that Work in Any Framework",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/og-button.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/trello-stack-overflow-founder-joel-spolsky-podcast-interview/",
           "author": "Quincy Larson",
