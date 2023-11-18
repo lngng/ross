@@ -12,6 +12,26 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C8DE9BC.WindAdvisory.12666C9AF9E0CA.LOXNPWLOX.d5b7479e56e4079de7900e1833187234",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 10 PM PST THIS EVENING... ...HIGH WIND WATCH IN EFFECT FROM LATE SATURDAY NIGHT THROUGH SUNDAY EVENING... * WHAT...For the Wind Advisory, south winds 20 to 30 mph with gusts up to 50 mph. For the High Wind Watch, north winds 25 to 40 mph with gusts of 60 to 80 mph possible and locally higher",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C8DE9BC.WindAdvisory.12666C9AF9E0CA.LOXNPWLOX.d5b7479e56e4079de7900e1833187234",
+          "publishedOn": "2023-11-17T20:39:00.000Z",
+          "wordCount": 286,
+          "title": "Wind Advisory issued November 17 at 12:39PM PST until November 17 at 10:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C8DE9BC.HighWindWatch.12666CB9CC80CA.LOXNPWLOX.448ee03e904567128c39507befb390d0",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 10 PM PST THIS EVENING... ...HIGH WIND WATCH IN EFFECT FROM LATE SATURDAY NIGHT THROUGH SUNDAY EVENING... * WHAT...For the Wind Advisory, south winds 20 to 30 mph with gusts up to 50 mph. For the High Wind Watch, north winds 25 to 40 mph with gusts of 60 to 80 mph possible and locally higher",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C8DE9BC.HighWindWatch.12666CB9CC80CA.LOXNPWLOX.448ee03e904567128c39507befb390d0",
+          "publishedOn": "2023-11-17T20:39:00.000Z",
+          "wordCount": 289,
+          "title": "High Wind Watch issued November 17 at 12:39PM PST until November 20 at 12:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C7EEEF8.WindAdvisory.12666C9AF9E0CA.LOXNPWLOX.d5b7479e56e4079de7900e1833187234",
           "author": null,
           "description": "...WIND ADVISORY IN EFFECT FROM 10 AM TO 10 PM PST FRIDAY... * WHAT...South to southeast winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Santa Barbara County Interior Mountains, Northern Ventura County Mountains and Interstate 5 Corridor. * WHEN...From 10 AM to 10 PM PST Friday.",
@@ -720,16 +740,6 @@
           "wordCount": 363,
           "title": "Heat Advisory issued October 19 at 12:15PM PDT until October 19 at 8:00PM PDT by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126666A746B0.HeatAdvisory.126666C32830CA.LOXNPWLOX.e640dbd67a66c428769c43deba2f52b6",
-          "author": null,
-          "description": "...HEAT ADVISORY IN EFFECT FROM 10 AM TO 8 PM PDT THURSDAY... * WHAT...Temperatures between 94 and 101 in the valleys and Santa Monica Mountains, and between 85 and 93 in the Palos Verdes Hills. * WHERE...Portions of southwest California. * WHEN...From 10 AM to 8 PM PDT Thursday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126666A746B0.HeatAdvisory.126666C32830CA.LOXNPWLOX.e640dbd67a66c428769c43deba2f52b6",
-          "publishedOn": "2023-10-18T20:28:00.000Z",
-          "wordCount": 352,
-          "title": "Heat Advisory issued October 18 at 1:28PM PDT until October 19 at 8:00PM PDT by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -738,6 +748,196 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xtu3r/help_with_45_min_interview_for_a_cultural/",
+          "author": null,
+          "description": "Hi everyone, I am studying sleeping arrangements in Southeast Asian sleeping arrangements for a graduate school final project. If you are from Vietnam (preferrably live in Vietnam also) and could spare 30-45 mins to answer a few questions, I would really appreciate it! We can find a time that works for both of us and set up a Zoom meeting, thank you!\n    submitted by    /u/Earlmom  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xtu3r/help_with_45_min_interview_for_a_cultural/",
+          "publishedOn": "2023-11-18T00:35:48.000Z",
+          "wordCount": 2647,
+          "title": "Help with 45 min interview for a Cultural Psychology class",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xtiem/best_way_to_send_money_to_vietnam/",
+          "author": null,
+          "description": "What is the best way to send money to vn to relatives?\n Does vietnamese people use paypal?\n    submitted by    /u/always_avg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xtiem/best_way_to_send_money_to_vietnam/",
+          "publishedOn": "2023-11-18T00:20:50.000Z",
+          "wordCount": 2599,
+          "title": "Best way to send money to vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xt5qx/hai_van_pass_in_vietnam_the_road_is_beautiful_but/",
+          "author": null,
+          "description": "submitted by    /u/VNCharmTravel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xt5qx/hai_van_pass_in_vietnam_the_road_is_beautiful_but/",
+          "publishedOn": "2023-11-18T00:04:40.000Z",
+          "wordCount": 2586,
+          "title": "Hai Van Pass in Vietnam. The road is beautiful but also dangerous.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xsywn/too_hard_for_vietnam_to_become_industrialized/",
+          "author": null,
+          "description": "Can Vietnam become a manufacturing hub in Southeast Asia? Isn't Indonesia and the Philippines at the moment the dominat countries in manufacturing in the region? Can we catch up to them?\n    submitted by    /u/Familiar_Ad_4885  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xsywn/too_hard_for_vietnam_to_become_industrialized/",
+          "publishedOn": "2023-11-17T23:56:19.000Z",
+          "wordCount": 2613,
+          "title": "Too hard for Vietnam to become industrialized?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xqhde/first_day_experience_in_vietnam/",
+          "author": null,
+          "description": "Wow what can I say, it's been 18 years since I've been here, I came here when I was 12 and when bird flu was an issue. It's so incredibly different, for context, I'm Vietnamese Australian and being here made me fall in love with the life here, although maybe that's idealistic but living in a western society for so long made me realise how deeply problematic the social system and dynamic are, it might work for some and it might not work for others but I love it here, btw this is my first solo trip and well... So far here's my experience, the ho Chi Minh song from vietjetair is stuck in my head, I feel a deep sense of pride for him even though I wasn't born here,I oddly comfortable here, I ate Banh mi Huynh hoa, I spoke to the locals, I got scammed but hey it's all experienced so I'm not mad, just a little disappointed but hey it's life. People are helpful, willing to help.\n So I guess this probably a very adventurous start, and a big welcome to Vietnam. Wow, that's day 1 anyway till I post again, next flight Hanoi !\n If there is anything fun to do and awesome food/drink to try, please let me know ! \n    submitted by    /u/deeragunz_11  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xqhde/first_day_experience_in_vietnam/",
+          "publishedOn": "2023-11-17T22:06:46.000Z",
+          "wordCount": 2796,
+          "title": "First day experience in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xqfwm/where_can_i_watch_the_national_football_team/",
+          "author": null,
+          "description": "submitted by    /u/daphamman  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xqfwm/where_can_i_watch_the_national_football_team/",
+          "publishedOn": "2023-11-17T22:05:06.000Z",
+          "wordCount": 2586,
+          "title": "Where can I watch the national football team world cup qualification matches? (Online)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xqfgs/where_to_source_for_these_online/",
+          "author": null,
+          "description": "I have been looking for some furnitures like this mini foldable chair and table. Any advice on websites which I can source them at? Can name drop some physical stores in Ho Chi Minh City as well :)\n    submitted by    /u/No-Lengthiness-3397  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xqfgs/where_to_source_for_these_online/",
+          "publishedOn": "2023-11-17T22:04:34.000Z",
+          "wordCount": 2630,
+          "title": "Where to source for these online?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xnjh5/any_interesting_things_to_do_in_ca_mau_can_tho/",
+          "author": null,
+          "description": "Visiting Vietnam with my wife's family and seeing her extended family in the south. \n Is there anything cool to do or see in these two cities while I am there? Something nature-based or any other activities would be much appreciated advice.\n Thank you!\n    submitted by    /u/weirdhobo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xnjh5/any_interesting_things_to_do_in_ca_mau_can_tho/",
+          "publishedOn": "2023-11-17T19:56:48.000Z",
+          "wordCount": 2628,
+          "title": "Any interesting things to do in Ca Mau, Can Tho?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xjkah/how_is_the_employment_situation/",
+          "author": null,
+          "description": "As above, how are you guys faring ?. Its bad out there in the real estate sector.\n ​\n    submitted by    /u/cuong407  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xjkah/how_is_the_employment_situation/",
+          "publishedOn": "2023-11-17T16:59:46.000Z",
+          "wordCount": 2597,
+          "title": "How is the employment situation?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xjg9m/t%E1%BA%BFt_and_l%C3%AC_x%C3%AC/",
+          "author": null,
+          "description": "Its early, but just curious—how much do you usually give for lì xì to those younger than you? What about a younger significant other?\n    submitted by    /u/Commercial_Ad707  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xjg9m/t%E1%BA%BFt_and_l%C3%AC_x%C3%AC/",
+          "publishedOn": "2023-11-17T16:54:32.000Z",
+          "wordCount": 2603,
+          "title": "Tết and Lì Xì",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xgpji/ha_giang_vietnam_loop_will_be_last_forever_do_you/",
+          "author": null,
+          "description": "submitted by    /u/VNCharmTravel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xgpji/ha_giang_vietnam_loop_will_be_last_forever_do_you/",
+          "publishedOn": "2023-11-17T14:49:09.000Z",
+          "wordCount": 2587,
+          "title": "Ha Giang, Vietnam loop will be last forever. Do you wanna join this?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xfebf/chau_doc/",
+          "author": null,
+          "description": "I hope to explore soon\n    submitted by    /u/fiddycaldeserteagle  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xfebf/chau_doc/",
+          "publishedOn": "2023-11-17T13:45:40.000Z",
+          "wordCount": 2593,
+          "title": "Chau Doc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xf5cp/3000_usdmonth_salary_for_senior_java_developer_at/",
+          "author": null,
+          "description": "​\n blue pin\n My concerns are:\n  \nair quality\n are there bike paths along those rivers where I can exercise\n can I rent a decent size apartment (over 40 sq. meters) within walking distance for under 1000 USD (prefer a bit lower).\n  \nI have never been to Vietnam but have only heard good things about living and working there. \n Please feel free to comment or advise.\n    submitted by    /u/webNoob13  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xf5cp/3000_usdmonth_salary_for_senior_java_developer_at/",
+          "publishedOn": "2023-11-17T13:32:33.000Z",
+          "wordCount": 2655,
+          "title": "3000 USD/month salary for senior Java developer at this location in Ho Chi Minh City",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xejdp/item_held_by_import_customs/",
+          "author": null,
+          "description": "So my brother sent me a mail from Canada, It has arrived and status said that “Item held by import Customs” so the letter is still at the customs \n Anyone has any idea that how long the letter will be released by the customs ?\n It is literally just a letter a paper \n Thank you\n    submitted by    /u/Diligent-Peanut2554  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xejdp/item_held_by_import_customs/",
+          "publishedOn": "2023-11-17T13:00:17.000Z",
+          "wordCount": 2646,
+          "title": "Item held by import Customs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xdlof/supplements_in_vietnam_l_theanine/",
+          "author": null,
+          "description": "Living in Da Nang. What's the best site or shop for this? L theanine.\n    submitted by    /u/vstefan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xdlof/supplements_in_vietnam_l_theanine/",
+          "publishedOn": "2023-11-17T12:05:38.000Z",
+          "wordCount": 2597,
+          "title": "Supplements in Vietnam ( L Theanine )",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xdkkr/ha_giang_vietnam_this_place_is_so_peaceful/",
+          "author": null,
+          "description": "submitted by    /u/VNCharmTravel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xdkkr/ha_giang_vietnam_this_place_is_so_peaceful/",
+          "publishedOn": "2023-11-17T12:03:46.000Z",
+          "wordCount": 2593,
+          "title": "Ha Giang, Vietnam. This place is so peaceful.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xcw7r/snake_in_%C4%91%E1%BB%93ng_h%E1%BB%9Bi_can_anyone_id/",
+          "author": null,
+          "description": "Saw the snake this afternoon near the beach, haven’t been able to pin down the species.\n    submitted by    /u/sorehamstring  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xcw7r/snake_in_%C4%91%E1%BB%93ng_h%E1%BB%9Bi_can_anyone_id/",
+          "publishedOn": "2023-11-17T11:20:15.000Z",
+          "wordCount": 2598,
+          "title": "Snake in Đồng Hới, can anyone ID?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17xax78/how_vietnam_defended_against_the_mongols_animated/",
+          "author": null,
+          "description": "submitted by    /u/Bad-news-co  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17xax78/how_vietnam_defended_against_the_mongols_animated/",
+          "publishedOn": "2023-11-17T08:56:38.000Z",
+          "wordCount": 2583,
+          "title": "How Vietnam Defended Against the Mongols - Animated Medieval History",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/17x92c6/how_is_life_if_you_dont_speak_vietnamese/",
+          "author": null,
+          "description": "Planning to move to HCM, will be living in district 9 next to the french school.\n was wondering how is life for ppl who dont speak vietnamese, we speaking english and french.\n currently living in china, and here it is very hard if you dont speak chinese, so was wondering about vietnam?\n    submitted by    /u/Slow-Werewolf  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/17x92c6/how_is_life_if_you_dont_speak_vietnamese/",
+          "publishedOn": "2023-11-17T06:41:02.000Z",
+          "wordCount": 2636,
+          "title": "How is life if you don't speak vietnamese?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/17x21i9/southern_vietnam_has_amazingly_good_roads/",
           "author": null,
@@ -7357,166 +7557,6 @@
           "wordCount": 2592,
           "title": "Relaxing",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17bhbp2/the_difference_in_dating_culture/",
-          "author": null,
-          "description": "I'm speaking from experience and I might sound insensitive for assuming this. I apologize if this is inaccurate or \n So my Vietnamese ex-girlfriend saids that guy should always apologize first regardless if they're right or wrong. Especially in an argument. He would always need to \"nhường nhịn\" her. I know that my ex was not the only one with this idea, because I saw TikTok have a lot of posts about this. But most Western culture would say that communication is key and both side would need to find a middle ground to talk and apologize to each other\n In a breakup, my ex wants me to \"dỗ dành\" and \"níu kéo\" her. But Western culture would say go no contact and severe any contact. \n I don't think there's a right or wrong, it's just a matter of difference in culture (I guess).\n    submitted by    /u/ComprehensiveAd8120  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17bhbp2/the_difference_in_dating_culture/",
-          "publishedOn": "2023-10-19T11:52:30.000Z",
-          "wordCount": 2703,
-          "title": "The difference in dating culture",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17bfpwx/space_tales_our_rts_made_in_vietnam_has_reached_a/",
-          "author": null,
-          "description": "submitted by    /u/SDS_SpaceTales  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17bfpwx/space_tales_our_rts_made_in_vietnam_has_reached_a/",
-          "publishedOn": "2023-10-19T10:12:40.000Z",
-          "wordCount": 2570,
-          "title": "Space Tales: our RTS \"made in Vietnam\" has reached a new milestone! Update on our journey",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17be7dl/taxi_scam_driver_showed_us_a_picture_of_ourselves/",
-          "author": null,
-          "description": "We came back from Mount Fansipan with the cablecar waiting for our cab to pick us up at the parking lot. A taxi driver approached us with a pic of us when we were arriving (we were walking into the gate). Our actual driver texted me at that moment, so i assume this was some trick, but it felt kind of eerie. \n Moral of the story: make sure you know what your driver looks like! We confirmed with our hotel that this was not the guy. Might seem straightforward but we almost fell for it. Maybe someone else will use this as a cautionary tale :)\n    submitted by    /u/OmaBerebeer309  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17be7dl/taxi_scam_driver_showed_us_a_picture_of_ourselves/",
-          "publishedOn": "2023-10-19T08:23:06.000Z",
-          "wordCount": 2670,
-          "title": "Taxi scam? Driver showed us a picture of ourselves",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17bdjwa/%C4%91%E1%BA%A5t_r%E1%BB%ABng_ph%C6%B0%C6%A1ng_nam_moment/",
-          "author": null,
-          "description": "submitted by    /u/kornelius_III  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17bdjwa/%C4%91%E1%BA%A5t_r%E1%BB%ABng_ph%C6%B0%C6%A1ng_nam_moment/",
-          "publishedOn": "2023-10-19T07:36:48.000Z",
-          "wordCount": 2564,
-          "title": "Đất Rừng phương Nam moment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17bcti1/do_divisions_still_run_deep/",
-          "author": null,
-          "description": "I've been in HCM for the last three weeks on business and I find it interesting that most of my younger Gen Z co-workers do not have particularly nice things to say about Hanoi or the North in general. According to them, the South generates most of the revenue and the North exploits it. Do war torn divisions still run deep?\n    submitted by    /u/DonkeyTron42  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17bcti1/do_divisions_still_run_deep/",
-          "publishedOn": "2023-10-19T06:48:01.000Z",
-          "wordCount": 2621,
-          "title": "Do divisions still run deep?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17ba4sx/my_friend_made_pho_to_impress_a_vietnamian_in_his/",
-          "author": null,
-          "description": "submitted by    /u/leprotelariat  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17ba4sx/my_friend_made_pho_to_impress_a_vietnamian_in_his/",
-          "publishedOn": "2023-10-19T04:00:06.000Z",
-          "wordCount": 2587,
-          "title": "My friend made \"pho\" to impress a \"Vietnamian\" (in his words) person",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17b9rhb/vibrant_vietnam_colors_rainbow_dying_grass_for/",
-          "author": null,
-          "description": "submitted by    /u/mtquang212  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17b9rhb/vibrant_vietnam_colors_rainbow_dying_grass_for/",
-          "publishedOn": "2023-10-19T03:40:13.000Z",
-          "wordCount": 2579,
-          "title": "Vibrant Vietnam! Colors: rainbow! Dying grass for sleeping mats near Hoi An. Source: Daniel Kordan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17b89j2/why_is_the_usa_blocking_vietnam_from_getting_ai/",
-          "author": null,
-          "description": "Is there any evidence that Vietnam is buying A800/H800 AI GPUs? If so, who is? Is there an AI startup here or is it becuase they are actually destined for China? I dont get it as Vietnam does not appear to be in the AI race, but I would love to see it as we when everyone has AGI, no one will have the advantage. \n The future of AI is Open Source anyways so all these bans really only slow down big corps who are destined to loose the race to open source anyways.\n    submitted by    /u/immersive-matthew  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17b89j2/why_is_the_usa_blocking_vietnam_from_getting_ai/",
-          "publishedOn": "2023-10-19T02:23:38.000Z",
-          "wordCount": 2659,
-          "title": "Why is the USA blocking Vietnam from getting AI GPUs?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17b381q/resources_for_learning_southern_vietnamese/",
-          "author": null,
-          "description": "Looks like /r/learnvietnamese is closed, so I'm posting here, let me know if there's a better subreddit for this kind of post.\n I'm looking for some resources to learn southern vietnamese. I have already searched on Google/Reddit and asked on Discord, but the amount of resources are very limited, especially for trying to learn southern vietnamese, so I'm posting on reddit to see if there's any other resources.\n I understand there's more resources for the Northern dialect, and that Northern Vietnamese is the standard, but my family/relatives speak Southern, and I'd like to increase my vocabulary and grammar knowledge. I can speak a little bit, but need to use a lot of English words since I don't know many words.\n I've been learning Japanese for ~3 years and got to a decent level, passed N1 …",
-          "link": "https://www.reddit.com/r/VietNam/comments/17b381q/resources_for_learning_southern_vietnamese/",
-          "publishedOn": "2023-10-18T22:25:14.000Z",
-          "wordCount": 2894,
-          "title": "Resources for learning southern Vietnamese?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17b1cka/why_do_my_emails_keep_bouncing_back/",
-          "author": null,
-          "description": "Hey all,\n So I lived in Vn for a few years and I absolutely love the place. \n I'm looking at coming back to do business now my country has signed a free trade deal with Vietnam. \n Some friends and I have been trying to contact various places to establish contact with experts in several fields, and we find more often than not that emails on official websites are either unmonitered or they bounce back as inactive addresses. \n Now I know that business in Vietnam is very much a face-to-face kind of thing, but we're trying to establish some form of rapport before we come over for a expeditionary visit. \n How do people on the ground deal with this? \n Are phone calls and not email the primary means of making initial contact with people?\n I'd appreciate some advice for making contacts in Vietnam before we travel there. \n Thanks!\n    submitted by    /u/Square-Row-9674  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17b1cka/why_do_my_emails_keep_bouncing_back/",
-          "publishedOn": "2023-10-18T21:04:56.000Z",
-          "wordCount": 2715,
-          "title": "Why do my emails keep bouncing back?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17azrkk/things_to_buy_in_vietnam/",
-          "author": null,
-          "description": "I’m a tourist about to visit Central and North Vietnam for about 6 days. What are the stuffs that should be bought there, be it electronics or shoes or watches or whatever. What would you guys recommend ?\n    submitted by    /u/theSickAdult  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17azrkk/things_to_buy_in_vietnam/",
-          "publishedOn": "2023-10-18T19:57:08.000Z",
-          "wordCount": 2604,
-          "title": "Things to buy in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17aynjn/da_nang_or_hanoi/",
-          "author": null,
-          "description": "Heyya! A local airline here in PH will soon have direct flights to Da Nang. Is it worth flying there instead of Hanoi? If so, is 1 day enough to explore the city? I still plan to visit Hanoi and Sapa. Will be travelling for 10 days (on a budget) lol\n    submitted by    /u/dreamies_nana  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17aynjn/da_nang_or_hanoi/",
-          "publishedOn": "2023-10-18T19:09:18.000Z",
-          "wordCount": 2616,
-          "title": "Da Nang or Hanoi?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17av63v/what_is_your_favourite_fact_about_vietnam/",
-          "author": null,
-          "description": "So, I am making a show and tell about Vietnam, I have realised it is very short, so can you please tell me some more facts so I can extend it?\n    submitted by    /u/Hotel959  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17av63v/what_is_your_favourite_fact_about_vietnam/",
-          "publishedOn": "2023-10-18T16:41:04.000Z",
-          "wordCount": 2599,
-          "title": "What is your favourite fact about Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17av5nk/suitcase_or_backpack_for_living_in_vn_about_6/",
-          "author": null,
-          "description": "Hey everyone!\n I'm traveling to VN in January and will be there until June or so. I plan to stay in 3-5 cities for about 1-2 months at a time with weekend getaways other times. What do you recommend I travel with? I'm debating between a large rolling suitcase or buying a 30L-ish travel backpack. \n I intend to use Grab for getting around and maybe splurging to rent a car for traveling longer distance? I'm not sure and could use some guidance. I welcome any clarifying questions. Thank you!\n    submitted by    /u/krysontheshore  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17av5nk/suitcase_or_backpack_for_living_in_vn_about_6/",
-          "publishedOn": "2023-10-18T16:40:33.000Z",
-          "wordCount": 2660,
-          "title": "Suitcase or backpack for living in VN about 6 months?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17av4a9/the_motorbike_mountains_of_supplies_are_the_best/",
-          "author": null,
-          "description": "What’s the most amount things you’ve seen one motorbike carry? \n I’d say reply with a photo but not sure if you can. These drivers always make me laugh a bit. \n Once I saw like 20 ducks hanging from a bike, more flowers than a florist, and just loads of boxes.\n    submitted by    /u/Anonymous-Spouse  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17av4a9/the_motorbike_mountains_of_supplies_are_the_best/",
-          "publishedOn": "2023-10-18T16:38:55.000Z",
-          "wordCount": 2630,
-          "title": "The motorbike mountains of supplies are the best..",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17atr7j/why_does_it_feels_like_im_not_in_a_lol/",
-          "author": null,
-          "description": "Just kidding haha but yeah, the facilities here in Vinmec is really good. It's easy, fast, and hassle free too to book an appointment.\n    submitted by    /u/PotterPillar  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17atr7j/why_does_it_feels_like_im_not_in_a_lol/",
-          "publishedOn": "2023-10-18T15:40:33.000Z",
-          "wordCount": 2596,
-          "title": "Why does it feels like I'm not in a 🏥? lol",
-          "imageUrl": null
         }
       ]
     },
@@ -8194,36 +8234,6 @@
           "wordCount": 1623,
           "title": "How to Handle Breaking Changes for API and Event Schemas",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/7115374283_30d07f11c3_c-2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-google-analytics-to-your-astro-website/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use data insights derived from your website or app to make important decisions that'll help grow your business. This information can help you improve user experience, create effective content strategies, and so on. Google Analytics is an effective tool for tracking and analyzing traffic and events on your",
-          "link": "https://www.freecodecamp.org/news/how-to-add-google-analytics-to-your-astro-website/",
-          "publishedOn": "2023-10-18T18:07:14.000Z",
-          "wordCount": 1986,
-          "title": "How to Add Google Analytics to your Astro Website",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/andy-hermawan-bVBvv5xlX3g-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-css-flexbox-handbook/",
-          "author": "Benjamin Semah",
-          "description": "Flexbox is a useful tool for creating beautiful and responsive layouts for web pages. In this guide, you will learn everything you need to know to start using CSS Flexbox like a pro. We'll also go through loads of practice examples. This is a perfect resource for you if you",
-          "link": "https://www.freecodecamp.org/news/the-css-flexbox-handbook/",
-          "publishedOn": "2023-10-18T17:25:54.000Z",
-          "wordCount": 4695,
-          "title": "The CSS Flexbox Handbook – Complete Guide with Practical Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/The-CSS-Flexbox-Handbook-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-an-ai-chatbot-with-the-mern-stack/",
-          "author": "Beau Carnes",
-          "description": "Chatbots are being used everywhere. And an AI chatbot is a great project to help learn the MERN Stack. We just posted a new video course on the freeCodeCamp.org YouTube channel that will teach you how to create an AI chatbot with the MERN Stack. This course was created by",
-          "link": "https://www.freecodecamp.org/news/build-an-ai-chatbot-with-the-mern-stack/",
-          "publishedOn": "2023-10-18T13:30:01.000Z",
-          "wordCount": 993,
-          "title": "Build an AI Chatbot with the MERN Stack",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/mernai.png"
         }
       ]
     }
