@@ -12,6 +12,66 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266720A2428.RedFlagWarning.1266721960F0CA.LOXRFWLOX.39ea191209e37efe85fc22ed4a2f43d9",
+          "author": null,
+          "description": "...RED FLAG WARNING IN EFFECT THROUGH SUNDAY AFTERNOON OVER MOST OF LOS ANGELES AND VENTURA COUNTIES... .Moderate to strong northeast winds combined with low relative humidities will elevate the risk for extreme fire behavior if a new fire starts. The risk will be focused over Los Angeles and Ventura Counties, especially this afternoon through Sunday",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266720A2428.RedFlagWarning.1266721960F0CA.LOXRFWLOX.39ea191209e37efe85fc22ed4a2f43d9",
+          "publishedOn": "2023-12-09T23:14:00.000Z",
+          "wordCount": 423,
+          "title": "Red Flag Warning issued December 09 at 3:14PM PST until December 10 at 3:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12667209E738.HardFreezeWarning.126672184F80CA.LOXNPWLOX.08e3a7cf6c535078660d97141fe348c9",
+          "author": null,
+          "description": "...HARD FREEZE WARNING REMAINS IN EFFECT FROM 2 AM TO 8 AM PST SUNDAY... * WHAT...Sub-freezing temperatures as low as 19 to 23 degrees expected. * WHERE...Antelope Valley. * WHEN...From 2 AM to 8 AM PST Sunday.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12667209E738.HardFreezeWarning.126672184F80CA.LOXNPWLOX.08e3a7cf6c535078660d97141fe348c9",
+          "publishedOn": "2023-12-09T21:58:00.000Z",
+          "wordCount": 172,
+          "title": "Hard Freeze Warning issued December 09 at 1:58PM PST until December 10 at 8:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12667209E738.HighWindWarning.12667218EBC0CA.LOXNPWLOX.a8b80e3854163c7ec8a4b88718855ab4",
+          "author": null,
+          "description": "...HIGH WIND WARNING REMAINS IN EFFECT UNTIL NOON PST SUNDAY... * WHAT...Areas of northeast winds 30 to 40 mph with gusts of 60 to 65 mph expected. * WHERE...Santa Susana Mountains. * WHEN...Until noon PST Sunday. * IMPACTS...Damaging winds will blow down large objects such as",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12667209E738.HighWindWarning.12667218EBC0CA.LOXNPWLOX.a8b80e3854163c7ec8a4b88718855ab4",
+          "publishedOn": "2023-12-09T21:58:00.000Z",
+          "wordCount": 168,
+          "title": "High Wind Warning issued December 09 at 1:58PM PST until December 10 at 12:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12667209E738.WindAdvisory.12667218EBC0CA.LOXNPWLOX.940e02b4192fb0d36537f0e723bb0c3f",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL NOON PST SUNDAY... * WHAT...Areas of northeast winds 25 to 35 mph with gusts of 45 to 55 mph expected. * WHERE...Santa Clarita Valley and Western San Fernando Valley. * WHEN...Until noon PST Sunday. * IMPACTS...Gusty winds will blow around unsecured objects and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12667209E738.WindAdvisory.12667218EBC0CA.LOXNPWLOX.940e02b4192fb0d36537f0e723bb0c3f",
+          "publishedOn": "2023-12-09T21:58:00.000Z",
+          "wordCount": 160,
+          "title": "Wind Advisory issued December 09 at 1:58PM PST until December 10 at 12:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12667209E738.WindAdvisory.12667218EBC0CA.LOXNPWLOX.c36fc35c9bde9cc846f050d5ac5b4c0e",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL NOON PST SUNDAY... * WHAT...Areas of northeast winds 25 to 35 mph with gusts of 45 to 55 mph expected. * WHERE...Portions of southwest California. * WHEN...Until noon PST Sunday. * IMPACTS...Gusty winds will blow around unsecured objects and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12667209E738.WindAdvisory.12667218EBC0CA.LOXNPWLOX.c36fc35c9bde9cc846f050d5ac5b4c0e",
+          "publishedOn": "2023-12-09T21:58:00.000Z",
+          "wordCount": 254,
+          "title": "Wind Advisory issued December 09 at 1:58PM PST until December 10 at 12:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12667209E738.WindAdvisory.12667218EBC0CA.LOXNPWLOX.127e04d6c08dd2fce1ce7a3048a3ff56",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL NOON PST SUNDAY... * WHAT...Areas of northeast winds 25 to 35 mph with gusts of 45 to 55 mph expected. * WHERE...Eastern Santa Monica Mountains Recreational Area, Eastern San Gabriel Mountains and Western Antelope Valley Foothills.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12667209E738.WindAdvisory.12667218EBC0CA.LOXNPWLOX.127e04d6c08dd2fce1ce7a3048a3ff56",
+          "publishedOn": "2023-12-09T21:58:00.000Z",
+          "wordCount": 183,
+          "title": "Wind Advisory issued December 09 at 1:58PM PST until December 10 at 12:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FAE058.RedFlagWarning.1266721960F0CA.LOXRFWLOX.5c0e2058c345028c8aa44305f23f6fba",
           "author": null,
           "description": "...RED FLAG WARNING IN EFFECT THROUGH TONIGHT OVER MOST MOUNTAINS OF SANTA BARBARA COUNTY... ...RED FLAG WARNING IN EFFECT FROM SATURDAY MORNING THROUGH SUNDAY AFTERNOON OVER MOST OF LOS ANGELES AND VENTURA COUNTIES... .Moderate to strong north to northeast winds combined with low relative humidities will elevate the risk for extreme fire",
@@ -810,26 +870,6 @@
           "wordCount": 159,
           "title": "Wind Advisory issued November 14 at 12:17PM PST until November 16 at 12:00AM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C142514.RedFlagWarning.12666C204BA0CA.LOXRFWLOX.b903b6a2e7dcb5a1bb718e209e1bef59",
-          "author": null,
-          "description": "...RED FLAG WARNING IN EFFECT THROUGH 6 PM TODAY FOR MOST MOUNTAIN AND VALLEY AREAS OF LOS ANGELES AND VENTURA COUNTIES AS WELL AS THE MALIBU COAST DUE TO GUSTY SANTA ANA WINDS AND LOW HUMIDITY... .Gusty Santa Ana winds and low humidities will impact portions of Los Angeles and Ventura counties today. Northeast winds have",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C142514.RedFlagWarning.12666C204BA0CA.LOXRFWLOX.b903b6a2e7dcb5a1bb718e209e1bef59",
-          "publishedOn": "2023-11-09T22:37:00.000Z",
-          "wordCount": 337,
-          "title": "Red Flag Warning issued November 09 at 2:37PM PST until November 09 at 6:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C142514.RedFlagWarning.12666C204BA0CA.LOXRFWLOX.4cb57fbb52e4e9b216f39b84d05121a7",
-          "author": null,
-          "description": "...RED FLAG WARNING IN EFFECT THROUGH 6 PM TODAY FOR MOST MOUNTAIN AND VALLEY AREAS OF LOS ANGELES AND VENTURA COUNTIES AS WELL AS THE MALIBU COAST DUE TO GUSTY SANTA ANA WINDS AND LOW HUMIDITY... .Gusty Santa Ana winds and low humidities will impact portions of Los Angeles and Ventura counties today. Northeast winds have",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C142514.RedFlagWarning.12666C204BA0CA.LOXRFWLOX.4cb57fbb52e4e9b216f39b84d05121a7",
-          "publishedOn": "2023-11-09T22:37:00.000Z",
-          "wordCount": 358,
-          "title": "Red Flag Warning issued November 09 at 2:37PM PST until November 09 at 6:00PM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -838,6 +878,236 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18erejm/depressed_in_vietnam_over_racism/",
+          "author": null,
+          "description": "I've been in vietnam for over 2 weeks now and I've been really depressed about the racism I'm facing here. To give some context, I'm chinese and indian, quite dark skinned, female. \n The counts of racism I've faced here is absolutely disheartening, maybe because of my background, I tend to notice the implicates of it. Other - I've been really well behaved, trying to break the misconceptions about my countrie(s) not because I deliberately want to, but because that's how I am. I'm introverted, am always polite, tip well, do not indulge in the bad stuff. \n  \nAt the hotel I was in, I saw white tourists get upgraded and also an Asian Australian man get upgraded (their original rooms were not available). In my case I was asked to wait 3 hours for my room, when I asked if I could pay for a better room, they happily obliged. This happened on the same day, around the same time. \n \nCustomer service - Specually in hotels again, I saw how other customers were treated over me. Unfortunately, I did notice a theme going around with the skin tone. I saw a couple who came in after me order much more elaborate dishes, it was only after they finished almost eating, was I served my very simple dish. \n \nThe cherry on top, I took a tour to a popular tourist guide with a English speaking tour guide, he went on to speak about how brown skin is not considered beautiful in vietnam, that it's ugly, relates to poor and bad behavior as he himself was brown, he did not have good experiences in vietnam with his love life, job etc.. this really broke my heart. This country is supposed to have the kindest of people, having read the previous threads too, I didn't expect to have this experience in Vietnam of all places. \n \n I just wanted to share this with all the people of colour who keep asking this question if the vietnamese are racist. Here's your answer. Ofcourse, it's not as blatant, or direct, but hurtful nonetheless.\n    submitted by    /u/Pale-Quiet9320  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18erejm/depressed_in_vietnam_over_racism/",
+          "publishedOn": "2023-12-10T00:38:03.000Z",
+          "wordCount": 3070,
+          "title": "Depressed in vietnam over racism",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18er2ta/proxy_shipping_service_to_the_uk_from_vietnam/",
+          "author": null,
+          "description": "Hi,\n I wondered if there was anyone from Vietnam able to forward some products from Lazada through to the UK - at a fee, of course - it is just some T Shirts! \n Thanks!\n    submitted by    /u/F1Bomba  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18er2ta/proxy_shipping_service_to_the_uk_from_vietnam/",
+          "publishedOn": "2023-12-10T00:21:07.000Z",
+          "wordCount": 2761,
+          "title": "Proxy shipping service to the UK from Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18eqily/can_anyone_recommend_meditationyoga_classes_in/",
+          "author": null,
+          "description": "submitted by    /u/AwesomeJackify  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18eqily/can_anyone_recommend_meditationyoga_classes_in/",
+          "publishedOn": "2023-12-09T23:52:41.000Z",
+          "wordCount": 2724,
+          "title": "Can anyone recommend meditation/yoga classes in Saigon?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18eq2oj/would_anyone_be_able_to_translate_this_for_me/",
+          "author": null,
+          "description": "submitted by    /u/Pillager  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18eq2oj/would_anyone_be_able_to_translate_this_for_me/",
+          "publishedOn": "2023-12-09T23:30:20.000Z",
+          "wordCount": 2738,
+          "title": "Would anyone be able to translate this for me?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18eo7dq/how_to_book_activities/",
+          "author": null,
+          "description": "So book in advance from klook or agoda (cu chi tunnel. Meklong delta , hoi an , ha long bay or city tour ) is good ,or just show up ask local guide to book from hotel reception or use google \n I am excited and nervous same.time as only few people in vietnam speak english\n    submitted by    /u/Relative_Secret3351  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18eo7dq/how_to_book_activities/",
+          "publishedOn": "2023-12-09T22:00:05.000Z",
+          "wordCount": 2779,
+          "title": "How to book activities ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18eo4ec/flying_to_da_nang_next_week_where_to_stay/",
+          "author": null,
+          "description": "I am heading to Vietnam next week. My first destination will be Da Nang and I’m not sure where to stay there because I have seen one of the posts in this channel is about how bad the hotels are in Vietnam. I am planning to stay in Da Nang then will head to North towards Ha Long. Any recommendations would be perfect, thanks folks!\n    submitted by    /u/LogWhole9922  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18eo4ec/flying_to_da_nang_next_week_where_to_stay/",
+          "publishedOn": "2023-12-09T21:56:06.000Z",
+          "wordCount": 2793,
+          "title": "Flying to Da Nang next week, where to stay??",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18enw4l/24hour_spots_in_saigon/",
+          "author": null,
+          "description": "Hello guys, my friends and I will be travelling to Saigon. Our flight is scheduled to land at around 1 AM in Saigon. We booked an Airbnb but we’re only allowed to check in by 12 NN. I was wondering are there any 24-hour spots in District 1 where we can stay while waiting for our check-in.\n I’d love to hear if you guys have other tips for us on our situation. Thanks!\n    submitted by    /u/wavepapi_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18enw4l/24hour_spots_in_saigon/",
+          "publishedOn": "2023-12-09T21:44:59.000Z",
+          "wordCount": 2796,
+          "title": "24-hour spots in Saigon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18ensx9/booking_tour_or_activities_in_advace/",
+          "author": null,
+          "description": "So book in advance from klook or agoda (cu chi tunnel. Meklong delta , hoi an , ha long bay or city tour ) is good ,or just show up ask local guide to book from hotel reception or use google \n I am excited and nervous same.time as only few people in vietnam speak english\n    submitted by    /u/Relative_Secret3351  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18ensx9/booking_tour_or_activities_in_advace/",
+          "publishedOn": "2023-12-09T21:40:34.000Z",
+          "wordCount": 2780,
+          "title": "Booking tour or activities in advace",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18eno7i/does_anyone_know_the_song_10217_hoa_t%C3%A0n_t%C3%ACnh_tan/",
+          "author": null,
+          "description": "Does anyone know the song @ 1:02:17 ?\n    submitted by    /u/Independent-Risk5069  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18eno7i/does_anyone_know_the_song_10217_hoa_t%C3%A0n_t%C3%ACnh_tan/",
+          "publishedOn": "2023-12-09T21:34:12.000Z",
+          "wordCount": 2753,
+          "title": "Does anyone know the song @ 1:02:17? Hoa Tàn Tình Tan Remix, Anh Yêu Vội Thế, Nói Với Em Một Lời Trước Khi Xa Rời",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18enes3/how_can_you_make_friendsother_free_time_activities/",
+          "author": null,
+          "description": "Hey, so Im a 17 yo german/viet guy and will travel to vietnam for some time and I was wondering how you would actually make friends in vietnam, especially people my age. \n So my vietnamese is really bad thats why I will probably just stick to english, the question for me is, how widely spoken is english in vietnam these days? Can I help people trying to learn german? Are there any social activities I could participate in? Any tourist spot recommendations?\n Any answer is appreciated!\n    submitted by    /u/zQlyr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18enes3/how_can_you_make_friendsother_free_time_activities/",
+          "publishedOn": "2023-12-09T21:21:30.000Z",
+          "wordCount": 2814,
+          "title": "How can you make friends/other free time activities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18ele8y/i_m_planning_to_travel_to_vietnam_with_protein/",
+          "author": null,
+          "description": "Hello.\n I m european and i will travel to Vietnam by plane to sign on container vessel, i m a seafarer. I have in my checked luggage a 2.5kg sealed bag containing GymBeam True Whey ( protein powder ). One friend of my father scared me and told me that custom agents are very corrupt and if they see that I m european, they will demand money and if i refuse they will even go far as replacing my protein powder with some drugs to convict and jail me. \n I told him that he s crazy but now i m a bit worried. Can i take my protein with me or should i leave home. I would probably come by plane from Instanbul or Doha.\n    submitted by    /u/Fun-Explanation-117  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18ele8y/i_m_planning_to_travel_to_vietnam_with_protein/",
+          "publishedOn": "2023-12-09T19:46:12.000Z",
+          "wordCount": 2855,
+          "title": "I m planning to travel to Vietnam with Protein whey powder.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18ejxgc/dam_hoi_help/",
+          "author": null,
+          "description": "I’m 29f getting engaged to 30m, we’re both Vietnamese but my side does not know anything about this ceremony and his side wants to do it. Everything is mostly taken care of except we don’t know the step of how everything will play out, and supposedly we need a representative to speak and read out the schedule for the day, which we have no clue. Like do I wait with the bridesmaid to accept the gift from the groomsmen or do I stay hidden? Do I serve them tea after? And then his mom give me jewelry? Does anyone have their dam hoi day schedule so I have an idea\n    submitted by    /u/Longjumping_Car7948  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18ejxgc/dam_hoi_help/",
+          "publishedOn": "2023-12-09T18:37:41.000Z",
+          "wordCount": 2832,
+          "title": "Dam hoi help!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18egt9q/what_songgenre_is_this_music/",
+          "author": null,
+          "description": "Would love to know these songs are bangers\n Tên bảng này là gì vậy? Em không nghe nhạc Việt nhiều tại em không ở vn. Cám ơn nhiều \n    submitted by    /u/Consistent_Smoke6046  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18egt9q/what_songgenre_is_this_music/",
+          "publishedOn": "2023-12-09T16:11:40.000Z",
+          "wordCount": 2753,
+          "title": "What song/genre is this music?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18egmqk/whats_wrong_with_this_bathroom_sign/",
+          "author": null,
+          "description": "Can the flow of the piss bounce off the urinal like in this public bathroom sign?\n    submitted by    /u/AncestralAngel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18egmqk/whats_wrong_with_this_bathroom_sign/",
+          "publishedOn": "2023-12-09T16:03:03.000Z",
+          "wordCount": 2752,
+          "title": "What's wrong with this bathroom sign?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18ef837/why_is_this_subreddit_post_are_getting_more/",
+          "author": null,
+          "description": "Like jeez i come here to see picture and funny meme abt my country but instead i keep seeing negative thing if you want to complain go to trochuyenlinhtinh\n    submitted by    /u/acidinmyball  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18ef837/why_is_this_subreddit_post_are_getting_more/",
+          "publishedOn": "2023-12-09T14:54:38.000Z",
+          "wordCount": 2758,
+          "title": "Why is this subreddit post are getting more negative now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18ee2xe/why_does_university_in_vietnam_keep_forcing/",
+          "author": null,
+          "description": "Alright, first of all, I'm a Vietnamese. Using English here, because well, why the hell not?\n University in this nation just feels forced. Not like \"conscription\" stuff but, keeps organizing random events and forces students to participate, and if not, deduct bunch of \"diem ren luyen\" or whatever. I just feel like students should have the rights to whether to go or not. Like recently, my university had some sort of Shoppe-sponsored event and of course, to make the sponsors happy, they force every students to attend, standing in the sun for 1 hour then listen to annoying love-related songs about bunch of \"I love you then you dump me\" non-sense. Or forcing students to clean up construction debris in the university. Wow, unpaid working. 10/10, Law university. And upcoming, another sport event that if they didn't threaten to deduct points, probably no one would attend because 90% of the students aren't bothered to wake up at 8AM in Sunday, just to watch bunch of fellow university students playing badmintons and running.\n I understand the morality behind the non-sense of that points system, for \"đánh giá về phẩm chất chính trị, đạo đức, lối sống của sinh viên trên năm mặt đánh giá\" but using this so that the teachers can prove that \"my university organizes events and the students are totally not enforced to come and this will do very well for publicity\" is not really a good excuse to use this points system. Because some university students have their own life to deal with and should not be forced to participate in events that for a lack of better words, they don't give a f- about (there're defo better words). Just because you can do something doesn't mean you should. Students have their own life and you having free time doesn't mean you should torture the students. \n ​\n ​\n    submitted by    /u/PieNextDoor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18ee2xe/why_does_university_in_vietnam_keep_forcing/",
+          "publishedOn": "2023-12-09T13:53:58.000Z",
+          "wordCount": 3040,
+          "title": "Why does university in Vietnam keep forcing students to participate random events?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18edh7i/xanh_sm_the_teal_taxis/",
+          "author": null,
+          "description": "So I am a Vinasun or Grab user usually but my colleague got me turned onto this new Vinfast vehicle based service and it’s now hard to go back. These cars are new, clean, and don’t have plastic on the roof…always wondered what kind of bloody crime occurs in these taxis that a plastic lined roof is necessary…\n Anyways, what are your thoughts? Anyone else enjoying this new service?\n    submitted by    /u/Tall_Escape8864  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18edh7i/xanh_sm_the_teal_taxis/",
+          "publishedOn": "2023-12-09T13:20:54.000Z",
+          "wordCount": 2795,
+          "title": "Xanh SM - The Teal Taxis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18ecalc/cats_in_chains/",
+          "author": null,
+          "description": "Why are these cats in chains? Saw it today and was shocked about it. Please let me know if you know anything about this.\n    submitted by    /u/Wonderful-Revenue535  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18ecalc/cats_in_chains/",
+          "publishedOn": "2023-12-09T12:09:04.000Z",
+          "wordCount": 2758,
+          "title": "Cats in chains",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18eaa21/what_are_your_must_visit_restaurants_in_saigon/",
+          "author": null,
+          "description": "submitted by    /u/Severe-Coast-6918  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18eaa21/what_are_your_must_visit_restaurants_in_saigon/",
+          "publishedOn": "2023-12-09T09:56:02.000Z",
+          "wordCount": 2725,
+          "title": "What are your MUST VISIT restaurants in Saigon?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18e8pd1/what_i_feel_is_vn_is_like_a_cleaner_and_not_so/",
+          "author": null,
+          "description": "Okay no offence intended whatsoever, the driving styles/traffic, people mindset etc. I came to this conclusion after hearing many stories here(subreddit) and from my gf. Any body agrees with this statement or against? This could be subjective with lot of factors.\n Fyi I'm Indian and my gf from vn.\n    submitted by    /u/zeusjuice0801  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18e8pd1/what_i_feel_is_vn_is_like_a_cleaner_and_not_so/",
+          "publishedOn": "2023-12-09T08:02:12.000Z",
+          "wordCount": 2786,
+          "title": "What I feel is VN is like a cleaner and not so religious but communist version of India.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18e5q6h/weird_airport_custom_rules/",
+          "author": null,
+          "description": "I’m going to vietnam next week and I went to search up on items to declare while clearing the customs. One of the items is cash.\n Apparently vietnam customs allow you to bring $5000USD or equivalent foreign currencies in cash without a need to declare. But for their own currency, they only allow travellers to bring in 15million VND which is $620USD equivalent. Anymore than 15million VND in cash has to be declared. That is so weird? Anyone has any experience of bringing in more than 15million dongs in vietnam? Do you actually need to declare? If you did, what did they do? Do they just straight up confiscate the difference?\n Edit: People seem confused so I’ll explain further: \n Guys I am talking about arrivals. Not departure. I’m BRINGING IN 30million dong cash to vietnam to SPEND. I’m NOT BRINGING VND OUT of vietnam. I dont understand why would they limit the bringing of their currency that’s the most legal and accepted to be used in their country so severely. It’s like they are trying to create more business for the money changers there. \n    submitted by    /u/I_knowdude  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18e5q6h/weird_airport_custom_rules/",
+          "publishedOn": "2023-12-09T04:45:49.000Z",
+          "wordCount": 2907,
+          "title": "Weird airport custom rules?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18e3a1i/stalker_alert_women_and_girls_in_hcmc_keep_an_eye/",
+          "author": null,
+          "description": "submitted by    /u/asmirg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18e3a1i/stalker_alert_women_and_girls_in_hcmc_keep_an_eye/",
+          "publishedOn": "2023-12-09T02:26:32.000Z",
+          "wordCount": 2758,
+          "title": "Stalker Alert - Women (and girls) in HCMC, keep an eye out for this man. He stalks and films women in D1 and Nguyen Hue Street for social media. He's about 185 cm, 113 KG and walks around with a camera.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18e2lji/we_need_thanos_in_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/Outrageous-Front-868  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18e2lji/we_need_thanos_in_vietnam/",
+          "publishedOn": "2023-12-09T01:50:19.000Z",
+          "wordCount": 2722,
+          "title": "We need Thanos in Vietnam",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/18e19ck/best_vegetarian_vietnamese_dish/",
           "author": null,
@@ -7397,266 +7667,6 @@
           "wordCount": 2662,
           "title": "Looking for some 3d printer hobbyists in Vietnam",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17s2n92/l%C3%B4_l%C3%B4_ch%E1%BA%A3i_village_in_early_november_every_corner/",
-          "author": null,
-          "description": "submitted by    /u/VNCharmTravel  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17s2n92/l%C3%B4_l%C3%B4_ch%E1%BA%A3i_village_in_early_november_every_corner/",
-          "publishedOn": "2023-11-10T12:08:22.000Z",
-          "wordCount": 2597,
-          "title": "Lô Lô Chải village in early November. Every corner of the village is lovely and gently beautiful.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17s1upf/package_cant_be_delivered/",
-          "author": null,
-          "description": "I mailed 2 large boxes from US to Hanoi, Vietnam (via USPS). I'm pretty sure I put all the addressee's contact information. However, I kept receiving notifications that the addressee not available at the time of delivery. I have also contacted the addressee but they said they did not receive any calls or emails. Who and where can I contact about this issue? And where can I check the contact information that entered?\n    submitted by    /u/After_Touch3094  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17s1upf/package_cant_be_delivered/",
-          "publishedOn": "2023-11-10T11:17:45.000Z",
-          "wordCount": 2663,
-          "title": "Package can't be delivered",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rzwke/as_a_tourist_what_are_the_scams_that_we_should_be/",
-          "author": null,
-          "description": "Hi, I am visiting Vietnam soon. Travelling to Hanoi, Sa Pa, Da Nang, Ho Chi Minh and visiting the attractions around. What are some of the common scams that I should be aware of. And things that we need to be aware of while visiting. Appreciate suggestion and tips for the travel too.\n    submitted by    /u/Aromatic_Pay_3574  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rzwke/as_a_tourist_what_are_the_scams_that_we_should_be/",
-          "publishedOn": "2023-11-10T08:48:43.000Z",
-          "wordCount": 2653,
-          "title": "As a tourist, what are the scams that we should be aware of and save ourselves from, in general?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rzu8x/spotted_today_in_hanoi/",
-          "author": null,
-          "description": "submitted by    /u/larchpharkus  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rzu8x/spotted_today_in_hanoi/",
-          "publishedOn": "2023-11-10T08:43:31.000Z",
-          "wordCount": 2589,
-          "title": "Spotted today in Hanoi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rzm76/vietnamese_in_the_gdr/",
-          "author": null,
-          "description": "Hello, I'm from Germany, East Germany to be precise. Back when Germany was divided, there were around 60,000 Vietnamese guest workers in the former GDR (soviet occupation zone). I myself was too young to experience the GDR. \n We are always accused of racism, but when I talk to my parents, grandparents or other older people and ask them about Vietnamese people in the GDR, I only hear great acknowledgement and appreciation. Statements like \"good and honest people\", \"they were very decent and hard-working\", \"calm and level-headed\", or \"we didn't see them as foreigners\". I have never heard anyone say anything bad about Vietnamese people. I wish I could say the same about Muslims from the MENA countries, today. I just wanted to let you know that in the past, as well as today, you are very much appreciated in Germany.\n    submitted by    /u/coastalcabin  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rzm76/vietnamese_in_the_gdr/",
-          "publishedOn": "2023-11-10T08:26:26.000Z",
-          "wordCount": 2725,
-          "title": "Vietnamese in the GDR",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rydbf/as_a_viet_kieu_i_feel_great_gratitude_but_also/",
-          "author": null,
-          "description": "I left Vietnam with my mom when I was a baby. My dad died drowning in the sea trying to escape a year before us. \n I've been in Vietnam for two weeks now and I was actually quite surprised by how much poverty there still is here. It seems that so many people are struggling and making so little money. The diet, stress, sunlight exposure seem to all contribute to the population having smaller bodies/frames and looking much older than their counter parts in the west. I'm 5'11\" with a muscular build and I feel like freaking captain America walking around here. \n All this makes me very grateful for my life. But I also feel guilty because I realize everything I have was given to me. I didn't choose to the west. I am just a product of my parents and environment. It was my mere chance that I am where I am and who I am. One little change in my past, like my mom deciding not to try to escape or getting caught escaping and I could be in saigon trying to hustle like everyone else here. \n I am also saddened to see how much Vietnamese ppl struggle and work so hard in this ungodly humid and hot temperature. It seems like they have so few opportunities to advance and make a better life. \n I have heard things are slowly changing though. More people are able to get higher education and the middle class is growing. I hope when I come back in ten years things will be much more different. \n As viet kieus, do you guys feel the same gratitude and guilt as I do?\n    submitted by    /u/pally_hater_9854  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rydbf/as_a_viet_kieu_i_feel_great_gratitude_but_also/",
-          "publishedOn": "2023-11-10T06:54:09.000Z",
-          "wordCount": 2875,
-          "title": "As a viet kieu, I feel great gratitude but also guilt and sadness when visiting Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17ry2zp/do_locals_hate_when_tourists_eat_at_their_spots/",
-          "author": null,
-          "description": "I noticed that there are tourist restaurants and there are hole in the walls where locals eat. \n As a viet kieu I have no problem going to a hole in the wall to order and eat. But when I go there I notice people there staring at me. And sometimes the workers have a bit of an attitude? I might just be paranoid or over thinking it. I speak Vietnamese (semi fluent) so I don't think they're annoyed that I can't order properly. \n What do you guys think? Am I just being paranoid or is there really a locals only vibe at some places?\n    submitted by    /u/pally_hater_9854  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17ry2zp/do_locals_hate_when_tourists_eat_at_their_spots/",
-          "publishedOn": "2023-11-10T06:33:27.000Z",
-          "wordCount": 2694,
-          "title": "Do locals hate when tourists eat at \"their\" spots?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17ry0uw/whats_the_worst_type_of_tourist/",
-          "author": null,
-          "description": "I've been in Vietnam for a couple weeks now and I've run into a bunch of foreigners and tourists. Most were pretty normal and nice. \n But I finally met a complete ass hat last night. White dude from Canada. He was completely wasted, chain smoking, and yelling at people around him. He kept mentioning how he came here to find a wife and how he hasn't gotten laid at all yet. Big surprise, big fat white loud mouth hasn't gotten laid yet. Shocking women all around the world don't enjoy rude idiot drunk assholes. \n God it's embarrassing that I'm also from Canada. 🇨🇦\n What type of tourists do locals hate the most?\n    submitted by    /u/pally_hater_9854  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17ry0uw/whats_the_worst_type_of_tourist/",
-          "publishedOn": "2023-11-10T06:29:24.000Z",
-          "wordCount": 2693,
-          "title": "What's the worst type of tourist?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rwrwq/ch%C3%BAc_m%E1%BB%ABng/",
-          "author": null,
-          "description": "submitted by    /u/firesignmerch  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rwrwq/ch%C3%BAc_m%E1%BB%ABng/",
-          "publishedOn": "2023-11-10T05:06:45.000Z",
-          "wordCount": 2592,
-          "title": "chúc mừng",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rwnr1/people_that_are_lucky_enough_to_have_domestic/",
-          "author": null,
-          "description": "Also what households tasks do they do or don't? Is it more expensive to get one that only focuses on babies/ kids care?\n    submitted by    /u/GeneInteresting9772  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rwnr1/people_that_are_lucky_enough_to_have_domestic/",
-          "publishedOn": "2023-11-10T04:59:54.000Z",
-          "wordCount": 2620,
-          "title": "People that are lucky enough to have domestic helpers, how much do you pay them?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rtnwx/current_state_of_vietnamese_economy/",
-          "author": null,
-          "description": "submitted by    /u/ComradeH_VIE  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rtnwx/current_state_of_vietnamese_economy/",
-          "publishedOn": "2023-11-10T02:15:16.000Z",
-          "wordCount": 2585,
-          "title": "\"Current state of Vietnamese economy\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rsv1y/should_i_cancel_trip_to_da_nang_im_in_hanoi_now/",
-          "author": null,
-          "description": "My family has been traveling for 3 years and have visited many different countries both developed and undeveloped. We're currently in Vietnam for the first time and although it's exciting here, I'm getting tired of a few things that we're not used to. Almost every day we have been here, the locals try scamming us. From the street sellers who give me less change money than I'm supposed to get, the \"take a photo with my fruit basket on a stick\" and then heckling you to give photo money or buy something, \"take a free donut\", etc. It's wearing me down as I'm a very honest person and have tried my entire adult life to support little mom and pop shops with their businesses. We just spent 2 months in korea and a week in Japan and those locals were very honest, did not heckle, and if they offered a free sample, it was really free. Plus the lack of consideration. Last night at 1:30am, there is construction still going on like a circular saw and banging metal. I wake up to it, and have to sleep with it. Does the police or other locals not care about quiet sleeping time? We have never encountered something like this on a constant basis in any other country we've traveled to.\n We are scheduled to leave here next week, then off to Ho Chi Mihn for a week, and then after that we had scheduled Da Nang for a whole month but now considering canceling Da Nang if it's going to be more of the same. So for people who have traveled to Da Nang, can you tell me if we will be facing the same situation as here in Old Quarter Hanoi?\n ​\n We have met some really nice people in nice shops who offer us good service and the right change so we have been returning to those spots to eat. There's a coconut/smoothie spot we enjoy so everyday we buy 5 drinks.\n    submitted by    /u/EndTheFedBanksters  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rsv1y/should_i_cancel_trip_to_da_nang_im_in_hanoi_now/",
-          "publishedOn": "2023-11-10T01:35:09.000Z",
-          "wordCount": 2933,
-          "title": "Should I cancel trip to Da Nang? I'm in Hanoi now and tired of getting scammed and lack of consideration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rrcn5/vietnam_weather_in_january/",
-          "author": null,
-          "description": "Hi! My family and I will be travelling to Vietnam in January 2024 for a month. I was wondering what the weather is like there? We will be spending a week in HCMC, a week in Hue and some days in maybe Da Nang, Nha Trang or Da Lat. I’m getting some mixed information that it’ll be hot, maybe chilly or foggy. \n We are from Canada so I would really like to know what I should be mindful of and pack for. TIA!\n    submitted by    /u/trashedpumperknickle  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rrcn5/vietnam_weather_in_january/",
-          "publishedOn": "2023-11-10T00:20:22.000Z",
-          "wordCount": null,
-          "title": "Vietnam weather in January?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rr97m/ha_giang_to_ninh_binh/",
-          "author": null,
-          "description": "Chào!\n Is it possible to sleeper bus direct from Ha Giang to Ninh Binh. If so, any recommended companies?\n Cảm ơn :)\n    submitted by    /u/Scootnik  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rr97m/ha_giang_to_ninh_binh/",
-          "publishedOn": "2023-11-10T00:15:42.000Z",
-          "wordCount": null,
-          "title": "Ha Giang to Ninh Binh",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rpzvw/what_is_this_food_called_video_from_nha_trang/",
-          "author": null,
-          "description": "And where can I get such a plate? Cảm ơn :)\n    submitted by    /u/GarryWeber711  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rpzvw/what_is_this_food_called_video_from_nha_trang/",
-          "publishedOn": "2023-11-09T23:17:13.000Z",
-          "wordCount": null,
-          "title": "What is this food called? (Video from Nha Trang)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rogxt/lawyer_for_foreign_investor/",
-          "author": null,
-          "description": "Hello,\n As the title says, I am looking for something good lawyer that has some expertise on Foreign investment. I have a business opportunity in Vietnam and I will be coming next month to discuss this with local partners. I want to be better prepared and make sure it is a good idea to invest in Vietnam\n Overall I am looking for a lawyer that can protect my interests.\n I would really appreciate if you wonderful people can help me out.\n Btw: I need a lawyer based in Saigon.\n    submitted by    /u/steepcurve  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rogxt/lawyer_for_foreign_investor/",
-          "publishedOn": "2023-11-09T22:08:52.000Z",
-          "wordCount": null,
-          "title": "Lawyer (for Foreign Investor).",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17roa85/headphone_jacks_on_vietnam_airlines/",
-          "author": null,
-          "description": "Hi all, we’re flying to Hanoi soon on Vietnam Airlines, a Boeing 787. We’ll be in regular economy.\n I’m interested in buying a Bluetooth transmitter so I can use my own noise cancelling headphones with the inflight entertainment. Does anyone know if those planes have single or double headphone Jack inputs? Can’t find the info online anywhere!\n Cheers!\n    submitted by    /u/throwaway1978012  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17roa85/headphone_jacks_on_vietnam_airlines/",
-          "publishedOn": "2023-11-09T22:00:43.000Z",
-          "wordCount": null,
-          "title": "Headphone jacks on Vietnam Airlines?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rmddn/dont_want_to_shake_the_hornets_nest_again_but_for/",
-          "author": null,
-          "description": "submitted by    /u/veotrade  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rmddn/dont_want_to_shake_the_hornets_nest_again_but_for/",
-          "publishedOn": "2023-11-09T20:36:10.000Z",
-          "wordCount": null,
-          "title": "Don’t want to shake the hornets nest again, but for those who were here for the Korea rants these past few weeks. It seems like other countries are also starting to notice bad behavior.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rm9uk/is_90_mins_sufficient_for_domestic_transfers_at/",
-          "author": null,
-          "description": "I'll be traveling from Da Nang to Phu Quoc in the morning, with a change of flights at Ho chi Minh City. Both flights are on VietJet but not on the same ticket.\n Is 1 hour 30 mins a sufficient layover time for this?\n    submitted by    /u/arthoheen  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rm9uk/is_90_mins_sufficient_for_domestic_transfers_at/",
-          "publishedOn": "2023-11-09T20:31:22.000Z",
-          "wordCount": null,
-          "title": "Is 90 mins sufficient for domestic transfers at HCMC Airport?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rknfx/health_insurance/",
-          "author": null,
-          "description": "I'm going to move to Vietnam around January and I will try to get an English teaching job (TEFL) and a work visa. I'm planning to buy a motorcycle (I'm currently getting my motorcycle license in Spain) and travel around Vietnam for a bit until I find the right place to work and live.\n I usually travel with \"Iati\" insurance, but it's meant for traveling, not for longer stays. What insurance do you recommend me?\n    submitted by    /u/grleuqar  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rknfx/health_insurance/",
-          "publishedOn": "2023-11-09T19:17:38.000Z",
-          "wordCount": null,
-          "title": "Health insurance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rj1qp/update_started_a_vietnamese_fashion_brand/",
-          "author": null,
-          "description": "Hi I just wanted to give an update on this poll I did a while back: https://www.reddit.com/r/VietNam/comments/16jlwu5/market_research_for_handbagtote_bag_fashion_start/\n ​\n I'm slowly launching the tote bags that I described in the original post. I feel a little bit embarrassed to try to push this new project out there but what do I have to lose then to share my experience right?\n I am so thankful for the people who voted in the poll and gave their opinions. It really helped me narrow down my focus. This is a passion project that stemmed from a long overdue trip to Vietnam.\n I was born in a refugee camp in Malaysia and moved to Canada when I was 4. I only been to Vietnam once when I was 14 on a family trip. Then this year back in April I decided to go back to Vietnam on my own at the age of 30. It was an incredible experience reconnecting with family and making new friends as a solo traveler who can barely speak Vietnamese. I have to say that Vietnamese locals are so open and love to connect with foreigners - I think that's what makes the country so great!\n Anyways, I got a felt tote bag from a popular Men's wear brand there and walked around with it in Canada, constantly getting compliments on the bag. I decided to start my own brand selling these felt tote bags with my own designs. Right now the designs and branding is focused on the soft \"Asian\" girl aesthetic but I hope to venture beyond these tote bags to explore different aspects of being Vietnamese living outside of Vietnam. I feel that we are constantly trying to connect to heritage while building a unique Western-Vietnamese experience navigating two cultures.\n I hope you guys follow The New Win on social media and check out the website: bythenewwin.com.\n As you can see the poll winner \"Saigon District 1\" inspired the first design. I'm gearing up for the first Drop soon and I hope you check back for more Drops in the future.\n ​\n    submitted by    /u/wowelephants  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rj1qp/update_started_a_vietnamese_fashion_brand/",
-          "publishedOn": "2023-11-09T18:06:52.000Z",
-          "wordCount": null,
-          "title": "Update: Started a Vietnamese fashion brand inspired by the Western (Viet Kieu) experience",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rj14i/stomach_problems/",
-          "author": null,
-          "description": "Hi, I have been with my friend in Hanoi for past two days and he probably ate something (he was eating pho, drinking black coffee and eating rice) that caused him puking and diarrhea. Do you any tips on what & where we could buy some medicine? We are located near Hoan Kiem Lake. Also, some easy food places recommendations are welcomed (even though Vietnamese food is very delicious, might be smart to go easy a bit). Thanks in advance!\n    submitted by    /u/accchi  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rj14i/stomach_problems/",
-          "publishedOn": "2023-11-09T18:06:05.000Z",
-          "wordCount": null,
-          "title": "Stomach problems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rgonw/translation_help/",
-          "author": null,
-          "description": "Bought this from a street shop in Hoi An earlier this month. Would be great if someone could help in translating the text in the painting.\n When I tried on google, it said \"UNCLE BAO THANG IS A WINNER\", which I'm sure is not an accurate translation.\n    submitted by    /u/GreekGodOnDope  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rgonw/translation_help/",
-          "publishedOn": "2023-11-09T16:23:07.000Z",
-          "wordCount": null,
-          "title": "Translation help.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rfmns/is_it_the_norm_in_most_vietnamese_companies_to/",
-          "author": null,
-          "description": "In short, you are paid 15 months instead 12 months here. Not sure if it's a standard here or not but I keep hearing friends saying that's what they earn and expect at most companies.\n    submitted by    /u/killydie  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rfmns/is_it_the_norm_in_most_vietnamese_companies_to/",
-          "publishedOn": "2023-11-09T15:36:12.000Z",
-          "wordCount": null,
-          "title": "Is it the norm in most Vietnamese companies to pay additional 13th, 14th, 15h salary month at the end of every year?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rdqg5/vietnam_women_wear_ninja_style_sun_protection/",
-          "author": null,
-          "description": "submitted by    /u/VNCharmTravel  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rdqg5/vietnam_women_wear_ninja_style_sun_protection/",
-          "publishedOn": "2023-11-09T14:08:35.000Z",
-          "wordCount": null,
-          "title": "Vietnam Women Wear Ninja Style Sun Protection Shirt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/17rcurn/just_chillin/",
-          "author": null,
-          "description": "submitted by    /u/Thnhng58  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/17rcurn/just_chillin/",
-          "publishedOn": "2023-11-09T13:24:10.000Z",
-          "wordCount": null,
-          "title": "Just chillin..",
-          "imageUrl": null
         }
       ]
     },
@@ -8414,36 +8424,6 @@
           "wordCount": 1181,
           "title": "Become an Azure Solutions Architect Expert – Pass the AZ-305 Exam",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/azurearc.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-setup-authentication-and-protected-route-in-next-js-13-with-next-auth-js/",
-          "author": "Olasunkanmi Balogun",
-          "description": "This guide demonstrates the straightforward process of incorporating authentication into your Next.js app using the next-auth.js [https://next-auth.js.org/] library. While the library provides numerous options (providers), this tutorial focuses on the implementation using the Google Provider. You'll also gain insight into effortlessly setting up protected routes within your application, a task",
-          "link": "https://www.freecodecamp.org/news/how-to-setup-authentication-and-protected-route-in-next-js-13-with-next-auth-js/",
-          "publishedOn": "2023-11-09T17:54:32.000Z",
-          "wordCount": 1818,
-          "title": "How to Setup Authentication and Protected Routes in Next.js 13 with next-auth.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/pexels-pixabay-277576.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-java-object-oriented-programming/",
-          "author": "Vahe Aslanyan",
-          "description": "Are you just getting into software development, or do you need to upgrade your coding skills? Java's significance within the tech sector stands unchallenged, so it's a great place to start. Java is at the foundation of Object-Oriented Programming (OOP). This is an approach to programming that mirrors our complexity",
-          "link": "https://www.freecodecamp.org/news/learn-java-object-oriented-programming/",
-          "publishedOn": "2023-11-09T17:35:38.000Z",
-          "wordCount": 25782,
-          "title": "Learn Java Fundamentals – How to Build a Solid Foundation in Object-Oriented Programming",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Learn-Java-and-OOP-Book-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/",
-          "author": "Beau Carnes",
-          "description": "If you create Next.js apps, chanced are you are going to have to include user authentication at some point.  We just posted a course on the freeCodeCamp.org YouTube channel that teaches how to implement authentication in Next.js 13.5 with the powerful library, NextAuth – which will soon be known",
-          "link": "https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/",
-          "publishedOn": "2023-11-09T17:00:01.000Z",
-          "wordCount": 966,
-          "title": "Secure Next.js Applications with Role-Based Authentication Using NextAuth",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/nextauth.png"
         }
       ]
     }
