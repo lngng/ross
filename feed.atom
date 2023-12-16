@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lngng.github.io/ross/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-15T00:53:43.631Z</updated>
+    <updated>2023-12-16T00:52:14.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://lngng.github.io/ross/index.html"/>
     <link rel="self" href="https://lngng.github.io/ross/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Kylie Ying on MIT, CERN, Figure Skating, and Poker AI]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-kylie-ying-mit-cern/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-kylie-ying-mit-cern/"/>
+        <updated>2023-12-15T17:40:57.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm joined by Kylie Ying. She's a software engineer and a teacher at freeCodeCamp. We talk about Kylie's 5 years at MIT, her time at CERN working on the Large Hadron Collider, competitive figure skating, and even poker-playing AIs. Tell your friends about the freeCodeCamp podcast. Let's inspire more]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Async/Await in JavaScript – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-async-await/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-async-await/"/>
+        <updated>2023-12-15T15:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello friends! In this article, I'm going to show you how to use the “async/await” special syntax when handling JavaScript Promises. If you don't know or need a refresher on JavaScript promises, you can read my previous article: How JavaScript Promises Work – Tutorial for Beginners [/news/javascript-promise-object-explained/]. You'll need to]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure Fundamentals Certification (AZ-900) – Pass the Exam With This Free 8-Hour Course]]></title>
         <id>https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/</id>
@@ -9401,16 +9421,6 @@ I have never been to Vietnam but have only heard good things about living and wo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wind Advisory issued November 15 at 2:14PM PST until November 16 at 1:00AM PST by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C6FA998.WindAdvisory.12666C7CEA90CA.LOXNPWLOX.ae229e6de099545e2f85c4d6acb2e1c2</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C6FA998.WindAdvisory.12666C7CEA90CA.LOXNPWLOX.ae229e6de099545e2f85c4d6acb2e1c2"/>
-        <updated>2023-11-15T22:14:00.000Z</updated>
-        <summary type="html"><![CDATA[...WIND ADVISORY REMAINS IN EFFECT UNTIL 1 AM PST THURSDAY... * WHAT...Southeast winds 20 to 30 mph with gusts up to 50 mph. * WHERE...Santa Barbara County Interior Mountains, Southern Ventura County Mountains, Northern Ventura County Mountains and Interstate 5 Corridor. * WHEN...Until 1 AM PST Thursday.]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[what do you think about ken burns documentary series about the vietnam war]]></title>
         <id>https://www.reddit.com/r/VietNam/comments/17w2y8f/what_do_you_think_about_ken_burns_documentary/</id>
         <link href="https://www.reddit.com/r/VietNam/comments/17w2y8f/what_do_you_think_about_ken_burns_documentary/"/>
@@ -9449,26 +9459,6 @@ I have never been to Vietnam but have only heard good things about living and wo
  Returning to America, I feel my life is boring. I don't have many friends, and I hate my job. It felt weird to have to return and live in a country that is so quiet and...sterile in comparison. We have a Viet community here in my state, but it pales in comparison to Texas, Cali. I miss Vietnam so much, I am considering getting a 90 day visa and returning before Tết, living off of savings. I have family who are more than happy to accommodate me, but I also want to rent a place for a mon…]]></summary>
         <author>
             <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use TypeScript with React]]></title>
-        <id>https://www.freecodecamp.org/news/use-typescript-with-react/</id>
-        <link href="https://www.freecodecamp.org/news/use-typescript-with-react/"/>
-        <updated>2023-11-15T18:53:19.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to use TypeScript with React. By the end, you will have a solid understanding of how to write React code with TypeScript. Want to watch the video version of this tutorial? You can check out the video below: Table of Contents  *]]></summary>
-        <author>
-            <name>Yogesh Chavan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beach Hazards Statement issued November 15 at 10:24AM PST until November 16 at 2:00AM PST by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C6F1140.BeachHazardsStatement.12666C7D11A0CA.LOXCFWLOX.677fc685686f557c57c927945d5296e4</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C6F1140.BeachHazardsStatement.12666C7D11A0CA.LOXCFWLOX.677fc685686f557c57c927945d5296e4"/>
-        <updated>2023-11-15T18:24:00.000Z</updated>
-        <summary type="html"><![CDATA[...BEACH HAZARDS STATEMENT IN EFFECT INTO LATE TONIGHT... * WHAT...Dangerous rip currents, breaking waves, and minor coastal flooding due to elevated surf through late tonight especially for south-facing beaches of Ventura, Santa Barbara, and San Luis Obispo Counties. Areas of lightning at the beaches possible for Los Angeles County through this afternoon.]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
         </author>
     </entry>
     <entry>
@@ -9528,16 +9518,6 @@ I have never been to Vietnam but have only heard good things about living and wo
  [link]   [comments]]]></summary>
         <author>
             <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the PaLM 2 API]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-the-palm-2-api/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-palm-2-api/"/>
-        <updated>2023-11-15T14:31:46.000Z</updated>
-        <summary type="html"><![CDATA[PaLM 2 is a cutting-edge AI tool from Google that opens up tons of possibilities for developers. The PaLM 2 API allows people to easily add generative AI to their apps. We just published a course on the freeCodeCamp.or YouTube channel that will teach you all about the PaLM 2]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
