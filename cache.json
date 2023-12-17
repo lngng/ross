@@ -830,16 +830,6 @@
           "wordCount": 289,
           "title": "High Wind Watch issued November 17 at 12:39PM PST until November 20 at 12:00AM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C7EEEF8.WindAdvisory.12666C9AF9E0CA.LOXNPWLOX.d5b7479e56e4079de7900e1833187234",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT FROM 10 AM TO 10 PM PST FRIDAY... * WHAT...South to southeast winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Santa Barbara County Interior Mountains, Northern Ventura County Mountains and Interstate 5 Corridor. * WHEN...From 10 AM to 10 PM PST Friday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C7EEEF8.WindAdvisory.12666C9AF9E0CA.LOXNPWLOX.d5b7479e56e4079de7900e1833187234",
-          "publishedOn": "2023-11-16T22:22:00.000Z",
-          "wordCount": 187,
-          "title": "Wind Advisory issued November 16 at 2:22PM PST until November 17 at 10:00PM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -7686,6 +7676,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/variables-in-figma-handbook/",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "At Figma Config 2023, the Figma team unveiled a lot of new features – including variables. The launch of variables in Figma offers designers a new approach that helps them make their designs more flexible and adaptable.  In this tutorial, you'll learn what variables in Figma are, and how",
+          "link": "https://www.freecodecamp.org/news/variables-in-figma-handbook/",
+          "publishedOn": "2023-12-15T22:11:10.000Z",
+          "wordCount": 6817,
+          "title": "How to Use Variables in Figma – A Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/How-to-Use-Variables-in-Figma-cover--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/podcast-kylie-ying-mit-cern/",
           "author": "Quincy Larson",
           "description": "Today I'm joined by Kylie Ying. She's a software engineer and a teacher at freeCodeCamp. We talk about Kylie's 5 years at MIT, her time at CERN working on the Large Hadron Collider, competitive figure skating, and even poker-playing AIs. Tell your friends about the freeCodeCamp podcast. Let's inspire more",
@@ -8504,56 +8504,6 @@
           "wordCount": 799,
           "title": "Podcast: Data Visualization with Dr. Curran Kelleher",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/quincy_and_curran_jpeg-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-game-tutorial-stick-hero-with-html-canvas/",
-          "author": "Hunor Márton Borbély",
-          "description": "In this tutorial, you'll learn how to create a game that's inspired by Stick Hero – using pure JavaScript and HTML canvas. We are going to recreate Stick Hero [https://apps.apple.com/us/app/stick-hero/id918338898], a mobile game published by KetchApp. We'll go through how the game works in general, how to use JavaScript to",
-          "link": "https://www.freecodecamp.org/news/javascript-game-tutorial-stick-hero-with-html-canvas/",
-          "publishedOn": "2023-11-16T19:00:55.000Z",
-          "wordCount": 6781,
-          "title": "JavaScript Game Tutorial – Build a Stick Hero Clone with HTML Canvas + JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/_Users_hunormartonborbely_Documents_Courses_Youtube_Sticky-20Hero_index.html-High-Res-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/localize-django-app/",
-          "author": "Jess Wilk",
-          "description": "Have you ever wondered how websites can offer their content in multiple languages, perfectly tailored to different cultures and regions?  Well, that magic is called localization, and it's a game-changer for web development – especially when using Django, a super versatile Python framework.  It's not just about translating",
-          "link": "https://www.freecodecamp.org/news/localize-django-app/",
-          "publishedOn": "2023-11-16T18:07:43.000Z",
-          "wordCount": 3281,
-          "title": "How to Localize Your Django App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/hypermkt_mockup_of_a_phone_with_an_visualization_of_a_localizat_0fc2f372-dc38-473f-a203-31d62a6d518c-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/chatgpt-vs-bard/",
-          "author": "Maybell Obadoni",
-          "description": "In November of 2022, Artificial Intelligence took center stage in the tech world. AI was not a new concept, but OpenAI had just released its ChatGPT Large Language Model, and devs started diving into using it.  Large Language Models, or LLMs, let users enter a prompt (some question or",
-          "link": "https://www.freecodecamp.org/news/chatgpt-vs-bard/",
-          "publishedOn": "2023-11-16T17:19:15.000Z",
-          "wordCount": 2479,
-          "title": "ChatGPT vs BARD AI – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/gpt.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-suspense/",
-          "author": "Okosa Leonard Onyekachukwu",
-          "description": "React's ecosystem is always growing, and it seems like there are always new features and enhancements to make development more effective and user-friendly.  React Suspense is one such feature that has become quite popular among React devs. In this guide, you'll learn all about React Suspense and examine its",
-          "link": "https://www.freecodecamp.org/news/react-suspense/",
-          "publishedOn": "2023-11-16T17:04:50.000Z",
-          "wordCount": 2787,
-          "title": "How to Use React Suspense to Improve your React Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/react-logo-vector-1.svg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/master-technical-interviews/",
-          "author": "Beau Carnes",
-          "description": "You need to prepare if you want to perform well in technical developer job interviews. We just published a course on the freeCodeCamp.org YouTube channel that will guide you through every aspect of the technical interview process, as well as prepare you for the type of questions you might get",
-          "link": "https://www.freecodecamp.org/news/master-technical-interviews/",
-          "publishedOn": "2023-11-16T15:30:08.000Z",
-          "wordCount": 888,
-          "title": "Master Technical Interviews",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/technicalinterviews.png"
         }
       ]
     }
