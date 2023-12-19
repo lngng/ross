@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lngng.github.io/ross/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-18T00:53:52.722Z</updated>
+    <updated>2023-12-19T00:52:52.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://lngng.github.io/ross/index.html"/>
     <link rel="self" href="https://lngng.github.io/ross/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Use Remix and Strapi to Create Full Stack Apps]]></title>
+        <id>https://www.freecodecamp.org/news/use-remix-and-strapi-to-create-full-stack-apps/</id>
+        <link href="https://www.freecodecamp.org/news/use-remix-and-strapi-to-create-full-stack-apps/"/>
+        <updated>2023-12-18T20:17:12.000Z</updated>
+        <summary type="html"><![CDATA[Remix and Strapi go together like git merges and zero conflicts - a rare yet delightful occurrence in the world of web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you to create full stack apps with Remix and Strapi. Paul Bratslavsky created]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React Props – The Animated Guide]]></title>
+        <id>https://www.freecodecamp.org/news/react-props-animated-guide/</id>
+        <link href="https://www.freecodecamp.org/news/react-props-animated-guide/"/>
+        <updated>2023-12-17T21:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Props are a common stumbling block when moving from JavaScript to React. In reality, using props in React components is almost identical to using arguments in plain JavaScript functions. Let's take a quick look at what props are in React through some helpful animations. These will help you visualize how]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Accessibility Best Practices – How to Ensure Everyone Can Use Your Website]]></title>
+        <id>https://www.freecodecamp.org/news/web-accessibility-best-practices/</id>
+        <link href="https://www.freecodecamp.org/news/web-accessibility-best-practices/"/>
+        <updated>2023-12-17T21:27:27.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic world of web development, creating websites that are accessible to all users, including those with disabilities, is not just a best practice – it's a necessity.  Web accessibility ensures that everyone, regardless of their abilities, can perceive, understand, navigate, and interact with the web. This inclusivity]]></summary>
+        <author>
+            <name>SUDHEER KUMAR REDDY GOWRIGARI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Variables in Figma – A Handbook for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/variables-in-figma-handbook/</id>
@@ -8399,96 +8429,6 @@ Traffic is so chaotic and unsafe (Witness a deadly accident and a death of a mot
  [link]   [comments]]]></summary>
         <author>
             <name>Vietnam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wind Advisory issued November 18 at 1:35PM PST until November 19 at 8:00PM PST by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.WindAdvisory.12666CB93040CA.LOXNPWLOX.c57a5097660c752e107bcbaa05eb10af</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.WindAdvisory.12666CB93040CA.LOXNPWLOX.c57a5097660c752e107bcbaa05eb10af"/>
-        <updated>2023-11-18T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[...WIND ADVISORY IN EFFECT FROM 7 AM TO 8 PM PST SUNDAY... ...HIGH WIND WATCH IN EFFECT FROM SUNDAY EVENING THROUGH MONDAY EVENING... * WHAT...For the Wind Advisory, north winds 25 to 35 mph with gusts up to 55 mph expected. For the High Wind Watch, northeast winds 25 to 40 mph with gusts up to 65 mph possible.]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wind Advisory issued November 18 at 1:35PM PST until November 19 at 8:00PM PST by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.WindAdvisory.12666CB93040CA.LOXNPWLOX.bb3072b8f5848100329ffe0785ca3ea1</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.WindAdvisory.12666CB93040CA.LOXNPWLOX.bb3072b8f5848100329ffe0785ca3ea1"/>
-        <updated>2023-11-18T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[...WIND ADVISORY IN EFFECT FROM 7 AM TO 8 PM PST SUNDAY... ...HIGH WIND WATCH IN EFFECT FROM SUNDAY EVENING THROUGH MONDAY EVENING... * WHAT...For the Wind Advisory, north winds 20 to 30 mph with gusts up to 50 mph expected. For the High Wind Watch, northeast winds 25 to 40 mph with gusts up to 60 mph possible.]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High Wind Warning issued November 18 at 1:35PM PST until November 20 at 12:00AM PST by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.HighWindWarning.12666CB9CC80CA.LOXNPWLOX.9134e44d8b58c3e1de614da293784e1b</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.HighWindWarning.12666CB9CC80CA.LOXNPWLOX.9134e44d8b58c3e1de614da293784e1b"/>
-        <updated>2023-11-18T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[...HIGH WIND WARNING REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO MIDNIGHT PST SUNDAY NIGHT... ...HIGH WIND WATCH IN EFFECT FROM LATE SUNDAY NIGHT THROUGH MONDAY EVENING... * WHAT...North to northeast winds 35 to 50 mph with gusts of 60 to 80 mph.]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High Wind Warning issued November 18 at 1:35PM PST until November 20 at 12:00AM PST by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.HighWindWarning.12666CB9CC80CA.LOXNPWLOX.819a22f87057d838d85a963f4cb9288e</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.HighWindWarning.12666CB9CC80CA.LOXNPWLOX.819a22f87057d838d85a963f4cb9288e"/>
-        <updated>2023-11-18T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[...HIGH WIND WARNING REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO MIDNIGHT PST SUNDAY NIGHT... * WHAT...North winds 25 to 40 mph with gusts up to 60 mph expected. Isolated gusts to 70 mph possible for Interstate 5 Corridor. * WHERE...Northern Ventura County Mountains and Western Antelope]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wind Advisory issued November 18 at 1:35PM PST until November 20 at 12:00AM PST by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.WindAdvisory.12666CB9CC80CA.LOXNPWLOX.6cd1937e0df49009b9a59292eeee5be8</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.WindAdvisory.12666CB9CC80CA.LOXNPWLOX.6cd1937e0df49009b9a59292eeee5be8"/>
-        <updated>2023-11-18T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[...WIND ADVISORY REMAINS IN EFFECT FROM 7 AM SUNDAY TO MIDNIGHT PST SUNDAY NIGHT... * WHAT...Northwest winds 20 to 30 mph with gusts up to 50 mph. * WHERE...Antelope Valley. * WHEN...From 7 AM Sunday to midnight PST Sunday night. * IMPACTS...Gusty winds will blow around unsecured objects and]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High Wind Watch issued November 18 at 1:35PM PST until November 20 at 10:00PM PST by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.HighWindWatch.12666CC8C0A0CA.LOXNPWLOX.c3facdf67f2a24429eeec77a436800ba</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.HighWindWatch.12666CC8C0A0CA.LOXNPWLOX.c3facdf67f2a24429eeec77a436800ba"/>
-        <updated>2023-11-18T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[...WIND ADVISORY IN EFFECT FROM 7 AM TO 8 PM PST SUNDAY... ...HIGH WIND WATCH IN EFFECT FROM SUNDAY EVENING THROUGH MONDAY EVENING... * WHAT...For the Wind Advisory, north winds 25 to 35 mph with gusts up to 55 mph expected. For the High Wind Watch, northeast winds 25 to 40 mph with gusts up to 65 mph possible.]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High Wind Watch issued November 18 at 1:35PM PST until November 20 at 10:00PM PST by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.HighWindWatch.12666CC8C0A0CA.LOXNPWLOX.8db29ffad3b675423a827a022ea3b9f4</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.HighWindWatch.12666CC8C0A0CA.LOXNPWLOX.8db29ffad3b675423a827a022ea3b9f4"/>
-        <updated>2023-11-18T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[...HIGH WIND WATCH IN EFFECT FROM SUNDAY EVENING THROUGH MONDAY EVENING... * WHAT...Northeast winds 25 to 40 mph with gusts up to 60 mph possible. * WHERE...Central Ventura County Valleys, Malibu Coast, Western Santa Monica Mountains Recreational Area, Eastern Santa Monica]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High Wind Watch issued November 18 at 1:35PM PST until November 20 at 10:00PM PST by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.HighWindWatch.12666CC8C0A0CA.LOXNPWLOX.a183208f707ab75034e1aa99fd07277e</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.HighWindWatch.12666CC8C0A0CA.LOXNPWLOX.a183208f707ab75034e1aa99fd07277e"/>
-        <updated>2023-11-18T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[...WIND ADVISORY IN EFFECT FROM 7 AM TO 8 PM PST SUNDAY... ...HIGH WIND WATCH IN EFFECT FROM SUNDAY EVENING THROUGH MONDAY EVENING... * WHAT...For the Wind Advisory, north winds 20 to 30 mph with gusts up to 50 mph expected. For the High Wind Watch, northeast winds 25 to 40 mph with gusts up to 60 mph possible.]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High Wind Watch issued November 18 at 1:35PM PST until November 20 at 10:00PM PST by NWS]]></title>
-        <id>https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.HighWindWatch.12666CC8C0A0CA.LOXNPWLOX.2f95f91d24f9b22f2aa9f42e9e96a0dd</id>
-        <link href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12666C9D517C.HighWindWatch.12666CC8C0A0CA.LOXNPWLOX.2f95f91d24f9b22f2aa9f42e9e96a0dd"/>
-        <updated>2023-11-18T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[...HIGH WIND WARNING REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO MIDNIGHT PST SUNDAY NIGHT... ...HIGH WIND WATCH IN EFFECT FROM LATE SUNDAY NIGHT THROUGH MONDAY EVENING... * WHAT...North to northeast winds 35 to 50 mph with gusts of 60 to 80 mph.]]></summary>
-        <author>
-            <name>Current Watches, Warnings and Advisories for Los Angeles (CAC037) California Issued by the National Weather Service</name>
         </author>
     </entry>
     <entry>
