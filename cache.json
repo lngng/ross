@@ -12,6 +12,46 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126672A2C854.WindAdvisory.126672C00130CA.LOXNPWLOX.3e3bce59d108d6d8696565616249feb4",
+          "author": null,
+          "description": "...WIND ADVISORY IN EFFECT FROM 7 AM WEDNESDAY TO 7 AM PST THURSDAY... * WHAT...Southeast to south winds 20 to 30 mph with gusts up to 50 mph expected. Isolated gusts to 60 mph possible on favored mountain peaks. * WHERE...Southern Ventura County Mountains, Northern Ventura",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126672A2C854.WindAdvisory.126672C00130CA.LOXNPWLOX.3e3bce59d108d6d8696565616249feb4",
+          "publishedOn": "2023-12-19T23:49:00.000Z",
+          "wordCount": 226,
+          "title": "Wind Advisory issued December 19 at 3:49PM PST until December 21 at 7:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126672A2A338.FloodWatch.126672B0BEF0CA.LOXFFALOX.e93f701fcae99c88147ab39f1dcb604b",
+          "author": null,
+          "description": "...FLOOD WATCH REMAINS IN EFFECT FROM 10 PM PST THIS EVENING THROUGH LATE THURSDAY NIGHT... * WHAT...The high risk of flooding caused by excessive rainfall. * WHERE...All of Los Angeles, Ventura, Santa Barbara, and San Luis Obispo Counties in Southwest California. * WHEN...From 10 PM PST this evening through late Thursday night.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126672A2A338.FloodWatch.126672B0BEF0CA.LOXFFALOX.e93f701fcae99c88147ab39f1dcb604b",
+          "publishedOn": "2023-12-19T22:54:00.000Z",
+          "wordCount": 352,
+          "title": "Flood Watch issued December 19 at 2:54PM PST until December 20 at 7:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126672A2A338.FloodWatch.126672C00130CA.LOXFFALOX.dc431bc4b16e1a851270736e82e4146c",
+          "author": null,
+          "description": "...FLOOD WATCH REMAINS IN EFFECT FROM 10 PM PST THIS EVENING THROUGH LATE THURSDAY NIGHT... * WHAT...The high risk of flooding caused by excessive rainfall. * WHERE...All of Los Angeles, Ventura, Santa Barbara, and San Luis Obispo Counties in Southwest California. * WHEN...From 10 PM PST this evening through late Thursday night.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126672A2A338.FloodWatch.126672C00130CA.LOXFFALOX.dc431bc4b16e1a851270736e82e4146c",
+          "publishedOn": "2023-12-19T22:54:00.000Z",
+          "wordCount": 646,
+          "title": "Flood Watch issued December 19 at 2:54PM PST until December 21 at 7:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126672A2A338.FloodWatch.126672DEFAE0CA.LOXFFALOX.83892baff29df2a0f8c205ba4a2e433a",
+          "author": null,
+          "description": "...FLOOD WATCH REMAINS IN EFFECT FROM 10 PM PST THIS EVENING THROUGH LATE THURSDAY NIGHT... * WHAT...The high risk of flooding caused by excessive rainfall. * WHERE...All of Los Angeles, Ventura, Santa Barbara, and San Luis Obispo Counties in Southwest California. * WHEN...From 10 PM PST this evening through late Thursday night.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126672A2A338.FloodWatch.126672DEFAE0CA.LOXFFALOX.83892baff29df2a0f8c205ba4a2e433a",
+          "publishedOn": "2023-12-19T22:54:00.000Z",
+          "wordCount": 324,
+          "title": "Flood Watch issued December 19 at 2:54PM PST until December 23 at 10:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266720A2428.RedFlagWarning.1266721960F0CA.LOXRFWLOX.39ea191209e37efe85fc22ed4a2f43d9",
           "author": null,
           "description": "...RED FLAG WARNING IN EFFECT THROUGH SUNDAY AFTERNOON OVER MOST OF LOS ANGELES AND VENTURA COUNTIES... .Moderate to strong northeast winds combined with low relative humidities will elevate the risk for extreme fire behavior if a new fire starts. The risk will be focused over Los Angeles and Ventura Counties, especially this afternoon through Sunday",
@@ -599,126 +639,6 @@
           "publishedOn": "2023-11-20T19:54:00.000Z",
           "wordCount": 348,
           "title": "Air Quality Alert issued November 20 at 11:54AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.WindAdvisory.12666CB93040CA.LOXNPWLOX.0c5978bac4ef60a462a522618e457655",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT UNTIL 8 PM PST THIS EVENING... * WHAT...North to Northwest winds 15 to 25 mph with gusts up to 40 mph. * WHERE...Catalina and Santa Barbara Islands, Lake Casitas, Ojai Valley, Los Angeles County Beaches, Palos Verdes Hills, Los Angeles County Inland Coast including Downtown Los Angeles and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.WindAdvisory.12666CB93040CA.LOXNPWLOX.0c5978bac4ef60a462a522618e457655",
-          "publishedOn": "2023-11-19T19:58:00.000Z",
-          "wordCount": 244,
-          "title": "Wind Advisory issued November 19 at 11:58AM PST until November 19 at 8:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.WindAdvisory.12666CB9F390CA.LOXNPWLOX.6dd0bdace0260a982f2d695ea7bbab58",
-          "author": null,
-          "description": "...WIND ADVISORY NOW IN EFFECT UNTIL 1 AM PST MONDAY... ...HIGH WIND WARNING IN EFFECT FROM 1 AM TO 3 PM PST MONDAY... * WHAT...For the Wind Advisory, north winds 20 to 30 mph with gusts up to 50 mph. For the High Wind Warning, northeast winds 30 to 45 mph with gusts up to 65 mph expected. * WHERE...Santa Clarita Valley, Western San Fernando Valley and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.WindAdvisory.12666CB9F390CA.LOXNPWLOX.6dd0bdace0260a982f2d695ea7bbab58",
-          "publishedOn": "2023-11-19T19:58:00.000Z",
-          "wordCount": 242,
-          "title": "Wind Advisory issued November 19 at 11:58AM PST until November 20 at 1:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.WindAdvisory.12666CB9F390CA.LOXNPWLOX.d79fee73ec70d7306c5781742b74f5e3",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT UNTIL 1 AM PST MONDAY... ...HIGH WIND WARNING IN EFFECT FROM 1 AM TO 3 PM PST MONDAY... * WHAT...For the Wind Advisory, north winds 20 to 30 mph with gusts up to 50 mph. For the High Wind Warning, northeast winds 30 to 45 mph with gusts up to 65 mph expected. * WHERE...Central Ventura County Valleys, Western Santa Monica",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.WindAdvisory.12666CB9F390CA.LOXNPWLOX.d79fee73ec70d7306c5781742b74f5e3",
-          "publishedOn": "2023-11-19T19:58:00.000Z",
-          "wordCount": 267,
-          "title": "Wind Advisory issued November 19 at 11:58AM PST until November 20 at 1:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.WindAdvisory.12666CB9F390CA.LOXNPWLOX.d3a017ef82dbde46dfde34f967e32ef7",
-          "author": null,
-          "description": "...WIND ADVISORY NOW IN EFFECT UNTIL 1 AM PST MONDAY... ...HIGH WIND WARNING IN EFFECT FROM 1 AM TO 3 PM PST MONDAY... * WHAT...For the Wind Advisory, north winds 20 to 30 mph with gusts up to 50 mph. For the High Wind Warning, northeast winds 25 to 40 mph with gusts up to 60 mph expected. * WHERE...Malibu Coast and Eastern Santa Monica Mountains",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.WindAdvisory.12666CB9F390CA.LOXNPWLOX.d3a017ef82dbde46dfde34f967e32ef7",
-          "publishedOn": "2023-11-19T19:58:00.000Z",
-          "wordCount": 232,
-          "title": "Wind Advisory issued November 19 at 11:58AM PST until November 20 at 1:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.HighWindWarning.12666CBC1670CA.LOXNPWLOX.44604e357589a07b49dfd5f7a85d4e5c",
-          "author": null,
-          "description": "...WIND ADVISORY NOW IN EFFECT UNTIL 1 AM PST MONDAY... ...HIGH WIND WARNING IN EFFECT FROM 1 AM TO 3 PM PST MONDAY... * WHAT...For the Wind Advisory, north winds 20 to 30 mph with gusts up to 50 mph. For the High Wind Warning, northeast winds 30 to 45 mph with gusts up to 65 mph expected. * WHERE...Santa Clarita Valley, Western San Fernando Valley and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.HighWindWarning.12666CBC1670CA.LOXNPWLOX.44604e357589a07b49dfd5f7a85d4e5c",
-          "publishedOn": "2023-11-19T19:58:00.000Z",
-          "wordCount": 245,
-          "title": "High Wind Warning issued November 19 at 11:58AM PST until November 20 at 3:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.HighWindWarning.12666CBC1670CA.LOXNPWLOX.fc7413bb47aedf9bf37c1726e2b11d92",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT UNTIL 1 AM PST MONDAY... ...HIGH WIND WARNING IN EFFECT FROM 1 AM TO 3 PM PST MONDAY... * WHAT...For the Wind Advisory, north winds 20 to 30 mph with gusts up to 50 mph. For the High Wind Warning, northeast winds 30 to 45 mph with gusts up to 65 mph expected. * WHERE...Central Ventura County Valleys, Western Santa Monica",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.HighWindWarning.12666CBC1670CA.LOXNPWLOX.fc7413bb47aedf9bf37c1726e2b11d92",
-          "publishedOn": "2023-11-19T19:58:00.000Z",
-          "wordCount": 270,
-          "title": "High Wind Warning issued November 19 at 11:58AM PST until November 20 at 3:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.HighWindWarning.12666CBC1670CA.LOXNPWLOX.000258394398fea2ac1820bc657bc178",
-          "author": null,
-          "description": "...WIND ADVISORY NOW IN EFFECT UNTIL 1 AM PST MONDAY... ...HIGH WIND WARNING IN EFFECT FROM 1 AM TO 3 PM PST MONDAY... * WHAT...For the Wind Advisory, north winds 20 to 30 mph with gusts up to 50 mph. For the High Wind Warning, northeast winds 25 to 40 mph with gusts up to 60 mph expected. * WHERE...Malibu Coast and Eastern Santa Monica Mountains",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.HighWindWarning.12666CBC1670CA.LOXNPWLOX.000258394398fea2ac1820bc657bc178",
-          "publishedOn": "2023-11-19T19:58:00.000Z",
-          "wordCount": 235,
-          "title": "High Wind Warning issued November 19 at 11:58AM PST until November 20 at 3:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.WindAdvisory.12666CC8C0A0CA.LOXNPWLOX.046c7512e79c6df1355db89af9a770c3",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT UNTIL 10 PM PST MONDAY... * WHAT...North winds 25 to 35 mph with gusts up to 55 mph becoming northeast tonight into Monday. * WHERE...Western Antelope Valley Foothills. * WHEN...Until 10 PM PST Monday. * IMPACTS...Damaging winds could blow down large objects such as",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.WindAdvisory.12666CC8C0A0CA.LOXNPWLOX.046c7512e79c6df1355db89af9a770c3",
-          "publishedOn": "2023-11-19T19:58:00.000Z",
-          "wordCount": 164,
-          "title": "Wind Advisory issued November 19 at 11:58AM PST until November 20 at 10:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.WindAdvisory.12666CC8C0A0CA.LOXNPWLOX.e494aab62be3fa48f905aa3badb7bd14",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT UNTIL 10 PM PST MONDAY... * WHAT...Northwest winds 20 to 30 mph with gusts up to 45 mph becoming northeast tonight into Monday. * WHERE...Eastern Antelope Valley Foothills. * WHEN...Until 10 PM PST Monday. * IMPACTS...Damaging winds could blow down large objects such as",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.WindAdvisory.12666CC8C0A0CA.LOXNPWLOX.e494aab62be3fa48f905aa3badb7bd14",
-          "publishedOn": "2023-11-19T19:58:00.000Z",
-          "wordCount": 163,
-          "title": "Wind Advisory issued November 19 at 11:58AM PST until November 20 at 10:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.WindAdvisory.12666CC8C0A0CA.LOXNPWLOX.6cd1937e0df49009b9a59292eeee5be8",
-          "author": null,
-          "description": "...WIND ADVISORY NOW IN EFFECT UNTIL 10 PM PST MONDAY... * WHAT...Northwest winds 20 to 30 mph with gusts up to 50 mph becoming northeast tonight into Monday. * WHERE...Antelope Valley. * WHEN...Until 10 PM PST Monday. * IMPACTS...Gusty winds will blow around unsecured objects and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.WindAdvisory.12666CC8C0A0CA.LOXNPWLOX.6cd1937e0df49009b9a59292eeee5be8",
-          "publishedOn": "2023-11-19T19:58:00.000Z",
-          "wordCount": 161,
-          "title": "Wind Advisory issued November 19 at 11:58AM PST until November 20 at 10:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.HighWindWarning.12666CCA9560CA.LOXNPWLOX.9134e44d8b58c3e1de614da293784e1b",
-          "author": null,
-          "description": "...HIGH WIND WARNING NOW IN EFFECT UNTIL 10 AM PST TUESDAY... * WHAT...North winds 30 to 45 mph with gusts of 60 mph becoming northeast tonight through Tuesday morning. Local gusts to 80 mph in the western San Gabriel mountains. * WHERE...Southern Ventura County Mountains, Interstate 5 Corridor and Western San Gabriel Mountains and Highway 14",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.HighWindWarning.12666CCA9560CA.LOXNPWLOX.9134e44d8b58c3e1de614da293784e1b",
-          "publishedOn": "2023-11-19T19:58:00.000Z",
-          "wordCount": 226,
-          "title": "High Wind Warning issued November 19 at 11:58AM PST until November 21 at 10:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.HighWindWarning.12666CCA9560CA.LOXNPWLOX.724dccf9c1063b6caa042a368d28830c",
-          "author": null,
-          "description": "...HIGH WIND WARNING IN EFFECT FROM 6 PM THIS EVENING TO 10 AM PST TUESDAY... * WHAT...Northeast winds 30 to 45 mph with gusts up to 70 mph expected. * WHERE...Eastern San Gabriel Mountains. * WHEN...From 6 PM this evening to 10 AM PST Tuesday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12666CAC4E98.HighWindWarning.12666CCA9560CA.LOXNPWLOX.724dccf9c1063b6caa042a368d28830c",
-          "publishedOn": "2023-11-19T19:58:00.000Z",
-          "wordCount": 180,
-          "title": "High Wind Warning issued November 19 at 11:58AM PST until November 21 at 10:00AM PST by NWS",
           "imageUrl": null
         }
       ]
