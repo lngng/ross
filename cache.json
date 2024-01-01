@@ -12,6 +12,26 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126673599854.CoastalFloodAdvisory.126884085F80CA.LOXCFWLOX.3332e3890ed2446390c08a9c44e2bccc",
+          "author": null,
+          "description": "...COASTAL FLOOD ADVISORY REMAINS IN EFFECT UNTIL 8 PM PST THIS EVENING... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM PST THIS EVENING... * WHAT...For the Coastal Flood Advisory, minor coastal flooding. For the High Surf Advisory, breaking waves of 6 to 10 feet",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126673599854.CoastalFloodAdvisory.126884085F80CA.LOXCFWLOX.3332e3890ed2446390c08a9c44e2bccc",
+          "publishedOn": "2023-12-31T21:57:00.000Z",
+          "wordCount": 284,
+          "title": "Coastal Flood Advisory issued December 31 at 1:57PM PST until December 31 at 8:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126673599854.HighSurfAdvisory.126884085F80CA.LOXCFWLOX.80240df339849b71481b232d807df033",
+          "author": null,
+          "description": "...COASTAL FLOOD ADVISORY REMAINS IN EFFECT UNTIL 8 PM PST THIS EVENING... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM PST THIS EVENING... * WHAT...For the Coastal Flood Advisory, minor coastal flooding. For the High Surf Advisory, breaking waves of 6 to 10 feet",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126673599854.HighSurfAdvisory.126884085F80CA.LOXCFWLOX.80240df339849b71481b232d807df033",
+          "publishedOn": "2023-12-31T21:57:00.000Z",
+          "wordCount": 284,
+          "title": "High Surf Advisory issued December 31 at 1:57PM PST until December 31 at 8:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266734A7428.CoastalFloodWarning.126673573820CA.LOXCFWLOX.544f93f92ba9dc906bff237246efacd9",
           "author": null,
           "description": "...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 10 PM PST THIS EVENING... ...HIGH SURF WARNING REMAINS IN EFFECT UNTIL 10 PM PST THIS EVENING... * WHAT...For the Coastal Flood Warning, significant coastal flooding expected. For the High Surf Warning, dangerously",
@@ -670,26 +690,6 @@
           "wordCount": 35,
           "title": "There are no active watches, warnings or advisories",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266718FE730.WindAdvisory.1266719CB6E0CA.LOXNPWLOX.aedb60ce3be8bf1f2d0e10f73de7d9ee",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 10 PM PST THIS EVENING... * WHAT...Northwest to north winds 15 to 25 mph with gusts up to 40 mph expected. * WHERE...Santa Clarita Valley and Western San Fernando Valley. * WHEN...Until 10 PM PST this evening. * IMPACTS...Gusty winds will blow around unsecured objects and",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266718FE730.WindAdvisory.1266719CB6E0CA.LOXNPWLOX.aedb60ce3be8bf1f2d0e10f73de7d9ee",
-          "publishedOn": "2023-12-01T22:04:00.000Z",
-          "wordCount": 163,
-          "title": "Wind Advisory issued December 01 at 2:04PM PST until December 01 at 10:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266718FE730.WindAdvisory.1266719CB6E0CA.LOXNPWLOX.da7a210d1f3a8d0d1c1de4cb074e8d37",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 10 PM PST THIS EVENING... * WHAT...Northwest to north winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Interstate 5 Corridor, Western San Gabriel Mountains and Highway 14 Corridor and Western Antelope Valley Foothills. * WHEN...Until 10 PM PST this evening.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1266718FE730.WindAdvisory.1266719CB6E0CA.LOXNPWLOX.da7a210d1f3a8d0d1c1de4cb074e8d37",
-          "publishedOn": "2023-12-01T22:04:00.000Z",
-          "wordCount": 189,
-          "title": "Wind Advisory issued December 01 at 2:04PM PST until December 01 at 10:00PM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -698,6 +698,256 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18vlbzo/who_is_this_singer/",
+          "author": null,
+          "description": "I took a selfie with this singer last night in Hue after NYE celebration. Does anyone know his name?\n    submitted by    /u/fbmrecords  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18vlbzo/who_is_this_singer/",
+          "publishedOn": "2024-01-01T00:47:59.000Z",
+          "wordCount": null,
+          "title": "Who is this singer?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18vkhsg/post_your_questions_inquiries_here_rvietnam/",
+          "author": null,
+          "description": "Lưu ý: Đây là thread chủ yếu dành cho người nước ngoài hoặc không nói tiếng Việt đặt câu hỏi. Nếu có thể, hãy trả lời giúp họ nhé.\n Please read the 3rd rule of the sub. Don't post your general questions & inquiries outside of this thread as they will be removed.\n Lots of your questions have been answered already so make sure you do a search before asking (how-to below).\n  \nTo keep this subreddit tidy, we have this monthly thread that is open for random discussions and questions. If you post your basic/general questions outside of this thread they will be removed. Sorry, we want to make this sub friendly but also want it to be clean and organized.\n Some examples of the questions that should be posted here:\n  \nQuestions that can be answered with just Yes/No\n Basic questions like \"Where can I…",
+          "link": "https://www.reddit.com/r/VietNam/comments/18vkhsg/post_your_questions_inquiries_here_rvietnam/",
+          "publishedOn": "2024-01-01T00:01:20.000Z",
+          "wordCount": null,
+          "title": "Post your questions & inquiries here! - r/Vietnam monthly random discussion thread - F.A.Q",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18viuwn/balayage_saigon/",
+          "author": null,
+          "description": "Has anyone had experience doing balayage in Saigon? My last experience didn’t go too well. I’d love to hear experiences or any recommendations. All are appreciated!\n    submitted by    /u/maiwanpet  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18viuwn/balayage_saigon/",
+          "publishedOn": "2023-12-31T22:33:18.000Z",
+          "wordCount": null,
+          "title": "Balayage Saigon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18vi8jr/which_accentdialect_should_i_learn_first_northern/",
+          "author": null,
+          "description": "I’ve been studying Vietnamese for about a month now and I’ve acquired some sentences and words. However, I did notice that there’s two dialects/accents to Vietnamese. When I look on TikTok I always see southern Vietnamese people talking about how the northern accent is complicated and sometimes hard to understand. But at the same time, most Vietnamese songs are written in the northern dialect and most apps only teach the Northern dialect. As a person who lives in the United States, I’ve seen sources state that most Vietnamese Americans speak with the southern dialect. Obviously I would want to make learning Vietnamese as easy as possible by learning the most commonly used dialect or easiest dialect to learn and understand. So this leads me to my question, should I learn the northern or southern dialect?\n    submitted by    /u/Blamoncy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18vi8jr/which_accentdialect_should_i_learn_first_northern/",
+          "publishedOn": "2023-12-31T22:01:30.000Z",
+          "wordCount": null,
+          "title": "Which accent/dialect should I learn first, northern or southern?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18vhq60/2_weeks_travel_plan_feedback/",
+          "author": null,
+          "description": "Hello everyone! Planning a two-week trip has proven more challenging than I anticipated, given the overwhelming amount of information available online.\n After extensive research, I've crafted the following itinerary for my travels during the first two weeks of March 2024. I would greatly appreciate your feedback on it, please! 😊 I hope I'm not missing something amazing.\n I know it's impossible to see everything in 13 days, but I'd like to visit all the best spots, from North to South.\n Day 1 and 2: Hanoi\n Day 3 and 4: Mai Chau\n Day 5 and 6: Halong Bay\n Day 7: Phong Nha-Ke Bang National Park\n Day 8: Da Nang\n Day 9 and 10: Hoi An\n Day 11 and 12: Ho Chi Minh\n Day 13: Travel back to home country\n Thanks!\n    submitted by    /u/justbanterbro  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18vhq60/2_weeks_travel_plan_feedback/",
+          "publishedOn": "2023-12-31T21:35:35.000Z",
+          "wordCount": null,
+          "title": "2 weeks travel plan - feedback :)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18vhc4v/can_you_find_cocoa_powder_at_a_supermarket_in/",
+          "author": null,
+          "description": "This is a weird question I know, but my GF is dying on this hill of \"You can't buy cocoa powder in Vietnam, we should bring some with us\"\n Can some of you affirm/deny that cocoa powder is / isn't infact available in VN?\n    submitted by    /u/Otherwise_Soil39  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18vhc4v/can_you_find_cocoa_powder_at_a_supermarket_in/",
+          "publishedOn": "2023-12-31T21:16:18.000Z",
+          "wordCount": null,
+          "title": "Can you find cocoa powder at a supermarket in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18vgaf2/7_days_in_vietnam/",
+          "author": null,
+          "description": "Hi everyone, need some advice for an upcoming trip. I unfortunately will only be in Vietnam for 7 days and am trying to determine if I should change my itinerary as I think it might be too packed.\n My current plan is 2 nights in Saigon (XO Food Tour on motorbike, Cu Chi Tunnels, Mekong Delta), 2 nights in Hoi An (bike tour, basket boats, etc.), and 3 nights in Hanoi (possibly with a trip to Ha Long Bay). I will be flying between all of these.\n Am I doing too much? Should I cut one of these out of my trip and extend time in the other two places?\n    submitted by    /u/ImmediateTrip9  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18vgaf2/7_days_in_vietnam/",
+          "publishedOn": "2023-12-31T20:24:54.000Z",
+          "wordCount": null,
+          "title": "7 Days in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18vf432/hanoi_old_quarter_and_ho%C3%A0n_ki%E1%BA%BFm_2024_new_year/",
+          "author": null,
+          "description": "The lunar new year is the star of the show here but after living here for 8 years, it’s incredible to see how fast the country has adapted to western holidays (Halloween, Christmas. New Year, etc.) driven mostly by financial endeavors. HNY2024\n    submitted by    /u/sleestacker  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18vf432/hanoi_old_quarter_and_ho%C3%A0n_ki%E1%BA%BFm_2024_new_year/",
+          "publishedOn": "2023-12-31T19:29:12.000Z",
+          "wordCount": null,
+          "title": "Hanoi (Old Quarter and Hoàn Kiếm) 2024 New Year celebration crowds. Credit: https://www.facebook.com/nam.gom.5?mibextid=LQQJ4d",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18veh6e/how_and_where_do_i_get_diagnostics_for_autismadhd/",
+          "author": null,
+          "description": "For my whole life, from childhood to now. I have been experiencing certain symptoms that my family calls it \"Weird\", as I kept talking to myself, imagining characters and scenarios,twitching my arms or legs, that kinds of stuff. I'm genuinely asking, are there any ways for me to get an official diagnostics for my disorders?\n    submitted by    /u/helloworld_gizmoboi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18veh6e/how_and_where_do_i_get_diagnostics_for_autismadhd/",
+          "publishedOn": "2023-12-31T18:59:41.000Z",
+          "wordCount": null,
+          "title": "How, and where do I get diagnostics for autism/ADHD in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18vdprt/inadequate_infrastructure_costs_vietnam_airlines/",
+          "author": null,
+          "description": "submitted by    /u/OpeningVermicelli405  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18vdprt/inadequate_infrastructure_costs_vietnam_airlines/",
+          "publishedOn": "2023-12-31T18:23:28.000Z",
+          "wordCount": null,
+          "title": "Inadequate infrastructure costs Vietnam Airlines $20M loss - VnExpress International",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18vdp78/vietnam_airlines_to_employ_bamboo_airways_excess/",
+          "author": null,
+          "description": "submitted by    /u/OpeningVermicelli405  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18vdp78/vietnam_airlines_to_employ_bamboo_airways_excess/",
+          "publishedOn": "2023-12-31T18:22:42.000Z",
+          "wordCount": null,
+          "title": "Vietnam Airlines to employ Bamboo Airways’ excess staff - VnExpress International",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18vcgx6/short_fireworks_in_vietnam_2024/",
+          "author": null,
+          "description": "submitted by    /u/Fortune-Former  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18vcgx6/short_fireworks_in_vietnam_2024/",
+          "publishedOn": "2023-12-31T17:24:01.000Z",
+          "wordCount": null,
+          "title": "Short fireworks in Vietnam (2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18vc79m/sad_moment/",
+          "author": null,
+          "description": "buồn của học sinh\n    submitted by    /u/Zen_cheese  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18vc79m/sad_moment/",
+          "publishedOn": "2023-12-31T17:11:27.000Z",
+          "wordCount": null,
+          "title": "Sad moment 😃",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18vc5lp/2024_is_here/",
+          "author": null,
+          "description": "submitted by    /u/idonotneedhelp  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18vc5lp/2024_is_here/",
+          "publishedOn": "2023-12-31T17:09:20.000Z",
+          "wordCount": null,
+          "title": "2024 is here!!!!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18vbpe4/youtube_poverty_streamers/",
+          "author": null,
+          "description": "My mom is starting to donate a lot to Vietnamese youtubers doing charity, but I'm scared she is getting scammed. Is there anyway to know if they're actually legit?\n    submitted by    /u/MeatNew2985  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18vbpe4/youtube_poverty_streamers/",
+          "publishedOn": "2023-12-31T16:48:35.000Z",
+          "wordCount": null,
+          "title": "Youtube Poverty Streamers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18vbkpx/ha_long_bay_cruise/",
+          "author": null,
+          "description": "Who has already been to a cruise through Ha Long Bay? I think it's very classic tourist stuff, but you probably don't want to miss it either. I would like to do a two-day (one night) tour there with my girlfriend. \n Which providers can you recommend and how can I find a good provider who will give us a nice tour?\n    submitted by    /u/jucacab  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18vbkpx/ha_long_bay_cruise/",
+          "publishedOn": "2023-12-31T16:42:35.000Z",
+          "wordCount": null,
+          "title": "Ha Long Bay Cruise",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18va5no/t%E1%BA%BFt_is_comingg/",
+          "author": null,
+          "description": "Happy new year everyone. A few shots I took today in Pà Cò, Mai Châu, Hoà Bình on the last day of 2023.\n    submitted by    /u/saltmurai  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18va5no/t%E1%BA%BFt_is_comingg/",
+          "publishedOn": "2023-12-31T15:35:19.000Z",
+          "wordCount": null,
+          "title": "Tết is comingg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18v9to7/spotted_at_the_local_winmart_tonight_happy_new/",
+          "author": null,
+          "description": "submitted by    /u/ZeroXSander199  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18v9to7/spotted_at_the_local_winmart_tonight_happy_new/",
+          "publishedOn": "2023-12-31T15:19:02.000Z",
+          "wordCount": null,
+          "title": "Spotted at the local WinMart tonight. Happy New Year everyone.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18v7omv/calm_and_beautiful_daily_life_moment/",
+          "author": null,
+          "description": "Amidst the chaos and the negativity in this subreddit.\n    submitted by    /u/fanxuyjim  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18v7omv/calm_and_beautiful_daily_life_moment/",
+          "publishedOn": "2023-12-31T13:23:37.000Z",
+          "wordCount": null,
+          "title": "Calm and beautiful daily life moment.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18v694o/carmelized_pork_and_egg/",
+          "author": null,
+          "description": "I craved this for a while. My mum used to make it, but I moved out for a while ago. This is my first time making it.\n    submitted by    /u/SqnZkpS  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18v694o/carmelized_pork_and_egg/",
+          "publishedOn": "2023-12-31T11:51:51.000Z",
+          "wordCount": null,
+          "title": "Carmelized pork and egg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18v5mz9/its_new_year_coming_around_the_corner_and_i_hope/",
+          "author": null,
+          "description": "I'm glad i spent my day to make this crappy but cute last minute t-shirt with my cousin to celebrate 2024 tomorrow. I'll bussing around the ho chi minh city's center tomorrow with my mom. Feel free to greet if you ever encounter me wearing this. Hope everyone's having their best weekend... wish you guys the best for the upcoming year...\n    submitted by    /u/Suspicious-Wasabi-29  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18v5mz9/its_new_year_coming_around_the_corner_and_i_hope/",
+          "publishedOn": "2023-12-31T11:08:12.000Z",
+          "wordCount": null,
+          "title": "It's new year coming around the corner... and i hope everyone is having great plans for new year's eve celebration.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18v40yu/can_anyone_please_tell_me_the_meaning_of_this/",
+          "author": null,
+          "description": "I took these signs on our way to Mong Cai.\n    submitted by    /u/washed_by_HIS_blood  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18v40yu/can_anyone_please_tell_me_the_meaning_of_this/",
+          "publishedOn": "2023-12-31T09:15:31.000Z",
+          "wordCount": null,
+          "title": "Can anyone please tell me the meaning of this sign? Thank you!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18v2ts4/going_back_to_vietnam_after_staying_abroad_for_7/",
+          "author": null,
+          "description": "So I’m a native Vietnamese, born and raised. Left Vietnam 7 years ago to move abroad and haven’t returned since.\n I’m coming back to stay for a year and haven’t been keeping up with the changes in Vietnam. After quite a bit of researching, found surprising amounts of innovations and quality of life changes.\n For example: \n Grab now offers food/packages/personal items delivery.\n Online transactions are a lot more prominent now than before and of course the growth of massive commerce space like Lazada and shopee\n Paying with virtual wallet is a thing\n My general question is,\n What major quality of life changes have happened the past 7 years?\n    submitted by    /u/Healthypoison  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18v2ts4/going_back_to_vietnam_after_staying_abroad_for_7/",
+          "publishedOn": "2023-12-31T07:54:23.000Z",
+          "wordCount": null,
+          "title": "Going back to Vietnam after staying abroad for 7 years, what did I miss?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18v2d1f/vietnamese_rap/",
+          "author": null,
+          "description": "I’ve been getting into Vietnamese music lately and trying to get my wife into it. She doesn’t like any of the Viet rappers because it’s almost always slow rap. Can you guys recommend any good rappers that sound “hard?” Or anyone that raps like BTS. She’s a big fan of theirs.\n    submitted by    /u/soonermike81  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18v2d1f/vietnamese_rap/",
+          "publishedOn": "2023-12-31T07:23:32.000Z",
+          "wordCount": null,
+          "title": "Vietnamese rap?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18v0r8a/25000d1_fried_rice_in_h%E1%BA%A3i_ph%C3%B2ng_city/",
+          "author": null,
+          "description": "as Vietnamese, I can say food in Hanoi and other tourist cities are expensive as hell.\n    submitted by    /u/Umbala3131  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18v0r8a/25000d1_fried_rice_in_h%E1%BA%A3i_ph%C3%B2ng_city/",
+          "publishedOn": "2023-12-31T05:47:48.000Z",
+          "wordCount": null,
+          "title": "25.000d(~1$) fried rice in Hải Phòng city",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/18uux6w/im_sorry_for_what_the_korean_armed_forces_did_in/",
           "author": null,
@@ -5177,236 +5427,6 @@
           "wordCount": 2796,
           "title": "Lost in hué",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18934p6/vietnam_is_losing_from_the_start_airport/",
-          "author": null,
-          "description": "submitted by    /u/purecurious  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18934p6/vietnam_is_losing_from_the_start_airport/",
-          "publishedOn": "2023-12-02T12:53:58.000Z",
-          "wordCount": 2708,
-          "title": "Vietnam is losing from the start: Airport Immigration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/189298e/are_vietnam_cities_being_eaten_up_by_the_rich/",
-          "author": null,
-          "description": "In today's economic condition, new luxury condos are still being built in the best center locations which should have been reserved for schools and hospitals.\n https://www.unicef.org/vietnam/press-releases/lack-mental-health-services-remote-areas-viet-nam-leaves-children-and-young-people\n A new luxury condo in Hanoi\n Does Vietnam have a future?\n    submitted by    /u/basafish  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/189298e/are_vietnam_cities_being_eaten_up_by_the_rich/",
-          "publishedOn": "2023-12-02T11:58:33.000Z",
-          "wordCount": 2737,
-          "title": "Are Vietnam cities being eaten up by the rich",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18912dz/whats_up_people_cutting_triangle_chunks_out_of/",
-          "author": null,
-          "description": "submitted by    /u/UsaToVietnam  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18912dz/whats_up_people_cutting_triangle_chunks_out_of/",
-          "publishedOn": "2023-12-02T10:37:27.000Z",
-          "wordCount": 2716,
-          "title": "What's up people cutting triangle chunks out of saddles? I've seen this many places in Vietnam.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1890v00/they_are_reaallll_will_you_try_it/",
-          "author": null,
-          "description": "submitted by    /u/jesusinthemotobike  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1890v00/they_are_reaallll_will_you_try_it/",
-          "publishedOn": "2023-12-02T10:22:55.000Z",
-          "wordCount": 2696,
-          "title": "They are reaallll will you try it🤣",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188yvsh/vietnamese_truly_one_of_the_language_you_can/",
-          "author": null,
-          "description": "submitted by    /u/Obama_The_Based  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188yvsh/vietnamese_truly_one_of_the_language_you_can/",
-          "publishedOn": "2023-12-02T07:59:15.000Z",
-          "wordCount": 2709,
-          "title": "Vietnamese, truly one of the language you can think of",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188yu03/dont_you_agree_that_this_pizza_tastes/",
-          "author": null,
-          "description": "submitted by    /u/nhansieu1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188yu03/dont_you_agree_that_this_pizza_tastes/",
-          "publishedOn": "2023-12-02T07:55:29.000Z",
-          "wordCount": 2713,
-          "title": "Don't you agree that this pizza tastes surprisingly good? (Green pesto peafood pizza)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188ysj8/ha_giang_vietnam/",
-          "author": null,
-          "description": "submitted by    /u/urcommunist  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188ysj8/ha_giang_vietnam/",
-          "publishedOn": "2023-12-02T07:52:37.000Z",
-          "wordCount": 2692,
-          "title": "Ha Giang, Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188wlqb/do_vietnamese_women_like_to_control_their_man/",
-          "author": null,
-          "description": "I'm curious about the opinions of Vietnamese people on relationships. The motivation behind my inquiry is that many of my wife's friends have experienced divorce, or remarriage, or are seeking partners with more financial stability than their exes. some of their husbands, who happen to be my friends, claim a common issue of feeling controlled. \n In contrast, I have been clear with my wife that either of you is free to walk away without strings attached if the relationship reaches a point of no hope.\n    submitted by    /u/Godfatherisback  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188wlqb/do_vietnamese_women_like_to_control_their_man/",
-          "publishedOn": "2023-12-02T05:28:35.000Z",
-          "wordCount": 2784,
-          "title": "Do vietnamese women like to control their man.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188w3b7/for_the_first_time/",
-          "author": null,
-          "description": "submitted by    /u/jesusinthemotobike  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188w3b7/for_the_first_time/",
-          "publishedOn": "2023-12-02T04:58:55.000Z",
-          "wordCount": 2693,
-          "title": "For the first time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188v27k/is_there_something_im_missing_about_ho_chi_minh/",
-          "author": null,
-          "description": "I keep reading on different websites that HCMC has nightlife that almost rivals Bangkok, how it's the second biggest party spot in SEA, etc.\n Just got here last night. Bui Ven seems to have more people in the street than the actual clubs and it all started to die down at midnight. Lush was tiny and about 75% empty. Faham just had some small groups sitting down with balloons, Observatory was dead...\n For a Friday night after all the hype I saw online I was a bit disappointed. Am I just going to the wrong places or does Vietnam just not have a nightlife oriented culture?\n    submitted by    /u/BERIMB0LO  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188v27k/is_there_something_im_missing_about_ho_chi_minh/",
-          "publishedOn": "2023-12-02T03:59:12.000Z",
-          "wordCount": 2808,
-          "title": "Is there something I'm missing about Ho Chi Minh City nightlife?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188rtao/food_recommendations_for_winter_in_hanoi/",
-          "author": null,
-          "description": "As a true Hanoian for more than 20 years and a foodie, i just want to recommend some good food in Hanoi for some tourist here or any people living in Hanoi should try. These food is must try in this cold winter weather :D\n  \nBánh đúc nóng (a snack falty food with rice cake dipped with fish sauce, pork, cilantro, fried scallions) \n Cháo sườn (pork-ribs congee)\n Bánh trôi tàu ( hot sweet ginger soup, rice cakes filled with sesame, top with coconut and peanuts) \n Cháo đậu cà (rice congee with fried tofu and salted eggplant fruit): apparently i just know this dish recently havent tried it but its known for a very famous dish for people here to eat in autumn-winter.\n  \n   submitted by    /u/ohaukayjpeg  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188rtao/food_recommendations_for_winter_in_hanoi/",
-          "publishedOn": "2023-12-02T01:10:34.000Z",
-          "wordCount": 2819,
-          "title": "Food recommendations for winter in Hanoi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188lubq/question_on_child_citizenship/",
-          "author": null,
-          "description": "Hello everyone,\n I'm one half of a lesbian couple living in usa. My wife is Vietnamese. We're hoping to have kids in the near future and then moving to Vietnam to raise them. How do we ensure kids have Vietnamese citizenship? I will be the one carrying them, biologically we're using my wife's eggs.\n Please let me know if flair is wrong.\n Thank you in advance!\n    submitted by    /u/Minimum_Project_5161  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188lubq/question_on_child_citizenship/",
-          "publishedOn": "2023-12-01T20:40:19.000Z",
-          "wordCount": 2761,
-          "title": "Question on child citizenship",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188kvjx/recommend_vietnamese_traditional_clothing_sell_in/",
-          "author": null,
-          "description": "Anyone have a recommendation of a clothing store/boutique that sells clothes like Áo Dài, Áo Tứ Thân, etc in bulk? Preferably online, but will also be in TPHCM in February. Need a few matching for a performance. Female and Male.\n    submitted by    /u/Mad_Ferret_Attack  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188kvjx/recommend_vietnamese_traditional_clothing_sell_in/",
-          "publishedOn": "2023-12-01T19:58:18.000Z",
-          "wordCount": 2738,
-          "title": "Recommend Vietnamese Traditional Clothing sell in bulk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188iti7/ninh_binh_tour/",
-          "author": null,
-          "description": "Literally going to Mua Cave in hours to hike and the bunch of stuff you do based on the tour.\n Is it wise to wear shorts in this weather or better to wear shorts because of the hike and cycling?\n    submitted by    /u/supahjamie  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188iti7/ninh_binh_tour/",
-          "publishedOn": "2023-12-01T18:27:50.000Z",
-          "wordCount": 2734,
-          "title": "Ninh Binh Tour",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188h6dx/how_much_we_tipping_grab_drivers_for_food_delivery/",
-          "author": null,
-          "description": "submitted by    /u/MichaelT1991  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188h6dx/how_much_we_tipping_grab_drivers_for_food_delivery/",
-          "publishedOn": "2023-12-01T17:18:26.000Z",
-          "wordCount": 2698,
-          "title": "How much we tipping grab drivers for food delivery?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188h5fo/is_it_still_raining_in_hoi_an_da_nang_and_hue/",
-          "author": null,
-          "description": "submitted by    /u/waitforme06  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188h5fo/is_it_still_raining_in_hoi_an_da_nang_and_hue/",
-          "publishedOn": "2023-12-01T17:17:16.000Z",
-          "wordCount": 2701,
-          "title": "Is it still raining in Hoi An, Da Nang and Hue ?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188gbjt/whats_the_best_com_tam_place_in_saigon_ill_try_it/",
-          "author": null,
-          "description": "Staying in q1 but can go around to eat the best com tam\n    submitted by    /u/PhraseSalt3305  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188gbjt/whats_the_best_com_tam_place_in_saigon_ill_try_it/",
-          "publishedOn": "2023-12-01T16:41:52.000Z",
-          "wordCount": 2716,
-          "title": "What’s the best com tam place in saigon? I’ll try it tomorrow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188g9ia/i_still_wonder_why_folk_pop_remains_unpopular_in/",
-          "author": null,
-          "description": "submitted by    /u/Starship_Biased  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188g9ia/i_still_wonder_why_folk_pop_remains_unpopular_in/",
-          "publishedOn": "2023-12-01T16:39:31.000Z",
-          "wordCount": 2699,
-          "title": "I still wonder why folk pop remains unpopular in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188e9sy/mammon_playing_cards/",
-          "author": null,
-          "description": "Hi! I have spent the last ~2 hours looking for the rules of this deck, and I haven't even found a game that can be played with it. Could someone please give me a hint (the name of a game, english deacription of the rules, anything)?\n    submitted by    /u/sexProdigy  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188e9sy/mammon_playing_cards/",
-          "publishedOn": "2023-12-01T15:13:31.000Z",
-          "wordCount": 2751,
-          "title": "Mammon playing cards",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188djkq/what_do_you_guys_think_of_an_online_ielts/",
-          "author": null,
-          "description": "Has anybody here taken part in this before? I sounds like it's planned poorly. How would you keep the participants' attention that long?\n    submitted by    /u/Left_Resolve_7233  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188djkq/what_do_you_guys_think_of_an_online_ielts/",
-          "publishedOn": "2023-12-01T14:43:05.000Z",
-          "wordCount": 2732,
-          "title": "What do you guys think of an online IELTS workshop that lasts from 8 AM to 6 PM?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188d2ga/do_you_know_this_thingy/",
-          "author": null,
-          "description": "submitted by    /u/Agile-Lifeguard709  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188d2ga/do_you_know_this_thingy/",
-          "publishedOn": "2023-12-01T14:22:45.000Z",
-          "wordCount": 2693,
-          "title": "Do you know this thingy?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188ce7o/a_moment_of_remembrance_for_l%C3%AA_%C4%91%E1%BB%A9c_th%E1%BB%8D_who_turned/",
-          "author": null,
-          "description": "submitted by    /u/SHIELD_Agent_47  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188ce7o/a_moment_of_remembrance_for_l%C3%AA_%C4%91%E1%BB%A9c_th%E1%BB%8D_who_turned/",
-          "publishedOn": "2023-12-01T13:53:37.000Z",
-          "wordCount": 2722,
-          "title": "A moment of remembrance for Lê Đức Thọ, who turned down the 1973 Nobel Peace Prize that jointly went to Henry Kissinger",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/188c2kv/behold_dragon_fruit_flavoured_noodles/",
-          "author": null,
-          "description": "submitted by    /u/notAssmin  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/188c2kv/behold_dragon_fruit_flavoured_noodles/",
-          "publishedOn": "2023-12-01T13:38:30.000Z",
-          "wordCount": 2705,
-          "title": "Behold, dragon fruit flavoured noodles",
-          "imageUrl": null
         }
       ]
     },
@@ -5984,26 +6004,6 @@
           "wordCount": 1029,
           "title": "MLOps Course – Learn to Build Machine Learning Production Grade Projects",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/mlops2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-a-table-of-contents-to-your-article-on-ghost/",
-          "author": "Ayu Adiati",
-          "description": "A table of contents (or TOC) is a list of chapters or section titles in an article. You'll usually find it at the beginning of an article, right after the introduction. When you write a long blog post or an article with independent sections, consider adding a table of contents.",
-          "link": "https://www.freecodecamp.org/news/how-to-add-a-table-of-contents-to-your-article-on-ghost/",
-          "publishedOn": "2023-12-01T19:47:28.000Z",
-          "wordCount": 2381,
-          "title": "How to Add a Table of Contents to Your Article on Ghost",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/How-to-Add-a-Table-of-Contents-to-Your-Article-on-Ghost-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/",
-          "author": "Hunor Márton Borbély",
-          "description": "Have you ever needed an icon for your website, but you couldn't quite find the right one? Or perhaps you wanted to have a simple diagram, but didn't want to learn a whole new library just for that? Well, good news – you can do all that and more without",
-          "link": "https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/",
-          "publishedOn": "2023-12-01T19:13:00.000Z",
-          "wordCount": 4028,
-          "title": "SVG Tutorial – How to Code Images with 7 Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2021/10/Learn-SVG.001.jpeg"
         }
       ]
     }
