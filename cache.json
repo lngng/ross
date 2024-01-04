@@ -12,6 +12,46 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1268842991F0.WindAdvisory.126884375EC0CA.LOXNPWLOX.88d705600f9596382f6f5d111a44d785",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 4 AM PST THURSDAY... * WHAT...Northwest winds 20 to 25 mph with gusts up to 45 mph expected. * WHERE...Ventura County Beaches, Ventura County Inland Coast, Lake Casitas, Ojai Valley, Western Antelope Valley Foothills, Eastern Antelope Valley Foothills and Antelope Valley.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1268842991F0.WindAdvisory.126884375EC0CA.LOXNPWLOX.88d705600f9596382f6f5d111a44d785",
+          "publishedOn": "2024-01-03T21:56:00.000Z",
+          "wordCount": 213,
+          "title": "Wind Advisory issued January 03 at 1:56PM PST until January 04 at 4:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1268842991F0.HighWindWarning.126884462BD0CA.LOXNPWLOX.8cdd463e30c82a8f82b478bb0edb6ccc",
+          "author": null,
+          "description": "...HIGH WIND WARNING REMAINS IN EFFECT UNTIL 1 AM PST FRIDAY... * WHAT...North winds 25 to 35 mph with gusts up to 60 to 65 mph expected. * WHERE...Santa Ynez Mountains Eastern Range, Santa Barbara County Interior Mountains, Southern Ventura County Mountains and Interstate 5 Corridor.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1268842991F0.HighWindWarning.126884462BD0CA.LOXNPWLOX.8cdd463e30c82a8f82b478bb0edb6ccc",
+          "publishedOn": "2024-01-03T21:56:00.000Z",
+          "wordCount": 265,
+          "title": "High Wind Warning issued January 03 at 1:56PM PST until January 05 at 1:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1268842991F0.WindAdvisory.126884462BD0CA.LOXNPWLOX.a2188824706f29299171b9ad76eb5d12",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 1 AM PST FRIDAY... * WHAT...Northwest winds 20 to 30 mph with gusts up to 40 to 50 mph expected. * WHERE...Catalina and Santa Barbara Islands, Santa Clarita Valley, Santa Barbara County Southwestern Coast, Santa Barbara County Southeastern Coast, Santa Ynez Mountains Western Range,",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1268842991F0.WindAdvisory.126884462BD0CA.LOXNPWLOX.a2188824706f29299171b9ad76eb5d12",
+          "publishedOn": "2024-01-03T21:56:00.000Z",
+          "wordCount": 399,
+          "title": "Wind Advisory issued January 03 at 1:56PM PST until January 05 at 1:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126884298E6C.HighSurfAdvisory.126884390C70CA.LOXCFWLOX.5311e5ad11dcf8363518e585a9692f41",
+          "author": null,
+          "description": "...HIGH SURF ADVISORY NOW IN EFFECT UNTIL 3 PM PST THURSDAY... * WHAT...Large breaking waves of 4 to 7 feet with local sets to 9 feet possible. Dangerous rip currents. The highest surf will be on west facing beaches, such as Hermosa Beach, Manhattan Beach, and Palos Verdes. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126884298E6C.HighSurfAdvisory.126884390C70CA.LOXCFWLOX.5311e5ad11dcf8363518e585a9692f41",
+          "publishedOn": "2024-01-03T21:47:00.000Z",
+          "wordCount": 233,
+          "title": "High Surf Advisory issued January 03 at 1:47PM PST until January 04 at 3:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA1268841A639C.HighSurfAdvisory.126884458F90CA.LOXCFWLOX.5311e5ad11dcf8363518e585a9692f41",
           "author": null,
           "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT FROM 3 PM WEDNESDAY TO 9 PM PST THURSDAY... * WHAT...Large breaking waves of 5 to 8 feet with local sets to 10 feet possible. Dangerous rip currents. Highest surf on west facing beaches, such as Hermosa Beach, Manhattan Beach, and Palos Verdes.",
@@ -700,16 +740,6 @@
           "wordCount": 180,
           "title": "Beach Hazards Statement issued December 05 at 1:42PM PST until December 08 at 2:00AM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
-          "author": null,
-          "description": "",
-          "link": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
-          "publishedOn": "2023-12-05T00:53:41.000Z",
-          "wordCount": 35,
-          "title": "There are no active watches, warnings or advisories",
-          "imageUrl": null
         }
       ]
     },
@@ -718,6 +748,256 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xzhvf/my_rant_about_scapegoat_seekers/",
+          "author": null,
+          "description": "I have been warned a lot of times about not to carry stuff from strangers/acquaintance/friends/anyone on the airplane, because the stuff may contain harmful drug ingredients. If you get caught in certain countries you may even get death penalty. Some of them go as far as using mind control to make you feel bad if you refuse to do their favor, such as using seniors, disabled people, and orphans as a disguise to ask you to carry stuff on their behalf. In my unpopular opinion, scapegoat seekers (i.e. retards that ask someone to do their dirty jobs while reaping benefits behind the scene) are the WORST HUMANS, COWARDICE ON EARTH, second only to leeches (i.e. people that can read the mood but their skin is so thick that they still cross the line). These kind of “special breeds of people” can be found anywhere in the world, from all backgrounds, ethnic groups, so whoever thinks your background/ethnicity is at play here is FAR WORSE than those aforementioned special breeds.\n    submitted by    /u/jelkyanna  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xzhvf/my_rant_about_scapegoat_seekers/",
+          "publishedOn": "2024-01-04T00:47:27.000Z",
+          "wordCount": null,
+          "title": "My rant about scapegoat seekers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xyzz7/was_i_about_to_be_robbed_in_vietnam/",
+          "author": null,
+          "description": "I am a white guy solo traveling in Vietnam. I am currently in Hai Phong. Yesterday some guys invited me to join their table for drinking and eating. They handed me beer, food, rice wine, etc. We kept drinking for quite some time. There was also a bit of weed which they offered me and that I smoked.\n Eventually we go a bit further away, they said to listen to some music. We arrive at some small shop but there is no music. After that I say I am going home and I don't need help going home, I can walk. One of the guys insists I go with him on the scooter. Despite the language barrier, I understand it as if he will now drive me home, so I go with him. Instead we drive for a bit with me barely getting closer to my home and we get off at the center square of the city. We talk for a bit and I say I am walking home now, they suggest I take one of the nearby taxis. It feels a bit sketchy for me so I do not take a taxi and I tell the guys I will walk home. I start walking and with an uneasy feeling. There are not many people out at this time. I order a Grab and it arrives quite quick, then I eventually get back to my hotel safely.\n I am not sure what to think of this whole meeting. It should also be mentioned that I did not see anyone paying for the bill at the restaurant, and I got the impression that I was sort of expected to pay for it, since at one time the bill was placed in front of me. I never paid though.\n What do you think? Was I at risk of something happening?\n    submitted by    /u/nicotinecravings  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xyzz7/was_i_about_to_be_robbed_in_vietnam/",
+          "publishedOn": "2024-01-04T00:26:03.000Z",
+          "wordCount": null,
+          "title": "Was I about to be robbed in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xyvmp/traveling_vietnam_for_a_month_should_i_start_in/",
+          "author": null,
+          "description": "I will be traveling Vietnam for a month in March, not sure which city to visit first. I can purchase a multi-city ticket that arrives and departs from either of them for almost the same price as if I did it from the same city. Which part of Vietnam would be better in the beginning of March weather/vibe/events wise? I will spend there maybe a week and move on to the Da Nang area, visit some places in between, then arrive at the other city around a week before departure.\n    submitted by    /u/IcyDrink7454  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xyvmp/traveling_vietnam_for_a_month_should_i_start_in/",
+          "publishedOn": "2024-01-04T00:20:53.000Z",
+          "wordCount": null,
+          "title": "Traveling Vietnam for a month, should I start in Hanoi or Ho Chi Minh?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xvum3/what_is_the_dress_on_the_right_called/",
+          "author": null,
+          "description": "submitted by    /u/jarofstarbursts  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xvum3/what_is_the_dress_on_the_right_called/",
+          "publishedOn": "2024-01-03T22:17:03.000Z",
+          "wordCount": null,
+          "title": "What is the dress on the right called?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xvaav/is_this_common_in_naming/",
+          "author": null,
+          "description": "About a friend of mine. Her and her sister have the same first name H**** but have different middle names. They’re always called by their middle name then first name when around their relatives. \n She said she asked her mom “why?” but her mom never gave her a real answer. Q. Why do we have the same first name? A. Mom “I just like the name.”\n Q. Is this common? A. Her mom would just ask.\n She never really questioned it growing up nor did any of her relative brought it up. But I was over at her house and notice it and asked her. Me and my friend tried searching it up on online but haven’t had much luck in this subject.\n Any experts that can chime in with your knowledge is greatly appreciated.\n    submitted by    /u/SeeSea_SeeArt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xvaav/is_this_common_in_naming/",
+          "publishedOn": "2024-01-03T21:54:27.000Z",
+          "wordCount": null,
+          "title": "Is this common in naming?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xqy2h/can_i_own_land/",
+          "author": null,
+          "description": "I am Canadian and have a Vietnamese passport which my dad help me get. I believe since 2009, Vietnam allows dual citizenship. So does this mean I can own land? What is the RE doing now in areas like Ha Long Bay?\n    submitted by    /u/leoyvr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xqy2h/can_i_own_land/",
+          "publishedOn": "2024-01-03T19:00:34.000Z",
+          "wordCount": null,
+          "title": "Can I own land?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xqwcg/witnessed_a_kidnapping/",
+          "author": null,
+          "description": "Today I was in Saigon - Thao Dien, there was a women being pushed into a taxi, the man forcefully holding her down so she couldn’t escape as well as locking the doors. She was fighting, kicking and crying. Everyone just looked, it was a crowded street, the taxi drove of. I ran after it after a bit of hesitation, luckily there was oncoming traffic so I was able to catch up to the car. I opened the taxi drivers front door and told him to let the women out. He tried unlocking the door but the man locked the door always from inside and yelled at the driver to drive away. Finally I was able to open the door, the women sadly just ran away, I tried to keep the dude contained by holding the door, but he pushed the door open, punched me and then ran after the women. After I got my footing back I ran after them, but I wasn’t able to locate them by foot. I tried asking expats to follow them on the bike but no one wanted to.. so I sprinted to the police in Thao dien, who also seemed disinterested… I don’t know how to feel.\n    submitted by    /u/Soulfreezer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xqwcg/witnessed_a_kidnapping/",
+          "publishedOn": "2024-01-03T18:58:47.000Z",
+          "wordCount": null,
+          "title": "Witnessed a kidnapping (?)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xqbfe/travelling_to_vietnam_during_tet/",
+          "author": null,
+          "description": "Hi everyone We did booked all flights from Feb 2nd (Hanoi) to Feb 16 (Saigon) to Vietnam and we found that during this time there a New year in Vietnam. People says it would be very quiet and travelling during this time it not worthy all over internet. I respect vietnamese new year so I am asking is it going to be super quiet and I can no longer do any activities during my visit. The main target for me was to let my wife to go for sea walking at Nah Trang and spending some quality time at Vietnam.\n Any help would be much appreciated.\n Thanks in advance\n    submitted by    /u/testngopal  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xqbfe/travelling_to_vietnam_during_tet/",
+          "publishedOn": "2024-01-03T18:35:33.000Z",
+          "wordCount": null,
+          "title": "Travelling to Vietnam during Tet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xosse/where_is_this_place/",
+          "author": null,
+          "description": "Hello everyone! I’m travelling with friends to Vietnam later this January and we’ll be doing the Ha Giang Loop.\n Looking for some information, I came across this beautiful image of somewhere in the north region of Vietnam, touching China. According to the photographer’s caption on Instagram (https://www.instagram.com/p/Cwu_Wd6oIUV/?igsh=MWMycGgzZWh1bHVjeQ==), the mountains at the end of the image are China, and this little river and valley is Vietnam (the northern part).\n Can anyone identify where exactly it is? We’d love to see this in person but the photographer doesn’t respond our messages…\n Thanks a lot!\n    submitted by    /u/Familiar_Bar4754  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xosse/where_is_this_place/",
+          "publishedOn": "2024-01-03T17:34:49.000Z",
+          "wordCount": null,
+          "title": "Where is this place?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xomwp/strange_bite_marks/",
+          "author": null,
+          "description": "My partner and I went hiking through the nattional park near ninh Binh today. When we returned, we discovered several bleeding spots around our ankles in areas that were covered by our socks. These spots were clustered in groups and continued to bleed for a long time. What caused these? Thanks.\n    submitted by    /u/Nice_Eagle8756  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xomwp/strange_bite_marks/",
+          "publishedOn": "2024-01-03T17:28:34.000Z",
+          "wordCount": null,
+          "title": "Strange bite marks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xnhrh/hanoi_train_street/",
+          "author": null,
+          "description": "submitted by    /u/SelinaTran23  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xnhrh/hanoi_train_street/",
+          "publishedOn": "2024-01-03T16:32:10.000Z",
+          "wordCount": null,
+          "title": "Hanoi train street",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xluye/c%E1%BA%A7n_ng%C6%B0%E1%BB%9Di_soi_%C4%91%C6%B0%E1%BB%9Dng_d%E1%BA%ABn_l%E1%BB%91i_cho_sv_chu%E1%BA%A9n_b%E1%BB%8B_t%E1%BB%91t/",
+          "author": null,
+          "description": "Chào mn ạ, Hiện tại em rất rất cần người soi đường dẫn lối cho em, e tha thiết xin lời khuyên từ đàn anh đàn chị ạ. Em hiện là sv năm 4, cbi ra trường của một trường khá có tiếng về ngoại ngữ ở hcm. Chuyên ngành của e thì lại k có tính áp dụng cao (thiên về chính trị), đa số quá trình học chủ yếu là chạy dl trên lý thuyết... Nên bây giờ gần ra trường nhưng em lại rất sợ vì không có chuyên môn. Sơ lược thì hiện tại em có Toeic 800+, Vstep B2, em đang có mục tiêu học Tiếng trung và trước khi tốt nghiệp có HSK3. Tuy nhiên, em không biết em phải đi theo con đường gì với những gì e đang có. Đa số bạn em theo Hr, e hướng nội + nhát gan k biết có nên theo không. Em cũng có định hướng theo logistic, và đang có ý định tìm job intern về những mảng này, nhưng chuyên môn em không có gì, ngành học k liên quan nên đa số k ai nhận. Các a chị cho e lời khuyên về con đường e nên theo với những thứ e đang có với ạ. Thời gian này em tiêu cực lắm, đôi khi e còn nghĩ về việc tồi tệ nhất... Nhà e cũng k khá giả, bame mắc nợ nhiều nên e k muốn bị thất nghiệp sau ra trường đâu ạ. Em hi vọng có người chỉ lối cho em vài tháng trước khi em tốt nghiệp ạ. Vài tháng này có thể sẽ thay đổi số phận 1 người được đó ạ 🥺. E bế tắc lắm, e mong có thể có 1 mentor cứu e về tương lai lẫn tinh thần hiện tại...\n    submitted by    /u/ilikejasminee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xluye/c%E1%BA%A7n_ng%C6%B0%E1%BB%9Di_soi_%C4%91%C6%B0%E1%BB%9Dng_d%E1%BA%ABn_l%E1%BB%91i_cho_sv_chu%E1%BA%A9n_b%E1%BB%8B_t%E1%BB%91t/",
+          "publishedOn": "2024-01-03T15:22:18.000Z",
+          "wordCount": null,
+          "title": "Cần người soi đường dẫn lối cho sv chuẩn bị tốt nghiệp đang mất phương hướng...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xlh5d/any_advicetips_for_travellers/",
+          "author": null,
+          "description": "Hi everyone, first ever time posting on reddit and found this community really helpful so far. \n I am going to Vietnam 20th Jan-9th February with a friend and just wondered if you can drop any tips/advice or anything that might be helpful for first time long distance travellers from the UK! \n I have tried to work out the travel situation (grab seems good?) and it appears cash is preferred option but also have access to credit card when there. \n We have booked accommodation in the following areas : Hanoi, halong bay, cat ba national park, nin binh and day trip to cu national park and then back to Hanoi before travelling home. \n So any places to go/things not to miss and general tips would be so appreciated.\n    submitted by    /u/Logical_Notice_5244  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xlh5d/any_advicetips_for_travellers/",
+          "publishedOn": "2024-01-03T15:05:30.000Z",
+          "wordCount": null,
+          "title": "Any advice/tips for travellers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xl0b1/what_should_we_bring_as_dinner_guests/",
+          "author": null,
+          "description": "My partner and I (Australian) are currently staying at a lovely little Airbnb in Hoi An which is looked after by a delightful young family (as employees). The family has invited us to dinner for the second time. \n The first meal was amazing and she obviously put in a lot of effort. I’d really like to bring something as a show of appreciation. \n I was thinking a dessert from a shop in town, or maybe some gifts for their young 8 and 3 year old daughters. Does anyone have any recommendations? Thanks 🙏\n    submitted by    /u/sillygitau  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xl0b1/what_should_we_bring_as_dinner_guests/",
+          "publishedOn": "2024-01-03T14:44:21.000Z",
+          "wordCount": null,
+          "title": "What should we bring as dinner guests?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xir2u/my_dads_house_is_now_under_my_aunties_possession/",
+          "author": null,
+          "description": "My dad who is now a viet kieu had brought a house years ago in Vietnam for his father and brother to live in. He had to change the ownership to his father since Vietnam doesn't allow viet kieu to own properties in the country. Unfortunately, a a few years after the dad passed away, the next person to have their name on the property is his brother and the brother promised my dad that he will give the house back to him later on when the time is right even though they didn't sign any contract because my dad naively believed in him. His brother is now dead and the ownership goes to his wife. My dad expected his sister in law to then rightfully transfer the ownership to him or even half of the house because the sister in law did help the family a lot while my dad was overseas, but she retorted back saying that my dad did not care about the family at all and had contributed nothing so he does not deserve any part of the house. We are going to sue her because we have the papers that prove that my dad did contribute a lot to that house and even my late grandpa acknowledged that in one of his old letters to my dad. The house in question is currently for rent as a business. My dad and I found a lawyer through connections and he said to stop my auntie from potentially selling it later, we must first block her from doing that by depositing 20% value of the house to the funds before the court trial since that's how the law works. Is that correct? I'm trying to find a new lawyer cause I don't trust this one and I see him as really incompetent. Pls tell me what I should do next.....\n    submitted by    /u/uwu_is_I  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xir2u/my_dads_house_is_now_under_my_aunties_possession/",
+          "publishedOn": "2024-01-03T12:54:34.000Z",
+          "wordCount": null,
+          "title": "My dad's house is now under my auntie's possession",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xipb2/2_weeks_in_the_north_worried_about_tet_and_excited/",
+          "author": null,
+          "description": "Hello everyone. Would have posted under the sticky FAQ, but I believe my questions are a little bit broad for it. Apologies if I should have done so. Have also done a pretty large amount of research online on reddit and elsewhere, but haven't quite found what I'm looking for.\n Arriving 30th Jan, Leaving 13th Feb, flying into Hà Nội. We have a hotel for the first three days, and the plan is by that time to have decided on a next destination, somewhere relatively rural and authentic. We have been planning this for a while (2 Males, early 20s, one English one Aussie), but somehow we managed to miss just how extensive and important Tet is as a holiday, and we feel we may have messed up. Neither of us are able / want to rent bikes, and we have no idea what the transportation situation would loo…",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xipb2/2_weeks_in_the_north_worried_about_tet_and_excited/",
+          "publishedOn": "2024-01-03T12:51:49.000Z",
+          "wordCount": null,
+          "title": "2 Weeks in the North... worried about Tet (and excited).",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xiona/racism_or_frustration/",
+          "author": null,
+          "description": "Saw this on a Google map review for Sunrise City View in D7 Saigon. Is it true this place is racist against Koreans?\n    submitted by    /u/Character-Archer5714  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xiona/racism_or_frustration/",
+          "publishedOn": "2024-01-03T12:50:48.000Z",
+          "wordCount": null,
+          "title": "Racism or frustration?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xgzvw/need_help_translating/",
+          "author": null,
+          "description": "Hello, I left a note (written in Vietnamese as best as I could copy from Google) for the cleaners thanking them for all there hard work at our hotel. We came back later in the evening and noticed they wrote us a note back. Unfortunately I can't translate with my phone. If anyone could help us translate that would be awesome! Thank you!\n    submitted by    /u/Ancient_Pudding_4115  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xgzvw/need_help_translating/",
+          "publishedOn": "2024-01-03T11:12:15.000Z",
+          "wordCount": null,
+          "title": "Need help translating.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xdghi/why_is_everybody_coughing/",
+          "author": null,
+          "description": "Please can someone advise if there is a thing going round or if Vietnamese food causes allergies?\n We have been going round Vietnam for a week and are experiencing that people all over are coughing and sniffing. Waiters, tourists, pedestrians. We ourselves are all experiencing it and at risk of chest/ throat infections at this stage.\n    submitted by    /u/cbekker1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xdghi/why_is_everybody_coughing/",
+          "publishedOn": "2024-01-03T07:17:54.000Z",
+          "wordCount": null,
+          "title": "Why is everybody coughing?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xcexv/thank_you_to_the_person_who_found_my_debit_card/",
+          "author": null,
+          "description": "Someone in the My An neighbourhood found my debit card, which I stupidly left in the ATM yesterday. I went back to look for it today and found a note taped to the machine!! Someone found it and left it at their hotel front desk, and I was able to get it back when I showed my ID. One thousand thanks. I hope they see this, and that they have good luck for their whole life.\n    submitted by    /u/itsfashunn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xcexv/thank_you_to_the_person_who_found_my_debit_card/",
+          "publishedOn": "2024-01-03T06:16:03.000Z",
+          "wordCount": null,
+          "title": "Thank you to the person who found my debit card in Da Nang!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xaqc8/hanoi_metro/",
+          "author": null,
+          "description": "submitted by    /u/SelinaTran23  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xaqc8/hanoi_metro/",
+          "publishedOn": "2024-01-03T04:45:08.000Z",
+          "wordCount": null,
+          "title": "Hanoi metro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18xah86/countries_that_invaded_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/Parlax76  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18xah86/countries_that_invaded_vietnam/",
+          "publishedOn": "2024-01-03T04:31:58.000Z",
+          "wordCount": null,
+          "title": "Countries that invaded Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18x9ysn/%C3%B4ng_b%C3%A0_anh_y%C3%AAu_nhau_t%E1%BB%AB_th%E1%BB%9Di_ch%C6%B0a_c%C3%B3_%C3%B4_t%C3%B4/",
+          "author": null,
+          "description": "submitted by    /u/Tinanguyen210201  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18x9ysn/%C3%B4ng_b%C3%A0_anh_y%C3%AAu_nhau_t%E1%BB%AB_th%E1%BB%9Di_ch%C6%B0a_c%C3%B3_%C3%B4_t%C3%B4/",
+          "publishedOn": "2024-01-03T04:06:33.000Z",
+          "wordCount": null,
+          "title": "Ông bà anh yêu nhau từ thời chưa có ô tô…😳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18x88gc/vietnam_pledges_human_rights_reform_by_year_2099/",
+          "author": null,
+          "description": "submitted by    /u/Vietfunk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18x88gc/vietnam_pledges_human_rights_reform_by_year_2099/",
+          "publishedOn": "2024-01-03T02:41:37.000Z",
+          "wordCount": null,
+          "title": "Vietnam pledges human rights reform by year 2099",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/18x7qh5/next_week_january_8_marks_the_45th_anniversary_of/",
+          "author": null,
+          "description": "submitted by    /u/proanti  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/18x7qh5/next_week_january_8_marks_the_45th_anniversary_of/",
+          "publishedOn": "2024-01-03T02:18:01.000Z",
+          "wordCount": null,
+          "title": "Next week (January 8) marks the 45th anniversary of Vietnam destroying the genocidal Khmer Rouge regime & liberating the Cambodian people. Saw this on a book about the subject and I’d like to share. Big respect to the veterans",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/18x5u4r/question_about_voltage/",
           "author": null,
@@ -5247,206 +5527,6 @@
           "wordCount": 2705,
           "title": "How motorbikes in Vietnam can carry everything",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18b9zz7/december_in_vietnam_be_like/",
-          "author": null,
-          "description": "submitted by    /u/5h1nzz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18b9zz7/december_in_vietnam_be_like/",
-          "publishedOn": "2023-12-05T11:30:17.000Z",
-          "wordCount": 2712,
-          "title": "December in vietnam be like:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18b9bbr/what_a_joke14_months_for_1_life/",
-          "author": null,
-          "description": "-The driver who hit and killed a female student in Ninh Thuan was sentenced to 14 months in prison -The wife and uncle of a former air force major whose actions were \"less serious, took place in a short period of time, proactively corrected mistakes...\" should be exempted from criminal liability. -The verdict did not mention the act of performing an alcohol test on the deceased female student.\n    submitted by    /u/Parasyte-vn  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18b9bbr/what_a_joke14_months_for_1_life/",
-          "publishedOn": "2023-12-05T10:44:08.000Z",
-          "wordCount": 2785,
-          "title": "What a joke…14 months for 1 life.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18b6et4/students_found_engaged_in_prostitution_more_than/",
-          "author": null,
-          "description": "Here in ‘Nam we believe in third chances…\n https://tuoitre.vn/sinh-vien-hoat-dong-mai-dam-den-lan-thu-4-se-bi-buoc-thoi-hoc-20231205100535691.htm\n    submitted by    /u/tgtg2003  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18b6et4/students_found_engaged_in_prostitution_more_than/",
-          "publishedOn": "2023-12-05T07:09:17.000Z",
-          "wordCount": 2732,
-          "title": "Students found engaged in prostitution more than three times will face expulsion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18b5f31/english_teachers_know_this_all_too_well/",
-          "author": null,
-          "description": "submitted by    /u/Ripper31189  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18b5f31/english_teachers_know_this_all_too_well/",
-          "publishedOn": "2023-12-05T06:04:24.000Z",
-          "wordCount": 2716,
-          "title": "English teachers know this all too well...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18b46xz/can_anyone_translate_this_for_me/",
-          "author": null,
-          "description": "Thanks :)\n    submitted by    /u/SuperbCat8536  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18b46xz/can_anyone_translate_this_for_me/",
-          "publishedOn": "2023-12-05T04:54:27.000Z",
-          "wordCount": 2719,
-          "title": "Can anyone translate this for me?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18b0xx6/thanks_for_the_memories/",
-          "author": null,
-          "description": "submitted by    /u/Patakrass  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18b0xx6/thanks_for_the_memories/",
-          "publishedOn": "2023-12-05T02:04:48.000Z",
-          "wordCount": 2701,
-          "title": "Thanks for the memories",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18aytyu/is_there_anysynagoe_or_vietnamese_jew_community/",
-          "author": null,
-          "description": "Hi im a Vietnamese want to convert to judaisum i just want to ask is there any synagogue or a vietnamese hew community in vietnam especially in hanoi where i live\n    submitted by    /u/Oldaccgotshadowban  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18aytyu/is_there_anysynagoe_or_vietnamese_jew_community/",
-          "publishedOn": "2023-12-05T00:22:38.000Z",
-          "wordCount": 2737,
-          "title": "Is there anysynagoe or vietnamese jew community in vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18ayt63/is_dan_tri_story_legit/",
-          "author": null,
-          "description": "Hello, I read the Nhan Ai section of Dan Tri newspaper. Are these real people with unfortunate issues? Is Dan Tri a legitimate newspaper? What is the best way to help?\n    submitted by    /u/DeliciousUni  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18ayt63/is_dan_tri_story_legit/",
-          "publishedOn": "2023-12-05T00:21:40.000Z",
-          "wordCount": 2734,
-          "title": "Is Dan Tri story legit?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18axc77/tailored_suits_recs/",
-          "author": null,
-          "description": "Hello, any recommendations for tailored suits in HCM? Will be in HCM on 1/5 & 1/9. Do you think that is enough to turnaround?\n    submitted by    /u/Papi_BD  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18axc77/tailored_suits_recs/",
-          "publishedOn": "2023-12-04T23:15:54.000Z",
-          "wordCount": 2724,
-          "title": "Tailored suits recs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18ax3ax/how_long_does_it_take_to_get_a_permit_to_trek_mt/",
-          "author": null,
-          "description": "Can I just show up at the mountain and start trekking? Thank you\n    submitted by    /u/Crimsoncomet1940  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18ax3ax/how_long_does_it_take_to_get_a_permit_to_trek_mt/",
-          "publishedOn": "2023-12-04T23:05:30.000Z",
-          "wordCount": 2723,
-          "title": "How long does it take to get a permit to trek Mt Fansipan?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18awe94/i_saw_a_travel_video_and_wondered_if_the/",
-          "author": null,
-          "description": "I saw this video, I am from the US and was wondering if the subtitles are really accurate to what people are saying or made up? Thanks!\n    submitted by    /u/Adviceanonx  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18awe94/i_saw_a_travel_video_and_wondered_if_the/",
-          "publishedOn": "2023-12-04T22:35:23.000Z",
-          "wordCount": 2748,
-          "title": "I saw a travel video and wondered if the subtitles were accurate?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18aqbge/kinh_nghi%E1%BB%87m_ch%E1%BA%A1y_facebook_ads_h%C6%A1n_3_n%C4%83m_c%E1%BB%A7a_1_anh/",
-          "author": null,
-          "description": "submitted by    /u/massive_buttocks  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18aqbge/kinh_nghi%E1%BB%87m_ch%E1%BA%A1y_facebook_ads_h%C6%A1n_3_n%C4%83m_c%E1%BB%A7a_1_anh/",
-          "publishedOn": "2023-12-04T18:15:49.000Z",
-          "wordCount": 3495,
-          "title": "Kinh nghiệm chạy Facebook Ads hơn 3 năm của 1 anh trong ngành điện",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18apztx/wedding_dress_shops/",
-          "author": null,
-          "description": "Hi everyone! I’m making a second post in hopes to find a wedding dress shop. I’ll be going to Ho Chi Minh soon and I would love suggestions for shops that sell wedding dresses. I’m looking for a modern, off the shoulder straps, satin ball gown dress. Thanks for your help!\n    submitted by    /u/SugaDumplin96  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18apztx/wedding_dress_shops/",
-          "publishedOn": "2023-12-04T18:01:53.000Z",
-          "wordCount": 2751,
-          "title": "Wedding dress shops",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18aptim/looking_for_an_engagement_photographer/",
-          "author": null,
-          "description": "I am going to Ho Chi Minh soon and my finance and we would love to take our engagement photos there. We are hoping to find a photographer that also provides different outfits for us to change into and different sceneries. Does anyone have suggestions on who we can go to? Thanks in advance!\n    submitted by    /u/SugaDumplin96  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18aptim/looking_for_an_engagement_photographer/",
-          "publishedOn": "2023-12-04T17:54:36.000Z",
-          "wordCount": 2756,
-          "title": "Looking for an Engagement Photographer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18aoz8x/road_trip_ideas_from_hcmc/",
-          "author": null,
-          "description": "Xin chào mọi người! I am buying a new motorbike soon and want to plan a road trip for the new year. I live in Saigon and am wondering where the best place for me to aim for. I would like to only take a maximum on 5-7 days off. Let me know ^ Cảm ơn\n    submitted by    /u/mcsquirley  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18aoz8x/road_trip_ideas_from_hcmc/",
-          "publishedOn": "2023-12-04T17:17:25.000Z",
-          "wordCount": 2758,
-          "title": "Road trip ideas from HCMC?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18anrht/best_resource_to_keep_up_to_date_with_real_estate/",
-          "author": null,
-          "description": "Any websites that offer reports or YouTube channels offering insights?\n    submitted by    /u/Endogami  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18anrht/best_resource_to_keep_up_to_date_with_real_estate/",
-          "publishedOn": "2023-12-04T16:23:31.000Z",
-          "wordCount": 2720,
-          "title": "Best resource to keep up to date with real estate trends in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18amhqv/christmas_is_coming_on_hang_ma_street/",
-          "author": null,
-          "description": "submitted by    /u/SelinaTran23  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18amhqv/christmas_is_coming_on_hang_ma_street/",
-          "publishedOn": "2023-12-04T15:24:51.000Z",
-          "wordCount": 2704,
-          "title": "Christmas is coming on Hang Ma Street 🥰",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18amdex/vietnamese_rescued_from_myanmar_casinos_stuck_in/",
-          "author": null,
-          "description": "submitted by    /u/CaliRecluse  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18amdex/vietnamese_rescued_from_myanmar_casinos_stuck_in/",
-          "publishedOn": "2023-12-04T15:19:04.000Z",
-          "wordCount": 2717,
-          "title": "Vietnamese rescued from Myanmar casinos stuck in war zone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18alhcj/real_genius/",
-          "author": null,
-          "description": "Is there really such a thing as a 'genius'?\n I came across articles claiming that a 2.5-year-old baby can read numbers and speak English, even though the child is Vietnamese and hasn't been exposed to an English-speaking environment or received any formal teaching. My dad believes it 100%, but I've mentioned that it might be for marketing or a gameshow aiming to attract more views\n    submitted by    /u/BillTheNguyen  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18alhcj/real_genius/",
-          "publishedOn": "2023-12-04T14:34:53.000Z",
-          "wordCount": 2764,
-          "title": "Real genius?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18aka2r/my_drawing_of_%C3%A1o_d%C3%A0i/",
-          "author": null,
-          "description": "submitted by    /u/PePhung24  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18aka2r/my_drawing_of_%C3%A1o_d%C3%A0i/",
-          "publishedOn": "2023-12-04T13:32:55.000Z",
-          "wordCount": 2712,
-          "title": "My drawing of Áo Dài 🇻🇳🇻🇳🇻🇳",
-          "imageUrl": null
         }
       ]
     },
@@ -5455,6 +5535,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-cloud-computing/",
+          "author": "Zubair Idris Aweda",
+          "description": "As the digital landscape continues to evolve and technology marches forward, cloud computing has remained an important topic for developers to learn. You've probably encountered cloud requirements in job listings, heard people talk about it in conversations, or seen ads by companies offering cloud services – and now you're interested",
+          "link": "https://www.freecodecamp.org/news/what-is-cloud-computing/",
+          "publishedOn": "2024-01-03T21:40:31.000Z",
+          "wordCount": 2590,
+          "title": "What is Cloud Computing? Introduction to the Cloud for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/cloud-sky.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/",
+          "author": "CHRISTINE T. BELZIE",
+          "description": "Imagine a beautiful cherry tree full of sweet, red, round fruit hanging on lush, glistening branches. But imagine if those cherries grew so quickly that the branches started bending, overlapping, and breaking...sounds chaotic right?  This is what can happen if you don't use Git's cherry-pick command properly in open",
+          "link": "https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/",
+          "publishedOn": "2024-01-03T21:33:29.000Z",
+          "wordCount": 1463,
+          "title": "How to Use Git Cherry Pick and Avoid Duplicate Commits",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/blog-cover-for-git-cherry-pick.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/red-hat-enterprise-linux-guide/",
+          "author": "Kedar Makode",
+          "description": "Welcome to the fundamental world of Red Hat Enterprise Linux (RHEL)! In order to be an effective Linux user, you'll need to learn and truly understand some essential concepts and commands. Let's dive into the core aspects of RHEL administration to help you understand these key topics that form the",
+          "link": "https://www.freecodecamp.org/news/red-hat-enterprise-linux-guide/",
+          "publishedOn": "2024-01-03T15:54:20.000Z",
+          "wordCount": 5037,
+          "title": "Red Hat Enterprise Linux – Essential RHEL Concepts and Commands to Know",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-1000004524.svg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/comprehensive-full-stack-react-with-appwrite-tutorial/",
+          "author": "Beau Carnes",
+          "description": "React and Appwrite make a great combination for creating full stack apps.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use React and Appwrite to create full stack applications. This course is designed and delivered by Hitesh Choudhary, a excellent instructor",
+          "link": "https://www.freecodecamp.org/news/comprehensive-full-stack-react-with-appwrite-tutorial/",
+          "publishedOn": "2024-01-03T14:19:27.000Z",
+          "wordCount": 981,
+          "title": "Comprehensive Full Stack React with Appwrite – Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/reactalppwight.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/pygame-tutorial-alien-abduction-game/",
+          "author": "Juan P. Romano",
+          "description": "Ever since I was a kid, I've been hooked on video games. My first experience with coding involved kind of a wild project – a Tron races simulator in Quick Basic on an ancient IBM computer (I was like 6 years old, so I didn't really understand what I was",
+          "link": "https://www.freecodecamp.org/news/pygame-tutorial-alien-abduction-game/",
+          "publishedOn": "2024-01-02T23:55:29.000Z",
+          "wordCount": 5962,
+          "title": "PyGame Tutorial – How to Build an Alien Abduction game",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/alien_abduction_game.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/android-proto-datastore-should-you-use-it/",
           "author": "Tomer Ben Rachel",
@@ -6014,36 +6144,6 @@
           "wordCount": 1980,
           "title": "AWS Certified Cloud Practitioner Study Course – Pass the Exam With This Free 14-Hour Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/clfc01.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cpp-std-chrono-api/",
-          "author": "Jayant Chowdhary",
-          "description": "Keeping track of time is a very important aspect of computer programs. Some common use cases are:  * Measure/profile the performance of certain parts of code.  * Do work at certain periods of time, from within a program.   * Detect whether threads are in a deadlock",
-          "link": "https://www.freecodecamp.org/news/cpp-std-chrono-api/",
-          "publishedOn": "2023-12-04T23:38:45.000Z",
-          "wordCount": 2033,
-          "title": "Keeping Time in C++: How to use the std::chrono API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/ClangCover.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/",
-          "author": "Joan Ayebola",
-          "description": "React is a powerful JavaScript library for building user interfaces. And it has undergone significant changes over the years.  One of the most noteworthy additions is the introduction of hooks, which revolutionized the way developers manage state and side effects in functional components.  In this guide, we'll explore",
-          "link": "https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/",
-          "publishedOn": "2023-12-04T18:38:16.000Z",
-          "wordCount": 1847,
-          "title": "How to Use React Hooks – useEffect, useState, and useContext Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Orange-and-Yellow-Retro-Flower-Power-Daily-Class-Agenda-Template.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/",
-          "author": "Beau Carnes",
-          "description": "MLOps, short for Machine Learning Operations, refers to the practice of applying DevOps principles to machine learning. Understanding MLOps can help you build production grade machine learning projects. We just posted an MLOps course the freeCodeCamp.org YouTube channel. MLOps is a cutting-edge field at the intersection of machine learning, data",
-          "link": "https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/",
-          "publishedOn": "2023-12-04T17:50:08.000Z",
-          "wordCount": 1029,
-          "title": "MLOps Course – Learn to Build Machine Learning Production Grade Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/mlops2.png"
         }
       ]
     }
