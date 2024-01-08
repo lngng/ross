@@ -12,6 +12,106 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126884669898.BeachHazardsStatement.126884752B10CA.LOXCFWLOX.8083114bd652a9f7b7bf5be0bd8d3169",
+          "author": null,
+          "description": "...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH MONDAY MORNING... * WHAT...Dangerous rip currents and breaking waves due to elevated surf. * WHERE...Santa Barbara County Southeastern Coast and Malibu Coast.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126884669898.BeachHazardsStatement.126884752B10CA.LOXCFWLOX.8083114bd652a9f7b7bf5be0bd8d3169",
+          "publishedOn": "2024-01-07T21:50:00.000Z",
+          "wordCount": 172,
+          "title": "Beach Hazards Statement issued January 07 at 1:50PM PST until January 08 at 9:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126884669898.HighSurfAdvisory.126884752B10CA.LOXCFWLOX.c5d04c9a4e42d8a0cc5c4be1bdcf0de7",
+          "author": null,
+          "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 9 AM PST MONDAY... * WHAT...Large breaking waves with dangerous rip currents. High surf of 4 to 8 feet. * WHERE...Catalina and Santa Barbara Islands, Santa Barbara County Southwestern Coast, Ventura County Beaches and Los Angeles County Beaches.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126884669898.HighSurfAdvisory.126884752B10CA.LOXCFWLOX.c5d04c9a4e42d8a0cc5c4be1bdcf0de7",
+          "publishedOn": "2024-01-07T21:50:00.000Z",
+          "wordCount": 243,
+          "title": "High Surf Advisory issued January 07 at 1:50PM PST until January 08 at 9:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.WindAdvisory.126884730830CA.LOXNPWLOX.067aea3abaf96c05ca05363afb25c4a6",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 7 PM PST THIS EVENING... * WHAT...Areas of northwest to north winds 15 to 25 mph with gusts to 35 mph expected. Local gusts to 50 mph below passes and canyons. * WHERE...Portions of southwest California. * WHEN...Until 7 PM PST this evening.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.WindAdvisory.126884730830CA.LOXNPWLOX.067aea3abaf96c05ca05363afb25c4a6",
+          "publishedOn": "2024-01-07T21:47:00.000Z",
+          "wordCount": 309,
+          "title": "Wind Advisory issued January 07 at 1:47PM PST until January 07 at 7:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.WindAdvisory.126884730830CA.LOXNPWLOX.db62b06c659e9f432eeb66dc39809916",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 7 PM PST THIS EVENING... ...FREEZE WATCH IN EFFECT FROM LATE MONDAY NIGHT THROUGH TUESDAY MORNING... * WHAT...For the Wind Advisory, north winds 15 to 25 mph with gusts up to 40 mph. For the Freeze Watch, sub-freezing temperatures as low as 30 possible.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.WindAdvisory.126884730830CA.LOXNPWLOX.db62b06c659e9f432eeb66dc39809916",
+          "publishedOn": "2024-01-07T21:47:00.000Z",
+          "wordCount": 247,
+          "title": "Wind Advisory issued January 07 at 1:47PM PST until January 07 at 7:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.WindAdvisory.126884730830CA.LOXNPWLOX.99717090cc7d4e42f421685151dc1d43",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 7 PM PST THIS EVENING... * WHAT...North winds 15 to 25 mph with gusts up to 35 mph. Local gusts to 45 mph below passes and canyons. * WHERE...Malibu Coast and Eastern San Fernando Valley. * WHEN...Until 7 PM PST this evening. * IMPACTS...Gusty winds will blow around unsecured objects and",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.WindAdvisory.126884730830CA.LOXNPWLOX.99717090cc7d4e42f421685151dc1d43",
+          "publishedOn": "2024-01-07T21:47:00.000Z",
+          "wordCount": 166,
+          "title": "Wind Advisory issued January 07 at 1:47PM PST until January 07 at 7:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.WindAdvisory.126884730830CA.LOXNPWLOX.baa2c4203a70fed5a5df01a85fcaea9a",
+          "author": null,
+          "description": "...WIND ADVISORY IN EFFECT UNTIL 7 PM PST THIS EVENING... ...HIGH WIND WARNING IS CANCELLED... * WHAT...North winds 20 to 30 mph with gusts up to 50 mph. * WHERE...Western Santa Monica Mountains Recreational Area, Eastern Santa Monica Mountains Recreational Area, Santa Susana Mountains, Western San Gabriel Mountains and Highway 14",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.WindAdvisory.126884730830CA.LOXNPWLOX.baa2c4203a70fed5a5df01a85fcaea9a",
+          "publishedOn": "2024-01-07T21:47:00.000Z",
+          "wordCount": 235,
+          "title": "Wind Advisory issued January 07 at 1:47PM PST until January 07 at 7:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.WindAdvisory.126884730830CA.LOXNPWLOX.d00925fab0d1baa84be72fc0e9838182",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 7 PM PST THIS EVENING... ...FREEZE WATCH IN EFFECT FROM LATE MONDAY NIGHT THROUGH TUESDAY MORNING... * WHAT...For the Wind Advisory, north winds 15 to 25 mph with gusts up to 40 mph. For the Freeze Watch, sub-freezing temperatures as low as 30 degrees are possible. Temperatures may",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.WindAdvisory.126884730830CA.LOXNPWLOX.d00925fab0d1baa84be72fc0e9838182",
+          "publishedOn": "2024-01-07T21:47:00.000Z",
+          "wordCount": 269,
+          "title": "Wind Advisory issued January 07 at 1:47PM PST until January 07 at 7:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.WindAdvisory.126884730830CA.LOXNPWLOX.618b371c809274a39197b6cc0f82625d",
+          "author": null,
+          "description": "...WIND ADVISORY IN EFFECT UNTIL 7 PM PST THIS EVENING... * WHAT...North winds 20 to 30 mph with gusts up to 50 mph. * WHERE...Interstate 5 Corridor. * WHEN...Until 7 PM PST this evening. * IMPACTS...Gusty winds will blow around unsecured objects and make driving difficult, especially for drivers of high profile",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.WindAdvisory.126884730830CA.LOXNPWLOX.618b371c809274a39197b6cc0f82625d",
+          "publishedOn": "2024-01-07T21:47:00.000Z",
+          "wordCount": 149,
+          "title": "Wind Advisory issued January 07 at 1:47PM PST until January 07 at 7:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.FreezeWatch.126884849460CA.LOXNPWLOX.bbd96326c850b7a2631a1c9036e21079",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 7 PM PST THIS EVENING... ...FREEZE WATCH IN EFFECT FROM LATE MONDAY NIGHT THROUGH TUESDAY MORNING... * WHAT...For the Wind Advisory, north winds 15 to 25 mph with gusts up to 40 mph. For the Freeze Watch, sub-freezing temperatures as low as 30 possible.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.FreezeWatch.126884849460CA.LOXNPWLOX.bbd96326c850b7a2631a1c9036e21079",
+          "publishedOn": "2024-01-07T21:47:00.000Z",
+          "wordCount": 247,
+          "title": "Freeze Watch issued January 07 at 1:47PM PST until January 09 at 10:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.FreezeWatch.126884849460CA.LOXNPWLOX.c280120766757fe52351c188cfed2fa4",
+          "author": null,
+          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 7 PM PST THIS EVENING... ...FREEZE WATCH IN EFFECT FROM LATE MONDAY NIGHT THROUGH TUESDAY MORNING... * WHAT...For the Wind Advisory, north winds 15 to 25 mph with gusts up to 40 mph. For the Freeze Watch, sub-freezing temperatures as low as 30 degrees are possible. Temperatures may",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688466976C.FreezeWatch.126884849460CA.LOXNPWLOX.c280120766757fe52351c188cfed2fa4",
+          "publishedOn": "2024-01-07T21:47:00.000Z",
+          "wordCount": 269,
+          "title": "Freeze Watch issued January 07 at 1:47PM PST until January 09 at 10:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126884575914.WindAdvisory.12688464B050CA.LOXNPWLOX.00465164c0f80861186c9523f62e9ea1",
           "author": null,
           "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 7 PM THIS EVENING TO 1 AM PST SUNDAY... ...HIGH WIND WARNING REMAINS IN EFFECT FROM 1 AM TO 7 PM PST SUNDAY... * WHAT...For the Wind Advisory, southwest winds 10 to 20 mph with gusts up to 35 mph expected. For the High Wind Warning,",
@@ -710,86 +810,6 @@
           "wordCount": 183,
           "title": "Wind Advisory issued December 09 at 1:58PM PST until December 10 at 12:00PM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FAE058.RedFlagWarning.1266721960F0CA.LOXRFWLOX.5c0e2058c345028c8aa44305f23f6fba",
-          "author": null,
-          "description": "...RED FLAG WARNING IN EFFECT THROUGH TONIGHT OVER MOST MOUNTAINS OF SANTA BARBARA COUNTY... ...RED FLAG WARNING IN EFFECT FROM SATURDAY MORNING THROUGH SUNDAY AFTERNOON OVER MOST OF LOS ANGELES AND VENTURA COUNTIES... .Moderate to strong north to northeast winds combined with low relative humidities will elevate the risk for extreme fire",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FAE058.RedFlagWarning.1266721960F0CA.LOXRFWLOX.5c0e2058c345028c8aa44305f23f6fba",
-          "publishedOn": "2023-12-08T23:10:00.000Z",
-          "wordCount": 510,
-          "title": "Red Flag Warning issued December 08 at 3:10PM PST until December 10 at 3:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FA767C.WindAdvisory.126672071170CA.LOXNPWLOX.8168e64f72f53c08ff9797655137618a",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 7 PM PST THIS EVENING... ...HIGH WIND WARNING REMAINS IN EFFECT FROM 7 PM THIS EVENING TO 3 PM PST SATURDAY... * WHAT...For the Wind Advisory, areas of north to northeast winds 20 to 30 mph with gusts up to 50 mph expected. For the High Wind Warning, northeast winds 35 to 50 mph with gusts up to 70",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FA767C.WindAdvisory.126672071170CA.LOXNPWLOX.8168e64f72f53c08ff9797655137618a",
-          "publishedOn": "2023-12-08T20:39:00.000Z",
-          "wordCount": 245,
-          "title": "Wind Advisory issued December 08 at 12:39PM PST until December 08 at 7:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FA767C.HighWindWarning.1266720A1EB0CA.LOXNPWLOX.1218c656a71ef098f06656c64a42a5cd",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 7 PM PST THIS EVENING... ...HIGH WIND WARNING REMAINS IN EFFECT FROM 7 PM THIS EVENING TO 3 PM PST SATURDAY... * WHAT...For the Wind Advisory, areas of north to northeast winds 20 to 30 mph with gusts up to 50 mph expected. For the High Wind Warning, northeast winds 35 to 50 mph with gusts up to 70",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FA767C.HighWindWarning.1266720A1EB0CA.LOXNPWLOX.1218c656a71ef098f06656c64a42a5cd",
-          "publishedOn": "2023-12-08T20:39:00.000Z",
-          "wordCount": 248,
-          "title": "High Wind Warning issued December 08 at 12:39PM PST until December 09 at 3:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FA767C.HighWindWarning.1266720A1EB0CA.LOXNPWLOX.2a0a81a7af39d0b22d686a3ba808e832",
-          "author": null,
-          "description": "...HIGH WIND WARNING REMAINS IN EFFECT FROM 10 PM THIS EVENING TO 3 PM PST SATURDAY... * WHAT...Areas of north to northeast winds 30 to 40 mph with gusts up to 70 mph expected. * WHERE...Santa Clarita Valley, Central Ventura County Valleys, Malibu Coast, Western Santa Monica Mountains Recreational",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FA767C.HighWindWarning.1266720A1EB0CA.LOXNPWLOX.2a0a81a7af39d0b22d686a3ba808e832",
-          "publishedOn": "2023-12-08T20:39:00.000Z",
-          "wordCount": 270,
-          "title": "High Wind Warning issued December 08 at 12:39PM PST until December 09 at 3:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FA767C.WindAdvisory.1266720A1EB0CA.LOXNPWLOX.813c691d4653d48738c2cc7f9a40d005",
-          "author": null,
-          "description": "...WIND ADVISORY IN EFFECT FROM 7 PM THIS EVENING TO 3 PM PST SATURDAY... * WHAT...Northeast winds 25 to 35 mph with gusts up to 50 mph expected. * WHERE...Eastern San Gabriel Mountains. * WHEN...From 7 PM this evening to 3 PM PST Saturday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FA767C.WindAdvisory.1266720A1EB0CA.LOXNPWLOX.813c691d4653d48738c2cc7f9a40d005",
-          "publishedOn": "2023-12-08T20:39:00.000Z",
-          "wordCount": 156,
-          "title": "Wind Advisory issued December 08 at 12:39PM PST until December 09 at 3:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FA767C.WindAdvisory.1266720A1EB0CA.LOXNPWLOX.7773247170a3288a79e7944eccea87d3",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 7 PM THIS EVENING TO 3 PM PST SATURDAY... * WHAT...Areas of northeast winds 20 to 30 mph with gusts up to 50 mph expected. * WHERE...Western Antelope Valley Foothills. * WHEN...From 7 PM this evening to 3 PM PST Saturday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FA767C.WindAdvisory.1266720A1EB0CA.LOXNPWLOX.7773247170a3288a79e7944eccea87d3",
-          "publishedOn": "2023-12-08T20:39:00.000Z",
-          "wordCount": 159,
-          "title": "Wind Advisory issued December 08 at 12:39PM PST until December 09 at 3:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FA767C.WindAdvisory.1266720A1EB0CA.LOXNPWLOX.62e822013ce6b0c6a6be20dff7422b53",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 10 PM THIS EVENING TO 3 PM PST SATURDAY... * WHAT...Areas of north to northeast winds 25 to 35 mph with gusts up to 50 mph expected. * WHERE...Eastern Santa Monica Mountains Recreational Area. * WHEN...From 10 PM this evening to 3 PM PST Saturday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FA767C.WindAdvisory.1266720A1EB0CA.LOXNPWLOX.62e822013ce6b0c6a6be20dff7422b53",
-          "publishedOn": "2023-12-08T20:39:00.000Z",
-          "wordCount": 169,
-          "title": "Wind Advisory issued December 08 at 12:39PM PST until December 09 at 3:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FA767C.WindAdvisory.1266720A1EB0CA.LOXNPWLOX.bc99df5b70d252d916a197b30c2b9734",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 10 PM THIS EVENING TO 3 PM PST SATURDAY... * WHAT...Northeast winds 20 to 30 mph with gusts up to 45 mph expected. * WHERE...Eastern San Fernando Valley. * WHEN...From 10 PM this evening to 3 PM PST Saturday.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126671FA767C.WindAdvisory.1266720A1EB0CA.LOXNPWLOX.bc99df5b70d252d916a197b30c2b9734",
-          "publishedOn": "2023-12-08T20:39:00.000Z",
-          "wordCount": 159,
-          "title": "Wind Advisory issued December 08 at 12:39PM PST until December 09 at 3:00PM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -798,6 +818,236 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/19172dp/vietnams_cursed_images_114/",
+          "author": null,
+          "description": "submitted by    /u/GodBlessHentai  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/19172dp/vietnams_cursed_images_114/",
+          "publishedOn": "2024-01-08T00:10:38.000Z",
+          "wordCount": null,
+          "title": "Vietnam's cursed images #114",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1916hj9/considering_moving_to_hanoi/",
+          "author": null,
+          "description": "Hello all,\n I'm considering a teaching job in Hanoi at a new international school. The start day is early August. \n I've lived abroad before (China) but have been back in the US for 4.5 years and am currently living/working in Denver. \n I was interested in hearing about life in Hanoi from those who currently live there. \n Some top of the mind questions/concerns are: \n How is the pollution? Would you consider the city clean? Is there a large expat community? Is it close-knit? Is it easy to form friend groups? Are there things to do other than go out to eat/drink? What is the fitness scene like? Is there a road biking scene? Is it easy to get out of the city on the weekend for some nature/beach time?\n Any other tips/advice is greatly appreciated. TYIA!\n    submitted by    /u/wildpine_14  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1916hj9/considering_moving_to_hanoi/",
+          "publishedOn": "2024-01-07T23:45:54.000Z",
+          "wordCount": null,
+          "title": "Considering moving to Hanoi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1914lhn/vietnam_masking/",
+          "author": null,
+          "description": "hi all!\n i am going to be on a trip to vietnam in the next week, traveling from hanoi down to hcmc over the span of two weeks. \n i was wondering what the masking requirements are like for covid-19? are they mandated places or required for entry anywhere? are locals frequently using them? should i plan to bring some with me?\n i visited taiwan in early 2023 and things were still pretty strict, and masks were everywhere. i was wondering if vietnam would be similar! \n thanks!\n    submitted by    /u/historysupremebeing  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1914lhn/vietnam_masking/",
+          "publishedOn": "2024-01-07T22:28:06.000Z",
+          "wordCount": null,
+          "title": "Vietnam Masking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1914iek/best_way_to_book_a_halong_bay_cruise/",
+          "author": null,
+          "description": "I have an upcoming trip to Vietnam and definitely want to do a cruise in Halong Bay, most likely 2 day/1 night. (Yes, I’ve heard about the drawbacks, but I still want to experience it) I’m overwhelmed with the different ways available to book and all the different cruises available. I’m looking for a cruise that will also provide transportation from and back to Hanoi. I’d rather book ahead of time rather than trying to go through a hotel.. Is booking.com a legit way to book these cruises or should I go directly through the cruise website? And which cruise companies would you recommend?\n    submitted by    /u/AdministrativeGolf94  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1914iek/best_way_to_book_a_halong_bay_cruise/",
+          "publishedOn": "2024-01-07T22:24:30.000Z",
+          "wordCount": null,
+          "title": "Best way to book a Halong Bay Cruise?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1913ojp/how_to_purchase_vi%E1%BB%87t_ph%E1%BB%A5c_from_vietnam_for_vi%E1%BB%87t/",
+          "author": null,
+          "description": "hello hello, i'm a vietnamese-american living in the west coast of america, and i'd like to ask, does anyone know how to purchase việt phục from vietnam and have them exported to america? i have interest in the việt phục movement and would love to wear and support our traditional and modernized việt phục in the USA (especially since a lot of attire like nhật bình or ngũ thân aren't sold in local vietnamese stores where i live), but unfortunately, i'm not familiar with how i could try to work with purchasing and delivering overseas.\n from what i know, there's shopee vn where i could purchase clothes, but they only ship locally in vietnam, and i'm unaware of any facebook groups i could join where i could ask for help with proxy shipping. thank you for reading, and any help is appreciated!\n    submitted by    /u/miralyk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1913ojp/how_to_purchase_vi%E1%BB%87t_ph%E1%BB%A5c_from_vietnam_for_vi%E1%BB%87t/",
+          "publishedOn": "2024-01-07T21:51:25.000Z",
+          "wordCount": null,
+          "title": "how to purchase việt phục from vietnam for việt kiều in america?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/19130fe/did_nguy%E1%BB%85n_%C3%A1nh_actually_use_nguy%E1%BB%85n_hu%E1%BB%87s_skull_as/",
+          "author": null,
+          "description": "My dad told me that after Nguyễn Huệ died, Nguyễn Ánh dug his grave up and used his skull as a \"toilet bowl.\" When i searched online, I could only find that he only dug up Nguyễn Huệ's grave--nothing about the toilet bowl part. Can someone verify what my dad said?\n    submitted by    /u/encrusting_acro  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/19130fe/did_nguy%E1%BB%85n_%C3%A1nh_actually_use_nguy%E1%BB%85n_hu%E1%BB%87s_skull_as/",
+          "publishedOn": "2024-01-07T21:24:31.000Z",
+          "wordCount": null,
+          "title": "Did Nguyễn Ánh actually use Nguyễn Huệ's skull as a toilet bowl?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190z940/zalo_question/",
+          "author": null,
+          "description": "Sorry if this isn't the right place fore this post, but it's the only logical place I know of to get the answer.\n When sending a longer (40-60 sec.) video in Zalo chat, does anybody else experience the video and audio to be out of sync? It's like the video is slowed down, but the audio stays at normal speed. Also the file size is really small compared to the original recording. It's like Zalo is re-encoding the video and screwing it all up😅\n Only noticed it recently, and the issue is happening to both me and the recipient. Shorter videos are not affected.\n    submitted by    /u/kennethpimperton  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190z940/zalo_question/",
+          "publishedOn": "2024-01-07T18:50:53.000Z",
+          "wordCount": null,
+          "title": "Zalo Question",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190yxvn/tattoos_hcmc/",
+          "author": null,
+          "description": "Hello everyone!\n I’ll be visiting Vietnam for the month of February for Tết and was wondering what’s the best bang for your buck tattoo parlor?\n    submitted by    /u/Dankstrocity  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190yxvn/tattoos_hcmc/",
+          "publishedOn": "2024-01-07T18:38:00.000Z",
+          "wordCount": null,
+          "title": "Tattoos HCMC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190xi5v/vietnamese_youtube_videos_with_eng_sub/",
+          "author": null,
+          "description": "Here are some variety shows/youtubers who have their own English sub (not yt auto generated) for those who aren't fluent in Vietnamese but still want to enjoy some Vietnamese content. (this is my first post so please tell me if I do anything wrong)\n @TheHanoiChamomile: Not all his videos have English subtitles, but I know his vlogs does have them. the subtitles do also have other languages such as Arabic, Japanese, Korean etc.\n @KhoaiLangThang: food vlogger. I think everyone knows him. all his videos have eng subs.\n 2 NGÀY 1 DÊM VIỆT: This is the Vietnamese version of Korean show called 2 Days & 1 Night. They are still working on the subtitles. I believe at this moment they are at episode 14. \n THE NEW MENTOR: This is a show about modelling. only watched 2 episodes but I think all the episodes have English subs. \n THỬ THÁCH LỚN KHÔN: a show about little children and it's so cute. both seasons 1 and 2 have eng subs.\n RAP VIET MUA 3: I think the title speaks for itself :). they used to have season 1 and I think also season 2 on yt but now not anymore. If I remember it correctly some of the eps miss subs but I'm not sure if they fixed that.\n NGƯỜI ẤY LÀ AI?: here is a link to season 5 ep 1. I haven't watched the show myself a lot, but I know it's a very popular one.\n THE MASKED SINGER VIETNAM S2: only watched some performances but both seasons 1 and 2 have English subtitles.\n I hope this was usefull!! Please give your recommendations so we can help each other out.\n (Also a tip for those want to watch some shows with viet dub: if you have Netflix, a lot of shows have now viet dub. I personally watch kdramas with viet dub and eng sub. I think in settings you can indicate multiple prefered languages.)\n    submitted by    /u/pandapopia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190xi5v/vietnamese_youtube_videos_with_eng_sub/",
+          "publishedOn": "2024-01-07T17:37:29.000Z",
+          "wordCount": null,
+          "title": "vietnamese youtube videos with eng sub",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190vue2/learning_maintaining_vietnamese_language_skills/",
+          "author": null,
+          "description": "Pretty much the title. I live in Germany, both my parents are Vietnamese and I grew up speaking vietnamese and german.\n But I feel like my vietnamese language skills are just kinda limited to daily stuff at home. Doesn’t go much beyond it and I’ve wondered how I might improve, or just have some resources so I can maintain a certain language level so I just won’t forget with time.\n    submitted by    /u/_ser_michael_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190vue2/learning_maintaining_vietnamese_language_skills/",
+          "publishedOn": "2024-01-07T16:26:08.000Z",
+          "wordCount": null,
+          "title": "Learning (“maintaining”) vietnamese language skills",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190ukmn/looking_for_kids_clothing_suppliers_in_ho_chi_minh/",
+          "author": null,
+          "description": "Hi, guys! \n I am looking for kids clothing suppliers in Ho Chi Minh that ship to neighboring countries like Thailand and Cambodia? May you recommend any? \n Thank you!\n    submitted by    /u/nhim_sopheak  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190ukmn/looking_for_kids_clothing_suppliers_in_ho_chi_minh/",
+          "publishedOn": "2024-01-07T15:28:25.000Z",
+          "wordCount": null,
+          "title": "Looking for kids clothing suppliers in Ho Chi Minh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190s6vr/help_asap_please/",
+          "author": null,
+          "description": "I have just come back from vacation in Phu Quoc. I met this amazing guy who works as a waiter at his family’s restaurant. When we first saw each other - we couldn’t stop staring. It felt like my body was immediately set on fire when we made eye contact. I went to the restaurant every single day, at least twice a day. We never had a real conversation but we were always looking at each other. \n When he was taking someone else’s order - he couldn’t stop staring at me - his dad had to tell him to “stop staring at that girl & focus on taking the order”. He’d play songs that I suggested & we’d dance together - all while maintaining eye contact and smiling ear to ear at each other. \n I was absolutely dying to get his socials & stay in contact but I couldn’t muster up the courage to just ask & when I finally did - he wasn’t there. \n On my last day - I stayed at the restaurant from breakfast till closing time. He gave me my favourite orders & drinks for free because I told him I’d be leaving that night. \n Now that I’m back home - I have this huge empty feeling of loss - deep inside my stomach. Thinking of him makes my chest hurt & feel heavy. I can’t stop myself from crying when I think about his face smiling at me. \n In those few weeks of endless tension, smiles & eye contact - I had never felt happier. He makes me feel alive just by looking into my eyes. He makes me feel absolutely blissfuly happy in a way that I’ve never felt before & I’ve never even properly spoken to him. \n I am desperately planning to go back to Phu Quoc later this year because I feel physically sick at the thought of never seeing him again. \n Idk what it is - if it’s just me romanticising just a simple vacation crush & being delusional or if there is something actually there. \n I feel so empty without him & it’s so silly of me because I don’t even know his name. \n What’s going on? What do I do.. I desperately need advice/another perspective on this.\n    submitted by    /u/psychiatristno828  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190s6vr/help_asap_please/",
+          "publishedOn": "2024-01-07T13:30:15.000Z",
+          "wordCount": null,
+          "title": "Help ASAP please!!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190r1rb/hmmmmmm/",
+          "author": null,
+          "description": "submitted by    /u/Ilovepie31415926535  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190r1rb/hmmmmmm/",
+          "publishedOn": "2024-01-07T12:25:07.000Z",
+          "wordCount": null,
+          "title": "Hmmmmmm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190q9q0/common_hygiene_courtesy/",
+          "author": null,
+          "description": "Im currently on my way to Saigon and I have stopped by 3 pit stops that look fairly cleaned on the outside. But when I went into the restroom to do my business I find toilet stalls that are un flushed. It doesn’t take that much effort to flush!! We want to reputable as a nation but we can’t even do the most common action.\n    submitted by    /u/asianteminator1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190q9q0/common_hygiene_courtesy/",
+          "publishedOn": "2024-01-07T11:33:46.000Z",
+          "wordCount": null,
+          "title": "Common hygiene courtesy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190phca/vinfast_critic_detained_interrogated_by_vietnam/",
+          "author": null,
+          "description": "submitted by    /u/OrdoXenos  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190phca/vinfast_critic_detained_interrogated_by_vietnam/",
+          "publishedOn": "2024-01-07T10:39:50.000Z",
+          "wordCount": null,
+          "title": "VinFast Critic Detained, Interrogated by Vietnam Police for Facebook Posts: Report",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190nyky/sunrises_sunsets/",
+          "author": null,
+          "description": "submitted by    /u/diminishing-returns-  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190nyky/sunrises_sunsets/",
+          "publishedOn": "2024-01-07T08:51:38.000Z",
+          "wordCount": null,
+          "title": "Sunrises & Sunsets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190n225/fruit_veg_from_my_morning_walks_can_anyone_name/",
+          "author": null,
+          "description": "submitted by    /u/diminishing-returns-  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190n225/fruit_veg_from_my_morning_walks_can_anyone_name/",
+          "publishedOn": "2024-01-07T07:49:26.000Z",
+          "wordCount": null,
+          "title": "Fruit & Veg from my morning walks. Can anyone name them all?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190muwt/ta_dung_ha_long_bay_of_the_mountains/",
+          "author": null,
+          "description": "submitted by    /u/diminishing-returns-  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190muwt/ta_dung_ha_long_bay_of_the_mountains/",
+          "publishedOn": "2024-01-07T07:35:50.000Z",
+          "wordCount": null,
+          "title": "Ta Dung. Ha Long bay of the mountains.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190m3av/great_live_music_in_hcm_went_last_night/",
+          "author": null,
+          "description": "submitted by    /u/YVR-2-SGN  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190m3av/great_live_music_in_hcm_went_last_night/",
+          "publishedOn": "2024-01-07T06:46:26.000Z",
+          "wordCount": null,
+          "title": "Great live music in HCM!! Went last night. Suggestions for other venues to visit? Here for a month",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190in9n/why_do_most_food_stalls_restaurants_have_such/",
+          "author": null,
+          "description": "Even the popular, must go, places have dirty walls, trash all over the floor, dirty tables, utensils that have never seen a drop of soap. My first few jobs were in food service and half the time was spent cleaning. I don't even want to think about what happens in the food prep areas. Why do people even frequent places like that. Back home (3rd world country) it wouldn't matter how good your food is, if you have a dirty establishment no one would stay and eat.\n Edit1: A lot of people are not reading the text. I never said anything about the preparation of the food. I meant how dirty the establishments are. In my third world country, even in family owned businesses, cleanliness is very important at least just for looks. The prep might be another story. \n And before people try to pull the western standards card, is it really a western standard to have a clean presentable place to eat? What a way to devalue your own country and culture. It shouldn't be defended. \n    submitted by    /u/GeneInteresting9772  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190in9n/why_do_most_food_stalls_restaurants_have_such/",
+          "publishedOn": "2024-01-07T03:38:04.000Z",
+          "wordCount": null,
+          "title": "Why do most food stalls, restaurants have such terrible hygiene?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190h4s7/returning_keyboard_to_lazada/",
+          "author": null,
+          "description": "So I ordered a Yamaha keyboard before Christmas. It turned out that it did not have MIDI port, so I packed it and sent it back.\n Today (2 weeks later) I got a message saying the package was damaged.\n Here is the photo they sent:\n https://preview.redd.it/r8k1ihypgxac1.png?width=651&format=png&auto=webp&s=b028b8e050c37a030b675390b258c605a8845d58\n This is obviously untrue because the package was fine when I sent it to them. It means it was probably damaged during transportation or even damaged by these \"quality checkers\" themselves.\n The keyboard itself is obviously fine, as well as have all the accessories inside the box:\n https://preview.redd.it/yfb64hvvgxac1.png?width=489&format=png&auto=webp&s=65b1b48fed7bbb2e1ef38ce852b84c4f88fc101b\n I don't know what to do at this point. The app says that they will send it back to me with some paper to sign. I don't want to sign anything because this is just ridiculous.\n Is \"damaged package\" a real legal reason to reject return? This is not the case in my home country, don't know about Vietnam though. But hey, they could have damaged the package themselves. What should I do at this point?\n P. S., they have my return photo which I took right before sending it back\n ​\n the package is obviously undamaged\n    submitted by    /u/2102just  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190h4s7/returning_keyboard_to_lazada/",
+          "publishedOn": "2024-01-07T02:21:03.000Z",
+          "wordCount": null,
+          "title": "Returning keyboard to Lazada",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190g6l9/music_over_loudspeakers_at_7am_on_a_sunday_in_hoi/",
+          "author": null,
+          "description": "I'm staying in Hoi An at the moment, just north west of old town and next to a school. This morning there was music being broadcast over a loudspeaker, quite pop, animated music for 30 mins. What was this for? The primary school opposite was full of motorbikes and people coming in constantly. A few kids but mostly adults alone.\n Just nosey really! Wondered if anyone knew the reason for the early wake up this morning!\n Edit - Sorry if I offended anyone, I wasn't asking why people are noisy I was just curious! I did try googling but found no information so thought I'd ask on here if this was a common thing. I'm trying to learn more about the culture I swear! 😂\n    submitted by    /u/bethellarich  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190g6l9/music_over_loudspeakers_at_7am_on_a_sunday_in_hoi/",
+          "publishedOn": "2024-01-07T01:33:49.000Z",
+          "wordCount": null,
+          "title": "Music over loudspeakers at 7am on a Sunday in Hoi An",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/190g2u7/weekend_breakfast_have_you_ever_tried_it/",
+          "author": null,
+          "description": "submitted by    /u/VNCharmTravel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/190g2u7/weekend_breakfast_have_you_ever_tried_it/",
+          "publishedOn": "2024-01-07T01:28:52.000Z",
+          "wordCount": null,
+          "title": "Weekend breakfast. Have you ever tried it?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/190fdys/what_flag_do_i_use/",
           "author": null,
@@ -5297,196 +5547,6 @@
           "wordCount": 2795,
           "title": "Xanh SM - The Teal Taxis",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18ecalc/cats_in_chains/",
-          "author": null,
-          "description": "Why are these cats in chains? Saw it today and was shocked about it. Please let me know if you know anything about this.\n    submitted by    /u/Wonderful-Revenue535  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18ecalc/cats_in_chains/",
-          "publishedOn": "2023-12-09T12:09:04.000Z",
-          "wordCount": 2758,
-          "title": "Cats in chains",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18eaa21/what_are_your_must_visit_restaurants_in_saigon/",
-          "author": null,
-          "description": "submitted by    /u/Severe-Coast-6918  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18eaa21/what_are_your_must_visit_restaurants_in_saigon/",
-          "publishedOn": "2023-12-09T09:56:02.000Z",
-          "wordCount": 2725,
-          "title": "What are your MUST VISIT restaurants in Saigon?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18e8pd1/what_i_feel_is_vn_is_like_a_cleaner_and_not_so/",
-          "author": null,
-          "description": "Okay no offence intended whatsoever, the driving styles/traffic, people mindset etc. I came to this conclusion after hearing many stories here(subreddit) and from my gf. Any body agrees with this statement or against? This could be subjective with lot of factors.\n Fyi I'm Indian and my gf from vn.\n    submitted by    /u/zeusjuice0801  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18e8pd1/what_i_feel_is_vn_is_like_a_cleaner_and_not_so/",
-          "publishedOn": "2023-12-09T08:02:12.000Z",
-          "wordCount": 2786,
-          "title": "What I feel is VN is like a cleaner and not so religious but communist version of India.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18e5q6h/weird_airport_custom_rules/",
-          "author": null,
-          "description": "I’m going to vietnam next week and I went to search up on items to declare while clearing the customs. One of the items is cash.\n Apparently vietnam customs allow you to bring $5000USD or equivalent foreign currencies in cash without a need to declare. But for their own currency, they only allow travellers to bring in 15million VND which is $620USD equivalent. Anymore than 15million VND in cash has to be declared. That is so weird? Anyone has any experience of bringing in more than 15million dongs in vietnam? Do you actually need to declare? If you did, what did they do? Do they just straight up confiscate the difference?\n Edit: People seem confused so I’ll explain further: \n Guys I am talking about arrivals. Not departure. I’m BRINGING IN 30million dong cash to vietnam to SPEND. I’m NOT BRINGING VND OUT of vietnam. I dont understand why would they limit the bringing of their currency that’s the most legal and accepted to be used in their country so severely. It’s like they are trying to create more business for the money changers there. \n    submitted by    /u/I_knowdude  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18e5q6h/weird_airport_custom_rules/",
-          "publishedOn": "2023-12-09T04:45:49.000Z",
-          "wordCount": 2907,
-          "title": "Weird airport custom rules?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18e3a1i/stalker_alert_women_and_girls_in_hcmc_keep_an_eye/",
-          "author": null,
-          "description": "submitted by    /u/asmirg  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18e3a1i/stalker_alert_women_and_girls_in_hcmc_keep_an_eye/",
-          "publishedOn": "2023-12-09T02:26:32.000Z",
-          "wordCount": 2758,
-          "title": "Stalker Alert - Women (and girls) in HCMC, keep an eye out for this man. He stalks and films women in D1 and Nguyen Hue Street for social media. He's about 185 cm, 113 KG and walks around with a camera.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18e2lji/we_need_thanos_in_vietnam/",
-          "author": null,
-          "description": "submitted by    /u/Outrageous-Front-868  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18e2lji/we_need_thanos_in_vietnam/",
-          "publishedOn": "2023-12-09T01:50:19.000Z",
-          "wordCount": 2722,
-          "title": "We need Thanos in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18e19ck/best_vegetarian_vietnamese_dish/",
-          "author": null,
-          "description": "submitted by    /u/blodigtalvor  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18e19ck/best_vegetarian_vietnamese_dish/",
-          "publishedOn": "2023-12-09T00:41:48.000Z",
-          "wordCount": 2721,
-          "title": "Best vegetarian Vietnamese dish?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18dzlam/driving_pace_in_socialist_countries/",
-          "author": null,
-          "description": "Is it just me or have you noticed the same. It seems to me that the driving style in Vietnam seems to be slower then for example in Thailand or the west. I don’t know how to describe it. I felt the same in Laos. Some sort of socialist driving style. Maybe it is also because there are so many motorcycles and most look identical. What’s your take on it?\n    submitted by    /u/Mangostickyrice83  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18dzlam/driving_pace_in_socialist_countries/",
-          "publishedOn": "2023-12-08T23:19:37.000Z",
-          "wordCount": 2794,
-          "title": "Driving pace in socialist countries",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18dyrxt/vn_can_really_grow_up_with_this_political_asset/",
-          "author": null,
-          "description": "Can there be widespread development and well-being in a socialist country like Vietnam?\n Vingroup seems to me to be the classic case of parastatal corruption. They promised to build homes for the people by converting rural areas but then built luxury homes that are inaccessible and currently empty. \n It seems to me that in VN no one cares about voting and that all they have faith in the government. \n It seems to me to be a country destined to become a new China if the people do not demand democracy and the fight against corruption. \n At today we never saw a country without democracy grow up with a stable well-being and in my opinion VN people they need to fight more for their rights.\n What do you think? Why Vietnamese trust this gov?\n    submitted by    /u/VietCongWolph  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18dyrxt/vn_can_really_grow_up_with_this_political_asset/",
-          "publishedOn": "2023-12-08T22:41:32.000Z",
-          "wordCount": 2861,
-          "title": "VN can really grow up with this political asset?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18dyg5c/best_cafes_around_d1/",
-          "author": null,
-          "description": "Trying to meet some girls during the day time , at cafe or similar establishment. Thank you\n    submitted by    /u/vstefan  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18dyg5c/best_cafes_around_d1/",
-          "publishedOn": "2023-12-08T22:26:33.000Z",
-          "wordCount": 2741,
-          "title": "Best cafes around D1?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18dxtnu/what_requirements_a_health_insurance_plan_must/",
-          "author": null,
-          "description": "How much should an insurance company pay for the following: \n  \nOutpatient treatment \n Inpatient treatment \n  Medical evacuation to my home country \n Repatriate remains\n  \nIs outpatient coverage necessary here as treatment in Vietnam is super cheap? \n How long should the waiting period for cancer or illnesses? Some insurance companies have a 12 month waiting period for cancer which is ridiculous in my opinion. \n Thank you so much\n ​\n ​\n    submitted by    /u/BaldMan134  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18dxtnu/what_requirements_a_health_insurance_plan_must/",
-          "publishedOn": "2023-12-08T21:57:42.000Z",
-          "wordCount": 2792,
-          "title": "What requirements a health insurance plan must meet?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18dx9lf/accommodations/",
-          "author": null,
-          "description": "Husband and I will travel for 2 weeks starting from SGN and end in Hanoi from February 28- March 13th. We were thinking of taking the train up the coast and stopping off at Sapa, Nha Trang, Hue, and still deciding. We like to adventure, eat good food, and not be in touristy scenes if possible! Where we else should we definitely stop and where have you stayed that you enjoyed? Ok with private rooms in hostels, hotels, other unique experiences. Should we book ahead of time or wait til we get there? Thank you 💞💞💞\n    submitted by    /u/maximumpotassium14_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18dx9lf/accommodations/",
-          "publishedOn": "2023-12-08T21:31:47.000Z",
-          "wordCount": 2816,
-          "title": "Accommodations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18dx7rs/what_are_some_hotels_you_would_recommend_for/",
-          "author": null,
-          "description": "Another post said many hotels aren’t nearly as great as they seem online. What are some good one?\n    submitted by    /u/DonKeedix  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18dx7rs/what_are_some_hotels_you_would_recommend_for/",
-          "publishedOn": "2023-12-08T21:29:37.000Z",
-          "wordCount": 2748,
-          "title": "What are some hotels you would recommend for traveling through Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18dunjm/nye_hoian_or_da_nang/",
-          "author": null,
-          "description": "Hi, planning to be in the area over nye for 4 days. Which city would you recommend to spend nye in?\n    submitted by    /u/patde9  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18dunjm/nye_hoian_or_da_nang/",
-          "publishedOn": "2023-12-08T19:34:49.000Z",
-          "wordCount": 2746,
-          "title": "NYE - HoiAn or Da Nang",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18dt8bf/i_miss_vietnam_late_night_banh_bao_ngot_missions/",
-          "author": null,
-          "description": "submitted by    /u/clandestine_callie  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18dt8bf/i_miss_vietnam_late_night_banh_bao_ngot_missions/",
-          "publishedOn": "2023-12-08T18:30:09.000Z",
-          "wordCount": 2737,
-          "title": "I miss Vietnam! Late night banh bao ngot missions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18ds2h3/the_hospitality_industry_really_sucks_in_this/",
-          "author": null,
-          "description": "Been here for a while now and I am honestly SO tired of being misled by top tier hotel reviews online that turn out to be rigged or fake. Every “well-reviewed” hotel or accommodation (even higher end ones) I’ve stayed in was so terrible (or subpar at best) despite raving reviews online which leads me to believe it’s all fake and manipulated. \n Then, whenever you leave an honest review or comment on booking.com or google that isn’t a 9 or 10, hotel staff will literally track you down on your personal whatsapp or e-mail to emotionally blackmail you urging you to delete or edit your comment, or worse! They will even threaten you! \n Pictures on websites are insanely misleading too and idk why but staff always give off this insanely fake vibe with weird fabricated personas they sport because they they think this somehow pleases tourists? (Spoiler: IT DOES NOT, everything just feels pretty off and not genuine at all).\n All very exhausting. I’m leaving Vietnam soon and couldn’t be happier to leave this all behind me. \n Sorry I just had to rant for a moment after countless disappointing experiences.\n    submitted by    /u/tacodocks  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18ds2h3/the_hospitality_industry_really_sucks_in_this/",
-          "publishedOn": "2023-12-08T17:37:01.000Z",
-          "wordCount": 2917,
-          "title": "The hospitality industry really sucks in this country",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18dpvvx/street_food/",
-          "author": null,
-          "description": "Going on a business trip to Ho Chi Minh in April. Never been to VN and I like food. Been to other parts of Asia but VN has been a goal of mine someday. My plan was to find a market and just go for it. I will literally eat anything at least once. \n Everything I read on this sub looks delicious. Just any tips on what I should do are appreciated. I’m not just going to eat pho or Bahn Mi. Things with fresh herbs and noodles/soups are interesting to me. I like spice and not American guy spicy. I don’t need to eat meat with everything. \n I have a weekend to explore. Thanks I appreciate it.\n    submitted by    /u/bigmacher1980  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18dpvvx/street_food/",
-          "publishedOn": "2023-12-08T15:58:06.000Z",
-          "wordCount": 2839,
-          "title": "Street food",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18dnzud/com_tam_is_the_best_dish_on_planet_earth/",
-          "author": null,
-          "description": "I would rather have a perfectly executed com tam dish over a filet mignon. I have dreams about this dish. \n What is the best way to prepare the pork at home? My mouth is watering actually typing this.\n    submitted by    /u/interlockingMSU  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18dnzud/com_tam_is_the_best_dish_on_planet_earth/",
-          "publishedOn": "2023-12-08T14:27:56.000Z",
-          "wordCount": 2766,
-          "title": "Com tam is the best dish on planet earth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18dn65i/how_was_your_street_crossing_experience_in_vi%E1%BB%87t/",
-          "author": null,
-          "description": "submitted by    /u/VNCharmTravel  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18dn65i/how_was_your_street_crossing_experience_in_vi%E1%BB%87t/",
-          "publishedOn": "2023-12-08T13:46:45.000Z",
-          "wordCount": 2727,
-          "title": "How was your street crossing experience in Việt Nam?",
-          "imageUrl": null
         }
       ]
     },
@@ -6114,26 +6174,6 @@
           "wordCount": 4037,
           "title": "Learn REST APIs by Building a JavaScript Project",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/desktop-preview-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-to-control-gpt-in-openai-playground/",
-          "author": "David Clinton",
-          "description": "ChatGPT is the interface most people use to work with OpenAI's large language model. But for someone who needs the versatility and power of programmatic access, there's no replacement for OpenAI's API.  The API is the interface you can use to connect programming code running on your own PC",
-          "link": "https://www.freecodecamp.org/news/learn-to-control-gpt-in-openai-playground/",
-          "publishedOn": "2023-12-08T17:15:34.000Z",
-          "wordCount": 1428,
-          "title": "Learn to Control GPT in the OpenAI Playground",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/pexels-levi-damasceno-571249.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-coding-for-everyone-handbook/",
-          "author": "Fatos Morina",
-          "description": "In this handbook, I'll address a question you may be asking yourself: should you learn how to code? After explaining why you definitely should, I'll cover some of the benefits and challenges of being a software developer. I'll also discuss some key strategies for approaching learning to code to help",
-          "link": "https://www.freecodecamp.org/news/learn-coding-for-everyone-handbook/",
-          "publishedOn": "2023-12-08T17:07:46.000Z",
-          "wordCount": 13370,
-          "title": "How to Start Learning to Code – Coding for Everyone Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/How-to-Start-Learning-to-Code-cover--1-.png"
         }
       ]
     }
