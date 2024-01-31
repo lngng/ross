@@ -12,6 +12,26 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126885C5C9AC.HighSurfAdvisory.12688A1E4BA0CA.LOXCFWLOX.48516c667f0eef5e76a93921adbab0ff",
+          "author": null,
+          "description": "...HIGH SURF ADVISORY IN EFFECT FROM 2 AM THURSDAY TO 6 AM PST SATURDAY... * WHAT...Large breaking waves with dangerous rip currents. Surf over west facing beaches will peak at 8 to 12 feet. * WHERE...Catalina and Santa Barbara Islands, Santa Barbara County South Coast, Ventura County Beaches, Malibu Coast and Los",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126885C5C9AC.HighSurfAdvisory.12688A1E4BA0CA.LOXCFWLOX.48516c667f0eef5e76a93921adbab0ff",
+          "publishedOn": "2024-01-30T23:07:00.000Z",
+          "wordCount": 281,
+          "title": "High Surf Advisory issued January 30 at 3:07PM PST until February 03 at 6:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126885C5A42C.WinterStormWatch.12688A0DD0E0CA.LOXWSWLOX.cc568f2643ee3ff5a1f344d282be9db5",
+          "author": null,
+          "description": "...WINTER STORM WATCH IN EFFECT FROM LATE WEDNESDAY NIGHT THROUGH THURSDAY EVENING... * WHAT...Heavy snow possible. Total snow accumulations up to 18 inches possible above 7000 feet, up to 6 inches between 6000 and 7000 feet and a dusting to 3 inches between 4500 and 6000 feet. Winds could gust as high as 50 mph.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126885C5A42C.WinterStormWatch.12688A0DD0E0CA.LOXWSWLOX.cc568f2643ee3ff5a1f344d282be9db5",
+          "publishedOn": "2024-01-30T22:11:00.000Z",
+          "wordCount": 193,
+          "title": "Winter Storm Watch issued January 30 at 2:11PM PST until February 01 at 10:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688597C084.WindAdvisory.126885B30240CA.LOXNPWLOX.195f48ffe97f0d321573238de45ee565",
           "author": null,
           "description": "...WIND ADVISORY REMAINS IN EFFECT UNTIL 4 PM PST SUNDAY... * WHAT...Areas of north to northeast winds 20 to 35 mph with gusts to 45 to 55 mph expected. Isolated gusts to 65mph are possible in the most wind-prone locations Sunday morning. * WHERE...Portions of southwest California. * WHEN...Until 4 PM PST Sunday.",
@@ -720,26 +740,6 @@
           "wordCount": 366,
           "title": "Winter Weather Advisory issued January 02 at 9:42AM PST until January 04 at 10:00AM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126673599854.CoastalFloodAdvisory.126884085F80CA.LOXCFWLOX.3332e3890ed2446390c08a9c44e2bccc",
-          "author": null,
-          "description": "...COASTAL FLOOD ADVISORY REMAINS IN EFFECT UNTIL 8 PM PST THIS EVENING... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM PST THIS EVENING... * WHAT...For the Coastal Flood Advisory, minor coastal flooding. For the High Surf Advisory, breaking waves of 6 to 10 feet",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126673599854.CoastalFloodAdvisory.126884085F80CA.LOXCFWLOX.3332e3890ed2446390c08a9c44e2bccc",
-          "publishedOn": "2023-12-31T21:57:00.000Z",
-          "wordCount": 284,
-          "title": "Coastal Flood Advisory issued December 31 at 1:57PM PST until December 31 at 8:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126673599854.HighSurfAdvisory.126884085F80CA.LOXCFWLOX.80240df339849b71481b232d807df033",
-          "author": null,
-          "description": "...COASTAL FLOOD ADVISORY REMAINS IN EFFECT UNTIL 8 PM PST THIS EVENING... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM PST THIS EVENING... * WHAT...For the Coastal Flood Advisory, minor coastal flooding. For the High Surf Advisory, breaking waves of 6 to 10 feet",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA126673599854.HighSurfAdvisory.126884085F80CA.LOXCFWLOX.80240df339849b71481b232d807df033",
-          "publishedOn": "2023-12-31T21:57:00.000Z",
-          "wordCount": 284,
-          "title": "High Surf Advisory issued December 31 at 1:57PM PST until December 31 at 8:00PM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -748,6 +748,246 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1af4hjs/the_elders_need_to_be_humbled_more/",
+          "author": null,
+          "description": "Sick of the constant berating and judging I recieve from them, what suck is that this is so normalized to the point I can’t even say shit without risking family and relatives. We let these old people treat us like dirt and expect us to show them respect as if they’re some sort of god, this is why I hate family gatherings and events. The only reason I’m holding back is because I know my parents dont want a tarnished relationship. \n I swear the attitude, ignorant and straight up spiteful things they say and do irks me to my core, this is why I live far from them for my mental health.\n    submitted by    /u/NeonTearyEyes  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1af4hjs/the_elders_need_to_be_humbled_more/",
+          "publishedOn": "2024-01-31T00:41:04.000Z",
+          "wordCount": null,
+          "title": "The elders need to be humbled more",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1af3txt/investing_in_foreign_stocks_as_a_vietnamese/",
+          "author": null,
+          "description": "This is not me trying to bypass the law as the investment law allows one to invest indirectly in foreign stocks via investment funds or other financial intermediaries! However, I’ve found it difficult to find such funds operating in Vietnam and for foreign funds there seems to be some hurdle for transfering funds abroad, especially foreign currencies. So my fellow vietnamese, has anyone successfully investing outside? If you’ve done it, how to do so?\n    submitted by    /u/marcus20060  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1af3txt/investing_in_foreign_stocks_as_a_vietnamese/",
+          "publishedOn": "2024-01-31T00:11:11.000Z",
+          "wordCount": null,
+          "title": "Investing in foreign stocks as a vietnamese citizen?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1af39sm/how_to_search_for_family_in_vietnam/",
+          "author": null,
+          "description": "My dad was originally from Soc Trang in the south and during the Vietnamese-American war, he left as a boat person and ended up in Thailand for a few years before finally ending up in the US. I was born in the US as a Viet Kieu. However I do not speak or know anything about Vietnamese culture (I grew up with a Chinese background since that’s where my mother was from). My Mom and Dad split up when I was about 10. \n Fast forward 15 years. My dad has passed away and I deeply regret not learning more of my Vietnamese side. I want to go to Vietnam to do some self exploration and see where he was from. He had a massive family in Vietnam that he always spoke on the phone with but I never partook because I don’t know the language nor did I know them. \n I want to see if I can find them but chances may be slim. What do you guys think are the chances I can find the if I have his picture, his name, his date of birth, and knowing he’s from Soc Trang? \n I don’t know any of my relatives names but I assume they have the same last name as me. I’ve seen a picture of his brothers and they all look pretty much exactly like my dad so I can probably facially recognize them. But how would I go about searching for them in the first place? Thanks in advance!\n    submitted by    /u/nihaoalby  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1af39sm/how_to_search_for_family_in_vietnam/",
+          "publishedOn": "2024-01-30T23:47:11.000Z",
+          "wordCount": null,
+          "title": "How to search for family in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aeyjti/american_football_super_bowl_where_to_watch_in/",
+          "author": null,
+          "description": "As the title suggests, where can I and some friends watch the Super Bowl at around 6am on February 13th? I doubt any bars are open but does anyone know who may be showing?\n    submitted by    /u/Maximum_Bluejay4487  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aeyjti/american_football_super_bowl_where_to_watch_in/",
+          "publishedOn": "2024-01-30T20:33:03.000Z",
+          "wordCount": null,
+          "title": "American Football Super Bowl: Where to watch in Hanoi?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aexp5u/what_is_this_food/",
+          "author": null,
+          "description": "submitted by    /u/orangeducksarecool  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aexp5u/what_is_this_food/",
+          "publishedOn": "2024-01-30T19:58:38.000Z",
+          "wordCount": null,
+          "title": "What is this food?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aex9v5/moving_back_home_to_vietnam_in_a_month_after_6/",
+          "author": null,
+          "description": "Hi everyone, I've been lurking in the server for quite a long time now, reading posts about home and recently some posts about people going back home or studying in the US. I (22M) myself is an international student too, and I have just graduated college last year, studying animation. However, due to circumstances, from my own lack of research into the animation field in the US, lack of extreme effort to be stellar and stand out in the field, lack of connections, and the industry's terrible crash at the moment if you are in the knows, I haven't been lucky in getting a job and an H1B visa for further employment. I've been working on unpaid internships and volunteer work that aligns with my field of study and approved by my school to stay in the US since then. It has been really hard.\n Now t…",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aex9v5/moving_back_home_to_vietnam_in_a_month_after_6/",
+          "publishedOn": "2024-01-30T19:40:58.000Z",
+          "wordCount": null,
+          "title": "Moving back home to Vietnam in a month after 6 years of studying in the US, both excited and anxious",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aeuf5p/mental_health_and_intergenerational_trauma_should/",
+          "author": null,
+          "description": "It seems crazy to me, that I can't find more to this, but then again mental health isn't big in Vietnam or older generations. \n I (29,m) am a German citizen, with Vietnamese parents, who has been to Vietnam a total of 5 times. \n And to me it is safe to say, that the majority of my parents' generation (born around 1960) suffered from PTSD and is still doing so. \n Because of course you are traumatized as a child in a warzone. \n And because your PTSD is never diagnosed or treated, you keep your unhealthy patterns and pass them down to your children.\n    submitted by    /u/D4ngerD4nger  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aeuf5p/mental_health_and_intergenerational_trauma_should/",
+          "publishedOn": "2024-01-30T17:47:27.000Z",
+          "wordCount": null,
+          "title": "Mental health and intergenerational trauma should be talked about more",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aesk3s/does_anyone_recognise_this_animal/",
+          "author": null,
+          "description": "While driving part of the Ho Chi Minh Highway I encountered this animal. I know it's not the best picture but I cannot find anything on the internet about what animal it could be. Anyone has an idea?\n    submitted by    /u/Prestigious_Chip990  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aesk3s/does_anyone_recognise_this_animal/",
+          "publishedOn": "2024-01-30T16:32:52.000Z",
+          "wordCount": null,
+          "title": "Does anyone recognise this animal?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aesf2c/bro_who_the_heck_put_these_near_my_house/",
+          "author": null,
+          "description": "submitted by    /u/Dis9ay  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aesf2c/bro_who_the_heck_put_these_near_my_house/",
+          "publishedOn": "2024-01-30T16:27:18.000Z",
+          "wordCount": null,
+          "title": "BRO WHO THE HECK PUT THESE NEAR MY HOUSE 😭",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aes2r0/wear_a_mask_guys/",
+          "author": null,
+          "description": "Hanoi at 17:50\n    submitted by    /u/aaf191  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aes2r0/wear_a_mask_guys/",
+          "publishedOn": "2024-01-30T16:13:21.000Z",
+          "wordCount": null,
+          "title": "Wear a mask guys",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aeru7c/what_deities_are_most_worshipped_in_vietnam/",
+          "author": null,
+          "description": "And in what ways do people worship them?\n    submitted by    /u/NoAbbreviations9854  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aeru7c/what_deities_are_most_worshipped_in_vietnam/",
+          "publishedOn": "2024-01-30T16:03:33.000Z",
+          "wordCount": null,
+          "title": "What deities are most worshipped in Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aerblq/seeking_advice_luggage_storage_options_in_hanoi/",
+          "author": null,
+          "description": "Hey fellow travelers! 🌍 I'm checking out of my hotel in Hanoi by noon and plan to explore the charming Old Quarter until evening. Any recommendations for reliable luggage storage places where I can safely leave my bags during the day? Your insights would be greatly appreciated! 🎒\n    submitted by    /u/WolverineLittle2913  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aerblq/seeking_advice_luggage_storage_options_in_hanoi/",
+          "publishedOn": "2024-01-30T15:41:36.000Z",
+          "wordCount": null,
+          "title": "Seeking Advice: Luggage Storage Options in Hanoi Old Quarter?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aeqwha/dumpling_motorcycle_guys_in_da_nang/",
+          "author": null,
+          "description": "Anyone staying/living in Da Nang (My An area) ever hear these guys that drive around on the motorcycles literally all day/night long with the loudspeakers. I don't know exactly what it is but I'm certain they're selling dumplings or something \"bánh bao!\". Anyways, it's driving me absolutely insane. I'm staying in the 8th floor of a hotel and I hear it literally all day/night. They go until 2am sometimes. Not only is it loud, but the FREQUENCY at which it is coming out of the speakers is enough to drive someone mad. Is it just me, or are locals not bothered by this at all?\n    submitted by    /u/imCzaR  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aeqwha/dumpling_motorcycle_guys_in_da_nang/",
+          "publishedOn": "2024-01-30T15:23:30.000Z",
+          "wordCount": null,
+          "title": "Dumpling motorcycle guys in Da Nang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aepw1c/the_philippines_and_vietnam_signed_a_memorandum/",
+          "author": null,
+          "description": "submitted by    /u/AdEvery4819  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aepw1c/the_philippines_and_vietnam_signed_a_memorandum/",
+          "publishedOn": "2024-01-30T14:38:58.000Z",
+          "wordCount": null,
+          "title": "The Philippines and Vietnam signed a Memorandum of Understanding on Incident Prevention and Management in the South China Sea, marking a diplomatic milestone.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aeps2j/guys_i_get_that_our_flag_is_very_unique_but_dont/",
+          "author": null,
+          "description": "i made this in gd\n    submitted by    /u/jackyy__  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aeps2j/guys_i_get_that_our_flag_is_very_unique_but_dont/",
+          "publishedOn": "2024-01-30T14:33:35.000Z",
+          "wordCount": null,
+          "title": "guys, i get that our flag is very unique, but don't you think that this is a little too hard to see for newcomers?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aepmbv/what_are_your_thoughts_on_current_economic_state/",
+          "author": null,
+          "description": "My dad is making a huge business venture to Quy Nhon, basically putting all of our money towards a diner that has an interior made completely out of expensive cars. He is convinced that Vietnam is going through an economic boom that will leave us incredibly rich in the future. I’m not too sure about this and enormous gamble. What are your thoughts?\n    submitted by    /u/Few-Refrigerator-813  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aepmbv/what_are_your_thoughts_on_current_economic_state/",
+          "publishedOn": "2024-01-30T14:26:05.000Z",
+          "wordCount": null,
+          "title": "What are your thoughts on current economic state of Vietnam?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aeobds/tet_on_its_way_be_safe_out_there/",
+          "author": null,
+          "description": "submitted by    /u/02cdubc20  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aeobds/tet_on_its_way_be_safe_out_there/",
+          "publishedOn": "2024-01-30T13:23:31.000Z",
+          "wordCount": null,
+          "title": "TET on its way, be safe out there",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aemw9v/motorcycle_insurance/",
+          "author": null,
+          "description": "Hey! I've got a question for those who have purchased a scooter or motorcycle here as a foreigner.\n My understanding is that when you purchase a bike you receive the Blue Card for the vehicle. This can't be registered to foreigners but it's not really enforced/doesn't matter (correct me if I'm wrong).\n Does anyone know how collision/liability insurance works and where to get it? I've heard mandatory insurance is available at gas stations and is affordable. But say worst case scenario, I hit and injure a pedestrian or other driver... What happens? What do most foreigners sign up for for this scenario?\n Currently renting but thinking of purchasing. Any help is great. Thanks!\n    submitted by    /u/manofsteel32  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aemw9v/motorcycle_insurance/",
+          "publishedOn": "2024-01-30T12:06:26.000Z",
+          "wordCount": null,
+          "title": "Motorcycle Insurance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aemstn/nh%E1%BB%9B_nh%C3%A0/",
+          "author": null,
+          "description": "Tết này mình không về, mình nhớ nhà da diết! Có ai ở đây cũng tâm trạng như mình không ạ?! Hôm qua mình làm thịt ngâm mắm và củ kiệu để ăn Tết, vừa làm mà nhớ nhà kinh khủng! Không Tết nào như Tết Việt! Không bao giờ…🥲\n    submitted by    /u/Supper_Bunny95  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aemstn/nh%E1%BB%9B_nh%C3%A0/",
+          "publishedOn": "2024-01-30T12:01:00.000Z",
+          "wordCount": null,
+          "title": "Nhớ nhà!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aemr01/dont_buy_simcard_at_the_airport_double_scammed/",
+          "author": null,
+          "description": "I was going to buy a reasonably priced esim when I arrived as I usually do but I was convinced into using the airport SIM counters. Not only did my 30 day SIM card get activated 12 days before I even got into the country and bought it but I the vina phone help desk refuses to help unless I can name the employee that sold it too me!\n Don't buy SIM in airport and do your due diligence. The double fuck is on their app is says 100,000vnd SIM and the bloke charged me around 25usd 😭\n Feel like a right mug. And my phone doesn't work...\n    submitted by    /u/piersyblinders  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aemr01/dont_buy_simcard_at_the_airport_double_scammed/",
+          "publishedOn": "2024-01-30T11:58:15.000Z",
+          "wordCount": null,
+          "title": "Don't buy simcard at the airport, double scammed 😞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aelaxs/my_vietnamese_friend_isnt_giving_any_life_signs/",
+          "author": null,
+          "description": "Hello,\n well, i don’t know where to write this, so im doing it here. I’m a French boy, and I met a Vietnamese girl 3 months ago. We were talking every week and almost everyday. She is an active viet girl who do a lot of sports but recently, she stopped doing ice skating because her health kinda declined in few weeks at the beginning of 2024. She showed me that her Apple Watch detected 2 times AFib. I told her to see a doctor but she didn’t because she was waiting for her new ID card. \n In the night Saturday night of this weekend. Her father was apparently drunk and her parents was arguing kinda violently as she told me. She said that she was kinda scared. I had to go on Paris at the same time, I told her to try to calm down and all. And I moved out of my house. The next day I sent a message to see if everything was alright but she didn’t responded or saw my message. I sent few messages to her on Discord or iMessage to ask if she was safe, but no response. I have her Apple health informations in real time on my iPhone, yesterday she walked only 90 meters and only 550 meters on Sunday. She apparently doesn’t wear her Apple Watch since 3 days :/ So I can’t see her heart informations. \n I’m worried that anything happened to her. Btw she’s an online student, so if she was studying, I would see her at least online on discord. \n What can I do ? Help! \n I’m sorry for my English, it’s not my mother language.\n If it’s not the right subreddit, I’m sorry, it’s my firsts times on Reddit 😅\n    submitted by    /u/AurelJo1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aelaxs/my_vietnamese_friend_isnt_giving_any_life_signs/",
+          "publishedOn": "2024-01-30T10:24:46.000Z",
+          "wordCount": null,
+          "title": "My Vietnamese friend isn’t giving any life signs after her dad argued a bit violently with her mother.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1ael88l/we_released_a_viet_mythology_inspired_game_on/",
+          "author": null,
+          "description": "​\n https://reddit.com/link/1ael88l/video/5yve6sbnsjfc1/player\n Hi everyone, we been working on this Vietnamese style metroidvania for sometime, today we release our official DEMO on Steam, we craft it with appreciate of our heritage but we know it's far from perfect & we value every piece of advice or suggestion.\n 2nd, for our Vietnamese community: Do you recognize any of game art? Are there elements or myths you felt connected to or would like to see more of?\n EDIT: This is our Steam Demo add it to your Wishlist is your best way to support us now.\n    submitted by    /u/nguyenlinhgf  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1ael88l/we_released_a_viet_mythology_inspired_game_on/",
+          "publishedOn": "2024-01-30T10:19:36.000Z",
+          "wordCount": null,
+          "title": "We released a Viet mythology inspired game on Steam, would love to hear your op/feedbacks on it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aehnjm/rice_drying_directly_on_sidewalk/",
+          "author": null,
+          "description": "Curious what this is used for. Is this a common practice?\n    submitted by    /u/michael_bgood  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aehnjm/rice_drying_directly_on_sidewalk/",
+          "publishedOn": "2024-01-30T06:12:21.000Z",
+          "wordCount": null,
+          "title": "Rice drying directly on sidewalk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aeftrp/i_hate_drinking_culture_in_vietnam/",
+          "author": null,
+          "description": "I don't understand why a lot of people here like alcohol so much. I feel sick when drinking alcohol; your head goes numb, sometimes leading to a bad headache. You cannot drive any vehicle, and your stomach gets twisted and turns upside down. It's really bad for your health. Most of the stuff people drink is low quality, and the container for the drink is literally a gasoline can.\n With close family, I can get away with drinking less, but in the workplace, there is a lot of pressure to drink. It's considered very disrespectful if you decline a drink offer or if you don't offer a drink to an elder/senior. You will be considered the outcast, the weirdo of society; you have to drink to earn a little respect. I hate that the cons of not drinking outweigh the cons of drinking even it can lead to greater danger to life.\n I understand the experience of sharing good food or singing karaoke, partying with people, but why do you need alcohol? After being drunk, I make no progress at work or for myself; I'm just stuck in bed, wasting my life. Maybe I am a big snowflake, but alcohol, to me, is the devil's drink, and I still don't get it. Sorry if this post is too much ranting from me.\n What is your experience with drinking in Vietnam?\n https://preview.redd.it/8kb1m59v7ifc1.png?width=600&format=png&auto=webp&s=9f24ea40a5b3faa0e705d3a8007c60f3a7c94542\n    submitted by    /u/Skytheslash  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aeftrp/i_hate_drinking_culture_in_vietnam/",
+          "publishedOn": "2024-01-30T04:27:09.000Z",
+          "wordCount": null,
+          "title": "I hate drinking culture in Vietnam",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/1ae8mm3/tib_icon_viet_gunna_featuring_deagle_dub_p_cntml/",
           "author": null,
@@ -7177,316 +7417,6 @@
           "wordCount": null,
           "title": "Do you consider the Sino-French War a Chinese invasion of Vietnam? Why? Why not?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vvxpy/northeast_region_of_vietnam_and_japan_%E6%9D%B1%E5%8C%97_%C4%91%C3%B4ng_b%E1%BA%AFc/",
-          "author": null,
-          "description": "submitted by    /u/Brightsea129  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vvxpy/northeast_region_of_vietnam_and_japan_%E6%9D%B1%E5%8C%97_%C4%91%C3%B4ng_b%E1%BA%AFc/",
-          "publishedOn": "2024-01-01T12:36:41.000Z",
-          "wordCount": null,
-          "title": "Northeast region of Vietnam and Japan ( 東北 - Đông Bắc / Tōhoku )",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vttep/how_is_the_dating_scene_in_vn_seems_to_be_for/",
-          "author": null,
-          "description": "submitted by    /u/strangesupreme88  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vttep/how_is_the_dating_scene_in_vn_seems_to_be_for/",
-          "publishedOn": "2024-01-01T10:07:33.000Z",
-          "wordCount": null,
-          "title": "How is the dating scene in Vn seems to be for female expats? I see male expat get quite a nice dating life here. What's your opinion? Would you prefer to date local dudes?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vtheo/going_to_visit_a_woman_in_the_mekong_delta/",
-          "author": null,
-          "description": "I'm a 38M from the US who's been living in Vietnam (Saigon) the last couple of months. Last month I've matched with a woman (32F) on Tinder who lives in Tra Vinh. She's a university professor and says that she's unconventional for her environment (isn't looking for marriage and having kids). We've had a couple of video calls and she seems genuine and honest. \n So she invited me to visit her at her home for a couple of days. Given that I'm a foreigner in this country it makes me feel a little bit uncomfortable especially because I've never received such an invitation before.\n Am I going to be abducted or am I being a bit paranoid? Anything I should be worried about?\n    submitted by    /u/usdavor  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vtheo/going_to_visit_a_woman_in_the_mekong_delta/",
-          "publishedOn": "2024-01-01T09:43:04.000Z",
-          "wordCount": null,
-          "title": "Going to visit a woman in the Mekong Delta",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vt1b4/size/",
-          "author": null,
-          "description": "submitted by    /u/SunnySaigon  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vt1b4/size/",
-          "publishedOn": "2024-01-01T09:09:58.000Z",
-          "wordCount": null,
-          "title": "Size",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vswkx/differences_in_table_manners_vietnam_vs_usa/",
-          "author": null,
-          "description": "I'm an American living and working in Hanoi. I'm trying to become more educated on Vietnamese table manners. This topic has been frustrating to me. My Vietnamese girlfriend and my Vietnamese friends have commented on some of my bad table manners. It's been difficult for me to try and change my eating habits. \n Here are some of the things I experienced:\n  \nVietnamese share their meals. My girlfriend told me that I should share food so I don't appear selfish. Usually in the US, my friends and I would just share an appetizer and then I would just eat the dish I ordered. I also had difficulty adjusting to this because I was concerned with hygiene. \n Vietnamese aren't so finicky with hygiene. My friends share food using the same chopsticks they eat with, and when I have beer with friends they handle the ice cubes with their hands. Surprising at first, but I don't make a fuss about it.\n I shouldn't accept food using my chopsticks when someone is offering food with their chopsticks. I just did this once, and people told me I shouldn't do it. I'm not sure why it is rude though. \n I shouldn't eat fast. My girlfriend told me it looks bad. I guess I eat fast, but for me it's my normal pace. I didn't have long lunch breaks in school/work in the US, so I guess that's why.\n I have to let old people eat first. I usually don't eat with older people, but I was told about this. I had food with a friend's family, and I didn't eat until her grandparents started eating. \n  \nI read a few more online, but I don't know what's true. For example, it's unlucky to flip a whole fish when eating. I have a Chinese uncle who that told me about that, but my girlfriend never heard of it.\n I hope I can receive some feedback and tips on improving my table manners. \n ​\n    submitted by    /u/MopHai  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vswkx/differences_in_table_manners_vietnam_vs_usa/",
-          "publishedOn": "2024-01-01T09:00:25.000Z",
-          "wordCount": null,
-          "title": "Differences in table manners (Vietnam vs USA)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vr5z4/do_you_know_the_name_of_this_big_fish_i_caught_it/",
-          "author": null,
-          "description": "submitted by    /u/VNCharmTravel  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vr5z4/do_you_know_the_name_of_this_big_fish_i_caught_it/",
-          "publishedOn": "2024-01-01T06:55:15.000Z",
-          "wordCount": null,
-          "title": "Do you know the name of this big fish? I caught it in the pond.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vqokc/c%C3%B3_n%C3%AAn_take_gap_year/",
-          "author": null,
-          "description": "Em hiện giờ đang học lớp 12. Từ khi lên cấp 3 em quyết định đi du học nên em hoàn toàn chăm chú thực hiện mục đích đó thôi - đến trên lớp em cũng chỉ cày điểm ngang mức yêu cầu của bên trường đh đó, còn từ khi lên 12 thì em gần như bỏ hết mấy môn không cần thiết mà chỉ tập trung một vài môn yêu cầu thôi. Thế nhưng mới 2 tuần trước mẹ em lại bị diagnosed with ung thư tử cung giai đoạn cuối ạ. Gia đình em ngoài mẹ ra thì chỉ có nguồn thu nhập là ba em - là giáo viên nên lương ba cũng ko cao. Em thì vẫn ưu tiên việc chữa trị của mẹ nên việc du học ko thực hiện được thì vẫn ok. Nhưng về ngành mà em muốn học (Thiết kế đồ hoạ), thì cả gia đình em đều phản đối nếu học ở Việt Nam í, vì ngành đó ko phát triển ở đây. Ngoài ngành đó ra thì em thực sự không muốn hay đam mê học ngành nào khác. Em cũng chưa bao giờ nghĩ đến việc học ở Việt Nam... Nhưng rồi em cũng chỉ còn 5 tháng nữa để tốt nghiệp thôi ạ, nên cần quyết định càng sớm càng tốt i. \n Theo mn nghĩ thì em nên take gap year không ạ? Em ko quan tâm đến việc thụt lùi so với mấy bạn đồng lứa hay opinion mấy người xung quanh đâu, chỉ cần là hướng đi tốt thì em sẽ cân nhắc ạ.\n    submitted by    /u/BananaNarwhale  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vqokc/c%C3%B3_n%C3%AAn_take_gap_year/",
-          "publishedOn": "2024-01-01T06:22:40.000Z",
-          "wordCount": null,
-          "title": "Có nên take gap year?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vqchm/relatives_say_imprisoned_vietnamese_journalists/",
-          "author": null,
-          "description": "submitted by    /u/Strongbow85  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vqchm/relatives_say_imprisoned_vietnamese_journalists/",
-          "publishedOn": "2024-01-01T06:00:41.000Z",
-          "wordCount": null,
-          "title": "Relatives say imprisoned Vietnamese journalist’s health declining",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vpn9x/first_meme_monday/",
-          "author": null,
-          "description": "submitted by    /u/Quick_Marionberry570  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vpn9x/first_meme_monday/",
-          "publishedOn": "2024-01-01T05:13:38.000Z",
-          "wordCount": null,
-          "title": "first meme monday",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vp3rp/ha_giang_loop/",
-          "author": null,
-          "description": "Ha Giang Loop rice fields during my ride through Ha Giang Loop via DJI mini 4. These memories will be with me forever. Such a beautiful part of Vietnam. \n    submitted by    /u/Fuarfuark  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vp3rp/ha_giang_loop/",
-          "publishedOn": "2024-01-01T04:38:59.000Z",
-          "wordCount": null,
-          "title": "Ha Giang Loop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18voyko/super_cool/",
-          "author": null,
-          "description": "submitted by    /u/Ilovepie31415926535  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18voyko/super_cool/",
-          "publishedOn": "2024-01-01T04:29:18.000Z",
-          "wordCount": null,
-          "title": "Super cool :)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vnlua/ho%C3%A0ng_h%C3%B4n/",
-          "author": null,
-          "description": "Đơn giản là hoàng hôn cuối cùng của năm 2023.\n    submitted by    /u/Moojccay  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vnlua/ho%C3%A0ng_h%C3%B4n/",
-          "publishedOn": "2024-01-01T03:01:29.000Z",
-          "wordCount": null,
-          "title": "Hoàng hôn.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vlbzo/who_is_this_singer/",
-          "author": null,
-          "description": "I took a selfie with this singer last night in Hue after NYE celebration. Does anyone know his name?\n    submitted by    /u/fbmrecords  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vlbzo/who_is_this_singer/",
-          "publishedOn": "2024-01-01T00:47:59.000Z",
-          "wordCount": null,
-          "title": "Who is this singer?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vkhsg/post_your_questions_inquiries_here_rvietnam/",
-          "author": null,
-          "description": "Lưu ý: Đây là thread chủ yếu dành cho người nước ngoài hoặc không nói tiếng Việt đặt câu hỏi. Nếu có thể, hãy trả lời giúp họ nhé.\n Please read the 3rd rule of the sub. Don't post your general questions & inquiries outside of this thread as they will be removed.\n Lots of your questions have been answered already so make sure you do a search before asking (how-to below).\n  \nTo keep this subreddit tidy, we have this monthly thread that is open for random discussions and questions. If you post your basic/general questions outside of this thread they will be removed. Sorry, we want to make this sub friendly but also want it to be clean and organized.\n Some examples of the questions that should be posted here:\n  \nQuestions that can be answered with just Yes/No\n Basic questions like \"Where can I…",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vkhsg/post_your_questions_inquiries_here_rvietnam/",
-          "publishedOn": "2024-01-01T00:01:20.000Z",
-          "wordCount": null,
-          "title": "Post your questions & inquiries here! - r/Vietnam monthly random discussion thread - F.A.Q",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18viuwn/balayage_saigon/",
-          "author": null,
-          "description": "Has anyone had experience doing balayage in Saigon? My last experience didn’t go too well. I’d love to hear experiences or any recommendations. All are appreciated!\n    submitted by    /u/maiwanpet  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18viuwn/balayage_saigon/",
-          "publishedOn": "2023-12-31T22:33:18.000Z",
-          "wordCount": null,
-          "title": "Balayage Saigon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vi8jr/which_accentdialect_should_i_learn_first_northern/",
-          "author": null,
-          "description": "I’ve been studying Vietnamese for about a month now and I’ve acquired some sentences and words. However, I did notice that there’s two dialects/accents to Vietnamese. When I look on TikTok I always see southern Vietnamese people talking about how the northern accent is complicated and sometimes hard to understand. But at the same time, most Vietnamese songs are written in the northern dialect and most apps only teach the Northern dialect. As a person who lives in the United States, I’ve seen sources state that most Vietnamese Americans speak with the southern dialect. Obviously I would want to make learning Vietnamese as easy as possible by learning the most commonly used dialect or easiest dialect to learn and understand. So this leads me to my question, should I learn the northern or southern dialect?\n    submitted by    /u/Blamoncy  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vi8jr/which_accentdialect_should_i_learn_first_northern/",
-          "publishedOn": "2023-12-31T22:01:30.000Z",
-          "wordCount": null,
-          "title": "Which accent/dialect should I learn first, northern or southern?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vhq60/2_weeks_travel_plan_feedback/",
-          "author": null,
-          "description": "Hello everyone! Planning a two-week trip has proven more challenging than I anticipated, given the overwhelming amount of information available online.\n After extensive research, I've crafted the following itinerary for my travels during the first two weeks of March 2024. I would greatly appreciate your feedback on it, please! 😊 I hope I'm not missing something amazing.\n I know it's impossible to see everything in 13 days, but I'd like to visit all the best spots, from North to South.\n Day 1 and 2: Hanoi\n Day 3 and 4: Mai Chau\n Day 5 and 6: Halong Bay\n Day 7: Phong Nha-Ke Bang National Park\n Day 8: Da Nang\n Day 9 and 10: Hoi An\n Day 11 and 12: Ho Chi Minh\n Day 13: Travel back to home country\n Thanks!\n    submitted by    /u/justbanterbro  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vhq60/2_weeks_travel_plan_feedback/",
-          "publishedOn": "2023-12-31T21:35:35.000Z",
-          "wordCount": null,
-          "title": "2 weeks travel plan - feedback :)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vhc4v/can_you_find_cocoa_powder_at_a_supermarket_in/",
-          "author": null,
-          "description": "This is a weird question I know, but my GF is dying on this hill of \"You can't buy cocoa powder in Vietnam, we should bring some with us\"\n Can some of you affirm/deny that cocoa powder is / isn't infact available in VN?\n    submitted by    /u/Otherwise_Soil39  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vhc4v/can_you_find_cocoa_powder_at_a_supermarket_in/",
-          "publishedOn": "2023-12-31T21:16:18.000Z",
-          "wordCount": null,
-          "title": "Can you find cocoa powder at a supermarket in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vgaf2/7_days_in_vietnam/",
-          "author": null,
-          "description": "Hi everyone, need some advice for an upcoming trip. I unfortunately will only be in Vietnam for 7 days and am trying to determine if I should change my itinerary as I think it might be too packed.\n My current plan is 2 nights in Saigon (XO Food Tour on motorbike, Cu Chi Tunnels, Mekong Delta), 2 nights in Hoi An (bike tour, basket boats, etc.), and 3 nights in Hanoi (possibly with a trip to Ha Long Bay). I will be flying between all of these.\n Am I doing too much? Should I cut one of these out of my trip and extend time in the other two places?\n    submitted by    /u/ImmediateTrip9  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vgaf2/7_days_in_vietnam/",
-          "publishedOn": "2023-12-31T20:24:54.000Z",
-          "wordCount": null,
-          "title": "7 Days in Vietnam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vf432/hanoi_old_quarter_and_ho%C3%A0n_ki%E1%BA%BFm_2024_new_year/",
-          "author": null,
-          "description": "The lunar new year is the star of the show here but after living here for 8 years, it’s incredible to see how fast the country has adapted to western holidays (Halloween, Christmas. New Year, etc.) driven mostly by financial endeavors. HNY2024\n    submitted by    /u/sleestacker  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vf432/hanoi_old_quarter_and_ho%C3%A0n_ki%E1%BA%BFm_2024_new_year/",
-          "publishedOn": "2023-12-31T19:29:12.000Z",
-          "wordCount": null,
-          "title": "Hanoi (Old Quarter and Hoàn Kiếm) 2024 New Year celebration crowds. Credit: https://www.facebook.com/nam.gom.5?mibextid=LQQJ4d",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18veh6e/how_and_where_do_i_get_diagnostics_for_autismadhd/",
-          "author": null,
-          "description": "For my whole life, from childhood to now. I have been experiencing certain symptoms that my family calls it \"Weird\", as I kept talking to myself, imagining characters and scenarios,twitching my arms or legs, that kinds of stuff. I'm genuinely asking, are there any ways for me to get an official diagnostics for my disorders?\n    submitted by    /u/helloworld_gizmoboi  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18veh6e/how_and_where_do_i_get_diagnostics_for_autismadhd/",
-          "publishedOn": "2023-12-31T18:59:41.000Z",
-          "wordCount": null,
-          "title": "How, and where do I get diagnostics for autism/ADHD in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vdprt/inadequate_infrastructure_costs_vietnam_airlines/",
-          "author": null,
-          "description": "submitted by    /u/OpeningVermicelli405  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vdprt/inadequate_infrastructure_costs_vietnam_airlines/",
-          "publishedOn": "2023-12-31T18:23:28.000Z",
-          "wordCount": null,
-          "title": "Inadequate infrastructure costs Vietnam Airlines $20M loss - VnExpress International",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vdp78/vietnam_airlines_to_employ_bamboo_airways_excess/",
-          "author": null,
-          "description": "submitted by    /u/OpeningVermicelli405  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vdp78/vietnam_airlines_to_employ_bamboo_airways_excess/",
-          "publishedOn": "2023-12-31T18:22:42.000Z",
-          "wordCount": null,
-          "title": "Vietnam Airlines to employ Bamboo Airways’ excess staff - VnExpress International",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vcgx6/short_fireworks_in_vietnam_2024/",
-          "author": null,
-          "description": "submitted by    /u/Fortune-Former  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vcgx6/short_fireworks_in_vietnam_2024/",
-          "publishedOn": "2023-12-31T17:24:01.000Z",
-          "wordCount": null,
-          "title": "Short fireworks in Vietnam (2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vc79m/sad_moment/",
-          "author": null,
-          "description": "buồn của học sinh\n    submitted by    /u/Zen_cheese  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vc79m/sad_moment/",
-          "publishedOn": "2023-12-31T17:11:27.000Z",
-          "wordCount": null,
-          "title": "Sad moment 😃",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vc5lp/2024_is_here/",
-          "author": null,
-          "description": "submitted by    /u/idonotneedhelp  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vc5lp/2024_is_here/",
-          "publishedOn": "2023-12-31T17:09:20.000Z",
-          "wordCount": null,
-          "title": "2024 is here!!!!!!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vbpe4/youtube_poverty_streamers/",
-          "author": null,
-          "description": "My mom is starting to donate a lot to Vietnamese youtubers doing charity, but I'm scared she is getting scammed. Is there anyway to know if they're actually legit?\n    submitted by    /u/MeatNew2985  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vbpe4/youtube_poverty_streamers/",
-          "publishedOn": "2023-12-31T16:48:35.000Z",
-          "wordCount": null,
-          "title": "Youtube Poverty Streamers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18vbkpx/ha_long_bay_cruise/",
-          "author": null,
-          "description": "Who has already been to a cruise through Ha Long Bay? I think it's very classic tourist stuff, but you probably don't want to miss it either. I would like to do a two-day (one night) tour there with my girlfriend. \n Which providers can you recommend and how can I find a good provider who will give us a nice tour?\n    submitted by    /u/jucacab  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18vbkpx/ha_long_bay_cruise/",
-          "publishedOn": "2023-12-31T16:42:35.000Z",
-          "wordCount": null,
-          "title": "Ha Long Bay Cruise",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18va5no/t%E1%BA%BFt_is_comingg/",
-          "author": null,
-          "description": "Happy new year everyone. A few shots I took today in Pà Cò, Mai Châu, Hoà Bình on the last day of 2023.\n    submitted by    /u/saltmurai  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18va5no/t%E1%BA%BFt_is_comingg/",
-          "publishedOn": "2023-12-31T15:35:19.000Z",
-          "wordCount": null,
-          "title": "Tết is comingg",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18v9to7/spotted_at_the_local_winmart_tonight_happy_new/",
-          "author": null,
-          "description": "submitted by    /u/ZeroXSander199  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18v9to7/spotted_at_the_local_winmart_tonight_happy_new/",
-          "publishedOn": "2023-12-31T15:19:02.000Z",
-          "wordCount": null,
-          "title": "Spotted at the local WinMart tonight. Happy New Year everyone.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/18v7omv/calm_and_beautiful_daily_life_moment/",
-          "author": null,
-          "description": "Amidst the chaos and the negativity in this subreddit.\n    submitted by    /u/fanxuyjim  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/18v7omv/calm_and_beautiful_daily_life_moment/",
-          "publishedOn": "2023-12-31T13:23:37.000Z",
-          "wordCount": null,
-          "title": "Calm and beautiful daily life moment.",
-          "imageUrl": null
         }
       ]
     },
@@ -7495,6 +7425,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/ace-your-deep-learning-job-interview/",
+          "author": "Beau Carnes",
+          "description": "Are you gearing up for a job interview in the deep learning field? Look no further!  We just published a video course on the freeCodeCamp.org YouTube channel that is specifically designed to prepare candidates for deep learning job interviews, covering 50 common interview questions with detailed explanations. Tatev Aslanyan",
+          "link": "https://www.freecodecamp.org/news/ace-your-deep-learning-job-interview/",
+          "publishedOn": "2024-01-30T20:19:59.000Z",
+          "wordCount": 959,
+          "title": "Ace Your Deep Learning Job Interview",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/deeplearning.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-admin-dashboard-react/",
+          "author": "Reed Barger",
+          "description": "Have you looked at interactive dashboards on websites like Stripe and thought, “How can I build something like this myself?” In this full-stack React and Next.js project, you’ll learn how to build a stunning admin dashboard from front to back. Our final admin dashboard will allow you to display and",
+          "link": "https://www.freecodecamp.org/news/build-admin-dashboard-react/",
+          "publishedOn": "2024-01-30T19:04:01.000Z",
+          "wordCount": 3446,
+          "title": "How to Build an Admin Dashboard with React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/admin-dashboard-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/gorillas-game-in-javascript/",
+          "author": "Hunor Márton Borbély",
+          "description": "In this JavaScript game tutorial, you'll learn how to create a modern version of the 1991 classic game Gorillas using plain JavaScript and the HTML canvas element. In this game, two gorillas throw explosive bananas at each other, and the first one to hit the other one wins the game.",
+          "link": "https://www.freecodecamp.org/news/gorillas-game-in-javascript/",
+          "publishedOn": "2024-01-30T18:18:55.000Z",
+          "wordCount": 12725,
+          "title": "JavaScript Game Dev Tutorial – Build Gorillas with HTML Canvas + JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Screenshot-2024-01-21-at-16.02.31-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-django-project-on-ec2/",
+          "author": "Muhammad Haseeb",
+          "description": "Deploying a Django application can be streamlined and automated using GitHub Actions. This article provides a comprehensive guide on how to set up a continuous deployment pipeline for a Django project hosted on an AWS EC2 instance. By leveraging GitHub Actions, developers can automate their deployment process, making it more",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-django-project-on-ec2/",
+          "publishedOn": "2024-01-30T15:40:16.000Z",
+          "wordCount": 1375,
+          "title": "How to Deploy Your Django Project on an EC2 Machine using GitHub Actions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Deploying-Django-Project-on-EC2-Machine-using-GitHub-Actions.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-falsey-values-in-javascript/",
+          "author": "Benjamin Semah",
+          "description": "In JavaScript, every value has a boolean equivalent. This means it can either be evaluated as true (truthy value) or false (falsy value) when used in a boolean context.  But what is a boolean context? It's a situation where a boolean value is expected. Examples include if statements, logical",
+          "link": "https://www.freecodecamp.org/news/what-are-falsey-values-in-javascript/",
+          "publishedOn": "2024-01-30T15:27:25.000Z",
+          "wordCount": 2094,
+          "title": "What are Falsy Values in JavaScript? Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Screenshot-2024-01-29-at-12.22.42-AM.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/data-cleaning-and-preprocessing-with-pandasbdvhj/",
+          "author": "Oluwadamisi Samuel Praise",
+          "description": "Steve Lohr of The New York Times said: \"Data scientists, according to interviews and expert estimates, spend 50 percent to 80 percent of their time mired in the mundane labor of collecting and preparing unruly digital data, before it can be explored for useful nuggets.\"  This statement is 100%",
+          "link": "https://www.freecodecamp.org/news/data-cleaning-and-preprocessing-with-pandasbdvhj/",
+          "publishedOn": "2024-01-30T14:55:00.000Z",
+          "wordCount": 2319,
+          "title": "How to Use Pandas for Data Cleaning and Preprocessing",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Cream-Neutral-Minimalist-New-Business-Pitch-Deck-Presentation--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/new-online-courses/",
+          "author": "Dhawal Shah",
+          "description": "If you haven’t heard, universities around the world are offering their courses online for free (or at least, partially free). These online courses [https://www.classcentral.com/help/intro-to-online-learning] are collectively called MOOCs or Massive Open Online Courses. [https://www.classcentral.com/help/moocs] In the past ten years or so, over 1000 universities have created more than 20,000 such",
+          "link": "https://www.freecodecamp.org/news/new-online-courses/",
+          "publishedOn": "2024-01-30T09:00:00.000Z",
+          "wordCount": 10159,
+          "title": "200+ Universities Just Launched 1000+ Free Online Courses. Here’s the Full List.",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2021/08/banner-new-courses.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-dapper-in-your-dotnet-projects/",
+          "author": "Grant Riordan",
+          "description": "When you're working with .NET, interacting with databases – particularly SQL databases – is inevitable. The common approaches involve ORM (Object Relational Mapping) tools like Entity Framework (EF Core) or Dapper. Dapper excels in speed and control for CRUD operations. This article explores Dapper's suitability for performance-critical .NET projects with simpler",
+          "link": "https://www.freecodecamp.org/news/use-dapper-in-your-dotnet-projects/",
+          "publishedOn": "2024-01-30T00:26:50.000Z",
+          "wordCount": 5016,
+          "title": "How to Use Dapper in Your .NET Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/net_dapper.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-install-nvidia-cuda-toolkit-on-ubuntu/",
+          "author": "Abraham Dahunsi",
+          "description": "The NVIDIA Compute Unified Device Architecture (CUDA) Toolkit is a software platform that allows developers to tap into the computing power of NVIDIA processing and GPU-accelerated applications. CUDA is also a programming model and an API that enables programmers to write code that can run on both the CPU and",
+          "link": "https://www.freecodecamp.org/news/how-to-install-nvidia-cuda-toolkit-on-ubuntu/",
+          "publishedOn": "2024-01-29T21:25:58.000Z",
+          "wordCount": 1314,
+          "title": "How to Install NVIDIA CUDA Toolkit on Ubuntu",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Feature-image.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/beginner-web-dev-tutorial-build-a-weather-app-with-next-js-typescript/",
           "author": "Beau Carnes",
