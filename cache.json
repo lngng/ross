@@ -12,6 +12,66 @@
       "siteUrl": "https://alerts.weather.gov/cap/wwaatmget.php?x=CAC037&y=0",
       "articles": [
         {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688A5C9810.FloodWatch.12688A6AE500CA.LOXFFALOX.a1e87c22b827e8c15ccf756be8178214",
+          "author": null,
+          "description": "...FLOOD WATCH IN EFFECT FROM 6 PM PST THIS EVENING THROUGH LATE TONIGHT... * WHAT...Flooding caused by excessive rainfall is possible. * WHERE...Los Angeles County. * WHEN...From 6 PM PST this evening through late tonight. * IMPACTS...Excessive runoff may result in additional mud and rock",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688A5C9810.FloodWatch.12688A6AE500CA.LOXFFALOX.a1e87c22b827e8c15ccf756be8178214",
+          "publishedOn": "2024-02-07T22:28:00.000Z",
+          "wordCount": 250,
+          "title": "Flood Watch issued February 07 at 2:28PM PST until February 08 at 8:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688A5C9810.FloodWatch.12688A6BCF60CA.LOXFFALOX.39728d2721c3f9b9cd6cfb47827cdc66",
+          "author": null,
+          "description": "...FLOOD WATCH IN EFFECT FROM 6 PM PST THIS EVENING THROUGH LATE TONIGHT... * WHAT...Flooding caused by excessive rainfall is possible. * WHERE...Los Angeles County. * WHEN...From 6 PM PST this evening through late tonight. * IMPACTS...Excessive runoff may result in additional mud and rock",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688A5C9810.FloodWatch.12688A6BCF60CA.LOXFFALOX.39728d2721c3f9b9cd6cfb47827cdc66",
+          "publishedOn": "2024-02-07T22:28:00.000Z",
+          "wordCount": 236,
+          "title": "Flood Watch issued February 07 at 2:28PM PST until February 08 at 2:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688A5C9810.HighSurfAdvisory.12688A7AC380CA.LOXCFWLOX.52a7a73ae168d3d5bc2c73f910f64b88",
+          "author": null,
+          "description": "...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL NOON PST FRIDAY... * WHAT...Dangerous rip currents and large breaking waves peaking at 5 to 8 feet. Minor coastal flooding possible. Highest surf and coastal flooding risks on Thursday. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Los Angeles County Beaches.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688A5C9810.HighSurfAdvisory.12688A7AC380CA.LOXCFWLOX.52a7a73ae168d3d5bc2c73f910f64b88",
+          "publishedOn": "2024-02-07T22:28:00.000Z",
+          "wordCount": 243,
+          "title": "High Surf Advisory issued February 07 at 2:28PM PST until February 09 at 12:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688A5C9810.FloodWatch.12688A7AC380CA.LOXFFALOX.73c94670461a34bc996ccd5f43284119",
+          "author": null,
+          "description": "...FLOOD WATCH IN EFFECT FROM 6 PM PST THIS EVENING THROUGH LATE TONIGHT... * WHAT...Flooding caused by excessive rainfall is possible. * WHERE...Los Angeles County. * WHEN...From 6 PM PST this evening through late tonight. * IMPACTS...Excessive runoff may result in additional mud and rock",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688A5C9810.FloodWatch.12688A7AC380CA.LOXFFALOX.73c94670461a34bc996ccd5f43284119",
+          "publishedOn": "2024-02-07T22:28:00.000Z",
+          "wordCount": 334,
+          "title": "Flood Watch issued February 07 at 2:28PM PST until February 09 at 12:00PM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688A5ABA54.WinterStormWarning.12688A6AE500CA.LOXWSWLOX.66a2ccba073b46b993adf1c5bb65fac8",
+          "author": null,
+          "description": "...WINTER STORM WARNING REMAINS IN EFFECT UNTIL 8 AM PST THURSDAY... * WHAT...Moderate to heavy snow at times. Additional snow accumulations by elevations are as follows, 10 to 20 inches above 7000 feet, 5 to 8 inches between 6000 and 7000 feet, 3 to 5 inches between 5000 and 6000 feet, and up to 3 inches",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688A5ABA54.WinterStormWarning.12688A6AE500CA.LOXWSWLOX.66a2ccba073b46b993adf1c5bb65fac8",
+          "publishedOn": "2024-02-07T10:05:00.000Z",
+          "wordCount": 245,
+          "title": "Winter Storm Warning issued February 07 at 2:05AM PST until February 08 at 8:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688A5ABA54.WinterWeatherAdvisory.12688A6AE500CA.LOXWSWLOX.03d1185f2ee4db7316a4de982a4e4253",
+          "author": null,
+          "description": "...WINTER WEATHER ADVISORY REMAINS IN EFFECT UNTIL 8 AM PST THURSDAY... * WHAT...Moderate snow. Additional snow accumulations of 2 to 5 inches, highest for elevations above 5000 feet. * WHERE...Santa Barbara County Interior Mountains, Southern Ventura County Mountains and Western San Gabriel Mountains.",
+          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688A5ABA54.WinterWeatherAdvisory.12688A6AE500CA.LOXWSWLOX.03d1185f2ee4db7316a4de982a4e4253",
+          "publishedOn": "2024-02-07T10:05:00.000Z",
+          "wordCount": 233,
+          "title": "Winter Weather Advisory issued February 07 at 2:05AM PST until February 08 at 8:00AM PST by NWS",
+          "imageUrl": null
+        },
+        {
           "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688A5943B8.FloodAdvisory.12688A598B98CA.LOXFLSLOX.e258ac60642a94d3e2f23eb46e3dd28e",
           "author": null,
           "description": "...FLOOD ADVISORY IN EFFECT UNTIL 645 PM PST THIS EVENING... * WHAT...Flooding caused by excessive rainfall is expected. * WHERE...A portion of southwest California, including the following counties, Ventura County. The Santa Susana Mountains in western Los Angeles County * WHEN...Until 645 PM PST.",
@@ -900,66 +960,6 @@
           "wordCount": 208,
           "title": "Winter Storm Warning issued January 10 at 3:42AM PST until January 11 at 12:00PM PST by NWS",
           "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688475F43C.FreezeWarning.126884849460CA.LOXNPWLOX.d03eb79041237a63284bc1eb4d51b6df",
-          "author": null,
-          "description": "...FREEZE WARNING REMAINS IN EFFECT FROM 1 AM TO 10 AM PST TUESDAY... * WHAT...Sub-freezing temperatures as low as 29 expected. * WHERE...Santa Clarita Valley, San Luis Obispo County Inland Central Coast, Santa Barbara County Central Coast Beaches, Santa Barbara County Inland Central Coast, Santa Ynez Valley,",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688475F43C.FreezeWarning.126884849460CA.LOXNPWLOX.d03eb79041237a63284bc1eb4d51b6df",
-          "publishedOn": "2024-01-08T22:15:00.000Z",
-          "wordCount": 299,
-          "title": "Freeze Warning issued January 08 at 2:15PM PST until January 09 at 10:00AM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688475F43C.WindAdvisory.126884A059C0CA.LOXNPWLOX.5582a5519876d639083821bd63660922",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 10 AM TUESDAY TO 4 PM PST WEDNESDAY... ...HIGH WIND WATCH REMAINS IN EFFECT FROM WEDNESDAY AFTERNOON THROUGH THURSDAY AFTERNOON... * WHAT...For the Wind Advisory, north winds 20 to 30 mph with gusts up to 55 mph expected. For the High Wind Watch,",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688475F43C.WindAdvisory.126884A059C0CA.LOXNPWLOX.5582a5519876d639083821bd63660922",
-          "publishedOn": "2024-01-08T22:15:00.000Z",
-          "wordCount": 438,
-          "title": "Wind Advisory issued January 08 at 2:15PM PST until January 10 at 4:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688475F43C.HighWindWatch.126884AF9C00CA.LOXNPWLOX.09c1c40eb4c604d6eeee4f1de65367e3",
-          "author": null,
-          "description": "...HIGH WIND WATCH REMAINS IN EFFECT FROM WEDNESDAY AFTERNOON THROUGH THURSDAY AFTERNOON... * WHAT...Northwest winds 25 to 35 mph with gusts up to 60 to 70 mph possible. * WHERE...Catalina and Santa Barbara Islands, Malibu Coast and Western Santa Monica Mountains Recreational Area.",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688475F43C.HighWindWatch.126884AF9C00CA.LOXNPWLOX.09c1c40eb4c604d6eeee4f1de65367e3",
-          "publishedOn": "2024-01-08T22:15:00.000Z",
-          "wordCount": 198,
-          "title": "High Wind Watch issued January 08 at 2:15PM PST until January 11 at 4:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688475F43C.HighWindWatch.126884AF9C00CA.LOXNPWLOX.9a0b7733999a666c744a910b19a66ba3",
-          "author": null,
-          "description": "...WIND ADVISORY REMAINS IN EFFECT FROM 10 AM TUESDAY TO 4 PM PST WEDNESDAY... ...HIGH WIND WATCH REMAINS IN EFFECT FROM WEDNESDAY AFTERNOON THROUGH THURSDAY AFTERNOON... * WHAT...For the Wind Advisory, north winds 20 to 30 mph with gusts up to 55 mph expected. For the High Wind Watch,",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688475F43C.HighWindWatch.126884AF9C00CA.LOXNPWLOX.9a0b7733999a666c744a910b19a66ba3",
-          "publishedOn": "2024-01-08T22:15:00.000Z",
-          "wordCount": 441,
-          "title": "High Wind Watch issued January 08 at 2:15PM PST until January 11 at 4:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688475EFF0.CoastalFloodAdvisory.126884A36700CA.LOXCFWLOX.7e1c14bcff6d0f689c92554a04e47f8b",
-          "author": null,
-          "description": "...HIGH SURF ADVISORY IN EFFECT FROM 3 PM WEDNESDAY TO 3 PM PST THURSDAY... ...COASTAL FLOOD ADVISORY IN EFFECT FROM 4 AM TO NOON PST THURSDAY... * WHAT...For the High Surf Advisory, large breaking waves of 6 to 8 feet with local max sets to 9 feet. Dangerous rip currents are",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688475EFF0.CoastalFloodAdvisory.126884A36700CA.LOXCFWLOX.7e1c14bcff6d0f689c92554a04e47f8b",
-          "publishedOn": "2024-01-08T22:04:00.000Z",
-          "wordCount": 328,
-          "title": "Coastal Flood Advisory issued January 08 at 2:04PM PST until January 11 at 12:00PM PST by NWS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688475EFF0.HighSurfAdvisory.126884A3DC30CA.LOXCFWLOX.4ad9d41739263500b90ab83fe0e8161d",
-          "author": null,
-          "description": "...HIGH SURF ADVISORY IN EFFECT FROM 3 PM WEDNESDAY TO 3 PM PST THURSDAY... ...COASTAL FLOOD ADVISORY IN EFFECT FROM 4 AM TO NOON PST THURSDAY... * WHAT...For the High Surf Advisory, large breaking waves of 6 to 8 feet with local max sets to 9 feet. Dangerous rip currents are",
-          "link": "https://alerts.weather.gov/cap/wwacapget.php?x=CA12688475EFF0.HighSurfAdvisory.126884A3DC30CA.LOXCFWLOX.4ad9d41739263500b90ab83fe0e8161d",
-          "publishedOn": "2024-01-08T22:04:00.000Z",
-          "wordCount": 328,
-          "title": "High Surf Advisory issued January 08 at 2:04PM PST until January 11 at 3:00PM PST by NWS",
-          "imageUrl": null
         }
       ]
     },
@@ -968,6 +968,236 @@
       "feedUrl": "https://www.reddit.com/r/VietNam.rss",
       "siteUrl": "https://www.reddit.com/r/VietNam",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1alipcn/whats_the_equivalent_of_ebayonline_second_hand/",
+          "author": null,
+          "description": "Hello hello! I was curious about looking into the second hand market that is used in Vietnam… Mostly interested on smaller items such clothes, dolls, toys. In the USA, we have sites like ebay; mercari, poshmark, craigslist, etc that people use to sell used items. \n In China people use TaoBao/Iddle. \n I really would like if you guys could hook me up with equivalent sites as these but for Vietnam! Please do not recommend sites that are comparable to AMAZON, Target, walmart. Only second hand. Thank you <3\n    submitted by    /u/yayadejuju  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1alipcn/whats_the_equivalent_of_ebayonline_second_hand/",
+          "publishedOn": "2024-02-08T00:41:46.000Z",
+          "wordCount": null,
+          "title": "What’s the equivalent of Ebay(online second hand market place) in VietNam? Read pls",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1ali8yk/is_ph%E1%BB%9F_h%C3%B2a_pasteur_open_during_t%E1%BA%BFt/",
+          "author": null,
+          "description": "submitted by    /u/_throwawayme  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1ali8yk/is_ph%E1%BB%9F_h%C3%B2a_pasteur_open_during_t%E1%BA%BFt/",
+          "publishedOn": "2024-02-08T00:18:52.000Z",
+          "wordCount": null,
+          "title": "Is Phở Hòa Pasteur open during tết?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1alhzy5/cant_login_to_delta_or_att_from_hcmc/",
+          "author": null,
+          "description": "Hello, my bag was shredded on the flight over from the US. See pics.. I need to file a claim with Delta but keep getting a denial message. See other pic. I can access other websites just fine. Anyone have issues like this?\n    submitted by    /u/WatercressAware380  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1alhzy5/cant_login_to_delta_or_att_from_hcmc/",
+          "publishedOn": "2024-02-08T00:07:43.000Z",
+          "wordCount": null,
+          "title": "Can’t login to Delta or ATT from HCMC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1alh3b5/nh%C3%A0_b%E1%BA%A1n_th%C6%B0%E1%BB%9Dng_c%E1%BA%A5m_k%E1%BB%B5_%C4%91i%E1%BB%81u_g%C3%AC_trong_3_ng%C3%A0y_t%E1%BA%BFt_t%E1%BB%AB/",
+          "author": null,
+          "description": "Mình nghe nói không đc đổ rác, quét nhà. Có bạn thì khg đc cắt tóc, khg đc ra ngoài mua đồ v.v. Thế thì nhà bạn có cấm kỵ điều gì ở 3 ngày đầu tết và vì sao lại cấm?\n    submitted by    /u/Technical_Fee7337  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1alh3b5/nh%C3%A0_b%E1%BA%A1n_th%C6%B0%E1%BB%9Dng_c%E1%BA%A5m_k%E1%BB%B5_%C4%91i%E1%BB%81u_g%C3%AC_trong_3_ng%C3%A0y_t%E1%BA%BFt_t%E1%BB%AB/",
+          "publishedOn": "2024-02-07T23:28:36.000Z",
+          "wordCount": null,
+          "title": "Nhà bạn thường cấm kỵ điều gì trong 3 ngày tết? (Từ mùng 1 đến mùng 3)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1algxux/advice_on_visiting_the_ba_na_hills/",
+          "author": null,
+          "description": "Hi guys,\n I'm planning a 2 week trip to visit Vietnam and Cambodia and would appreciate some advice on the Ba Na Hills and surrounding area. Are they worth visiting? Views look great but there doesn't seem to be much else around apart from that French village which looks a bit like a tourist trap. Given we are a bit tight for days, we were thinking about cutting it out. Would be great to have a second opinion :)\n    submitted by    /u/Smooth_Connection  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1algxux/advice_on_visiting_the_ba_na_hills/",
+          "publishedOn": "2024-02-07T23:22:08.000Z",
+          "wordCount": null,
+          "title": "Advice on visiting the Ba Na Hills",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1alespr/new_year_cards/",
+          "author": null,
+          "description": "Hi all - I am an American teacher and I have a couple of Vietnamese exchange students who will be away from home at the new year. I am trying to do something to commemorate the holiday for them since they will be away from home. I found these cards, but I can’t read them. Are they in Vietnamese? Do they have the correct new year message? I want to be thoughtful but not offensive! Thanks for any advice.\n    submitted by    /u/kajo2277  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1alespr/new_year_cards/",
+          "publishedOn": "2024-02-07T21:53:19.000Z",
+          "wordCount": null,
+          "title": "New Year Cards",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1ale27t/travel_plan/",
+          "author": null,
+          "description": "Hi all, \n Myself and my girlfriend (both 24) plan on travelling to Vietnam in July for about 3 weeks. I haven’t done much travelling outside of Europe, but I’ve done my best to come up with a travel plan. I plan on arriving into Hanoi and following the plan below. Any opinions on this? Things I should consider?\n Thanks!\n Plan:\n Zone 1: North \n Hanoi (2/3 days) \n Ha Long Bay (2 days) \n Ninh Binh (1 day) \n (Possible Ha Giang) \n Bus/Train to Hue \n Zone 2: Central \n Hue (Day Trip) \n Da Nang (2/3 days) \n Hoi an (1/2 days) \n Fly Da Nang to Ho Chi Minh City \n Zone 3: South \n Ho Chi Minh City (2 days) \n Mekong River Delta cruise (1 days) \n Fly Ho Chi Minh City to Phu Quoc \n Phu Quoc (3-4 days) \n (Possible Vung Tau or Nha Trang)\n    submitted by    /u/briang0002  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1ale27t/travel_plan/",
+          "publishedOn": "2024-02-07T21:22:41.000Z",
+          "wordCount": null,
+          "title": "Travel Plan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1ale0ov/_/",
+          "author": null,
+          "description": "submitted by    /u/CauliflowerMotor1774  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1ale0ov/_/",
+          "publishedOn": "2024-02-07T21:20:54.000Z",
+          "wordCount": null,
+          "title": ":)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aldo84/staying_nearer_to_halong_bay_before_2_night_cruise/",
+          "author": null,
+          "description": "Hi\n In April my boyfriend and I are travelling around Vietnam (specifically, south to north). We are planning on going to Halong Bay towards the end. We will be doing HCMC, Hoi An, Hue, then I was initially thinking Hanoi for 1 night in order to get the transfer to Halong for the cruise. Then after the cruise, three nights in Hanoi to further explore properly before flying home. But the transfer to Halong from hanoi seems quite long, and as we will be returning after the cruise anyway, would it make more sense to stay nearer Halong Bay port for the night before the cruise? That way we only have to do one leg of the three hour transfer (way home). Can't find a lot of into about this, what part of halong city area or nearby is best to stay? even a 30 min transfer is better than 3 hours. \n Thanks\n ​\n    submitted by    /u/Flutterbyx303  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aldo84/staying_nearer_to_halong_bay_before_2_night_cruise/",
+          "publishedOn": "2024-02-07T21:06:27.000Z",
+          "wordCount": null,
+          "title": "Staying nearer to Halong Bay before 2 night cruise?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aldle9/looking_for_a_good_travel_agency_in_saigon/",
+          "author": null,
+          "description": "Hi. My parents want to visit Central Vietnam this March. Does anyone have recommendations for a good travel agency in saigon? (Friendly staff, great service, and reasonable price). Thank you in advance!\n    submitted by    /u/PinkPiggyPrincess  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aldle9/looking_for_a_good_travel_agency_in_saigon/",
+          "publishedOn": "2024-02-07T21:03:21.000Z",
+          "wordCount": null,
+          "title": "Looking for a good travel agency in saigon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1ald060/questions_about_the_building_of_electrical/",
+          "author": null,
+          "description": "So I was hanging out with my father earlier today and one of the MANY topic ( I really suspect he have some kind of untested ADHD) that he talk about was how they got access to stable flow of power in the 80s and some of the highlights of that conversation for me was that:\n  \nThe Ha Binh Dam was producing so much Energy that it was, for the time, much more economical and faster to build power line to connect it to the south than it is to build a new Dam.\n Most of the construction was done by manual labors with minimal heavy machinery like mixing concrete and pulling the cable by hands. 3.The original plan was to sell the excess power to China, take the payment and give it to the Soviet and then the Soviet will build a new Dam in a 5 years time frame (so ridiculously convoluted to me but idk).\n  \nSo what I looking for are verification on those claim and maybe some sources for deeper research on my part. Thanks in advance to anyone who have the time for this weird question of mine lol.\n    submitted by    /u/ISleepyBI  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1ald060/questions_about_the_building_of_electrical/",
+          "publishedOn": "2024-02-07T20:38:36.000Z",
+          "wordCount": null,
+          "title": "Questions about the building of Electrical Infrastructures in the south after the Unification.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1al8d6x/to_all_the_landowners_in_vietnam_you_gotta_hold/",
+          "author": null,
+          "description": "The data can surely be cooked, but I have got some offers for my properties recently, which is not expected since I have never made an attempt of lowering the selling price.\n It's really funny when they even said the property market and prices in Vietnam are VERY ATTRACTIVE 😂😂😂\n    submitted by    /u/Ehrenmann_01  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1al8d6x/to_all_the_landowners_in_vietnam_you_gotta_hold/",
+          "publishedOn": "2024-02-07T17:27:27.000Z",
+          "wordCount": null,
+          "title": "To all the landowners in Vietnam: You gotta hold your asset tight, 'cause foreign speculators are coming and raising the price to a new level high!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1al87yc/if_my_memory_serves_me_right_is_valentine_day/",
+          "author": null,
+          "description": "submitted by    /u/Chal298  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1al87yc/if_my_memory_serves_me_right_is_valentine_day/",
+          "publishedOn": "2024-02-07T17:21:34.000Z",
+          "wordCount": null,
+          "title": "If my memory serves me right is Valentine day will be on the 5th day of the lunar calender. Have you prepared yet?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1al7hge/seeking_insights_advice_regarding_an_educational/",
+          "author": null,
+          "description": "Hi Reddit! I'm a Singapore-based entrepreneur, specialising in educational training centres. I have a tuition / educational training centre in Singapore, specialising in English, Math, Science, and Chinese for those below 18. \n Our company plans to expand into Vietnam (specifically, in HCMC and Hanoi) by finding franchisees, and I'm hoping to get some on-the-ground thoughts regarding the idea!\n More specifically, I'd love to know if anyone has tips/leads regarding the following:\n  \nIf anyone has heard of any successful multi-brand franchisees (or companies that own multiple franchisees) that have some experience in the education industry\n \nAvenues to find more potential franchise partners \n \nGeneral advice from anyone who has set up a franchise of any industry in Vietnam before \n \nPersonal connections who may be interested in such franchise ventures\n \n ​\n Thank you!\n    submitted by    /u/unfortunate_muffun  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1al7hge/seeking_insights_advice_regarding_an_educational/",
+          "publishedOn": "2024-02-07T16:51:39.000Z",
+          "wordCount": null,
+          "title": "Seeking Insights & Advice Regarding an Educational Franchise Expansion in Vietnam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1al5fz9/tet_in_europe_is_it_necessary_to_give_paper_money/",
+          "author": null,
+          "description": "Hello beautiful people,\n Vietnamese friends in Europe invited me to celebrate Tet with them and I want to give out some Li Xi money especially to the children which there will be plenty of :)\n Our smallest banknote is 5€, equivalent to about 130K VND. My question is, is it okay to give coins in the envelope (1€-2€), or would that be considered rude or offensive? \n Any Vietnamese people in Europe who can help me with this question?\n    submitted by    /u/Flussschlauch  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1al5fz9/tet_in_europe_is_it_necessary_to_give_paper_money/",
+          "publishedOn": "2024-02-07T15:25:21.000Z",
+          "wordCount": null,
+          "title": "Tet in Europe: Is it necessary to give paper money when giving Li Xi?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1akz2iy/vietnamese_brainrot/",
+          "author": null,
+          "description": "submitted by    /u/Belrog-Plutius2  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1akz2iy/vietnamese_brainrot/",
+          "publishedOn": "2024-02-07T09:23:56.000Z",
+          "wordCount": null,
+          "title": "Vietnamese Brainrot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aky4ac/the_happiness_a_n%C3%B3n_l%C3%A1_could_bring/",
+          "author": null,
+          "description": "submitted by    /u/Lady-Chi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aky4ac/the_happiness_a_n%C3%B3n_l%C3%A1_could_bring/",
+          "publishedOn": "2024-02-07T08:13:09.000Z",
+          "wordCount": null,
+          "title": "The happiness a nón lá could bring 🥰",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1akxvyt/have_you_guys_read_the_fairy_tale_t%E1%BA%A5m_c%C3%A1m/",
+          "author": null,
+          "description": "My teacher said that at the end of the story, Tam did not forgive Cam and Cam's mother because they killed her many times, so when Cam asked why Tam's skin was so white and beautiful, Tam said she bathed in boiling water and seduced Tam into a hole. After Cam crawled in, Tam immediately poured boiling water on Cam, causing severe burns and death. After that, Tam ordered people in the palace to make Cam become fish sauce and Tam gave that fish sauce to Cam's mother. Cam's mother found it was delicious so she asked Tam how to make such delicious fish sauce. Tam replied: This fish sauce is made from Cam's body. Cam's mother was so shocked that she died.\n sorry for bad english\n    submitted by    /u/nawhhhhhh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1akxvyt/have_you_guys_read_the_fairy_tale_t%E1%BA%A5m_c%C3%A1m/",
+          "publishedOn": "2024-02-07T07:56:20.000Z",
+          "wordCount": null,
+          "title": "Have you guys read the fairy tale Tấm Cám?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1akwatn/tet_101_for_foreigners_living_in_vietnan/",
+          "author": null,
+          "description": "I see many asking about Tet (Lunar New Year - LNY). So i am writing this for foreigners to know the culture and participate if you want to.\n Similarly to Christmas in the west, Tet is the coming-home, and loving and celebration holidays for Vietnamese. It's the occasion for people to forgive, to care, and to be gerenous. And loud music! 😀\n  \nMost people go to their hometowns during Tet. Not being able to meet the parents during Tet is unfortunate and sad.\n \nBusinesses closed during Tet, except for hotels and some restaurants. People aren't supposed to work during Tet. Restaurants apply 10-30% surcharge during this time, as they have to pay 3x the wages to the workers working during Tet. So if you have to pay 30% more (for food, taxi, services...) than usual price, don't think they rob you…",
+          "link": "https://www.reddit.com/r/VietNam/comments/1akwatn/tet_101_for_foreigners_living_in_vietnan/",
+          "publishedOn": "2024-02-07T06:11:17.000Z",
+          "wordCount": null,
+          "title": "Tet 101 for foreigners living in Vietnan.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1akvb9r/vietnam_experience/",
+          "author": null,
+          "description": "sign says: \"releasing cattle is forbidden\"\n    submitted by    /u/Otherwise_Soil39  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1akvb9r/vietnam_experience/",
+          "publishedOn": "2024-02-07T05:13:58.000Z",
+          "wordCount": null,
+          "title": "Vietnam Experience",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1aktf3w/what_do_you_do_when_observing_the_banh_chung_pot/",
+          "author": null,
+          "description": "(I actually just want to show this cool sword I made)\n    submitted by    /u/Katz_Goredrinkier  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1aktf3w/what_do_you_do_when_observing_the_banh_chung_pot/",
+          "publishedOn": "2024-02-07T03:34:28.000Z",
+          "wordCount": null,
+          "title": "What do you do when observing the banh chung pot?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1akshot/while_fdi_hits_the_highest_record_in_vietnam_fdi/",
+          "author": null,
+          "description": "The picture is from Foreign Investment in China Sinks to Multi-Year Lows - Voronoi (voronoiapp.com). As far as I know, FDI number of 2023 is calculated from Q1 to Q3, there is no data of Q4 yet.\n Happy Lunar New Year.\n https://preview.redd.it/0lqyp4rot2hc1.png?width=721&format=png&auto=webp&s=a1aea40f952da20cd5e32b742e63d38a1574d50a\n    submitted by    /u/truong0vanchien  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1akshot/while_fdi_hits_the_highest_record_in_vietnam_fdi/",
+          "publishedOn": "2024-02-07T02:48:17.000Z",
+          "wordCount": null,
+          "title": "While FDI hits the highest record in Vietnam, FDI of China is the lowest in 2023.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/VietNam/comments/1akr290/hand_drawn_map_of_%C4%91%E1%BA%A1i_nam_during_the_reign_of_t%E1%BB%B1/",
+          "author": null,
+          "description": "submitted by    /u/Exact-Response5029  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/VietNam/comments/1akr290/hand_drawn_map_of_%C4%91%E1%BA%A1i_nam_during_the_reign_of_t%E1%BB%B1/",
+          "publishedOn": "2024-02-07T01:40:00.000Z",
+          "wordCount": null,
+          "title": "Hand drawn map of Đại Nam during the reign of Tự Đức (1858)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/VietNam/comments/1akpeus/importing_tax_for_board_games/",
           "author": null,
@@ -7447,246 +7677,6 @@
           "wordCount": null,
           "title": "Vietnam Airlines Pet Kennel Requirements seem impossible",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/192dnfi/can_anyone_please_tell_me_tue_significance_of/",
-          "author": null,
-          "description": "Looks like a handkerchief put on their nexks.\n    submitted by    /u/washed_by_HIS_blood  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/192dnfi/can_anyone_please_tell_me_tue_significance_of/",
-          "publishedOn": "2024-01-09T12:30:26.000Z",
-          "wordCount": null,
-          "title": "Can anyone please tell me tue significance of this red cloth as part of students’ uniform in Vietnam?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/192dkiq/yes_this_is_an_official_ad_i_literally_have_to/",
-          "author": null,
-          "description": "submitted by    /u/TAta_72  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/192dkiq/yes_this_is_an_official_ad_i_literally_have_to/",
-          "publishedOn": "2024-01-09T12:25:50.000Z",
-          "wordCount": null,
-          "title": "Yes, this is an official ad. I literally have to download a screen recorder app for this",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/192c8bc/extreme_inflation_in_the_uder_world/",
-          "author": null,
-          "description": "submitted by    /u/Oldaccgotshadowban  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/192c8bc/extreme_inflation_in_the_uder_world/",
-          "publishedOn": "2024-01-09T11:03:38.000Z",
-          "wordCount": null,
-          "title": "Extreme inflation in the uder world",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/192c00x/my_mom_was_so_close_to_win_the_lottery_tickets/",
-          "author": null,
-          "description": "submitted by    /u/Suspicious-Wasabi-29  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/192c00x/my_mom_was_so_close_to_win_the_lottery_tickets/",
-          "publishedOn": "2024-01-09T10:49:02.000Z",
-          "wordCount": null,
-          "title": "My mom was so close to win the lottery tickets today. I mean she got all the numbers but just at a different issued place... she bought 8 tickets... and it is so preposterously funny...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/192bb8g/any_expatstravelers_prefer_vietnam_or_thailand/",
-          "author": null,
-          "description": "I always see mix reviews about Vietnam. People go to Hanoi or Saigon and let that dictate their opinion about this place. I think Vietnam just has this natural beauty to it when compared to Thailand. Certain things in Thailand feel forced where as in Vietnam it’s natural. No disrespect to Thailand of course. I enjoy both countries but something about Vietnam just captures me more.\n    submitted by    /u/Anon51110  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/192bb8g/any_expatstravelers_prefer_vietnam_or_thailand/",
-          "publishedOn": "2024-01-09T10:01:44.000Z",
-          "wordCount": null,
-          "title": "Any expats/travelers prefer Vietnam or Thailand",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/192baga/ive_finally_found_it/",
-          "author": null,
-          "description": "submitted by    /u/congtubaclieu  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/192baga/ive_finally_found_it/",
-          "publishedOn": "2024-01-09T10:00:33.000Z",
-          "wordCount": null,
-          "title": "I’ve finally found it…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/192anil/foreigners_shitty_driving/",
-          "author": null,
-          "description": "I need to rant. I hate the way the locals drive. But I'm increasingly seeing foreigners especially whites driving the same way they would NEVER drive back home. \n Was in a Grab today and this guy on his bike kept squeezing to the right side of my grab will riding in between the lane marker, never once using his side mirror. Driver honk him once asking him to go back to his lane. He then moved away and sped. Then after about 300meters , he does the same thing again. \n This time he gave a middle finger to the driver. I wind down my window and I can see he was taken aback that there was someone behind. I shouted at him \"Use your fucking side mirror\". As soon I shouted at him in English, he quickly sped off and dissapear from sight. \n Seems to me that he only dares to drive shitty and show the finger to locals. Doesn't dare to engage when I confront him. If you're in Reddit and seeing this,, fuck you asshole. Drive like how you'd drive in your home country. Use your fucking side mirrors and indicators when trying to switch lanes.\n    submitted by    /u/Outrageous-Front-868  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/192anil/foreigners_shitty_driving/",
-          "publishedOn": "2024-01-09T09:15:42.000Z",
-          "wordCount": null,
-          "title": "Foreigners shitty driving",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/192aaib/is_my_passport_too_damaged_to_enter/",
-          "author": null,
-          "description": "Hello, I'm travelling to Vietnam on the 26th January for 16 days. \n After reading into entry requirements for Vietnam it says a passport cannot be damaged, but it's unclear what the exact definition of damage is. \n Does this passport look too damaged to be accepted? The cover has some evident wear and tear from stickers that have been placed on the back but the chip will work fine and as far as I can tell the ID page is okay except the slightest little crease to the laminate.\n I do have just enough time to get it replaced but it's £155 to get it done so quickly and I am short on money at the moment so ideally would prefer to avoid this option if possible.\n Thank you\n    submitted by    /u/lbeirne99  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/192aaib/is_my_passport_too_damaged_to_enter/",
-          "publishedOn": "2024-01-09T08:49:57.000Z",
-          "wordCount": null,
-          "title": "Is my passport too damaged to enter?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1926dk5/what_are_the_thoughts_of_foreigners_living_in/",
-          "author": null,
-          "description": "In general, most foreigners rate this car very poorly. But I want to know more direct reviews from people living in Vietnam. How do people feel about this car up to now?\n    submitted by    /u/No-Interaction3261  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1926dk5/what_are_the_thoughts_of_foreigners_living_in/",
-          "publishedOn": "2024-01-09T04:47:11.000Z",
-          "wordCount": null,
-          "title": "What are the thoughts of foreigners living in Vietnam or planning to go to Vietnam about Vinfast cars?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/1920dwu/people_dont_let_em_know_your_fetish_hotel_owner/",
-          "author": null,
-          "description": "submitted by    /u/strangesupreme88  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/1920dwu/people_dont_let_em_know_your_fetish_hotel_owner/",
-          "publishedOn": "2024-01-09T00:03:25.000Z",
-          "wordCount": null,
-          "title": "People: \"Don't let 'em know your fetish\". Hotel owner: \"Hmmm\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/191zp9u/going_to_vietnam_for_12_days_help/",
-          "author": null,
-          "description": "We know it's not long at all, but would love to fit in as much as possible. \n We are meeting friends who arrive a couple days after us in Ho Chi Min, so have to stay there for 4 days. Are there any day trips elsewhere that would be recommended? \n We then plan to do:\n 2 days Dalat \n Hoi An \n Da Nang\n Hanoi\n Ha Long Bay \n Then we fly back out of Ho Chi Min to Australia on the 12th day in the evening.\n ​\n Any advice would be appreciated! Thank you :) \n    submitted by    /u/hannahglowe  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/191zp9u/going_to_vietnam_for_12_days_help/",
-          "publishedOn": "2024-01-08T23:34:41.000Z",
-          "wordCount": null,
-          "title": "Going to Vietnam for 12 days - help!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/191z4uu/anyone_use_this_private_car_company_before_hcm/",
-          "author": null,
-          "description": "https://hcmdrivingtour.site/\n Anyone use this private car company before for rides around?\n    submitted by    /u/Murky-Geo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/191z4uu/anyone_use_this_private_car_company_before_hcm/",
-          "publishedOn": "2024-01-08T23:10:44.000Z",
-          "wordCount": null,
-          "title": "Anyone use this private car company before? HCM driving tour",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/191we67/questions_about_traveling_to_ninh_binh_from_hanoi/",
-          "author": null,
-          "description": "Hello everyone. My partner and I are planning to do a day trip to Ninh Binh from Hanoi on 01/31. We want to use the train from Ga Hanoi to Ninh Binh and back. We are from the US so we cannot ride motorbikes in Ninh Binh. Please help us plan this trip with your knowledge and experience.\n  \nShould we buy the round-trip train tickets from Hanoi to Ninh Binh now? Can anyone please share your experience using the train? This is the website we were recommended to use: https://dsvn.vn/#/timkiem/ketqua\n Is Grab available to get around in Ninh Binh? If not, how can we get around? We plan to visit Trang An, Dancing Mountain, and maybe Hoa Lu if possible.\n  \nThank you so much!\n    submitted by    /u/kttrxn  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/191we67/questions_about_traveling_to_ninh_binh_from_hanoi/",
-          "publishedOn": "2024-01-08T21:20:27.000Z",
-          "wordCount": null,
-          "title": "Questions about traveling to Ninh Binh from Hanoi by train and how to get around",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/191v7lf/danang_airport_enter_with_drone/",
-          "author": null,
-          "description": "Hey guys,\n i already searching for days now but don’t find a final answer…\n I plan to fly from Bangkok to DaNang airport and have my DJI-Mini drone with me. I saw some posts about problems with confections in this cases. Does anyone have some actual experiences/informations with this?\n Are domestic flights also a problem? Maybe I can stay one night in Saigon before to avoid this struggles…\n Thanks in advance for your support!\n    submitted by    /u/Chemical_Material314  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/191v7lf/danang_airport_enter_with_drone/",
-          "publishedOn": "2024-01-08T20:33:10.000Z",
-          "wordCount": null,
-          "title": "DaNang Airport - Enter with drone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/191slwg/c%C3%B3_ai_s%E1%BB%A3_ng%C6%B0%E1%BB%9Di_th%C3%A2n_m%E1%BA%A5t_v%C3%A0_n%C3%B3_%C4%91%C3%A3_di%E1%BB%85n_ra_ko/",
-          "author": null,
-          "description": "Mình luôn sợ những cuộc đt lúc tối. \n Mình luôn sợ người nhà đi làm về muộn.\n Mình sợ người nhà bị tai nan, hay bệnh tật ung thư, người gầy đi rồi mất. \n Ba mẹ càng già đi mình càng sợ. \n Mình tưởng tượng đến cảnh ba, mẹ mất, nằm trong quan tài, đặt trong nhà, kèn đám ma... Mình cũng ko biết lúc đó sẽ thế nào nữa. Mình chỉ muốn trốn đi, mình sợ chứng kiến cảnh đó và ở đó lâu... \n Lập gđ mình cũng sợ chứng kiến cái chết của vợ chồng con cái... \n Nhà đã neo người, mình đã ít mqh xã hội. Khi người thân, ba mẹ mất. Sẽ thấy cô độc tận cùng. Nhà sẽ trống vắng đi. Cảm giác ko có chỗ dựa. Ko có cảm giác an toàn.\n Sợ ở một mình cũng phải mạnh mẽ mà đối diện khi trong người đầy sợ hãi... \n    submitted by    /u/Fluid-Policy-5112  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/191slwg/c%C3%B3_ai_s%E1%BB%A3_ng%C6%B0%E1%BB%9Di_th%C3%A2n_m%E1%BA%A5t_v%C3%A0_n%C3%B3_%C4%91%C3%A3_di%E1%BB%85n_ra_ko/",
-          "publishedOn": "2024-01-08T18:50:18.000Z",
-          "wordCount": null,
-          "title": "Có ai sợ người thân mất và nó đã diễn ra ko?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/191sk81/life_in_danang/",
-          "author": null,
-          "description": "Hey guys. \n I’ve been living in Saigon for the past 7 years and I’m finally getting tired of the chaos. I’ve been to Danang a few times for travel and it seems like a pretty decent spot to settle down and live a more peaceful life.\n I was wondering if anyone who has lived there could give me some insight on what’s it like and the pros and cons. Or if someone would recommend another city within Vietnam that would be cool too.\n Cheers!\n    submitted by    /u/adbxci  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/191sk81/life_in_danang/",
-          "publishedOn": "2024-01-08T18:48:19.000Z",
-          "wordCount": null,
-          "title": "Life in Danang?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/191rk1l/new_in_da_nang_where_do_i_shop/",
-          "author": null,
-          "description": "Hello everyone! I’m from the UK and I arrived in Da Nang last night and I’m staying for a month in an apartment. Today I tried to go stock up on things like toilet paper, bin bags and some kitchen essentials. I tried two different shops which were described as ‘supermarkets’ on Google maps and I couldn’t find these, even when I asked the employee (using Google translate). Are there specific shops for these things? I also try to track my macros and this is difficult to do when eating out / ordering in so I want to cook some of my meals at home, i haven’t yet found a shop where I can buy chicken, veg and stuff like that. What’s my best bet? Is it markets? If so, can anyone suggest a good one? For reference I’m staying at the edge of the My An area. \n Another thing, I would like to hire a moped to get around the city, can anyone recommend a good hire place for this? I have an international driving licence but not for motorbikes so I need something with a smaller engine, is this available here? Alternatively, how likely am I to get stopped by police when driving around? I’d like to drive myself to hoi an but I don’t want to risk a fine if I get a bigger bike without having a licence for it. I would also like to do the hai van pass but I don’t know if that would be possible on a 50cc as I’ve heard it’s hilly. If you have any other suggestions or tips for me that would be much appreciated! Thanks everyone!\n    submitted by    /u/karolina154  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/191rk1l/new_in_da_nang_where_do_i_shop/",
-          "publishedOn": "2024-01-08T18:07:26.000Z",
-          "wordCount": null,
-          "title": "New in Da Nang, where do I shop?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/191qexq/recovering_in_vietnam_recommendations/",
-          "author": null,
-          "description": "Hello! I really hope you can help recommend me some areas in Vietnam . If you know the country well please read on, I am over coming some health issues and whilst I am healthy generally, I am looking for some sunshine and peace to see me through this rough patch before coming back to the uk in six months . I would need access to shops and restaurants still and phamacies. I do want to be close to the sea as I find the ocean healing. I don’t want party areas really but still need some civilisation. I’d like to have affordable accommodation for a couple months at least to get my bearings. Thanks so much all!!!\n    submitted by    /u/skyfishrain  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/191qexq/recovering_in_vietnam_recommendations/",
-          "publishedOn": "2024-01-08T17:22:32.000Z",
-          "wordCount": null,
-          "title": "Recovering in Vietnam recommendations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/191pbs7/a_historical_2023_for_local_vietnam_films_at_the/",
-          "author": null,
-          "description": "submitted by    /u/PKotzathanasis  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/191pbs7/a_historical_2023_for_local_vietnam_films_at_the/",
-          "publishedOn": "2024-01-08T16:37:20.000Z",
-          "wordCount": null,
-          "title": "A Historical 2023 for Local #vietnam Films at the Domestic Box Office https://asianmoviepulse.com/2023/12/a-historical-2023-for-local-vietnam-films-at-the-domestic-box-office/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/191o2r1/share_your_most_unique_vietnamese_food_experience/",
-          "author": null,
-          "description": "Hi there,\n I love to find unusual things to eat and restaurants with a unique atmosphere. I am sure that some of you do as well ! I am going in South-East Asia on a backpacking trip starting in Hanoï and I am wondering if some of you have food experiences to share. I am sure it would help a lot of people !\n So far, I have listed : Pho, Egg Coffee, Banh Cuon, Banh Xeo, Steamed Snails, Banh Mi, what else do you have in mind ?\n I was also thinking to create a group to share this knowledge along the path, tell me what you think !\n    submitted by    /u/Alternative-Two-  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/191o2r1/share_your_most_unique_vietnamese_food_experience/",
-          "publishedOn": "2024-01-08T15:44:18.000Z",
-          "wordCount": null,
-          "title": "Share your most unique Vietnamese food experience",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/191o2lh/uncle_ho/",
-          "author": null,
-          "description": "submitted by    /u/FlakyPiglet9573  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/191o2lh/uncle_ho/",
-          "publishedOn": "2024-01-08T15:44:07.000Z",
-          "wordCount": null,
-          "title": "Uncle Ho",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/191nen9/h%C3%A3y_k%E1%BB%83_c%C3%A2u_chuy%E1%BB%87n_c%E1%BB%A7a_b%E1%BA%A1n/",
-          "author": null,
-          "description": "Đâu là thời điểm khiến bạn nhận ra \" oh họ chỉ đang lợi dụng mình \"\n    submitted by    /u/m1nh1en  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/191nen9/h%C3%A3y_k%E1%BB%83_c%C3%A2u_chuy%E1%BB%87n_c%E1%BB%A7a_b%E1%BA%A1n/",
-          "publishedOn": "2024-01-08T15:13:56.000Z",
-          "wordCount": null,
-          "title": "Hãy kể câu chuyện của bạn",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/191lypx/independent_alternative_music_and_art_hoi_an/",
-          "author": null,
-          "description": "Hello is there any good independent artist run galleries in hoi an?\n Or creative spaces *non commercial \n Any good music venues, j hear there is sound system culture here? What about punk and reggae?\n    submitted by    /u/InternationalPlant77  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/191lypx/independent_alternative_music_and_art_hoi_an/",
-          "publishedOn": "2024-01-08T14:05:37.000Z",
-          "wordCount": null,
-          "title": "Independent/ alternative music and art - Hoi an",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/VietNam/comments/191ktim/it_just_never_gets_old/",
-          "author": null,
-          "description": "submitted by    /u/Suspicious-Wasabi-29  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/VietNam/comments/191ktim/it_just_never_gets_old/",
-          "publishedOn": "2024-01-08T13:07:05.000Z",
-          "wordCount": null,
-          "title": "It just never gets old...",
-          "imageUrl": null
         }
       ]
     },
@@ -7695,6 +7685,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/destructuring-in-javascript/",
+          "author": "Sahil Mahapatra",
+          "description": "Destructuring is a powerful JavaScript feature introduced in ES6 (ECMAScript 2015). It makes it easier to extract values from arrays or properties from objects and assign them to variables in a readable way.  Let's delve into how destructuring works and explore various use cases with examples. You can get",
+          "link": "https://www.freecodecamp.org/news/destructuring-in-javascript/",
+          "publishedOn": "2024-02-07T19:31:01.000Z",
+          "wordCount": 1362,
+          "title": "How Destructuring Works in JavaScript – Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-5--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-work-with-usememo-in-react/",
+          "author": "Joan Ayebola",
+          "description": "useMemo is a valuable tool in the React framework, designed to optimize performance by memoizing expensive computations.  With useMemo, React can store the result of a function call and reuse it when the dependencies of that function haven't changed, rather than recalculating the value on every render.  useMemo",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-usememo-in-react/",
+          "publishedOn": "2024-02-07T18:13:41.000Z",
+          "wordCount": 2876,
+          "title": "How to Work with useMemo in React – with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--6-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/career-change-to-code-guide/",
+          "author": "Beau Carnes",
+          "description": "There are many people who want to change careers to become a software developer but don't know what the optimal path is. There are many challenges and uncertainties that accompany such a significant change. We just posted a course on the freeCodeCamp.org YouTube channel that is a guide for those",
+          "link": "https://www.freecodecamp.org/news/career-change-to-code-guide/",
+          "publishedOn": "2024-02-07T17:47:57.000Z",
+          "wordCount": 1050,
+          "title": "Career Change to Code Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/careerchange.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-insertadjacenthtml-method-efficient-dom-manipulation/",
+          "author": "Kamaldeen Lawal",
+          "description": "In JavaScript, developers need to be able to dynamically update a page without replacing the entire content. A traditional method like innerHTML can cause performance issues, because these methods tend to replace the entire content of an element. The insertAdjacentHTML() method leads to better performance because you use it to",
+          "link": "https://www.freecodecamp.org/news/javascript-insertadjacenthtml-method-efficient-dom-manipulation/",
+          "publishedOn": "2024-02-07T16:28:17.000Z",
+          "wordCount": 1589,
+          "title": "How to Use the JavaScript insertAdjacentHTML() method for Efficient DOM Manipulation",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/The-JavaScript-insertAdjacentHTML---Method.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-mbr-works-in-linux/",
+          "author": "Kedar Makode",
+          "description": "Efficient storage management is a crucial aspect of maintaining a well-organized computing environment.  In this detailed guide, we'll explore the features of Master Boot Record (MBR) disk partitioning using the parted command on Linux.  Additionally, we'll cover the process of adding a new hard disk in VMware, as",
+          "link": "https://www.freecodecamp.org/news/how-mbr-works-in-linux/",
+          "publishedOn": "2024-02-07T10:29:26.000Z",
+          "wordCount": 2691,
+          "title": "How Master Boot Record Disk Partitioning Works in Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Frame-1000004568-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/java-project-parking-lot-management-system/",
+          "author": "Kunal Nalawade",
+          "description": "Hello everyone! It's good to be back with another tutorial – this time on Java, one of the most popular programming languages out there today.  Java is used by developers and enterprises to build powerful applications that serve many different purposes. The object-oriented nature of Java makes writing clean,",
+          "link": "https://www.freecodecamp.org/news/java-project-parking-lot-management-system/",
+          "publishedOn": "2024-02-07T00:25:39.000Z",
+          "wordCount": 2967,
+          "title": "Java Project – How to Build a Simple Parking Lot Management System",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/java-article-image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/personal-branding-for-devs-handbook/",
+          "author": "Vahe Aslanyan",
+          "description": "In this handbook, you'll learn how to build your personal brand as a developer to help you make your mark in the tech industry.  With a focus on practicality and professionalism, this guide is designed for developers at all levels, from industry veterans to those just starting their coding",
+          "link": "https://www.freecodecamp.org/news/personal-branding-for-devs-handbook/",
+          "publishedOn": "2024-02-06T23:05:06.000Z",
+          "wordCount": 12991,
+          "title": "Personal Branding for Developers – A Step by Step Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Personal-Branding-for-Developers-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-job-board-scraper-with-python/",
+          "author": "Jess Wilk",
+          "description": "If you want to learn how to navigate the ever-evolving job market by scraping job posting sites like Indeed.com, then this guide is for you.  What is a Job Scraper? In the digital age, tools known as Job Board Scrapers (or just Job Scrapers) have become indispensable for people",
+          "link": "https://www.freecodecamp.org/news/build-a-job-board-scraper-with-python/",
+          "publishedOn": "2024-02-06T22:56:41.000Z",
+          "wordCount": 2538,
+          "title": "How to Build a Job Board Scraper with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/image_2024-02-02_17-21-54.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-csharp-book/",
+          "author": "Gavin Lon",
+          "description": "C# version 1 was released in January 2002. It is a modern, general purpose programming language designed and developed from the ground up by the renowned Danish software engineer, Anders Heijleberg and his team at Microsoft.  I’ve heard Anders Heijlsberg say in an interview that with C# the goal",
+          "link": "https://www.freecodecamp.org/news/learn-csharp-book/",
+          "publishedOn": "2024-02-06T22:35:57.000Z",
+          "wordCount": 25748,
+          "title": "Learn the C# Programming Language – Full Book for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/The-C--Handbook---Version-4-Cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/master-react-by-building-25-projects/",
           "author": "Beau Carnes",
@@ -8814,76 +8894,6 @@
           "wordCount": 7684,
           "title": "How to Make React Apps SEO-Friendly – A Handbook for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/How-to-Make-React-Apps-SEO-Friendly-Cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/serverless-architecture-patterns-and-best-practices/",
-          "author": "Faith Oyama",
-          "description": "Serverless architecture has become a hot topic in the developer world, and for good reason.  It promises a paradigm shift – one where we leave behind the burdens of server management and focus solely on building and deploying code. No more provisioning VMs, patching software, or scaling infrastructure manually.",
-          "link": "https://www.freecodecamp.org/news/serverless-architecture-patterns-and-best-practices/",
-          "publishedOn": "2024-01-09T01:07:58.000Z",
-          "wordCount": 1805,
-          "title": "Serverless Architecture Patterns and Best Practices",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Light-Blue-Futuristic-Technology-Project-Proposal-Presentation.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/work-with-javascript-arrays-objects-with-collect-js/",
-          "author": "Zubair Idris Aweda",
-          "description": "JavaScript arrays are one of the most important data structures in the language, since everything is already an object in JavaScript. They're useful in so many applications, and many other data structures build on top of JavaScript arrays and objects. While the language provides a lot of helpful array and",
-          "link": "https://www.freecodecamp.org/news/work-with-javascript-arrays-objects-with-collect-js/",
-          "publishedOn": "2024-01-08T22:38:20.000Z",
-          "wordCount": 2729,
-          "title": "Collect.js Tutorial – How to Work with JavaScript Arrays and Objects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/zub.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/break-out-elements-from-containers-using-flexbox/",
-          "author": "Kheoh Yee Wei",
-          "description": "When you're building a webpage, sometimes you might want images or other elements to go beyond the boundaries of a container. So in this tutorial, I'll show you a couple ways you can accomplish this. To illustrate a situation when you might find this useful, let's say we are given",
-          "link": "https://www.freecodecamp.org/news/break-out-elements-from-containers-using-flexbox/",
-          "publishedOn": "2024-01-08T18:15:47.000Z",
-          "wordCount": 1835,
-          "title": "How to Use CSS Flexbox to Break Elements Out of Their Containers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pexels-dagmara-dombrovska-19707371.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-to-code-without-being-a-coder/",
-          "author": "Beau Carnes",
-          "description": "Ever dreamt of building your own apps but felt intimidated by the complex world of programming? Or maybe you just want to quickly enhance your coding output? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to write code using AI. Guil Hernandez teaches",
-          "link": "https://www.freecodecamp.org/news/learn-to-code-without-being-a-coder/",
-          "publishedOn": "2024-01-08T18:08:58.000Z",
-          "wordCount": 1090,
-          "title": "How to Code with AI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/codeai1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/memcached-crash-course/",
-          "author": "Beau Carnes",
-          "description": "Memcached is an important technology for back end developers to understand. It is a distributed memory caching system, primarily used to speed up web applications by reducing database load. It stores data in memory, allowing quicker access compared to traditional database-driven methods. We just published a Memcached crash course on",
-          "link": "https://www.freecodecamp.org/news/memcached-crash-course/",
-          "publishedOn": "2024-01-08T18:02:00.000Z",
-          "wordCount": 863,
-          "title": "Memcached Crash Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/memcached.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/manage-users-and-groups-in-rhel/",
-          "author": "Kedar Makode",
-          "description": "To effectively safeguard your system and regulate access when working in Red Hat Enterprise Linux (RHEL), you'll need to understand user and group management.  This is a critical component that's significant for both individual and complex network environments, as it's key to adeptly handle user accounts and groups. In",
-          "link": "https://www.freecodecamp.org/news/manage-users-and-groups-in-rhel/",
-          "publishedOn": "2024-01-08T17:41:44.000Z",
-          "wordCount": 3018,
-          "title": "How to Manage Users and Groups in Red Hat Enterprise Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-1000004564.svg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/gitting-things-done-book/",
-          "author": "Omer Rosenbaum",
-          "description": "Introduction Git is awesome. Most software developers use Git on a daily basis. But how many truly understand Git? Do you feel like you know what's going on under the hood as you use Git to perform various tasks? For example, what happens when you use git commit? What is",
-          "link": "https://www.freecodecamp.org/news/gitting-things-done-book/",
-          "publishedOn": "2024-01-08T17:12:21.000Z",
-          "wordCount": 36500,
-          "title": "Gitting Things Done – A Visual and Practical Guide to Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Gitting-Things-Done-Cover-with-Photo.png"
         }
       ]
     }
